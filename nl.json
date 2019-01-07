@@ -75,7 +75,7 @@
             "account" : {
                 "dropdown" : "account",
                 "account" : "account",
-                "logout" : "uitloggen"
+                "logout" : "log uit"
             },
             "languagePicker" : {
                 "title" : "Kies taal",
