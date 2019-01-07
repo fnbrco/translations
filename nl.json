@@ -1,0 +1,107 @@
+{
+    "name" : "Nederlands",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : true,
+            "dateFormat" : "[month] [date] [year]",
+            "months" : [
+                "Januari",
+                "Februari",
+                "Maart",
+                "April",
+                "Mei",
+                "Juni",
+                "Juli",
+                "Augustus",
+                "September",
+                "Oktober",
+                "November",
+                "December"
+            ],
+            "types" : {
+                "backpack" : "Back Bling",
+                "emote" : "Emote",
+                "glider" : "Glider",
+                "emoji" : "Emoji",
+                "loading" : "Laadscherm",
+                "outfit" : "Outfit",
+                "pickaxe" : "Pickaxe",
+                "skydive" : "Skydiving Trail",
+                "umbrella" : "Paraplu",
+                "spray" : "Spray",
+                "toy" : "Speelgoed",
+                "pet" : "Dier",
+                "music" : "Muziek",
+                "wrap" : "Wikkel",
+                "bundle" : "Bundel",
+                "misc" : "Overig"
+            },
+            "rarity" : {
+                "legendary" : "Legendarisch",
+                "epic" : "Episch",
+                "rare" : "Zeldzaam",
+                "uncommon" : "Ongewoon",
+                "common" : "Gewoon"
+            },
+            "translationNotAvailable" : "Er is geen vertaling beschikbaar voor deze pagina.",
+            "translationIncomplete" : "Niet alle tekst op deze pagina zal worden vertaald."
+        },
+        "nav" : {
+            "home" : "home",
+            "shop" : "winkel",
+            "cosmetics" : {
+                "dropdown" : "cosmetica",
+                "upcoming" : "aankomend",
+                "list" : "lijst",
+                "png" : "png",
+                "gallery" : "galerij",
+                "icons" : "iconen",
+                "reminders" : "herinneringen",
+                "history" : "winkel"
+            },
+            "news" : "nieuws",
+            "modes" : "modes",
+            "randomiser" : "willekeurig",
+            "about" : {
+                "dropdown" : "over",
+                "about" : "over fnbr.co",
+                "privacy" : "privacybeleid",
+                "donate" : "Doneer",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "account",
+                "account" : "account",
+                "logout" : "uitloggen"
+            },
+            "languagePicker" : {
+                "title" : "Kies taal",
+                "currentLanguage" : "Je gebruikt nu [language]."
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Items die eraan komen",
+            "title-all" : "Alle Items",
+            "error" : "We kunnen de items niet ophalen, probeer het later nog eens.",
+            "error-too-long" : "Dit duurt langer dan gedacht"
+        },
+        "shop" : {
+            "title" : "Huidige winkel",
+            "title-featured" : "Aanbevolen",
+            "title-daily" : "Dagelijks",
+            "error" : "Winkel niet beschikbaar, probeer het later nog eens.",
+            "line1" : "De huildige item shop van Fortnite Battle Royale - word dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Je kan de item shop van gisteren [hier] (/shop/yesterday|tooltip=Yesterday's Item Shop) zien.",
+            "line3" : "Klik op een item voor meer informatie.",
+            "countdown" : {
+                "title" : "Nieuwe items:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "uur",
+                "hours-plural" : "uren"
+            }
+        }
+    }
+}
