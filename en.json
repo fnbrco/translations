@@ -78,6 +78,7 @@
                 "logout" : "logout"
             },
             "languagePicker" : {
+                "trigger" : "language",
                 "title" : "Pick language",
                 "currentLanguage" : "You are currently using [language]."
             }
