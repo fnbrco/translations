@@ -1,0 +1,107 @@
+{
+    "name" : "Română",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : false,
+            "dateFormat" : "[date] [month] [year]",
+            "months" : [
+                "Ianuarie",
+                "Februarie",
+                "Martie",
+                "Aprilie",
+                "Mai",
+                "Iunie",
+                "Iulie",
+                "August",
+                "Septembrie",
+                "Octombrie",
+                "Noiembrie",
+                "Decembrie"
+            ],
+            "types" : {
+                "backpack" : "Ghiozdan",
+                "emote" : "Dans",
+                "glider" : "Parașută",
+                "emoji" : "Emoji",
+                "loading" : "Ecran de incărcare",
+                "outfit" : "Costum",
+                "pickaxe" : "Târnăcop",
+                "skydive" : "Urmă de aer",
+                "umbrella" : "Umbrelă",
+                "spray" : "Spray",
+                "toy" : "Jucărie",
+                "pet" : "Animal de companie",
+                "music" : "Muzică",
+                "wrap" : "Înveliș",
+                "bundle" : "Pachet",
+                "misc" : "Diverse"
+            },
+            "rarity" : {
+                "legendary" : "Legendar",
+                "epic" : "Epic",
+                "rare" : "Rar",
+                "uncommon" : "Neobișnuit",
+                "common" : "Comun"
+            },
+            "translationNotAvailable" : "Din păcate, nu există o traducere pentru această pagină.",
+            "translationIncomplete" : "Nu se va traduce tot textul de pe această pagină!"
+        },
+        "nav" : {
+            "home" : "acasă",
+            "shop" : "magazin",
+            "cosmetics" : {
+                "dropdown" : "cosmetice",
+                "upcoming" : "în curând",
+                "list" : "listă",
+                "png" : "png",
+                "gallery" : "galerie",
+                "icons" : "iconițe",
+                "reminders" : "remindere",
+                "history" : "istoria magazinului"
+            },
+            "news" : "noutati",
+            "modes" : "moduri",
+            "randomiser" : "randomizator",
+            "about" : {
+                "dropdown" : "despre",
+                "about" : "despre fnbr.co",
+                "privacy" : "politică de confidențialitate",
+                "donate" : "Doneaza",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "cont",
+                "account" : "cont",
+                "logout" : "deconectare"
+            },
+            "languagePicker" : {
+                "title" : "Alege limba",
+                "currentLanguage" : "Momentan folosesti limba [language]."
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Obiecte viitoare",
+            "title-all" : "Toate obiectele",
+            "error" : "Nu s-au putut primi obiectele, te rugăm să încerci din nou în câteva momente.",
+            "error-too-long" : "Acțiunea durează mai mult decât ar trebui"
+        },
+        "shop" : {
+            "title" : "Rotația curentă",
+            "title-featured" : "Recomandate",
+            "title-daily" : "Zilnice",
+            "error" : "Magazinul nu este disponibil, te rugăm încearcă din nou în câteva momente",
+            "line1" : "Rotația magazinului curent pentru Fortnite Battle Royale - se actualizează in fiecare zi la ora [00:00 UTC](https://time.is/UTC|tooltip=Current timp în UTC|newtab=true).",
+            "line2" : "Poți vedea magazinul de ieri apăsând [aici](/shop/yesterday|tooltip=Magazinul de ieri).",
+            "line3" : "Apasă pe un cosmetic pentru a vedea mai multe informații despre acesta.",
+            "countdown" : {
+                "title" : "Obiecte noi:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "oră",
+                "hours-plural" : "ore"
+            }
+        }
+    }
+}
