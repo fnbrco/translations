@@ -101,6 +101,87 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "hora",
                 "hours-plural" : "horas"
+            },
+            "upcoming" : {
+            "title" : "Próximos cosméticos",
+            "line1" : "Todos los objetos no lanzados en Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "Lista de cosméticos",
+            "line1" : "Todos los cosméticos disponibles en Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Icono",
+                "name" : "Nombre",
+                "type" : "Tipo",
+                "rarity" : "Rareza",
+                "obtained" : "Obtenido"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Historial de la tienda",
+                "line1" : "Aquí están los últimos 8 días de las rotaciones de la tienda de artículos de Fortnite Battle Royale.",
+                "line2" : "Haga clic en uno para ver la tienda completa o desplácese para ver el historial completo de la tienda de artículos por día."
+            },
+            "view" : {
+                "title" : "Rotación de la Tienda",
+                "line1" : "Esta es la rotación de la tienda de artículos de [date] de Fortnite Battle Royale. ",
+                "line2" : "Haga clic en un cosmético para ver más información al respecto.",
+                "today-button" : "Tienda de artículos de hoy"
+            }
+        },
+        "news" : {
+            "title" : "Noticias",
+            "line1" : "La feed de noticias actual de Epic Games. Actualizado cada 2 minutos."
+        },
+        "randomiser" : {
+            "title" : "Randomizador",
+            "line1" : "Elige un traje al azar de entre todos los artículos disponibles.",
+            "chooseText" : "Haga clic para elegir",
+            "randomise-all" : "Aleatorizar Todos"
+        },
+        "account" : {
+            "oauth" : {
+                "title" : "Iniciar sesión en fnbr.co",
+                "discord-button" : "Iniciar sesión con Discord",
+                "legacy-text" : "Alternativamente, si tiene una cuenta heredada de 2018 que necesita migrar:",
+                "twitter-button" : "Iniciar sesión con Twitter",
+                "privacy-text" : "Al iniciar sesión, usted acepta que almacenemos los datos asociados con su cuenta tal y como se establece en nuestra [política de privacidad](/privacy)."
+            },
+            "username" : {
+                "title" : "Bienvenido a fnbr.co",
+                "line1" : "Estás conectado con Discord, para interactuar con otros en nuestro sitio necesitamos que elijas un nombre de usuario",
+                "nameTaken" : "Su nombre de usuario [attemptedName] es tomado por otro usuario, hemos añadido su discriminador de Discord y le sugerimos que lo use.",
+                "randomName" : "Su nombre de usuario [attemptedName] es tomado por otro usuario, no pudimos crear un nombre único usando su discriminador de Discord.",
+                "form-username" : "Nombre de usuario",
+                "form-criteria" : "Por favor, elija un nombre de usuario entre 2 y 32 caracteres, que pueden contener caracteres alfanuméricos, así como guiones bajos y guiones.",
+                "button-text" : "Configurar mi nombre de usuario"
+            },
+            "locked" : {
+                "title" : "No se puede iniciar sesión",
+                "line1" : "No puede iniciar sesión en fnbr.co porque [su cuenta ha sido bloqueada](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Cuenta migrada",
+                "line1" : "Te conectaste con Twitter como",
+                "line2" : "Sin embargo, esa cuenta ha sido migrada para utilizar el inicio de sesión de Discord."
+            },
+            "notFound" : {
+                "title" : "No se encontró una cuenta",
+                "line1" : "Te conectaste con Twitter como",
+                "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter para fines de migración.",
+                "line3" : "Alternativamente, puede [iniciar sesión con Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Error",
+                "line1" : "O bien el recurso solicitado no existe o no tiene permiso para verlo."
+            },
+            "500" : {
+                "title" : "Uh oh!",
+                "line1" : "Algo salió mal mientras procesaba su solicitud, por favor inténtelo de nuevo más tarde!",
+                "line2" : "Puede intentar iniciar sesión de nuevo [aquí](/oauth)."
             }
         }
     }
