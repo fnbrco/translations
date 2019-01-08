@@ -80,7 +80,7 @@
             "languagePicker" : {
                 "trigger" : "iaith",
                 "title" : "Dewis Iaith",
-                "currentLanguage" : "Ar hyn o bryd rydych chi'n defnyddio [iaith]."
+                "currentLanguage" : "Ar hyn o bryd rydych chi'n defnyddio [language]."
             }
         },
         "home" : {
