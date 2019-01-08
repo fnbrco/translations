@@ -1,5 +1,6 @@
 {
     "name" : "Cymraeg",
+    "name-en" : "Welsh",
     "live" : true,
     "translations" : {
         "meta" : {

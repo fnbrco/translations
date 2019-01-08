@@ -1,5 +1,6 @@
 {
     "name" : "Română",
+    "name-en" : "Romanian",
     "live" : true,
     "translations" : {
         "meta" : {

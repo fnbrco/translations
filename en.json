@@ -134,7 +134,9 @@
         },
         "news" : {
             "title" : "News",
-            "line1" : "The current in-game news feed from Epic Games. Updated every 2 minutes."
+            "line1" : "The current in-game news feed from Epic Games. Updated every minute.",
+            "error" : "We were unable to get the news from Fortnite, we'll try again shortly.",
+            "more-ingame-button" : "Load More"
         },
         "randomiser" : {
             "title" : "Randomiser",

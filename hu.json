@@ -1,5 +1,6 @@
 {
     "name" : "Magyar",
+    "name-en" : "Hungarian",
     "live" : true,
     "translations" : {
         "meta" : {

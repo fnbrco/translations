@@ -1,5 +1,6 @@
 {
     "name" : "Nederlands",
+    "name-en" : "Dutch",
     "live" : true,
     "translations" : {
         "meta" : {

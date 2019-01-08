@@ -1,5 +1,6 @@
 {
     "name" : "Tiếng Việt",
+    "name-en" : "Vietnamese",
     "live" : true,
     "translations" : {
         "meta" : {
