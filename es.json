@@ -101,8 +101,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "hora",
                 "hours-plural" : "horas"
-            },
-            "upcoming" : {
+            }
+        },
+        "upcoming" : {
             "title" : "Próximos cosméticos",
             "line1" : "Todos los objetos no lanzados en Fortnite Battle Royale."
         },
