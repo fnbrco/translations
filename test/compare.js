@@ -33,7 +33,10 @@ console.log('Testing ' + code + '.json\n');
 
 Promise.all([
     new Promise((resolve, reject) => {
-        return parsedLanguage.hasOwnProperty('name') && parsedLanguage.name.length > 1 ? resolve('Name found') : reject('Missing name');
+        return parsedLanguage.hasOwnProperty('name') && parsedLanguage.name.length > 1 ? resolve('Name found - ' + parsedLanguage.name) : reject('Missing name');
+    }),
+    new Promise((resolve, reject) => {
+        return parsedLanguage.hasOwnProperty('name-en') && parsedLanguage['name-en'].length > 1 ? resolve('Name in English found - ' + parsedLanguage['name-en']) : resolve('Missing name in English');
     }),
     new Promise((resolve, reject) => {
         return parsedLanguage.hasOwnProperty('translations') && typeof parsedLanguage.translations == 'object' ? resolve('Found translations object') : reject('Missing translations object');
@@ -50,6 +53,8 @@ Promise.all([
         };
 
         var mismatch = [];
+        var equal = [];
+        var ignoreDuplications = ['translations.meta.dateFormat', 'translations.nav.about.discord', 'translations.nav.about.twitter', 'translations.nav.api', 'translations.shop.countdown.wordyFormat'];
         var compareObjects = function(obj, path) {
             return new Promise((res, rej) => {
                 Object.keys(obj).forEach((key) => {
@@ -58,10 +63,11 @@ Promise.all([
                     if(type == 'undefined') {
                         return rej({path: path + '.' + key, reason: 'source undefined'});
                     } else {
-                        var directType = typeof directFind(parsedLanguage, path + '.' + key);
+                        var directValue = directFind(parsedLanguage, path + '.' + key);
+                        var directType = typeof directValue;
                         if(directType != type) {
                             if(directType == 'undefined' && (path + '.' + key).split('.').length <= 2) {
-                                mismatch.push((path + '.' + key));
+                                mismatch.push(path + '.' + key);
                                 return res();
                             }
 
@@ -69,7 +75,13 @@ Promise.all([
                         } else if(type == 'object') {
                             return compareObjects(obj[key], path + '.' + key).then(() => res()).catch((e) => rej(e));
                         } else {
-                            return typeof directFind(parsedLanguage, path + '.' + key) == 'undefined' ? rej({path: path + '.' + key, reason: 'language undefined'}) : res();
+                            if(directType != 'undefined' && directType != 'object' && directType != 'boolean' && ignoreDuplications.indexOf(path + '.' + key) < 0) {
+                                if(directValue === obj[key]) {
+                                    equal.push(path + '.' + key);
+                                }
+                            }
+
+                            return directType == 'undefined' ? rej({path: path + '.' + key, reason: 'language undefined'}) : res();
                         }
                     }
                 });
@@ -77,7 +89,17 @@ Promise.all([
         };
 
         compareObjects(parsedEnglish.translations, 'translations').then(() => {
-            return resolve('Translations object keys ' + (mismatch.length > 0 ? 'mostly match, failed keys (highest level):\n   * ' + mismatch.join('\n   * ') : 'match'));
+            var str = 'Translations object keys ' + (mismatch.length > 0 ? 'mostly match, failed keys (highest level):' : 'match');
+            if(mismatch.length > 0) {
+                str = str + '\n   * ' + mismatch.join('\n   * ');
+            }
+
+            str = str + '\n - Translations object values ' + (equal.length > 0 ? 'match in some cases' : 'are all unique');
+            if(equal.length > 0) {
+                str = str + '\n   * ' + equal.join('\n   * ');
+            }
+
+            return resolve(str);
         }).catch((err) => reject(err));
     })
 ]).then(function(results) {
