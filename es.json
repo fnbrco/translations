@@ -30,7 +30,7 @@
                 "pickaxe" : "Pico",
                 "skydive" : "Estela",
                 "umbrella" : "Paraguas",
-                "spray" : "Spray",
+                "spray" : "Grafiti",
                 "toy" : "Juguete",
                 "pet" : "Mascota",
                 "music" : "Música",
@@ -106,7 +106,7 @@
         },
         "upcoming" : {
             "title" : "Próximos Cosméticos",
-            "line1" : "Todos los objetos no lanzados en Fortnite Battle Royale."
+            "line1" : "Todos los objetos áun no disponibles en Fortnite Battle Royale."
         },
         "list" : {
             "title" : "Lista de Cosméticos",
@@ -153,11 +153,11 @@
             "username" : {
                 "title" : "Bienvenido a fnbr.co",
                 "line1" : "Estás conectado con Discord, para interactuar con otros en nuestro sitio necesitamos que elijas un nombre de usuario",
-                "nameTaken" : "Su nombre de usuario [attemptedName] es tomado por otro usuario, hemos añadido su discriminador de Discord y le sugerimos que lo use.",
-                "randomName" : "Su nombre de usuario [attemptedName] es tomado por otro usuario, no pudimos crear un nombre único usando su discriminador de Discord.",
+                "nameTaken" : "Su nombre de usuario [attemptedName] esta siendo usado por otro usuario, hemos añadido su discriminador de Discord y le sugerimos que lo use.",
+                "randomName" : "Su nombre de usuario [attemptedName] esta siendo usado por otro usuario, no pudimos crear un nombre único usando su discriminador de Discord.",
                 "form-username" : "Nombre de usuario",
-                "form-criteria" : "Por favor, elija un nombre de usuario entre 2 y 32 caracteres, que pueden contener caracteres alfanuméricos, así como guiones bajos y guiones.",
-                "button-text" : "Configurar mi nombre de usuario"
+                "form-criteria" : "Por favor, elija un nombre de usuario entre 2 y 32 caracteres, que puede contener caracteres alfanuméricos, así como subrayas y guiones.",
+                "button-text" : "Configurar nombre de usuario"
             },
             "locked" : {
                 "title" : "No se puede iniciar sesión",
@@ -166,23 +166,23 @@
             "migrated" : {
                 "title" : "Cuenta migrada",
                 "line1" : "Te conectaste con Twitter como",
-                "line2" : "Sin embargo, esa cuenta ha sido migrada para utilizar el inicio de sesión de Discord."
+                "line2" : "Sin embargo, esa cuenta ha sido migrada para el inicio de sesión de Discord."
             },
             "notFound" : {
                 "title" : "No se encontró una cuenta",
                 "line1" : "Te conectaste con Twitter como",
-                "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter para fines de migración.",
-                "line3" : "Alternativamente, puede [iniciar sesión con Discord](/oauth/discord)."
+                "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter con fines de migración.",
+                "line3" : "Tambien puede [iniciar sesión con Discord](/oauth/discord)."
             }
         },
         "errors" : {
             "404" : {
                 "title" : "Error",
-                "line1" : "O bien el recurso solicitado no existe o no tiene permiso para verlo."
+                "line1" : "O bien el recurso solicitado no existe o no tiene permisos para verlo."
             },
             "500" : {
                 "title" : "Uh oh!",
-                "line1" : "¡Algo salió mal mientras procesaba su solicitud, por favor inténtelo de nuevo más tarde!",
+                "line1" : "¡Algo salió mal mientras se procesaba su solicitud, por favor inténtelo de nuevo más tarde!",
                 "line2" : "Puede intentar iniciar sesión de nuevo [aquí](/oauth)."
             }
         }
