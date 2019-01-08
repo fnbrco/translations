@@ -1,0 +1,189 @@
+{
+    "name" : "Tiếng Việt",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : true,
+            "dateFormat" : "[month] [date] [year]",
+            "months" : [
+                "Tháng Một",
+                "Tháng Hai",
+                "Tháng Ba",
+                "Tháng Tư",
+                "Tháng Năm",
+                "Tháng Sáu",
+                "Tháng Bảy",
+                "Tháng Tám",
+                "Tháng Chín",
+                "Tháng Mười",
+                "Tháng Mười Một",
+                "Tháng Mười Hai"
+            ],
+            "types" : {
+                "backpack" : "Trở lại bling",
+                "emote" : "Biểu hiện cảm xúc",
+                "glider" : "Tàu Lượn",
+                "emoji" : "Emoji",
+                "loading" : "Đang tải màn hình",
+                "outfit" : "Trang Phục",
+                "pickaxe" : "Pickaxe",
+                "skydive" : "Skydiving Trail",
+                "umbrella" : "Cây dù",
+                "spray" : "Xịt nước",
+                "toy" : "Đồ chơi",
+                "pet" : "Vật nuôi",
+                "music" : "Âm nhạc",
+                "wrap" : "Bọc",
+                "bundle" : "Bundle",
+                "misc" : "Misc"
+            },
+            "rarity" : {
+                "legendary" : "Huyền Thoại",
+                "epic" : "Sử Thi",
+                "rare" : "Hiếm Hoi",
+                "uncommon" : "Không Phổ Biến",
+                "common" : "Không Đáng Gía"
+            },
+            "translationNotAvailable" : "Thật không may, không có bản dịch có sẵn cho trang này.",
+            "translationIncomplete" : "Không phải tất cả văn bản trên trang này sẽ được dịch"
+        },
+        "nav" : {
+            "home" : "Nhà",
+            "shop" : "Cửa Tiệm",
+            "cosmetics" : {
+                "dropdown" : "Mỹ Phẩm",
+                "upcoming" : "Sắp Tới",
+                "list" : "Danh Sách",
+                "png" : "png",
+                "gallery" : "Bộ Sưu Tập",
+                "icons" : "Tượng ở Giáo Đường",
+                "reminders" : "Người Nhắc Lại",
+                "history" : "Lịch Sử Cửa Hàng"
+            },
+            "news" : "Tin Tức",
+            "modes" : "Âm Pháp",
+            "randomiser" : "Ngẫu Nhiên",
+            "about" : {
+                "dropdown" : "Trong Khoảng",
+                "about" : "Về fnbr.co",
+                "privacy" : "Chính Sách Bảo Mật",
+                "donate" : "Tặng",
+                "discord" : "Bất Hòa",
+                "twitter" : "Hát Líu Lo"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "tài khoản",
+                "account" : "tài khoản",
+                "logout" : "đăng xuất"
+            },
+            "languagePicker" : {
+                "title" : "Chọn Ngôn Ngữ",
+                "currentLanguage" : "Bạn hiện đang sử dụng [ngôn ngữ]."
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Các Mặt Hàng Sắp Tới",
+            "title-all" : "Tất Cả Món Đồ",
+            "error" : "Không thể truy xuất các mục, vui lòng thử lại sau vài phút.",
+            "error-too-long" : "Việc này mất nhiều thời gian hơn dự kiến"
+        },
+        "shop" : {
+            "title" : "Hiện Tại Vòng Xoay",
+            "title-featured" : "Đặc Sắc",
+            "title-daily" : "Hằng Ngày",
+            "error" : "Cửa hàng không có sẵn, vui lòng thử lại sau vài phút",
+            "line1" : "Vòng quay cửa hàng vật phẩm hiện tại cho Fortnite Battle Royale - cập nhật hàng ngày vào lúc [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Bạn có thể thấy cửa hàng vật phẩm của ngày hôm qua [tại đây](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line3" : "Nhấp vào một mỹ phẩm để xem thêm thông tin về nó.",
+            "countdown" : {
+                "title" : "Mới Mặt Hàng:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "giờ",
+                "hours-plural" : "giờ"
+            }
+        },
+        "upcoming" : {
+            "title" : "Mỹ phẩm sắp tới",
+            "line1" : "Tất cả các vật phẩm chưa được phát hành trong Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "Danh sách mỹ phẩm",
+            "line1" : "Mỗi mỹ phẩm có sẵn trong Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Tượng ở giáo đường",
+                "name" : "Tên",
+                "type" : "Kiểu",
+                "rarity" : "Việc hiếm có",
+                "obtained" : "Obtained"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Mục lịch sử cửa hàng",
+                "line1" : "Dưới đây là 8 ngày cuối cùng của vòng quay cửa hàng vật phẩm cho Fortnite Battle Royale.",
+                "line2" : "Nhấp vào một để xem toàn bộ cửa hàng hoặc cuộn để xem toàn bộ lịch sử cửa hàng theo ngày."
+            },
+            "view" : {
+                "title" : "Xoay vòng cửa hàng",
+                "line1" : "Đây là vòng quay của cửa hàng vật phẩm [ngày] cho Fortnite Battle Royale. ",
+                "line2" : "Nhấp vào một mỹ phẩm để xem thêm thông tin về nó.",
+                "today-button" : "Cửa hàng vật phẩm hôm nay"
+            }
+        },
+        "news" : {
+            "title" : "Tin tức",
+            "line1" : "Nguồn cấp tin tức trong trò chơi hiện tại từ Epic Games. Cập nhật cứ sau 2 phút."
+        },
+        "randomiser" : {
+            "title" : "Ngẫu nhiên",
+            "line1" : "Chọn một bộ trang phục ngẫu nhiên từ mỗi mục có sẵn.",
+            "chooseText" : "Nhấn vào đây để chọn",
+            "randomise-all" : "Ngẫu nhiên tất cả"
+        },
+        "account" : {
+            "oauth" : {
+                "title" : "Đăng nhập vào fnbr.co",
+                "discord-button" : "Đăng nhập với Discord",
+                "legacy-text" : "Ngoài ra, nếu bạn có tài khoản kế thừa từ năm 2018 cần di chuyển:",
+                "twitter-button" : "Đăng nhập bằng Twitter",
+                "privacy-text" : "Bằng cách đăng nhập, bạn đồng ý cho chúng tôi lưu trữ dữ liệu được liên kết với tài khoản của bạn như được quy định trong [chính sách bảo mật] (/privacy) của chúng tôi"
+            },
+            "username" : {
+                "title" : "Chào mừng đến với fnbr.co",
+                "line1" : "Bạn đã đăng nhập bằng Discord, để tương tác với những người khác trên trang web của chúng tôi, chúng tôi cần bạn chọn tên người dùng",
+                "nameTaken" : "Tên người dùng của bạn [attemptedName] được lấy bởi một người dùng khác, chúng tôi đã thêm phân biệt đối xử Discord của bạn vào đó và đề nghị bạn sử dụng nó.",
+                "randomName" : "Tên người dùng của bạn [attemptedName] được lấy bởi một người dùng khác, chúng tôi không thể tạo một tên duy nhất bằng cách sử dụng trình phân biệt đối xử Discord của bạn.",
+                "form-username" : "Tên đăng nhập",
+                "form-criteria" : "Vui lòng chọn tên người dùng từ 2 đến 32 ký tự, có thể chứa các ký tự chữ và số cũng như dấu gạch dưới và dấu gạch nối.",
+                "button-text" : "Đặt tên người dùng của tôi"
+            },
+            "locked" : {
+                "title" : "Không thể đăng nhập",
+                "line1" : "Bạn không thể đăng nhập vào fnbr.co vì [tài khoản của bạn đã bị khóa](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Tài khoản di chuyển",
+                "line1" : "Bạn đã đăng nhập bằng Twitter với tư cách",
+                "line2" : "Tuy nhiên, tài khoản đó đã được di chuyển để sử dụng đăng nhập Discord."
+            },
+            "notFound" : {
+                "title" : "Không có tài khoản nào được tìm thấy",
+                "line1" : "Bạn đã đăng nhập bằng Twitter với tư cách",
+                "line2" : "Tuy nhiên, tài khoản đó chưa bao giờ đăng nhập trước đây và chúng tôi hiện chỉ hỗ trợ đăng nhập Twitter cho mục đích di chuyển.",
+                "line3" : "Ngoài ra, bạn có thể [đăng nhập bằng Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Lỗi",
+                "line1" : "Tài nguyên bạn yêu cầu không tồn tại hoặc bạn không có quyền xem nó."
+            },
+            "500" : {
+                "title" : "Uh oh!",
+                "line1" : "Đã xảy ra lỗi trong khi xử lý yêu cầu của bạn, vui lòng thử lại sau!",
+                "line2" : "Bạn có thể thử đăng nhập lại [tại đây](/oauth)."
+            }
+        }
+    }
+}
