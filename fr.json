@@ -1,0 +1,107 @@
+{
+    "name" : "Français",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : true,
+            "dateFormat" : "[date] [month] [year]",
+            "months" : [
+                "Janvier",
+                "Février",
+                "Mars",
+                "Avril",
+                "Mai",
+                "Juin",
+                "Juillet",
+                "Août",
+                "Septembre",
+                "Octobre",
+                "Novembre",
+                "Décembre"
+            ],
+            "types" : {
+                "backpack" : "Sac à dos",
+                "emote" : "Emote",
+                "glider" : "Planeur",
+                "emoji" : "Emoji",
+                "loading" : "Écran de Chargement",
+                "outfit" : "Tenue",
+                "pickaxe" : "Pioche",
+                "skydive" : "Traînée",
+                "umbrella" : "Parapluie",
+                "spray" : "Aérosol",
+                "toy" : "Jouet",
+                "pet" : "Compagnon",
+                "music" : "Musique",
+                "wrap" : "Revêtement",
+                "bundle" : "Paquet",
+                "misc" : "Autres"
+            },
+            "rarity" : {
+                "legendary" : "Légendaire",
+                "epic" : "Épique",
+                "rare" : "Rare",
+                "uncommon" : "Atypique",
+                "common" : "Typique"
+            },
+            "translationNotAvailable" : "Malheureusement, il n'y a pas de traduction disponible pour cette page.",
+            "translationIncomplete" : "La Traduction de cette page est incomplète."
+        },
+        "nav" : {
+            "home" : "accueil",
+            "shop" : "boutique",
+            "cosmetics" : {
+                "dropdown" : "menu déroulant",
+                "upcoming" : "prochainement",
+                "list" : "liste",
+                "png" : "png",
+                "gallery" : "galerie",
+                "icons" : "icônes",
+                "reminders" : "rappels",
+                "history" : "historique"
+            },
+            "news" : "actualités",
+            "modes" : "modes",
+            "randomiser" : "randomiseur",
+            "about" : {
+                "dropdown" : "menu déroulant",
+                "about" : "à propos de fnbr.co",
+                "privacy" : "politique de confidentialité",
+                "donate" : "Faire un don",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "menu déroulant",
+                "account" : "Compte",
+                "logout" : "Se Déconnecter"
+            },
+            "languagePicker" : {
+                "title" : "Choisissez la langue",
+                "currentLanguage" : "Vous utilisez actuellement le français."
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Objets à venir",
+            "title-all" : "Tous les Objets",
+            "error" : "Impossible de récupérer des éléments, veuillez réessayer dans quelques instants.",
+            "error-too-long" : "Cela prend plus de temps que prévu"
+        },
+        "shop" : {
+            "title" : "Rotation actuelle",
+            "title-featured" : "Objets à la Une",
+            "title-daily" : "Objets du Jour",
+            "error" : "Boutique non disponible, veuillez réessayer dans quelques instants",
+            "line1" : "La rotation actuelle de la boutique d’articles pour Fortnite Battle Royale - mise à jour quotidiennement à [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Vous pouvez voir la boutique d'objets d'hier [ici](/shop/yesterday|tooltip=Magasin d'objets d'hier).",
+            "line3" : "Cliquez sur un cosmétique pour voir plus d'informations à ce sujet.",
+            "countdown" : {
+                "title" : "Nouveaux objets:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "heure",
+                "hours-plural" : "heures"
+            }
+        }
+    }
+}
