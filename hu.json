@@ -1,4 +1,4 @@
-﻿{
+{
     "name" : "Magyar",
     "live" : true,
     "translations" : {
@@ -80,7 +80,7 @@
             "languagePicker" : {
                 "trigger" : "Nyelv",
                 "title" : "Válassz ki egy nyelvet.",
-                "currentLanguage" : "Te most a [Magyar] nyelvet használod."
+                "currentLanguage" : "Te most a [language] nyelvet használod."
             }
         },
         "home" : {
@@ -94,8 +94,8 @@
             "title-featured" : "Kiemelt",
             "title-daily" : "Napi",
             "error" : "A bolt jelenleg nem elérhető, kérjük probálkozzon néhány perc múlva.",
-            "line1" : "A jelenlegi bolt Fortnite Battle Royale-hoz - Minden nap frissül [00:00 UTC]-kor(https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Megtalálható a tegnapi bolt [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line1" : "A jelenlegi bolt Fortnite Battle Royale-hoz - Minden nap frissül [00:00 UTC](https://time.is/UTC|tooltip=Mostani idő az UTC időzónában|newtab=true) -kor.",
+            "line2" : "Megtalálható a tegnapi bolt [itt](/shop/yesterday|tooltip=Tegnapi bolt).",
             "line3" : "Kattints az egyik kinézetre hogy több információt láthass.",
             "countdown" : {
                 "title" : "Új tételek:",
