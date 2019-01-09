@@ -94,8 +94,8 @@
             "title-featured" : "Aanbevolen",
             "title-daily" : "Dagelijks",
             "error" : "Winkel niet beschikbaar, probeer het later nog eens.",
-            "line1" : "De huildige item shop van Fortnite Battle Royale - word dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Je kan de item shop van gisteren [hier](/shop/yesterday|tooltip=Yesterday's Item Shop) zien.",
+            "line1" : "De huidige item shop van Fortnite Battle Royale - dit wordt dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
+            "line2" : "Je kan de item shop van gisteren [hier](/shop/yesterday|tooltip=Item Shop van gisteren) zien.",
             "line3" : "Klik op een item voor meer informatie.",
             "countdown" : {
                 "title" : "Nieuwe items:",
