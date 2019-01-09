@@ -1,0 +1,77 @@
+{
+    "_notice" : "Temporary static file until it is auto generated on deploy",
+    "languages" : [
+        {
+            "name": "English",
+            "code": "en",
+            "flag": "gb",
+            "live": true
+        },
+        {
+            "name": "Español",
+            "code": "es",
+            "flag": "es",
+            "live": true,
+            "authors" : ["DeValladolid", "daaanz", "Doolrex"]
+        },
+        {
+            "name": "Português",
+            "code": "pt",
+            "flag": "pt",
+            "live": false
+        },
+        {
+            "name": "Français",
+            "code": "fr",
+            "flag": "fr",
+            "live": true
+        },
+        {
+            "name": "Nederlands",
+            "code": "nl",
+            "flag": "nl",
+            "live": true,
+            "authors" : ["Joachiem"]
+        },
+        {
+            "name": "Italiano",
+            "code": "it",
+            "flag": "it",
+            "live": true,
+            "authors" : ["bhz-ema"]
+        },
+        {
+            "name": "Deutsche",
+            "code": "de",
+            "flag": "de",
+            "live": false
+        },
+        {
+            "name": "Română",
+            "code": "ro",
+            "flag": "ro",
+            "live": true,
+            "authors" : ["AlexT2"]
+        },
+        {
+            "name": "Tiếng Việt",
+            "code": "vi",
+            "flag": "vn",
+            "live": true,
+            "authors" : ["Fallenthetaco"]
+        },
+        {
+            "name": "Magyar",
+            "code": "hu",
+            "flag": "hu",
+            "live": true
+        },
+        {
+            "name": "Cymraeg",
+            "code": "cy",
+            "flag": "gb-wls",
+            "live": true,
+            "authors" : ["hiitsdan"]
+        }
+    ]
+}

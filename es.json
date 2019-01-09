@@ -1,5 +1,6 @@
 {
     "name" : "Español",
+    "name-en" : "Spanish",
     "live" : true,
     "translations" : {
         "meta" : {
@@ -20,22 +21,22 @@
                 "Diciembre"
             ],
             "types" : {
-                "backpack" : "accesorio mochilero",
-                "emote" : "gesto",
-                "glider" : "ala Delta",
-                "emoji" : "emoji",
-                "loading" : "pantalla de carga",
-                "outfit" : "traje",
-                "pickaxe" : "pico",
-                "skydive" : "estela",
-                "umbrella" : "paraguas",
-                "spray" : "spray",
-                "toy" : "juguete",
-                "pet" : "mascota",
-                "music" : "música",
-                "wrap" : "envoltorio",
-                "bundle" : "conjunto",
-                "misc" : "misceláneo"
+                "backpack" : "Accesorio Mochilero",
+                "emote" : "Gesto",
+                "glider" : "Ala Delta",
+                "emoji" : "Emoticono",
+                "loading" : "Pantalla de Carga",
+                "outfit" : "Traje",
+                "pickaxe" : "Herramienta de Recolección",
+                "skydive" : "Estela",
+                "umbrella" : "Paraguas",
+                "spray" : "Grafiti",
+                "toy" : "Juguete",
+                "pet" : "Mascota",
+                "music" : "Música",
+                "wrap" : "Envoltorio",
+                "bundle" : "Conjunto",
+                "misc" : "Misceláneo"
             },
             "rarity" : {
                 "legendary" : "Legendario",
@@ -79,12 +80,12 @@
             },
             "languagePicker" : {
                 "title" : "Seleccionar idioma",
-                "currentLanguage" : "Actualmente estas usando [language]."
+                "currentLanguage" : "Actualmente estás usando [language]."
             }
         },
         "home" : {
-            "title-upcoming" : "Próximos objetos",
-            "title-all" : "Todos los objetos",
+            "title-upcoming" : "Próximos Objetos",
+            "title-all" : "Todos los Objetos",
             "error" : "Si no puede recuperar los artículos, por favor inténtelo de nuevo en unos momentos.",
             "error-too-long" : "Esto está llevando más tiempo del esperado"
         },
@@ -93,8 +94,8 @@
             "title-featured" : "Destacado",
             "title-daily" : "Diario",
             "error" : "La tienda no está disponible, por favor inténtelo de nuevo en unos momentos.",
-            "line1" : "La rotación actual de la tienda de artículos para Fortnite Battle Royale - se actualiza diariamente a las [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Puedes ver la tienda de artículos de ayer [aquí](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line1" : "La rotación actual de la tienda de objetos para Fortnite Battle Royale - se actualiza diariamente a las [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Puedes ver la tienda de objetos de ayer [aquí](/shop/yesterday|tooltip=Yesterday's Item Shop).",
             "line3" : "Haga clic en un cosmético para ver más información al respecto.",
             "countdown" : {
                 "title" : "Nuevos objetos:",
@@ -104,11 +105,11 @@
             }
         },
         "upcoming" : {
-            "title" : "Próximos cosméticos",
-            "line1" : "Todos los objetos no lanzados en Fortnite Battle Royale."
+            "title" : "Próximos Cosméticos",
+            "line1" : "Todos los objetos áun no disponibles en Fortnite Battle Royale."
         },
         "list" : {
-            "title" : "Lista de cosméticos",
+            "title" : "Lista de Cosméticos",
             "line1" : "Todos los cosméticos disponibles en Fortnite Battle Royale.",
             "table" : {
                 "icon" : "Icono",
@@ -126,9 +127,9 @@
             },
             "view" : {
                 "title" : "Rotación de la Tienda",
-                "line1" : "Esta es la rotación de la tienda de artículos de [date] de Fortnite Battle Royale. ",
+                "line1" : "Esta es la rotación de la Tienda de Objetos de [date] de Fortnite Battle Royale. ",
                 "line2" : "Haga clic en un cosmético para ver más información al respecto.",
-                "today-button" : "Tienda de artículos de hoy"
+                "today-button" : "Tienda de Objetos de hoy"
             }
         },
         "news" : {
@@ -152,11 +153,11 @@
             "username" : {
                 "title" : "Bienvenido a fnbr.co",
                 "line1" : "Estás conectado con Discord, para interactuar con otros en nuestro sitio necesitamos que elijas un nombre de usuario",
-                "nameTaken" : "Su nombre de usuario [attemptedName] es tomado por otro usuario, hemos añadido su discriminador de Discord y le sugerimos que lo use.",
-                "randomName" : "Su nombre de usuario [attemptedName] es tomado por otro usuario, no pudimos crear un nombre único usando su discriminador de Discord.",
+                "nameTaken" : "Su nombre de usuario [attemptedName] esta siendo usado por otro usuario, hemos añadido su discriminador de Discord y le sugerimos que lo use.",
+                "randomName" : "Su nombre de usuario [attemptedName] esta siendo usado por otro usuario, no pudimos crear un nombre único usando su discriminador de Discord.",
                 "form-username" : "Nombre de usuario",
-                "form-criteria" : "Por favor, elija un nombre de usuario entre 2 y 32 caracteres, que pueden contener caracteres alfanuméricos, así como guiones bajos y guiones.",
-                "button-text" : "Configurar mi nombre de usuario"
+                "form-criteria" : "Por favor, elija un nombre de usuario entre 2 y 32 caracteres, que puede contener caracteres alfanuméricos, así como subrayas y guiones.",
+                "button-text" : "Configurar nombre de usuario"
             },
             "locked" : {
                 "title" : "No se puede iniciar sesión",
@@ -165,23 +166,23 @@
             "migrated" : {
                 "title" : "Cuenta migrada",
                 "line1" : "Te conectaste con Twitter como",
-                "line2" : "Sin embargo, esa cuenta ha sido migrada para utilizar el inicio de sesión de Discord."
+                "line2" : "Sin embargo, esa cuenta ha sido migrada para el inicio de sesión de Discord."
             },
             "notFound" : {
                 "title" : "No se encontró una cuenta",
                 "line1" : "Te conectaste con Twitter como",
-                "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter para fines de migración.",
-                "line3" : "Alternativamente, puede [iniciar sesión con Discord](/oauth/discord)."
+                "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter con fines de migración.",
+                "line3" : "Tambien puede [iniciar sesión con Discord](/oauth/discord)."
             }
         },
         "errors" : {
             "404" : {
                 "title" : "Error",
-                "line1" : "O bien el recurso solicitado no existe o no tiene permiso para verlo."
+                "line1" : "O bien el recurso solicitado no existe o no tiene permisos para verlo."
             },
             "500" : {
                 "title" : "Uh oh!",
-                "line1" : "Algo salió mal mientras procesaba su solicitud, por favor inténtelo de nuevo más tarde!",
+                "line1" : "¡Algo salió mal mientras se procesaba su solicitud, por favor inténtelo de nuevo más tarde!",
                 "line2" : "Puede intentar iniciar sesión de nuevo [aquí](/oauth)."
             }
         }

@@ -1,0 +1,191 @@
+{
+    "name" : "Cymraeg",
+    "name-en" : "Welsh",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : true,
+            "dateFormat" : "[month] [date] [year]",
+            "months" : [
+                "Ionawr",
+                "Chwefror",
+                "Mawrth",
+                "Ebrill",
+                "Mai",
+                "Mehefin",
+                "Gorffennaf",
+                "Awst",
+                "Medi",
+                "Hydref",
+                "Tachwedd",
+                "Rhagfyr"
+            ],
+            "types" : {
+                "backpack" : "Bling Cefn",
+                "emote" : "Emote",
+                "glider" : "Gleider",
+                "emoji" : "Emoji",
+                "loading" : "Llwytho Sgrin",
+                "outfit" : "Gwisg",
+                "pickaxe" : "Pickaxe",
+                "skydive" : "Llwybr Plymio",
+                "umbrella" : "Ymbarél",
+                "spray" : "Chwistrell",
+                "toy" : "Tegan",
+                "pet" : "Anifail Anwes",
+                "music" : "Cerddoriaeth",
+                "wrap" : "Lapio",
+                "bundle" : "Bwndel",
+                "misc" : "Misc"
+            },
+            "rarity" : {
+                "legendary" : "Chwedlonol",
+                "epic" : "Epig",
+                "rare" : "Prin",
+                "uncommon" : "Anghyffredin",
+                "common" : "Cyffredin"
+            },
+            "translationNotAvailable" : "Unfortunately there is no translation available for this page.",
+            "translationIncomplete" : "Not all text on this page will be translated"
+        },
+        "nav" : {
+            "home" : "cartref",
+            "shop" : "siop",
+            "cosmetics" : {
+                "dropdown" : "colur",
+                "upcoming" : "sydd i ddod",
+                "list" : "rhestr",
+                "png" : "png",
+                "gallery" : "galeri",
+                "icons" : "eiconau",
+                "reminders" : "atgoffa",
+                "history" : "hanes y siop"
+            },
+            "news" : "newyddion",
+            "modes" : "dulliau",
+            "randomiser" : "ar hap",
+            "about" : {
+                "dropdown" : "am",
+                "about" : "am fnbr.co",
+                "privacy" : "polisi preifatrwydd",
+                "donate" : "Rhoddwch",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "cyfrif",
+                "account" : "cyfrif",
+                "logout" : "allgofnodi"
+            },
+            "languagePicker" : {
+                "trigger" : "iaith",
+                "title" : "Dewis Iaith",
+                "currentLanguage" : "Ar hyn o bryd rydych chi'n defnyddio [language]."
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Eitemau sydd i ddod",
+            "title-all" : "Pob eitem",
+            "error" : "Methu adennill eitemau, ceisiwch eto mewn ychydig funudau.",
+            "error-too-long" : "Mae hyn yn cymryd mwy amser na'r disgwyl"
+        },
+        "shop" : {
+            "title" : "Cylchdroi Presennol",
+            "title-featured" : "Yn Ymddangos",
+            "title-daily" : "Bob Dydd",
+            "error" : "Siop ddim ar gael, ceisiwch eto mewn ychydig funudau",
+            "line1" : "Cylchdroi eitemau cyfredol ar gyfer Fortnite Battle Royale - yn diweddaru bob dydd yn [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Gallwch weld siop eitem ddoe [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line3" : "Cliciwch ar gosmetig i weld mwy o wybodaeth amdano.",
+            "countdown" : {
+                "title" : "Eitemau Newydd:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "Awr",
+                "hours-plural" : "Oriau"
+            }
+        },
+        "upcoming" : {
+            "title" : "Colur sydd i ddod",
+            "line1" : "Pob eitem heb ei hadeiladu yn Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "Colur rhestr",
+            "line1" : "Pob cosmetig ar gael yn Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Eicon",
+                "name" : "Enw",
+                "type" : "Math",
+                "rarity" : "Prin",
+                "obtained" : "a gafwyd"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Hanes Siop Eitem",
+                "line1" : "Dyma wyth diwrnod olaf cylchdroi eitemau ar gyfer Fortnite Battle Royale.",
+                "line2" : "Cliciwch ar un i weld y siop lawn neu sgroliwch i weld hanes eitem llawn bob dydd."
+            },
+            "view" : {
+                "title" : "Cylchdroi siopau",
+                "line1" : "Hwn yw cylchdroi siop eitemau [date] i Fortnite Battle Royale. ",
+                "line2" : "Cliciwch ar gosmetig i weld mwy o wybodaeth amdano.",
+                "today-button" : "Siop eitemau heddiw"
+            }
+        },
+        "news" : {
+            "title" : "Newyddion",
+            "line1" : "Y porthiant newyddion mewn gêm newydd o Gemau Epig. Wedi'i ddiweddaru bob dau funud."
+        },
+        "randomiser" : {
+            "title" : "Ar hap",
+            "line1" : "Dewiswch wisg ar hap o bob eitem sydd ar gael.",
+            "chooseText" : "Cliciwch i ddewis",
+            "randomise-all" : "Arlywydd pob un"
+        },
+        "account" : {
+            "oauth" : {
+                "title" : "Mewngofnodi i fnbr.co",
+                "discord-button" : "Mewngofnodi gyda Discord",
+                "legacy-text" : "Fel arall, os oes gennych gyfrif etifeddiaeth o 2018 sydd angen mudo:",
+                "twitter-button" : "Mewngofnodi gyda Twitter",
+                "privacy-text" : "Drwy logio i mewn, rydych chi'n cytuno i ni storio data sy'n gysylltiedig â'ch cyfrif fel y nodir yn ein [privacy policy](/privacy)."
+            },
+            "username" : {
+                "title" : "Croeso i fnbr.co",
+                "line1" : "Rydych chi wedi mewngofnodi gyda Discord, i ryngweithio ag eraill ar ein gwefan mae angen i chi ddewis enw defnyddiwr",
+                "nameTaken" : "Eich enw defnyddiwr [attemptedName] yn cael ei gymryd gan ddefnyddiwr arall, rydym wedi ychwanegu eich Discord gwahaniaethu iddi ac awgrymu eich bod chi'n defnyddio hynny.",
+                "randomName" : "Eich enw defnyddiwr [attemptedName] yn cael ei gymryd gan ddefnyddiwr arall, allwn ni ddim wneud enw unigryw gan ddefnyddio eich discriminydd Discord.",
+                "form-username" : "Enw Defnyddiwr",
+                "form-criteria" : "Dewiswch enw defnyddiwr rhwng 2 a 32 o gymeriadau, a allai gynnwys cymeriadau alffumwmerig yn ogystal â thannodau a chysylltiadau.",
+                "button-text" : "Gosod fy enw defnyddiwr"
+            },
+            "locked" : {
+                "title" : "Methu mewngofnodi",
+                "line1" : "Ni allwch fewngofnodi i fnbr.co achos [your account has been locked](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Mud cyfrif",
+                "line1" : "Rydych wedi mewngofnodi gyda Twitter fel",
+                "line2" : "Fodd bynnag, mae'r cyfrif hwnnw wedi ei ymfudo i'w ddefnyddio Mewngofnodi Discord."
+            },
+            "notFound" : {
+                "title" : "Ni ddarganfuwyd unrhyw gyfrif",
+                "line1" : "Rydych wedi mewngofnodi gyda Twitter fel",
+                "line2" : "Fodd bynnag, nid yw'r cyfrif hwnnw erioed wedi mewngofnodi o'r blaen ac nawr rydym yn cefnogi dim ond Twitter mewngofnodi at ddibenion mudo.",
+                "line3" : "Fel arall, gallwch chi [login with Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Gwall",
+                "line1" : "Naill ai, nid yw'r adnodd a ofynnwyd gennych yn bodoli, neu nad oes gennych ganiatâd i'w weld."
+            },
+            "500" : {
+                "title" : "Uh oh!",
+                "line1" : "Aeth rhywbeth o'i le wrth brosesu eich cais, rho gynnig arni eto'n hwyrach!",
+                "line2" : "Gallwch geisio mewngofnodi eto [here](/oauth)."
+            }
+        }
+    }
+}

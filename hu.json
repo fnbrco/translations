@@ -1,0 +1,191 @@
+{
+    "name" : "Magyar",
+    "name-en" : "Hungarian",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : false,
+            "dateFormat" : "[year] [month] [day]",
+            "months" : [
+                "Január",
+                "Február",
+                "Március",
+                "Április",
+                "Május",
+                "Június",
+                "Július",
+                "Augusztus",
+                "Szeptember",
+                "Október",
+                "November",
+                "December"
+            ],
+            "types" : {
+                "backpack" : "Hátizsák",
+                "emote" : "Emote",
+                "glider" : "Siklórepülő",
+                "emoji" : "Hangulatjel",
+                "loading" : "Töltő képernyő",
+                "outfit" : "Ruházat",
+                "pickaxe" : "Csákány",
+                "skydive" : "Szabadesési nyomvonal",
+                "umbrella" : "Esernyő",
+                "spray" : "Spré",
+                "toy" : "Játék",
+                "pet" : "Háziállat",
+                "music" : "Zene",
+                "wrap" : "Csomagolópapír",
+                "bundle" : "Csomag",
+                "misc" : "Vegyes"
+            },
+            "rarity" : {
+                "legendary" : "Legendás",
+                "epic" : "Epik",
+                "rare" : "Ritka",
+                "uncommon" : "Rendkívüli",
+                "common" : "Közönséges"
+            },
+            "translationNotAvailable" : "Sajnos nincsen elérhető fordítás erre az oldalra.",
+            "translationIncomplete" : "Ezen az oldalon nem az összes szöveg lesz lefordítva."
+        },
+        "nav" : {
+            "home" : "főoldal",
+            "shop" : "bolt",
+            "cosmetics" : {
+                "dropdown" : "kinézetek",
+                "upcoming" : "közelgő",
+                "list" : "lista",
+                "png" : "png",
+                "gallery" : "galléria",
+                "icons" : "ikonok",
+                "reminders" : "emlékeztetők",
+                "history" : "bolt történelem"
+            },
+            "news" : "hírek",
+            "modes" : "módok",
+            "randomiser" : "véletlenszerűsítő",
+            "about" : {
+                "dropdown" : "about",
+                "about" : "fnbr.co-ról",
+                "privacy" : "Adatvédelmi irányelvek",
+                "donate" : "Adományozz",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "Fiók",
+                "account" : "Fiók",
+                "logout" : "Kijelentkezés"
+            },
+            "languagePicker" : {
+                "trigger" : "Nyelv",
+                "title" : "Válassz ki egy nyelvet.",
+                "currentLanguage" : "Te most a [language] nyelvet használod."
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Közelgő tételek",
+            "title-all" : "Összes tételek",
+            "error" : "Nem sikerült letölteni az elemeket, kérjük probálja újra néhány perc múlva.",
+            "error-too-long" : "Ez a vártnál több időt vesz igénybe."
+        },
+        "shop" : {
+            "title" : "Jelenlegi",
+            "title-featured" : "Kiemelt",
+            "title-daily" : "Napi",
+            "error" : "A bolt jelenleg nem elérhető, kérjük probálkozzon néhány perc múlva.",
+            "line1" : "A jelenlegi bolt Fortnite Battle Royale-hoz - Minden nap frissül [00:00 UTC](https://time.is/UTC|tooltip=Mostani idő az UTC időzónában|newtab=true) -kor.",
+            "line2" : "Megtalálható a tegnapi bolt [itt](/shop/yesterday|tooltip=Tegnapi bolt).",
+            "line3" : "Kattints az egyik kinézetre hogy több információt láthass.",
+            "countdown" : {
+                "title" : "Új tételek:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "hour",
+                "hours-plural" : "hours"
+            }
+        },
+        "upcoming" : {
+            "title" : "Közelgő kinézetek",
+            "line1" : "Mindegyik kiadatlan tárgy Fortnite Battle Royale-ban."
+        },
+        "list" : {
+            "title" : "Kinézet lista",
+            "line1" : "Az összes elérhető kinézet Fortnite Battle Royale-ban.",
+            "table" : {
+                "icon" : "Ikon",
+                "name" : "Név",
+                "type" : "Típus",
+                "rarity" : "Ritkaság",
+                "obtained" : "Megszerzett"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Bolt történelem",
+                "line1" : "Íme az utolsó 8 napi boltok Fortnite Battle Royale-hoz.",
+                "line2" : "Klikkelj az egyikre hogy megnézhessed a teljes boltot vagy görgess hogy megnézzed a teljes bolt történelmet napról napra."
+            },
+            "view" : {
+                "title" : "Boltok",
+                "line1" : "Ez a [date]-ei/-ai bolt Fortnite Battle Royale-hoz. ",
+                "line2" : "Kattints az egyik kinézetre hogy több információt láthass.",
+                "today-button" : "A mai bolt"
+            }
+        },
+        "news" : {
+            "title" : "Hírek",
+            "line1" : "A jelenlegi játék-beli hírek Epic Games-től. Minden 2 percenként frissül."
+        },
+        "randomiser" : {
+            "title" : "Véletlenszerűsítő",
+            "line1" : "Válassz egy véletlenszerű kinézetet mindegyik elérhető tárgy közül.",
+            "chooseText" : "Kattints a választáshoz",
+            "randomise-all" : "Véletlenszerűsítsd mind"
+        },
+        "account" : {
+            "oauth" : {
+                "title" : "Jelentkezz be fnbr.co-ba",
+                "discord-button" : "Jelentkezz be Discord-al",
+                "legacy-text" : "Alternatív megoldásként, ha van egy örökölt fiókja 2018-tól, az migrációt fog igényelni:",
+                "twitter-button" : "Jelentkezz be Twitter-el",
+                "privacy-text" : "Bejelentkezéssel egyetértesz azzal hogy a fiókjához kapcsolódó adatokat tárolhatjuk, ahogy a mi [Adatvédelmi irányelvek](/Privacy)-ben meg van írva."
+            },
+            "username" : {
+                "title" : "Üdvözöljük fnbr.co-ban",
+                "line1" : "Discord-al vagy bejelentkezve, hogy kapcsolatba léphess másokkal az oldalunkon, megkérjük hogy válasszon egy felhasználónevet.",
+                "nameTaken" : "A felhasználóneved [attemptedName] már egy másik felhasználó elfoglalta, hozzáadtuk a Discord szám jegyeit és azt ajánljuk hogy azt használja.",
+                "randomName" : "A felhasználóneved [attemptedName] már egy másik felhasználó elfoglalta, és mi nem tudtunk egy egyedi nevet készíteni a Discord szám jegyeddel.",
+                "form-username" : "Felhasználónév",
+                "form-criteria" : "Kérjük válassz egy felhasználónevet 2 és 32 karakter között, amelyek alfanumerikus karaktereket, aláhúzásjeleket és kötőjeleket tartalmazhatnak.",
+                "button-text" : "A felhasználónevem beállítása"
+            },
+            "locked" : {
+                "title" : "Nem tudsz bejelentkezni",
+                "line1" : "Nem tudsz bejelentkezni fnbr.co-ba mert  [a fiókod zárolva lett](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Fiók áttelepítve",
+                "line1" : "Bejelentkezett Twitter-el  -ként",
+                "line2" : "Azonban, a fiók átkerült a Discord bejelentkezés használatához."
+            },
+            "notFound" : {
+                "title" : "Fiók nem talált",
+                "line1" : "Bejelentkezett Twitter-el  -ként",
+                "line2" : "Azonban, az a fiók soha nem jelentkezett be régebben és most már csak áttelepítés miatt használunk Twitter bejelentkezést.",
+                "line3" : "Alternatív megoldásként [jelentkezz be Discord-al](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Hiba",
+                "line1" : "A kért erőforrás nem létezik, vagy nincs engedélye arra hogy megtekintse."
+            },
+            "500" : {
+                "title" : "Uh oh!",
+                "line1" : "Valami rosszul ment a kérés feldolgozása során, kérjük probálja meg később!",
+                "line2" : "Megpróbálhat bejelentkezni [itt](/oauth)."
+            }
+        }
+    }
+}
