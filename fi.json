@@ -1,6 +1,6 @@
 {
     "name" : "Suomi",
-    "name-en" : "finnish",
+    "name-en" : "Finnish",
     "live" : true,
     "translations" : {
         "meta" : {
@@ -97,7 +97,7 @@
             "title-daily" : "päivittäinen",
             "error" : "Kauppa ei ole käytettävissä, yritä uudelleen hetken kuluttua",
             "line1" : "Fortnite Battle Royalen nykyinen myymäläkierto - päivitykset päivittäin [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Voit nähdä eilisen kohteen myymälän [täällä] (/ myymälä / eilen | tooltip = eilisen kohteen kauppa).",
+            "line2" : "Voit nähdä eilisen kohteen myymälän [täällä](/shop/yesterday|tooltip=eilisen kohteen kauppa).",
             "line3" : "Saat lisätietoja siitä napsauttamalla kosmeettista ainetta.",
             "countdown" : {
                 "title" : "Uudet tavarat:",
@@ -129,7 +129,7 @@
             },
             "view" : {
                 "title" : "Kauppa kierto",
-                "line1" : "Tämä on Fortnite Battle Royalen [date] -myymälän pyöriminen. ",
+                "line1" : "Tämä on Fortnite Battle Royalen [date] -myymälän pyöriminen.",
                 "line2" : "Saat lisätietoja siitä napsauttamalla cosmetics.",
                 "today-button" : "Tämän päivän kauppa"
             }
@@ -181,11 +181,11 @@
         },
         "errors" : {
             "404" : {
-                "title" : "virhe"
+                "title" : "virhe",
                 "line1" : "Pyydettyäsi resurssia ei ole olemassa."
             },
             "500" : {
-                "title" : "Uh Oh"
+                "title" : "Uh Oh",
                 "line1" : "otain meni vikaan pyyntösi käsittelyn aikana, yritä myöhemmin uudelleen!",
                 "line2" : "voit yrittää kirjautu uudelleen tästä [here](/oauth)."
             }
