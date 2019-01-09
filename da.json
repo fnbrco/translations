@@ -9,10 +9,10 @@
             "months" : [
                 "Januar",
                 "Februar",
-                "Marts,
+                "Marts",
                 "April",
                 "Maj",
-                "Juni,
+                "Juni",
                 "Juli",
                 "August",
                 "September",
@@ -22,7 +22,7 @@
             ],
             "types" : {
                 "backpack" : "Rygsæk",
-                "emote" : "Udtryk
+                "emote" : "Udtryk",
                 "glider" : "Svævefly",
                 "emoji" : "Emoji",
                 "loading" : "Indlæsningsskærm",
@@ -33,17 +33,17 @@
                 "spray" : "Sprøjte",
                 "toy" : "Legetøj",
                 "pet" : "Kæledyr",
-                "music" : "Musik,
+                "music" : "Musik",
                 "wrap" : "Indpakning",
                 "bundle" : "Pakke",
-                "misc" : "Diverse",
+                "misc" : "Diverse"
             },
             "rarity" : {
                 "legendary" : "Legendarisk",
                 "epic" : "Episk",
                 "rare" : "Sjælden",
                 "uncommon" : "Ualmindelig",
-                "common" : "Almindelig",
+                "common" : "Almindelig"
             },
             "translationNotAvailable" : "Desværre er der ingen oversættelse tilgængelig for denne side.",
             "translationIncomplete" : "Ikke alt tekst på denne side vil blive oversat"
@@ -52,14 +52,14 @@
             "home" : "Hjem",
             "shop" : "Butik",
             "cosmetics" : {
-                "dropdown" : "Kosmetikker"
+                "dropdown" : "Kosmetikker",
                 "upcoming" : "Kommende",
                 "list" : "Liste",
                 "png" : "png",
                 "gallery" : "Galleri",
                 "icons" : "Ikoner",
                 "reminders" : "Påmindelser",
-                "history" : "Butikshistorie",
+                "history" : "Butikshistorie"
             },
             "news" : "Nyheder",
             "modes" : "Tilstande",
@@ -77,7 +77,7 @@
             "account" : {
                 "dropdown" : "Konto",
                 "account" : "Konto",
-                "logout" : "Log ud",
+                "logout" : "Log ud"
             },
             "languagePicker" : {
                 "trigger" : "Sprog",
@@ -103,7 +103,7 @@
                 "title" : "Nye varer:",
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "time",
-                "hours-plural" : "timer",
+                "hours-plural" : "timer"
             }
         },
         "upcoming" : {
@@ -118,7 +118,7 @@
                 "name" : "Navn",
                 "type" : "Type",
                 "rarity" : "Sjældenhed",
-                "obtained" : "Opnået",
+                "obtained" : "Opnået"
             }
         },
         "history" : {
@@ -138,13 +138,13 @@
             "title" : "Nyheder",
             "line1" : "Den aktuelle in-game nyhedsfeed fra Epic Games. Opdateret hvert minut.",
             "error" : "Vi var ude af stand til at få nyhederne fra Fortnite, vi vil prøve igen snart.",
-            "more-ingame-button" : "Indlæs Mere",
+            "more-ingame-button" : "Indlæs Mere"
         },
         "randomiser" : {
             "title" : "Tilfældig",
             "line1" : "Vælg en tilfældig udrustning fra alle ting tilgængelige.",
             "chooseText" : "Klik for at vælge",
-            "randomise-all" : "Gør alt tilfældigt",
+            "randomise-all" : "Gør alt tilfældigt"
         },
         "account" : {
             "oauth" : {
@@ -161,7 +161,7 @@
                 "randomName" : "Dit brugernavn [attemptedName] er taget af en anden bruger, vi var ikke i stand til at lave et unikt navn ved at bruge din Discord diskriminator.",
                 "form-username" : "Brugernavn",
                 "form-criteria" : "Vælg venligst et brugernavn mellem 2 og 32 tegn, hvilket må indeholde alfanumeriske tegn såvel som understreg og bindestreg.",
-                "button-text" : "Indstil mit brugernavn",
+                "button-text" : "Indstil mit brugernavn"
             },
             "locked" : {
                 "title" : "Kan ikke logge ind",
