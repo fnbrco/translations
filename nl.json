@@ -63,7 +63,7 @@
             },
             "news" : "nieuws",
             "modes" : "modes",
-            "randomiser" : "willekeuriger",
+            "randomiser" : "willekeurig",
             "about" : {
                 "dropdown" : "over",
                 "about" : "over fnbr.co",
@@ -94,7 +94,7 @@
             "title-featured" : "Uitgelicht",
             "title-daily" : "Dagelijks",
             "error" : "Winkel niet beschikbaar, probeer het later opnieuw.",
-            "line1" : "De huidige item shop van Fortnite Battle Royale - word dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
+            "line1" : "De huidige item shop van Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
             "line2" : "Je kan de item shop van gisteren [hier](/shop/yesterday|tooltip=Item Shop van gisteren) zien.",
             "line3" : "Klik op een item voor meer informatie.",
             "countdown" : {
@@ -106,7 +106,7 @@
         },
         "upcoming" : {
             "title" : "Aankomende Items",
-            "line1" : "Alle onuitgegeven items in Fortnite Battle Royale."
+            "line1" : "Alle nog niet uitgekomen items in Fortnite Battle Royale."
         },
         "list" : {
             "title" : "Cosmetica Lijst",
@@ -116,14 +116,14 @@
                 "name" : "Naam",
                 "type" : "Type",
                 "rarity" : "Zeldzaamheid",
-                "obtained" : "verkregen"
+                "obtained" : "Verkregen"
             }
         },
         "history" : {
             "list" : {
                 "title" : "Item Shop Geschiedenis",
                 "line1" : "Hier zijn de laatste 8 dagen van de item shop voor Fortnite Battle Royale.",
-                "line2" : "Klik op een om de hele winkel te zien or scroll to view full item shop history by day."
+                "line2" : "Klik op een om de hele winkel te zien of scroll om de hele item shop geschiedenis te zien per dag."
             },
             "view" : {
                 "title" : "Shop Rotatie",
@@ -139,7 +139,7 @@
             "more-ingame-button" : "Meer Laden"
         },
         "randomiser" : {
-            "title" : "Willekeuriger",
+            "title" : "Willekeurig",
             "line1" : "Kies een willekeurige outfit van alle items beschikbaar.",
             "chooseText" : "Klik om te kiezen",
             "randomise-all" : "Maak alles willekeurig"
@@ -148,15 +148,15 @@
             "oauth" : {
                 "title" : "Login op fnbr.co",
                 "discord-button" : "Login met Discord",
-                "legacy-text" : "Alternatief, als je een legacy account van 2018 die moet migreren:",
+                "legacy-text" : "Alternatief, als je een legacy account van 2018 die moet migreren hebt:",
                 "twitter-button" : "Login met Twitter",
                 "privacy-text" : "Door in te loggen accepteer je dat wij data opslaan geassocieerd met jouw account zoals als in onze [privacybeleid](/privacy) staat."
             },
             "username" : {
                 "title" : "Welkom bij fnbr.co",
-                "line1" : "Je bent ingelogd met Discord, om met andere te interacteren met andere op onze website moet je een gebruikersnaam kiezen",
+                "line1" : "Je bent ingelogd met Discord, om met andere te interacteren met anderen op onze website moet je een gebruikersnaam kiezen",
                 "nameTaken" : "Je gebruikersnaam [attemptedName] is al gebruikt, we hebben je Discord nummer erbij toegevoegd en stellen voor dat je dat gebruikt.",
-                "randomName" : "Je gebruikersnaam [attemptedName] is al gebruikt, het was ons niet gelukt een unieke naam maken door je Discord nummer te gebruiken.",
+                "randomName" : "Je gebruikersnaam [attemptedName] is al gebruikt, het was ons niet gelukt om een unieke naam te maken door je Discord nummer te gebruiken.",
                 "form-username" : "Gebruikersnaam",
                 "form-criteria" : "Kies alstublieft een gebruikersnaam tusseen 2 en 32 letters, die kan bestaan uit alfanumerieke letters, laag liggende streepjes en koppeltekens.",
                 "button-text" : "Stel mijn gebruikersnaam"
