@@ -21,20 +21,20 @@
                 "Décembre"
             ],
             "types" : {
-                "backpack" : "Sac à dos",
+                "backpack" : "Accesoire de Dos",
                 "emote" : "Emote",
                 "glider" : "Planeur",
-                "emoji" : "Emoji",
+                "emoji" : "Émoticône",
                 "loading" : "Écran de Chargement",
                 "outfit" : "Tenue",
-                "pickaxe" : "Pioche",
+                "pickaxe" : "Outil de Collecte",
                 "skydive" : "Traînée",
                 "umbrella" : "Parapluie",
                 "spray" : "Aérosol",
                 "toy" : "Jouet",
                 "pet" : "Compagnon",
                 "music" : "Musique",
-                "wrap" : "Revêtement",
+                "wrap" : "Emballage",
                 "bundle" : "Paquet",
                 "misc" : "Autres"
             },
@@ -61,7 +61,7 @@
                 "reminders" : "rappels",
                 "history" : "historique"
             },
-            "news" : "actualités",
+            "news" : "Nouvelles",
             "modes" : "modes",
             "randomiser" : "randomiseur",
             "about" : {
@@ -79,8 +79,8 @@
                 "logout" : "Se Déconnecter"
             },
             "languagePicker" : {
-                "title" : "Choisissez la langue",
-                "currentLanguage" : "Vous utilisez actuellement le français."
+                "title" : "Choisissez une langue",
+                "currentLanguage" : "Vous utilisez couramment le français."
             }
         },
         "home" : {
