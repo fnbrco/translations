@@ -1,0 +1,193 @@
+{
+    "name" : "Deutsch",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : true,
+            "dateFormat" : "[date] [month] [year]",
+            "months" : [
+                "Januar",
+                "Februar",
+                "März",
+                "April",
+                "Mai",
+                "Juni",
+                "Juli",
+                "August",
+                "September",
+                "Oktober",
+                "November",
+                "Dezember"
+            ],
+            "types" : {
+                "backpack" : "Rücken-Accessoire",
+                "emote" : "Emote",
+                "glider" : "Hängegleiter",
+                "emoji" : "Emoji",
+                "loading" : "Ladebildschirm",
+                "outfit" : "Outfit",
+                "pickaxe" : "Spitzhacke",
+                "skydive" : "Kondensstreifen",
+                "umbrella" : "Regenschirm",
+                "spray" : "Spramotive",
+                "toy" : "Spielzeug",
+                "pet" : "Gefährte",
+                "music" : "Musik",
+                "wrap" : "Lackierungen",
+                "bundle" : "Bundle",
+                "misc" : "Sonstige"
+            },
+            "rarity" : {
+                "legendary" : "Legendär",
+                "epic" : "Episch",
+                "rare" : "Selten",
+                "uncommon" : "Ungewöhnlich",
+                "common" : "Gewöhnlich"
+            },
+            "translationNotAvailable" : "Es gibt leider keine Übersetzung für diese Seite.",
+            "translationIncomplete" : "Nicht der komplette Text wird in dieser Sprache übersetzt."
+        },
+        "nav" : {
+            "home" : "home",
+            "shop" : "shop",
+            "cosmetics" : {
+                "dropdown" : "gegenstände",
+                "upcoming" : "Bald verfügbar",
+                "list" : "Liste",
+                "png" : "png",
+                "gallery" : "Gallerie",
+                "icons" : "Icons",
+                "reminders" : "Erinnerungen",
+                "history" : "Historie des Shops"
+            },
+            "news" : "neuigkeiten",
+            "modes" : "modi",
+            "randomiser" : "zufallsgenerator",
+            "about" : {
+                "dropdown" : "Über",
+                "translate" : "Übersetzen",
+                "about" : "Über fnbr.co",
+                "privacy" : "Datenschutz-Bestimmungen",
+                "donate" : "Spenden",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "account",
+                "account" : "account",
+                "logout" : "Ausloggen"
+            },
+            "languagePicker" : {
+                "trigger" : "Sprache",
+                "title" : "Sprache auswählen",
+                "currentLanguage" : "Du nutzt aktuell diese Sprache: [language]"
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Bald verfügbare Items",
+            "title-all" : "Alle Items",
+            "error" : "Fehler beim einsehen der Items, versuche es später erneut.",
+            "error-too-long" : "Es dauert anscheinend länger als erwartet."
+        },
+        "shop" : {
+            "title" : "Aktueller Shop",
+            "title-featured" : "Vorgestellt",
+            "title-daily" : "Täglich",
+            "error" : "Shop nicht verfügbar, versuche es später erneut.",
+            "line1" : "Der aktuelle Item-Shop in Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Du kannst den gestrigen Item-Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
+            "line3" : "Klicke auf einen Gegenstand um mehr über diesen zu erfahren.",
+            "countdown" : {
+                "title" : "Neue Gegenstände:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "Stunde",
+                "hours-plural" : "Stunden"
+            }
+        },
+        "upcoming" : {
+            "title" : "Bald verfügbare Gegenstände",
+            "line1" : "Alle noch nicht erschienenen Gegenstände in Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "Gegenstandsliste",
+            "line1" : "Jeder verfügbare Gegenstand in Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Icon",
+                "name" : "Name",
+                "type" : "Typ",
+                "rarity" : "Seltenheit",
+                "obtained" : "Wie zu erhalten"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Item Shop History",
+                "line1" : "Here are the last 8 days of item shop rotations for Fortnite Battle Royale.",
+                "line2" : "Click one to view full shop or scroll to view full item shop history by day."
+            },
+            "view" : {
+                "title" : "Shop Rotation",
+                "line1" : "This is the item shop rotation of [date] for Fortnite Battle Royale. ",
+                "line2" : "Click a cosmetic to see more information about it.",
+                "today-button" : "Today's Item Shop"
+            }
+        },
+        "news" : {
+            "title" : "News",
+            "line1" : "The current in-game news feed from Epic Games. Updated every minute.",
+            "error" : "We were unable to get the news from Fortnite, we'll try again shortly.",
+            "more-ingame-button" : "Load More"
+        },
+        "randomiser" : {
+            "title" : "Randomiser",
+            "line1" : "Pick a random outfit from every item available.",
+            "chooseText" : "Click to choose",
+            "randomise-all" : "Randomise All"
+        },
+        "account" : {
+            "oauth" : {
+                "title" : "Login to fnbr.co",
+                "discord-button" : "Login with Discord",
+                "legacy-text" : "Alternatively, if you have a legacy account from 2018 needing migration:",
+                "twitter-button" : "Login with Twitter",
+                "privacy-text" : "By logging in you agree to us storing data associated with your account as set out in our [privacy policy](/privacy)."
+            },
+            "username" : {
+                "title" : "Welcome to fnbr.co",
+                "line1" : "You are logged in with Discord, to interact with others on our site we need you to pick a username",
+                "nameTaken" : "Your username [attemptedName] is taken by another user, we have added your Discord discriminator to it and suggest you use that.",
+                "randomName" : "Your username [attemptedName] is taken by another user, we were unable to make a unique name using your Discord discriminator.",
+                "form-username" : "Username",
+                "form-criteria" : "Please choose a username between 2 and 32 characters, which may contain alphanumeric characters as well as underscores and hyphens.",
+                "button-text" : "Set my username"
+            },
+            "locked" : {
+                "title" : "Unable to login",
+                "line1" : "You aren't able to login to fnbr.co because [your account has been locked](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Account migrated",
+                "line1" : "You logged in with Twitter as",
+                "line2" : "However, that account has been migrated to use Discord login."
+            },
+            "notFound" : {
+                "title" : "No Account Found",
+                "line1" : "You logged in with Twitter as",
+                "line2" : "However, that account has never logged in before and we now only support Twitter login for migration purposes.",
+                "line3" : "Alternatively, you can [login with Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Error",
+                "line1" : "Either the resource you requested doesn't exist, or you don't have permission to view it."
+            },
+            "500" : {
+                "title" : "Uh oh!",
+                "line1" : "Something went wrong while processing your request, please try again later!",
+                "line2" : "You can try to login again [here](/oauth)."
+            }
+        }
+    }
+}
