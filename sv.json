@@ -18,7 +18,7 @@
                 "September",
                 "Oktober",
                 "November",
-                "December"  
+                "December"
             ],
             "types" : {
                 "backpack" : "Ryggsäck",
@@ -86,24 +86,24 @@
             }
         },
         "home" : {
-            "title-upcoming" : "Upcoming Items",
-            "title-all" : "All Items",
-            "error" : "Unable to retrieve items, please try again in a few moments.",
-            "error-too-long" : "This is taking longer than expected"
+            "title-upcoming" : "Kommande Objekt",
+            "title-all" : "Alla Objekt",
+            "error" : "Kan inte hämta objekt snälla försök igen senare.",
+            "error-too-long" : "Detta är tar lång tid"
         },
         "shop" : {
-            "title" : "Current Rotation",
+            "title" : "Nuvarande Rotation",
             "title-featured" : "Featured",
-            "title-daily" : "Daily",
-            "error" : "Shop not available, please try again in a few moments",
-            "line1" : "The current item shop rotation for Fortnite Battle Royale - updates daily at [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "You can see yesterday's item shop [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
-            "line3" : "Click a cosmetic to see more information about it.",
+            "title-daily" : "Dagligen",
+            "error" : "Shop inte tillgängliga, snälla försök igen senare",
+            "line1" : "Den nuvarande artikel shop för Fortnite Battle Royale - förändringar dagligen på [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Se gårdagens artikel shop [här](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line3" : "Klicka på en kosmetisk att se mer information om det.",
             "countdown" : {
-                "title" : "New items:",
+                "title" : "Ny objekt:",
                 "wordyFormat" : "[number] [noun]",
-                "hour-singular" : "hour",
-                "hours-plural" : "hours"
+                "hour-singular" : "timme",
+                "hours-plural" : "timmar"
             }
         },
         "upcoming" : {
