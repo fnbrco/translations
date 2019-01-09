@@ -30,7 +30,7 @@
                 "pickaxe" : "Hakku",
                 "skydive" : "Laskuvarjohyppy",
                 "umbrella" : "Sateenvarjo",
-                "spray" : "Sray",
+                "spray" : "Spray",
                 "toy" : "Toy",
                 "pet" : "Lemmikki",
                 "music" : "Musiikki",
@@ -68,7 +68,7 @@
                 "pudotus" : "meistä",
                 "käännös" : "käännös",
                 "meistä" : "meistä fnbr.co",
-                "privacy" : "privacy policy",
+                "privacy" : "Yksityisyyskäytäntö",
                 "lahjoita" : "Lahjoita",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
@@ -82,7 +82,7 @@
             "languagePicker" : {
                 "liipaisin" : "kieli",
                 "otsikko" : "valitse kieli",
-                "nykyinen kieli" : "Käytät tällä hetkellä [suomea]."
+                "nykyinen kieli" : "Käytät tällä hetkellä [language]."
             }
         },
         "home" : {
@@ -128,7 +128,7 @@
                 "line2" : "Napsauta tätä, jos haluat nähdä täyden kaupankäynnin, tai selaa nähdäksesi koko kohteen myymälähistorian päivittäin."
             },
             "view" : {
-                "title" : "Shop Rotation",
+                "title" : "Kauppa kierto",
                 "line1" : "Tämä on Fortnite Battle Royalen [date] -myymälän pyöriminen. ",
                 "line2" : "Saat lisätietoja siitä napsauttamalla cosmetics.",
                 "today-button" : "Tämän päivän kauppa"
@@ -182,11 +182,11 @@
         "errors" : {
             "404" : {
                 "title" : "virhe"
-                "line1" : "Either the resource you requested does not exist."
+                "line1" : "Pyydettyäsi resurssia ei ole olemassa."
             },
             "500" : {
                 "title" : "Uh Oh"
-                "line1" : "Something went wrong while processing your request, please try again later!",
+                "line1" : "otain meni vikaan pyyntösi käsittelyn aikana, yritä myöhemmin uudelleen!",
                 "line2" : "voit yrittää kirjautu uudelleen tästä [here](/oauth)."
             }
         }
