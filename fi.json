@@ -1,0 +1,194 @@
+{
+    "name" : "Suomi",
+    "name-en" : "finnish",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : false,
+            "dateFormat" : "[month] [date] [year]",
+            "months" : [
+                "Tammikuu", 
+                "Helmikuu",
+                "Maaliskuu",
+                "Huhtikuu",
+                "Toukukuu",
+                "Kesäkuu",
+                "Heinäkuu",
+                "Elokuu",
+                "Syyskuu",
+                "Lokakuu",
+                "Marraskuu",
+                "Joulukuu"
+            ],
+            "types" : {
+                "reppu" : "Reppu",
+                "emote" : "Emote",
+                "liidokki" : "Liidokki",
+                "hymiö" : "Hymiö",
+                "ladataan" : "Lataus ruutu",
+                "asu" : "Asu",
+                "hakku" : "Hakku",
+                "laskuvarjohyppy" : "Laskuvarjohyppy reitti",
+                "sateenvarjo" : "Sateenvarjo",
+                "spray" : "Sray",
+                "lelu" : "Toy",
+                "lemmikki" : "Lemmikki",
+                "musiikki" : "Musiikki",
+                "wrap" : "Wrap",
+                "nippu" : "Nippu",
+                "sekalaista" : "Sekalaista"
+            },
+            "rarity" : {
+                "legendaarinen" : "Legendaarinen",
+                "eeppinen" : "Eeppinen",
+                "harvinainen" : "Harvinainen",
+                "epätavallinnen" : "Epätavallinen",
+                "tavallinen" : "Tavallinen"
+            },
+            "translationNotAvailable" : "valitettavasti tälle sivulle ei ole saatavilla käännöstä.",
+            "translationIncomplete" : "Kaikkia tämän sivun tekstiä ei käännetä"
+        },
+        "nav" : {
+            "koti" : "koti",
+            "kauppa" : "kauppa",
+            "cosmetics" : {
+                "pudotus" : "cosmetics",
+                "tuleva" : "tuleva",
+                "lista" : "lista",
+                "png" : "png",
+                "galleria" : "galleria",
+                "kuvakkeet" : "kuvakkeet",
+                "muistutukset" : "muistutukset",
+                "historia" : "kaupan historia"
+            },
+            "uutiset" : "uutiset",
+            "tilat" : "tilat",
+            "satunnaistaja" : "satunnnaistaja",
+            "noin" : {
+                "pudotus" : "meistä",
+                "käännös" : "käännös",
+                "meistä" : "meistä fnbr.co",
+                "privacy" : "privacy policy",
+                "lahjoita" : "Lahjoita",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "pudotus" : "account",
+                "account" : "account",
+                "kirjaudu ulos" : "kirjaudu ulos"
+            },
+            "kielenvalitsin" : {
+                "liipaisin" : "kieli",
+                "otsikko" : "valitse kieli",
+                "nykyinen kieli" : "Käytät tällä hetkellä [suomea]."
+            }
+        },
+        "koti" : {
+            "otsikko-tuleva" : "Tulevat tavarat",
+            "otsikko-kaikki" : "Kaikki tavarat",
+            "virhe" : "Kohteita ei voi hakea, yritä uudelleen hetken kuluttua.",
+            "virhe-liian-kauan" : "Tämä kestää odotettua kauemmin"
+        },
+        "kauppa" : {
+            "otsikko" : "Nykyinen kierto",
+            "otsikko-esilläolevat" : "Esillä olevat",
+            "otsikko-päivittäinen" : "päivittäinen",
+            "virhe" : "Kauppa ei ole käytettävissä, yritä uudelleen hetken kuluttua",
+            "linja1" : "Fortnite Battle Royalen nykyinen myymäläkierto - päivitykset päivittäin [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "linja2" : "Voit nähdä eilisen kohteen myymälän [täällä] (/ myymälä / eilen | tooltip = eilisen kohteen kauppa).",
+            "linja3" : "Saat lisätietoja siitä napsauttamalla kosmeettista ainetta.",
+            "lähtölaskenta" : {
+                "otsikko" : "Uudet tavarat:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "hour",
+                "hours-plural" : "hours"
+            }
+        },
+        "tuleva" : {
+            "otsikko" : "Upcoming Cosmetics",
+            "linja1" : "Kaikki julkaisemattomat kohteet Fortnite Battle Royalessa."
+        },
+        "lista" : {
+            "otsikko" : "Cosmetics Luettelo",
+            "linja1" : "Every Cosmetic available in Fortnite Battle Royale.",
+            "pöytä" : {
+                "icon" : "Icon",
+                "nimi" : "Nimi",
+                "tyyppi" : "Tyyppi",
+                "rarity" : "Rarity",
+                "saatu" : "Saatu"
+            }
+        },
+        "historia" : {
+            "lista" : {
+                "otsikko" : "Kohteen kauppahistoria",
+                "linja1" : "Tässä on Fortnite Battle Royale -tuotemyymälän viimeiset 8 päivää.",
+                "linja2" : "Napsauta tätä, jos haluat nähdä täyden kaupankäynnin, tai selaa nähdäksesi koko kohteen myymälähistorian päivittäin."
+            },
+            "katso" : {
+                "otsikko" : "Shop Rotation",
+                "linja1" : "Tämä on Fortnite Battle Royalen [date] -myymälän pyöriminen. ",
+                "linja2" : "Saat lisätietoja siitä napsauttamalla cosmetics.",
+                "tänään-painike" : "Tämän päivän kauppa"
+            }
+        },
+        "uutiset" : {
+            "otsikko" : "uutiset",
+            "linj1" : "Nykyiset pelin uutiset syötetään Epic-peleistä. Päivitetään joka minuutti.",
+            "virhe" : "Emme pystyneet saamaan uutisia Fortniteltä, yritämme pian uudelleen.",
+            "lisää-ingame-painiketta" : "Lataa lisää"
+        },
+        "satunnaistaja" : {
+            "otsikko" : "satunnaistaja",
+            "linja1" : "Valitse satunnainen asu jokaisesta käytettävissä olevasta tuotteesta.",
+            "valitseTEKSTI" : "valitse napsauttamalla",
+            "satunnaista-kaikki" : "Satunnaista Kaikki"
+        },
+        "käyttäjä" : {
+            "oauth" : {
+                "otsikko" : "kirjaudu sisään fnbr.co",
+                "discord-nappi" : "kirjaudu Discordilla",
+                "legacy-teksti" : "Vaihtoehtoisesti, jos sinulla on vanhempi tili vuodesta 2018 alkaen, joka tarvitsee siirtymistä:",
+                "twitter-nappi" : "kirjaudu twitterillä",
+                "privacy-teksti" : "Kirjaudu sisään kirjautumalla siihen, että tallennat tilillesi liittyvät tiedot meidän [privacy policy](/privacy)."
+            },
+            "nimi" : {
+                "otsikko" : "Tervetuloa fnbr.co",
+                "linja1" : "Olet kirjautunut sisään discordilla, jotta voit olla vuorovaikutuksessa muiden sivustomme käyttäjien kanssa",
+                "nimiVarattu" : "sinun nimesi [attemptedName] on ottanut toinen käyttäjä, olemme lisänneet siihen Discord-syrjintääsi ja ehdottaa, että käytät sitä.",
+                "satunnainenNimi" : "sinun nimesi [attemptedName] on toisen käyttäjän ottama, emme pystyneet luomaan ainutkertaista nimeä käyttämällä Discord-syrjintää.",
+                "luo-käyttäjätunnus" : "nimi",
+                "luo-kriteeri" : "Valitse käyttäjätunnus, jonka pituus on 2 - 32 merkkiä ja joka voi sisältää aakkosnumeerisia merkkejä sekä alaviivoja ja väliviivoja.",
+                "nappi-teksti" : "Aseta käyttäjänimi"
+            },
+            "locked" : {
+                "title" : "Unable to login",
+                "line1" : "You aren't able to login to fnbr.co because [your account has been locked](class=text-danger)."
+            },
+            "muuttunut" : {
+                "otsikko" : "käyttäjä muutettu",
+                "linja1" : "Olet kirjautunut sisään Twitterillä",
+                "linj2" : "Tämä tili on kuitenkin siirretty käyttämään Discord-kirjautumista."
+            },
+            "eiLöytynyt" : {
+                "otsikko" : "Käyttäjää Ei Löytynyt",
+                "linja1" : "Olet kirjautunut sisään Twitterillä",
+                "linja2" : "Tämä tili ei ole kuitenkaan koskaan kirjautunut sisään ja tuemme nyt vain Twitter-kirjautumista siirtoon.",
+                "linja3" : "Vaihtoehtoisesti voit [login with Discord](/oauth/discord)."
+            }
+        },
+        "virheet" : {
+            "404" : {
+                "otsikko" : "virhe"
+                "linja1" : "Either the resource you requested does not exist."
+            },
+            "500" : {
+                "otsikko" : "Uh Oh"
+                "linja1" : "Something went wrong while processing your request, please try again later!",
+                "linja2" : "voit yrittää kirjautu uudelleen tästä [here](/oauth)."
+            }
+        }
+    }
+}
