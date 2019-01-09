@@ -82,7 +82,7 @@
             "languagePicker" : {
                 "trigger" : "kieli",
                 "title" : "valitse kieli",
-                "currentLanguage" : "Käytät tällä hetkellä [suomea]."
+                "currentLanguage" : "Käytät tällä hetkellä [language]."
             }
         },
         "home" : {
@@ -97,7 +97,7 @@
             "title-daily" : "päivittäinen",
             "error" : "Kauppa ei ole käytettävissä, yritä uudelleen hetken kuluttua",
             "line1" : "Fortnite Battle Royalen nykyinen myymäläkierto - päivitykset päivittäin [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Voit nähdä eilisen kohteen myymälän [täällä] (/ myymälä / eilen | tooltip = eilisen kohteen kauppa).",
+            "line2" : "Voit nähdä eilisen kohteen myymälän [here] (/ myymälä / eilen | tooltip = eilisen kohteen kauppa).",
             "line3" : "Saat lisätietoja siitä napsauttamalla kosmeettista ainetta.",
             "countdown" : {
                 "title" : "Uudet tavarat:",
