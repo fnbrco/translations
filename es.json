@@ -106,7 +106,7 @@
         },
         "upcoming" : {
             "title" : "Próximos Cosméticos",
-            "line1" : "Todos los objetos áun no disponibles en Fortnite Battle Royale."
+            "line1" : "Todos los objetos aún no disponibles en Fortnite Battle Royale."
         },
         "list" : {
             "title" : "Lista de Cosméticos",
@@ -123,11 +123,11 @@
             "list" : {
                 "title" : "Historial de la tienda",
                 "line1" : "Aquí están los últimos 8 días de las rotaciones de la tienda de artículos de Fortnite Battle Royale.",
-                "line2" : "Haga clic en uno para ver la tienda completa o desplácese para ver el historial completo de la tienda de artículos por día."
+                "line2" : "Haga clic en uno para ver la tienda completa o desplácese para ver el historial completo de la tienda de objetos por día."
             },
             "view" : {
                 "title" : "Rotación de la Tienda",
-                "line1" : "Esta es la rotación de la Tienda de Objetos de [date] de Fortnite Battle Royale. ",
+                "line1" : "Esta es la rotación de la tienda de objetos de [date] de Fortnite Battle Royale. ",
                 "line2" : "Haga clic en un cosmético para ver más información al respecto.",
                 "today-button" : "Tienda de Objetos de hoy"
             }
@@ -153,8 +153,8 @@
             "username" : {
                 "title" : "Bienvenido a fnbr.co",
                 "line1" : "Estás conectado con Discord, para interactuar con otros en nuestro sitio necesitamos que elijas un nombre de usuario",
-                "nameTaken" : "Su nombre de usuario [attemptedName] esta siendo usado por otro usuario, hemos añadido su discriminador de Discord y le sugerimos que lo use.",
-                "randomName" : "Su nombre de usuario [attemptedName] esta siendo usado por otro usuario, no pudimos crear un nombre único usando su discriminador de Discord.",
+                "nameTaken" : "Su nombre de usuario [attemptedName] está siendo usado por otro usuario, hemos añadido su discriminador de Discord y le sugerimos que lo use.",
+                "randomName" : "Su nombre de usuario [attemptedName] está siendo usado por otro usuario, no pudimos crear un nombre único usando su discriminador de Discord.",
                 "form-username" : "Nombre de usuario",
                 "form-criteria" : "Por favor, elija un nombre de usuario entre 2 y 32 caracteres, que puede contener caracteres alfanuméricos, así como subrayas y guiones.",
                 "button-text" : "Configurar nombre de usuario"
@@ -172,7 +172,7 @@
                 "title" : "No se encontró una cuenta",
                 "line1" : "Te conectaste con Twitter como",
                 "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter con fines de migración.",
-                "line3" : "Tambien puede [iniciar sesión con Discord](/oauth/discord)."
+                "line3" : "También puede [iniciar sesión con Discord](/oauth/discord)."
             }
         },
         "errors" : {
