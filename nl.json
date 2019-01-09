@@ -185,7 +185,7 @@
             "500" : {
                 "title" : "Uh oh!",
                 "line1" : "Er is iets misgegaan tijdens het verwerken. Probeer het later opnieuw!",
-                "line2" : "Je kan [hier](/oauth) opnieuw probere nin te loggen."
+                "line2" : "Je kan [hier](/oauth) opnieuw proberen in te loggen."
             }
         }
     }
