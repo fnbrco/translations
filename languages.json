@@ -12,7 +12,7 @@
             "code": "es",
             "flag": "es",
             "live": true,
-            "authors" : ["DeValladolid", "daaanz", "Doolrex"]
+            "authors" : ["Closeings#9548", "daanz#3412", "Doolrex#5512", "srdrabx#6513"]
         },
         {
             "name": "Português",
@@ -24,54 +24,85 @@
             "name": "Français",
             "code": "fr",
             "flag": "fr",
-            "live": true
+            "live": true,
+            "authors" : ["Closeings#9548", "Majestea#0001"]
         },
         {
             "name": "Nederlands",
             "code": "nl",
             "flag": "nl",
             "live": true,
-            "authors" : ["Joachiem"]
+            "authors" : ["Byte#5253", "ImranDoet#2682", "Joachiem#2966"]
         },
         {
             "name": "Italiano",
             "code": "it",
             "flag": "it",
             "live": true,
-            "authors" : ["bhz-ema"]
+            "authors" : ["bhz_ema#8181"]
         },
         {
             "name": "Deutsche",
             "code": "de",
             "flag": "de",
-            "live": false
+            "live": true,
+            "authors" : ["Laurin#0001", "Terax#9758"]
         },
         {
             "name": "Română",
             "code": "ro",
             "flag": "ro",
             "live": true,
-            "authors" : ["AlexT2"]
+            "authors" : ["Alex T.#2011"]
         },
         {
             "name": "Tiếng Việt",
             "code": "vi",
             "flag": "vn",
             "live": true,
-            "authors" : ["Fallenthetaco"]
+            "authors" : ["FallenTaco#6666"]
         },
         {
             "name": "Magyar",
             "code": "hu",
             "flag": "hu",
-            "live": true
+            "live": true,
+            "authors" : ["zsoto98#5959"]
         },
         {
             "name": "Cymraeg",
             "code": "cy",
             "flag": "gb-wls",
             "live": true,
-            "authors" : ["hiitsdan"]
+            "authors" : ["dAn#0001", "Ö.J#1904"]
+        },
+        {
+            "name": "Turkish",
+            "code": "tr",
+            "flag": "tr",
+            "live": true,
+            "authors" : ["Anılcan 狮子#0001"]
+        },
+        {
+            "name": "Finnish",
+            "code": "fi",
+            "flag": "fi",
+            "live": true,
+            "authors" : ["daanz#3412", "Nikko#0023"]
+        },
+        {
+            "name": "Dansk",
+            "code": "da",
+            "flag": "dk",
+            "live": true,
+            "authors" : ["Mkarco#7880"]
+        },
+        {
+            "name": "Slovenský",
+            "code": "sk",
+            "flag": "sk",
+            "live": true,
+            "authors" : ["EzBugatti#0001"]
         }
     ]
 }
