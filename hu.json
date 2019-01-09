@@ -28,7 +28,7 @@
                 "loading" : "Töltő képernyő",
                 "outfit" : "Ruházat",
                 "pickaxe" : "Csákány",
-                "skydive" : "Zuhanási nyomvonal",
+                "skydive" : "Szabadesési nyomvonal",
                 "umbrella" : "Esernyő",
                 "spray" : "Spré",
                 "toy" : "Játék",
@@ -87,7 +87,7 @@
         "home" : {
             "title-upcoming" : "Közelgő tételek",
             "title-all" : "Összes tételek",
-            "error" : "Nem sikerült letölteni az elemeket, kérjük probálkja újra néhány perc múlva.",
+            "error" : "Nem sikerült letölteni az elemeket, kérjük probálja újra néhány perc múlva.",
             "error-too-long" : "Ez a vártnál több időt vesz igénybe."
         },
         "shop" : {
