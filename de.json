@@ -1,5 +1,6 @@
 {
     "name" : "Deutsch",
+    "name-en" : "German",
     "live" : true,
     "translations" : {
         "meta" : {
@@ -175,7 +176,7 @@
                 "title" : "Kein Konto gefunden",
                 "line1" : "Sie haben sich mit Twitter angemeldet als",
                 "line2" : "Aber, Sie haben sich zuvor noch nicht mit Twitter eingeloggt und jetzt unterstützen wir nur noch Twitter anmeldungen für migrations Zwecke.",
-                "line3" : "Alternatively, you can [login with Discord](/oauth/discord)."
+                "line3" : "Alternativ können sie sich [login with Discord](/oauth/discord)."
             }
         },
         "errors" : {
