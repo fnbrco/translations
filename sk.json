@@ -1,5 +1,6 @@
 {
     "name" : "Slovenský",
+    "name-en" : "Slovak",
     "live" : true,
     "translations" : {
         "meta" : {
@@ -187,3 +188,4 @@
             }
         }
     }
+}
