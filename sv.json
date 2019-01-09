@@ -8,17 +8,17 @@
             "dateFormat" : "[year] [month] [date]",
             "months" : [
                 "Januari",
-                "Februari",
-                "Mars",
-                "April",
-                "Maj",
-                "Juni",
-                "Juli",
-                "Augusti",
-                "September",
-                "Oktober",
-                "November",
-                "December"
+                "Februari",
+                "Mars",
+                "April",
+                "Maj",
+                "Juni",
+                "Juli",
+                "Augusti",
+                "September",
+                "Oktober",
+                "November",
+                "December"  
             ],
             "types" : {
                 "backpack" : "Ryggsäck",
