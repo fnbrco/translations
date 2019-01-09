@@ -1,6 +1,6 @@
 {
     "name" : "Suomi",
-    "name-en" : "finnish",
+    "name-en" : "Finnish",
     "live" : true,
     "translations" : {
         "meta" : {
@@ -65,11 +65,11 @@
             "modes" : "tilat",
             "randomiser" : "satunnnaistaja",
             "about" : {
-                "pudotus" : "meistä",
-                "käännös" : "käännös",
-                "meistä" : "meistä fnbr.co",
+                "dropdown" : "meistä",
+                "translate" : "käännös",
+                "about" : "meistä fnbr.co",
                 "privacy" : "privacy policy",
-                "lahjoita" : "Lahjoita",
+                "donate" : "Lahjoita",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
@@ -80,9 +80,9 @@
                 "logout" : "kirjaudu ulos"
             },
             "languagePicker" : {
-                "liipaisin" : "kieli",
-                "otsikko" : "valitse kieli",
-                "nykyinen kieli" : "Käytät tällä hetkellä [suomea]."
+                "trigger" : "kieli",
+                "title" : "valitse kieli",
+                "currentLanguage" : "Käytät tällä hetkellä [suomea]."
             }
         },
         "home" : {
@@ -135,10 +135,10 @@
             }
         },
         "news" : {
-            "otsikko" : "uutiset",
-            "linj1" : "Nykyiset pelin uutiset syötetään Epic-peleistä. Päivitetään joka minuutti.",
-            "virhe" : "Emme pystyneet saamaan uutisia Fortniteltä, yritämme pian uudelleen.",
-            "lisää-ingame-painiketta" : "Lataa lisää"
+            "title" : "uutiset",
+            "line1" : "Nykyiset pelin uutiset syötetään Epic-peleistä. Päivitetään joka minuutti.",
+            "chooseText" : "Emme pystyneet saamaan uutisia Fortniteltä, yritämme pian uudelleen.",
+            "randomise-all" : "Lataa lisää"
         },
         "randomiser" : {
             "title" : "satunnaistaja",
