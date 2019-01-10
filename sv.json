@@ -107,42 +107,42 @@
             }
         },
         "upcoming" : {
-            "title" : "Upcoming Cosmetics",
-            "line1" : "All unreleased items in Fortnite Battle Royale."
+            "title" : "Kommande Kosmetika",
+            "line1" : "Alla unreleased objekt i Fortnite Battle Royale."
         },
         "list" : {
-            "title" : "Cosmetics List",
-            "line1" : "Every cosmetic available in Fortnite Battle Royale.",
+            "title" : "Kosmetika Lista",
+            "line1" : "Varje kosmetisk tillgängliga i Fortnite Battle Royale.",
             "table" : {
-                "icon" : "Icon",
-                "name" : "Name",
-                "type" : "Type",
-                "rarity" : "Rarity",
-                "obtained" : "Obtained"
+                "icon" : "Ikon",
+                "name" : "Namn",
+                "type" : "Slag",
+                "rarity" : "Raritet",
+                "obtained" : "Erhållen"
             }
         },
         "history" : {
             "list" : {
-                "title" : "Item Shop History",
-                "line1" : "Here are the last 8 days of item shop rotations for Fortnite Battle Royale.",
-                "line2" : "Click one to view full shop or scroll to view full item shop history by day."
+                "title" : "Artikel Shop Historia",
+                "line1" : "Senast 8 dagar shop för Fortnite Battle Royale.",
+                "line2" : "Klicka för att se full shop eller skrolla till se full artikel shop historia på dagen."
             },
             "view" : {
-                "title" : "Shop Rotation",
-                "line1" : "This is the item shop rotation of [date] for Fortnite Battle Royale. ",
-                "line2" : "Click a cosmetic to see more information about it.",
-                "today-button" : "Today's Item Shop"
+                "title" : "Shop Cykel",
+                "line1" : "Det här är artikel shop av [date] för Fortnite Battle Royale. ",
+                "line2" : "Klicka på en kosmetisk för mer information om det.",
+                "today-button" : "Dagens Artikel Shop"
             }
         },
         "news" : {
-            "title" : "News",
-            "line1" : "The current in-game news feed from Epic Games. Updated every minute.",
+            "title" : "Nyheter",
+            "line1" : "Nuvarande spel nyheter från Epic Games. Uppdateras varje minut.",
             "error" : "We were unable to get the news from Fortnite, we'll try again shortly.",
             "more-ingame-button" : "Load More"
         },
         "randomiser" : {
             "title" : "Randomiser",
-            "line1" : "Pick a random outfit from every item available.",
+            "line1" : "Pick a random outfit från every item available.",
             "chooseText" : "Click to choose",
             "randomise-all" : "Randomise All"
         },
