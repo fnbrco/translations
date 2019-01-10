@@ -163,7 +163,7 @@
             },
             "locked" : {
                 "title" : "Kan niet inloggen",
-                "line1" : "Je kon niet worden ingelogd bij fnbr.co omdat [je account afgesloten is](class=text-danger)."
+                "line1" : "Je kon niet worden ingelogd bij fnbr.co omdat [je account gesloten is](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Account gemigreerd",
