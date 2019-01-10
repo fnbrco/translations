@@ -182,12 +182,12 @@
         "errors" : {
             "404" : {
                 "title" : "Fehler",
-                "line1" : "Entweder die Ressource welche sie angefordert haben existiert nicht oder sie haben keinen zugriff dazu."
+                "line1" : "Entweder existiert die von dir angeforderte Ressource nicht oder du hast keine Berechtigung, sie anzusehen."
             },
             "500" : {
                 "title" : "Oh oh!",
-                "line1" : "Etwas ist in der Verarbeitung ihrer Anforderung Falsch gegangen, bitte versuchen sie es später nocheinmal!",
-                "line2" : "Sie können erneuert [here](/oauth) Versuchen sich einzuloggen."
+                "line1" : "Bei der Bearbeitung deiner Anfrage ist etwas schief gelaufen, bitte versuche es später noch einmal!",
+                "line2" : "Du kannst versuchen, dich [hier](/oauth) erneut anzumelden."
             }
         }
     }
