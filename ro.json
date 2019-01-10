@@ -95,7 +95,7 @@
             "title-featured" : "Recomandate",
             "title-daily" : "Zilnice",
             "error" : "Magazinul nu este disponibil, te rugăm încearcă din nou în câteva momente",
-            "line1" : "Rotația magazinului curent pentru Fortnite Battle Royale - se actualizează in fiecare zi la ora [00:00 UTC](https://time.is/UTC|tooltip=Current timp în UTC|newtab=true).",
+            "line1" : "Rotația magazinului curent pentru Fortnite Battle Royale - se actualizează in fiecare zi la ora [00:00 UTC](https://time.is/UTC|tooltip=Tipm curent in UTC|newtab=true).",
             "line2" : "Poți vedea magazinul de ieri apăsând [aici](/shop/yesterday|tooltip=Magazinul de ieri).",
             "line3" : "Apasă pe un cosmetic pentru a vedea mai multe informații despre acesta.",
             "countdown" : {
@@ -151,7 +151,7 @@
                 "discord-button" : "Autentifică-te cu Discord",
                 "legacy-text" : "Alternativ, dacă ai un cont vechi din 2018 care necesita migrație:",
                 "twitter-button" : "Autentifică-te cu Twitter",
-                "privacy-text" : "Prin autentificare esti de acord să îți stocăm datele asociate cu contul tau, așa cum prevede și [privacy policy](/privacy)."
+                "privacy-text" : "Prin autentificare esti de acord să îți stocăm datele asociate cu contul tau, așa cum prevede și [politica de confidențialitate](/privacy)."
             },
             "username" : {
                 "title" : "Bun venit pe fnbr.co",
@@ -164,7 +164,7 @@
             },
             "locked" : {
                 "title" : "Autentificare imposibilă",
-                "line1" : "Nu te poți conecta la fnbr.co fiindcă [your account has been locked](class=text-danger)."
+                "line1" : "Nu te poți conecta la fnbr.co fiindcă [contul tău a fost dezactivat](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Contul a fost migrat cu succes",
@@ -175,7 +175,7 @@
                 "title" : "Niciun Cont Găsit",
                 "line1" : "Te-ai autentificat cu Twitter sub numele de",
                 "line2" : "În orice caz, acel cont nu a mai fost autentificat înainte, iar acum, acceptăm autentificari prin twitter doar pentru scopuri în migrarea contului.",
-                "line3" : "Alternativ, poți [login with Discord](/oauth/discord)."
+                "line3" : "Alternativ, poți să [te autentifici cu Discord](/oauth/discord)."
             }
         },
         "errors" : {
@@ -186,7 +186,7 @@
             "500" : {
                 "title" : "Of!",
                 "line1" : "Ceva nu a mers în timp ce solicitarea ta se procesa, te rugăm să încerci din nou mai târziu!",
-                "line2" : "Poți încerca să te autentifici din nou [here](/oauth)."
+                "line2" : "Poți încerca să te autentifici din nou [aici](/oauth)."
             }
         }
     }
