@@ -30,11 +30,11 @@
                 "pickaxe" : "Spitzhacke",
                 "skydive" : "Kondensstreifen",
                 "umbrella" : "Regenschirm",
-                "spray" : "Spramotive",
-                "toy" : "Spielzeug",
+                "spray" : "Spraymotiv",
+                "toy" : "Spielsache",
                 "pet" : "Gefährte",
                 "music" : "Musik",
-                "wrap" : "Lackierungen",
+                "wrap" : "Lackierung",
                 "bundle" : "Bundle",
                 "misc" : "Sonstige"
             },
@@ -45,60 +45,60 @@
                 "uncommon" : "Ungewöhnlich",
                 "common" : "Gewöhnlich"
             },
-            "translationNotAvailable" : "Es gibt leider keine Übersetzung für diese Seite.",
-            "translationIncomplete" : "Nicht der komplette Text wird in dieser Sprache übersetzt."
+            "translationNotAvailable" : "Leider ist für diese Seite keine Übersetzung verfügbar.",
+            "translationIncomplete" : "Nicht alle Texte auf dieser Seite sind übersetzt"
         },
         "nav" : {
             "home" : "home",
             "shop" : "shop",
             "cosmetics" : {
                 "dropdown" : "gegenstände",
-                "upcoming" : "Bald verfügbar",
-                "list" : "Liste",
+                "upcoming" : "bald verfügbar",
+                "list" : "liste",
                 "png" : "png",
-                "gallery" : "Gallerie",
-                "icons" : "Icons",
-                "reminders" : "Erinnerungen",
-                "history" : "Historie des Shops"
+                "gallery" : "gallerie",
+                "icons" : "icons",
+                "reminders" : "erinnerungen",
+                "history" : "historie des shops"
             },
             "news" : "neuigkeiten",
             "modes" : "modi",
             "randomiser" : "zufallsgenerator",
             "about" : {
-                "dropdown" : "Über",
-                "translate" : "Übersetzen",
-                "about" : "Über fnbr.co",
-                "privacy" : "Datenschutz-Bestimmungen",
+                "dropdown" : "über",
+                "translate" : "übersetzen",
+                "about" : "über fnbr.co",
+                "privacy" : "datenschutzerklärung",
                 "donate" : "Spenden",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "account",
-                "account" : "account",
-                "logout" : "Ausloggen"
+                "dropdown" : "konto",
+                "account" : "konto",
+                "logout" : "abmelden"
             },
             "languagePicker" : {
                 "trigger" : "Sprache",
                 "title" : "Sprache auswählen",
-                "currentLanguage" : "Du nutzt aktuell diese Sprache: [language]"
+                "currentLanguage" : "Du verwendest derzeit [language]."
             }
         },
         "home" : {
-            "title-upcoming" : "Bald verfügbare Items",
-            "title-all" : "Alle Items",
-            "error" : "Fehler beim einsehen der Items, versuche es später erneut.",
-            "error-too-long" : "Es dauert anscheinend länger als erwartet."
+            "title-upcoming" : "Bald verfügbare Gegenstände",
+            "title-all" : "Alle Gegenstände",
+            "error" : "Fehler beim Abrufen der Gegenstände, versuche es später erneut.",
+            "error-too-long" : "Das dauert länger als erwartet"
         },
         "shop" : {
-            "title" : "Aktueller Shop",
+            "title" : "Aktuelle Rotation",
             "title-featured" : "Vorgestellt",
             "title-daily" : "Täglich",
             "error" : "Shop nicht verfügbar, versuche es später erneut.",
-            "line1" : "Der aktuelle Item-Shop in Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Du kannst den gestrigen Item-Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
-            "line3" : "Klicke auf einen Gegenstand um mehr über diesen zu erfahren.",
+            "line1" : "Die aktuelle Item Shop-Rotation für Fortnite Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Aktuelle Zeit in UTC|newtab=true).",
+            "line2" : "Du kannst den gestrigen Item Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
+            "line3" : "Klicke auf einen Gegenstand, um mehr über diesen zu erfahren.",
             "countdown" : {
                 "title" : "Neue Gegenstände:",
                 "wordyFormat" : "[number] [noun]",
@@ -121,73 +121,73 @@
                 "obtained" : "Wie zu erhalten"
             }
         }, 
- "history" : {
+        "history" : {
             "list" : {
-                "title" : "Item Shop Historie",
-                "line1" : "Hier sind die letzten 8 Fortnite Battle Royale Item shop sortimente zu sehen.",
-                "line2" : "Drücke eines um den gesamten Shop anzeigen zu lassen oder scrolle um die gesamte Item shop Historie nach Tag sortiert zu sehen."
+                "title" : "Item Shop-Historie",
+                "line1" : "Hier sind die letzten 8 Fortnite Battle Royale Item Shop-Rotationen zu sehen.",
+                "line2" : "Klicke auf einen, um den kompletten Shop anzusehen, oder scrolle, um die komplette Item Shop-Historie nach Tag sortiert anzusehen."
             },
             "view" : {
-                "title" : "Shop Rotation",
-                "line1" : "Dies ist das Item shop Sortiment für [date] für Fortnite Battle Royale. ",
-                "line2" : "Drücke auf einen Gegenstand um mehr information darüber zu bekommen.",
+                "title" : "Shop-Rotation",
+                "line1" : "Dies ist die Item Shop-Rotation vom [date] für Fortnite Battle Royale.",
+                "line2" : "Klicke auf einen Gegenstand, um mehr über diesen zu erfahren.",
                 "today-button" : "Heutiger Item Shop"
             }
         },
         "news" : {
-            "title" : "Nachrichten",
-            "line1" : "Die derzeitigen Spielinternen Nachrichten von Epic Games. Wird jede minute aktualisiert.",
-            "error" : "Wir konnten keine Nachrichten von Fortnite empfangen, wir versuchen es demnächst erneuert.",
-            "more-ingame-button" : "Load More"
+            "title" : "Neuigkeiten",
+            "line1" : "Der aktuelle Neuigkeiten-Feed von Epic Games im Spiel. Wird jede Minute aktualisiert.",
+            "error" : "Wir konnten die Nachrichten von Fortnite nicht beziehen, wir werden es in Kürze noch einmal versuchen.",
+            "more-ingame-button" : "Mehr laden"
         },
         "randomiser" : {
-            "title" : "Zufalls-Generator",
-            "line1" : "Wähle ein zufälliges Item von allen verfügbaren aus.",
-            "chooseText" : "Drücke zum auswählen",
-            "randomise-all" : "Alle zufällig Generieren"
+            "title" : "Zufallsgenerator",
+            "line1" : "Wähle ein zufälliges Outfit von allen verfügbaren Gegenständen aus.",
+            "chooseText" : "Klicke, um auszuwählen",
+            "randomise-all" : "Alle randomisieren"
         },
         "account" : {
             "oauth" : {
                 "title" : "Bei fnbr.co anmelden",
                 "discord-button" : "Mit Discord anmelden",
-                "legacy-text" : "Alternativ, wenn du einen legacy Konto von 2018 welches migriert werden muss:",
+                "legacy-text" : "Alternativ, wenn du ein Legacy-Konto aus dem Jahr 2018 hast, das migriert werden muss:",
                 "twitter-button" : "Mit Twitter anmelden",
-                "privacy-text" : "Wenn du dich anmeldest stimmst du zu das wir deine Daten welche mit deinem Account in Verbindung stehen speichern dürfen wie in unserer [privacy policy](/privacy) beschrieben wird."
+                "privacy-text" : "Mit der Anmeldung erklärst du dich damit einverstanden, dass wir Daten im Zusammenhang mit deinem Konto speichern, wie in unserer [Datenschutzerklärung](/privacy) beschrieben."
             },
             "username" : {
-                "title" : "Wilkommen zu fnbr.co",
-                "line1" : "Sie sind mit Discord eingeloggt, um mit anderen Nutzen kommunizieren zu können musst du einen Benutzernamen wählen.",
-                "nameTaken" : "Dein Benutzername [attemptedName] wird von einem anderen Nutzer belegt, wir haben deinen Discord Diskriminator hinzugefügt damit du diesen benutzen kannst.",
-                "randomName" : "Dein Benutzername [attemptedName] wird von einem anderen Nutzer belegt, wir konnten keinen einzigartigen Namen mit deinem Discord Diskriminator erstellen.",
+                "title" : "Wilkommen bei fnbr.co",
+                "line1" : "Du bist mit Discord angemeldet. Um mit anderen auf unserer Seite zu interagieren, musst du einen Benutzernamen wählen.",
+                "nameTaken" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir haben deinen Discord-Diskriminator hinzugefügt und schlagen dir vor, diesen zu verwenden.",
+                "randomName" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir konnten mit deinem Discord-Diskriminator keinen eindeutigen Benutzernamen vergeben.",
                 "form-username" : "Benutzername",
-                "form-criteria" : "Bitte wähle einen Benutzernahmen zwischen 2 und 32 Zeichen, dieser darf sowohl alphanumerische Zeichen als auch Unterstriche und Bindestriche enthalten.",
-                "button-text" : "Benutzernamen Bestätigen"
+                "form-criteria" : "Bitte wähle einen Benutzernamen zwischen 2 und 32 Zeichen, der sowohl alphanumerische Zeichen als auch Unterstriche und Bindestriche enthalten kann.",
+                "button-text" : "Benutzername festlegen"
             },
             "locked" : {
-                "title" : "Einloggen Fehlgeschlagen",
-                "line1" : "Sie konnten dich bei fnbr.co nicht einloggen da [your account has been locked](class=text-danger)."
+                "title" : "Anmeldung nicht möglich",
+                "line1" : "Du kannst dich nicht bei fnbr.co anmelden, weil [dein Konto gesperrt wurde](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Konto mitgriert",
-                "line1" : "Sie haben sich mit Twitter angemeldet als",
-                "line2" : "Aber, dieser account wurde migriert um mit Discord eingeloggt zu werden."
+                "line1" : "Du hast dich mit Twitter angemeldet als",
+                "line2" : "Dieses Konto wurde jedoch migriert, um die Discord-Anmeldung zu verwenden."
             },
             "notFound" : {
                 "title" : "Kein Konto gefunden",
-                "line1" : "Sie haben sich mit Twitter angemeldet als",
-                "line2" : "Aber, Sie haben sich zuvor noch nicht mit Twitter eingeloggt und jetzt unterstützen wir nur noch Twitter anmeldungen für migrations Zwecke.",
-                "line3" : "Alternativ können sie sich [login with Discord](/oauth/discord)."
+                "line1" : "Du hast dich mit Twitter angemeldet als",
+                "line2" : "Dieses Konto hat sich jedoch nie zuvor angemeldet und wir unterstützen die Twitter-Anmeldung nur noch für Migrationszwecke.",
+                "line3" : "Alternativ kannst du dich auch [mit Discord anmelden](/oauth/discord)."
             }
         },
         "errors" : {
             "404" : {
                 "title" : "Fehler",
-                "line1" : "Entweder die Ressource welche sie angefordert haben existiert nicht oder sie haben keinen zugriff dazu."
+                "line1" : "Entweder existiert die von dir angeforderte Ressource nicht oder du hast keine Berechtigung, sie anzusehen."
             },
             "500" : {
                 "title" : "Oh oh!",
-                "line1" : "Etwas ist in der Verarbeitung ihrer Anforderung Falsch gegangen, bitte versuchen sie es später nocheinmal!",
-                "line2" : "Sie können erneuert [here](/oauth) Versuchen sich einzuloggen."
+                "line1" : "Bei der Bearbeitung deiner Anfrage ist etwas schief gelaufen, bitte versuche es später noch einmal!",
+                "line2" : "Du kannst versuchen, dich [hier](/oauth) erneut anzumelden."
             }
         }
     }
