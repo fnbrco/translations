@@ -53,36 +53,36 @@
             "shop" : "shop",
             "cosmetics" : {
                 "dropdown" : "gegenstände",
-                "upcoming" : "Bald verfügbar",
-                "list" : "Liste",
+                "upcoming" : "bald verfügbar",
+                "list" : "liste",
                 "png" : "png",
-                "gallery" : "Gallerie",
-                "icons" : "Icons",
-                "reminders" : "Erinnerungen",
-                "history" : "Historie des Shops"
+                "gallery" : "gallerie",
+                "icons" : "icons",
+                "reminders" : "erinnerungen",
+                "history" : "historie des shops"
             },
             "news" : "neuigkeiten",
             "modes" : "modi",
             "randomiser" : "zufallsgenerator",
             "about" : {
-                "dropdown" : "Über",
-                "translate" : "Übersetzen",
-                "about" : "Über fnbr.co",
-                "privacy" : "Datenschutz-Bestimmungen",
+                "dropdown" : "über",
+                "translate" : "übersetzen",
+                "about" : "über fnbr.co",
+                "privacy" : "datenschutzerklärung",
                 "donate" : "Spenden",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "account",
-                "account" : "account",
-                "logout" : "Ausloggen"
+                "dropdown" : "konto",
+                "account" : "konto",
+                "logout" : "abmelden"
             },
             "languagePicker" : {
                 "trigger" : "Sprache",
                 "title" : "Sprache auswählen",
-                "currentLanguage" : "Du nutzt aktuell diese Sprache: [language]"
+                "currentLanguage" : "Du verwendest derzeit [language]."
             }
         },
         "home" : {
