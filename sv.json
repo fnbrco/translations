@@ -150,7 +150,7 @@
             "oauth" : {
                 "title" : "Logga in fnbr.co",
                 "discord-button" : "Logga in med Discord",
-                "legacy-text" : "Alternatively, if you have a legacy account from 2018 needing migration:",
+                "legacy-text" : "Alternativt, om du har gamla konto från 2018 behöver migration:",
                 "twitter-button" : "Logga in med Twitter",
                 "privacy-text" : "By logging in you agree to us storing data associated with your account as set out in our [integritetspolicy](/privacy)."
             },
@@ -169,12 +169,12 @@
             },
             "migrated" : {
                 "title" : "Konto migrerat",
-                "line1" : "You logged in with Twitter as",
+                "line1" : "Du loggade in med Twitter som",
                 "line2" : "However, that account has been migrated to use Discord login."
             },
             "notFound" : {
-                "title" : "No Account Found",
-                "line1" : "You logged in with Twitter as",
+                "title" : "Inget Konto Hittades",
+                "line1" : "Du loggade in med Twitter som",
                 "line2" : "However, that account has never logged in before and we now only support Twitter login for migration purposes.",
                 "line3" : "Alternativt, kan du [logga in med Discord](/oauth/discord)."
             }
