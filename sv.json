@@ -137,38 +137,38 @@
         "news" : {
             "title" : "Nyheter",
             "line1" : "Nuvarande spel nyheter från Epic Games. Uppdateras varje minut.",
-            "error" : "We were unable to get the news from Fortnite, we'll try again shortly.",
-            "more-ingame-button" : "Load More"
+            "error" : "Kan inte få nyheter från Fortnite, vi ska försöka igen senare.",
+            "more-ingame-button" : "Ladda mer"
         },
         "randomiser" : {
             "title" : "Randomiser",
-            "line1" : "Pick a random outfit från every item available.",
-            "chooseText" : "Click to choose",
+            "line1" : "Välj en slumpmässig klänning från varje objekt tillgängliga.",
+            "chooseText" : "Klicka för att välja",
             "randomise-all" : "Randomise All"
         },
         "account" : {
             "oauth" : {
-                "title" : "Login to fnbr.co",
-                "discord-button" : "Login with Discord",
+                "title" : "Logga in fnbr.co",
+                "discord-button" : "Logga in med Discord",
                 "legacy-text" : "Alternatively, if you have a legacy account from 2018 needing migration:",
-                "twitter-button" : "Login with Twitter",
-                "privacy-text" : "By logging in you agree to us storing data associated with your account as set out in our [privacy policy](/privacy)."
+                "twitter-button" : "Logga in med Twitter",
+                "privacy-text" : "By logging in you agree to us storing data associated with your account as set out in our [integritetspolicy](/privacy)."
             },
             "username" : {
-               "title" : "Welcome to fnbr.co",
+               "title" : "Välkommen till fnbr.co",
                 "line1" : "You are logged in with Discord, to interact with others on our site we need you to pick a username",
                 "nameTaken" : "Your username [attemptedName] is taken by another user, we have added your Discord discriminator to it and suggest you use that.",
                 "randomName" : "Your username [attemptedName] is taken by another user, we were unable to make a unique name using your Discord discriminator.",
-                "form-username" : "Username",
+                "form-username" : "Användarnamn",
                 "form-criteria" : "Please choose a username between 2 and 32 characters, which may contain alphanumeric characters as well as underscores and hyphens.",
-                "button-text" : "Set my username"
+                "button-text" : "Ställ mitt användarnamn"
             },
             "locked" : {
-                "title" : "Unable to login",
-                "line1" : "You aren't able to login to fnbr.co because [your account has been locked](class=text-danger)."
+                "title" : "Kan inte logga in",
+                "line1" : "Du kan inte logga in till fnbr.co därför att [ditt konto har låsts](class=text-danger)."
             },
             "migrated" : {
-                "title" : "Account migrated",
+                "title" : "Konto migrerat",
                 "line1" : "You logged in with Twitter as",
                 "line2" : "However, that account has been migrated to use Discord login."
             },
@@ -176,18 +176,18 @@
                 "title" : "No Account Found",
                 "line1" : "You logged in with Twitter as",
                 "line2" : "However, that account has never logged in before and we now only support Twitter login for migration purposes.",
-                "line3" : "Alternatively, you can [login with Discord](/oauth/discord)."
+                "line3" : "Alternativt, kan du [logga in med Discord](/oauth/discord)."
             }
         },
         "errors" : {
             "404" : {
-                "title" : "Error",
-                "line1" : "Either the resource you requested doesn't exist, or you don't have permission to view it."
+                "title" : "Fel",
+                "line1" : "Antingen resurs ej tillgänglig, eller inget tillstånd att se det."
             },
             "500" : {
-                "title" : "Uh oh!",
-                "line1" : "Something went wrong while processing your request, please try again later!",
-                "line2" : "You can try to login again [here](/oauth)."
+                "title" : "Hoppsan!",
+                "line1" : "Något gick fel, försök igen senare!",
+                "line2" : "Du kan försöka logga in igen [här](/oauth)."
             }
         }
     }
