@@ -105,6 +105,13 @@
             "authors" : ["Mkarco#7880"]
         },
         {
+            "name": "Norsk",
+            "code": "no",
+            "flag": "no",
+            "live": true,
+            "authors" : ["Jonathanツ#6969"]
+        },
+        {
             "name": "Slovenský",
             "code": "sk",
             "flag": "sk",
