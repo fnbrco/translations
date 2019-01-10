@@ -135,10 +135,10 @@
             }
         },
         "news" : {
-            "title" : "Nachrichten",
-            "line1" : "Die derzeitigen Spielinternen Nachrichten von Epic Games. Wird jede minute aktualisiert.",
-            "error" : "Wir konnten keine Nachrichten von Fortnite empfangen, wir versuchen es demnächst erneuert.",
-            "more-ingame-button" : "Load More"
+            "title" : "Neuigkeiten",
+            "line1" : "Der aktuelle Neuigkeiten-Feed von Epic Games im Spiel. Wird jede Minute aktualisiert.",
+            "error" : "Wir konnten die Nachrichten von Fortnite nicht beziehen, wir werden es in Kürze noch einmal versuchen.",
+            "more-ingame-button" : "Mehr laden"
         },
         "randomiser" : {
             "title" : "Zufalls-Generator",
