@@ -150,33 +150,33 @@
             "oauth" : {
                 "title" : "Bei fnbr.co anmelden",
                 "discord-button" : "Mit Discord anmelden",
-                "legacy-text" : "Alternativ, wenn du einen legacy Konto von 2018 welches migriert werden muss:",
+                "legacy-text" : "Alternativ, wenn du ein Legacy-Konto aus dem Jahr 2018 hast, das migriert werden muss:",
                 "twitter-button" : "Mit Twitter anmelden",
-                "privacy-text" : "Wenn du dich anmeldest stimmst du zu das wir deine Daten welche mit deinem Account in Verbindung stehen speichern dürfen wie in unserer [privacy policy](/privacy) beschrieben wird."
+                "privacy-text" : "Mit der Anmeldung erklärst du dich damit einverstanden, dass wir Daten im Zusammenhang mit deinem Konto speichern, wie in unserer [Datenschutzerklärung](/privacy) beschrieben."
             },
             "username" : {
-                "title" : "Wilkommen zu fnbr.co",
-                "line1" : "Sie sind mit Discord eingeloggt, um mit anderen Nutzen kommunizieren zu können musst du einen Benutzernamen wählen.",
-                "nameTaken" : "Dein Benutzername [attemptedName] wird von einem anderen Nutzer belegt, wir haben deinen Discord Diskriminator hinzugefügt damit du diesen benutzen kannst.",
-                "randomName" : "Dein Benutzername [attemptedName] wird von einem anderen Nutzer belegt, wir konnten keinen einzigartigen Namen mit deinem Discord Diskriminator erstellen.",
+                "title" : "Wilkommen bei fnbr.co",
+                "line1" : "Du bist mit Discord angemeldet. Um mit anderen auf unserer Seite zu interagieren, musst du einen Benutzernamen wählen.",
+                "nameTaken" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir haben deinen Discord-Diskriminator hinzugefügt und schlagen dir vor, diesen zu verwenden.",
+                "randomName" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir konnten mit deinem Discord-Diskriminator keinen eindeutigen Benutzernamen vergeben.",
                 "form-username" : "Benutzername",
-                "form-criteria" : "Bitte wähle einen Benutzernahmen zwischen 2 und 32 Zeichen, dieser darf sowohl alphanumerische Zeichen als auch Unterstriche und Bindestriche enthalten.",
-                "button-text" : "Benutzernamen Bestätigen"
+                "form-criteria" : "Bitte wähle einen Benutzernamen zwischen 2 und 32 Zeichen, der sowohl alphanumerische Zeichen als auch Unterstriche und Bindestriche enthalten kann.",
+                "button-text" : "Benutzername festlegen"
             },
             "locked" : {
-                "title" : "Einloggen Fehlgeschlagen",
-                "line1" : "Sie konnten dich bei fnbr.co nicht einloggen da [your account has been locked](class=text-danger)."
+                "title" : "Anmeldung nicht möglich",
+                "line1" : "Du kannst dich nicht bei fnbr.co anmelden, weil [dein Konto gesperrt wurde](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Konto mitgriert",
-                "line1" : "Sie haben sich mit Twitter angemeldet als",
-                "line2" : "Aber, dieser account wurde migriert um mit Discord eingeloggt zu werden."
+                "line1" : "Du hast dich mit Twitter angemeldet als",
+                "line2" : "Dieses Konto wurde jedoch migriert, um die Discord-Anmeldung zu verwenden."
             },
             "notFound" : {
                 "title" : "Kein Konto gefunden",
-                "line1" : "Sie haben sich mit Twitter angemeldet als",
-                "line2" : "Aber, Sie haben sich zuvor noch nicht mit Twitter eingeloggt und jetzt unterstützen wir nur noch Twitter anmeldungen für migrations Zwecke.",
-                "line3" : "Alternativ können sie sich [login with Discord](/oauth/discord)."
+                "line1" : "Du hast dich mit Twitter angemeldet als",
+                "line2" : "Dieses Konto hat sich jedoch nie zuvor angemeldet und wir unterstützen die Twitter-Anmeldung nur noch für Migrationszwecke.",
+                "line3" : "Alternativ kannst du dich auch [mit Discord anmelden](/oauth/discord)."
             }
         },
         "errors" : {
