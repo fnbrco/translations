@@ -23,7 +23,7 @@
             "types" : {
                 "backpack" : "Rugzak",
                 "emote" : "Emote",
-                "glider" : "Zwever",
+                "glider" : "Glijder",
                 "emoji" : "Emoji",
                 "loading" : "Laadscherm",
                 "outfit" : "Outfit",
@@ -32,7 +32,7 @@
                 "umbrella" : "Paraplu",
                 "spray" : "Spray",
                 "toy" : "Speelgoed",
-                "pet" : "Dier",
+                "pet" : "Huisdier",
                 "music" : "Muziek",
                 "wrap" : "Wikkel",
                 "bundle" : "Bundel",
@@ -62,7 +62,7 @@
                 "history" : "winkel geschiedenis"
             },
             "news" : "nieuws",
-            "modes" : "modes",
+            "modes" : "modussen",
             "randomiser" : "willekeuriger",
             "about" : {
                 "dropdown" : "over",
@@ -79,7 +79,7 @@
                 "logout" : "log uit"
             },
             "languagePicker" : {
-                "title" : "Kies taal",
+                "title" : "Kies een taal",
                 "currentLanguage" : "Je gebruikt nu [language]."
             }
         },
@@ -94,8 +94,8 @@
             "title-featured" : "Uitgelicht",
             "title-daily" : "Dagelijks",
             "error" : "Winkel niet beschikbaar, probeer het later opnieuw.",
-            "line1" : "De huidige item shop van Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
-            "line2" : "Je kan de item shop van gisteren [hier](/shop/yesterday|tooltip=Item Shop van gisteren) zien.",
+            "line1" : "De huidige item winkel van Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
+            "line2" : "Je kan de item winkel van gisteren [hier](/shop/yesterday|tooltip=Item Winkel van gisteren) zien.",
             "line3" : "Klik op een item voor meer informatie.",
             "countdown" : {
                 "title" : "Nieuwe items:",
@@ -106,7 +106,7 @@
         },
         "upcoming" : {
             "title" : "Aankomende Items",
-            "line1" : "Alle onbekende items in Fortnite Battle Royale."
+            "line1" : "Alle items die nog niet zijn uitgekomen in Fortnite Battle Royale."
         },
         "list" : {
             "title" : "Cosmetica Lijst",
@@ -116,26 +116,26 @@
                 "name" : "Naam",
                 "type" : "Type",
                 "rarity" : "Zeldzaamheid",
-                "obtained" : "verkregen"
+                "obtained" : "Verkregen"
             }
         },
         "history" : {
             "list" : {
-                "title" : "Item Shop Geschiedenis",
-                "line1" : "Hier zijn de laatste 8 dagen van de item shop voor Fortnite Battle Royale.",
-                "line2" : "Klik op een item om een hele winkel te zien of scroll om de volledige item shop geschiedenis te zien per dag."
+                "title" : "Item Winkel Geschiedenis",
+                "line1" : "Hier zijn de laatste 8 dagen van de item winkel voor Fortnite Battle Royale.",
+                "line2" : "Klik op een item om een hele winkel te zien of scroll om de volledige item winkel geschiedenis te zien per dag."
             },
             "view" : {
-                "title" : "Shop Rotatie",
-                "line1" : "Dit is de item shop rotatie van [date] voor Fortnite Battle Royale. ",
-                "line2" : "Klik op een item om meer informati te zien.",
-                "today-button" : "Item Shop van vandaag"
+                "title" : "Winkel Rotatie",
+                "line1" : "Dit is de item winkel rotatie van [date] voor Fortnite Battle Royale. ",
+                "line2" : "Klik op een item om meer informatie te zien.",
+                "today-button" : "Item Winkel van vandaag"
             }
         },
         "news" : {
             "title" : "Nieuws",
-            "line1" : "De huidige in-game nieuws feed van Epic Games. Wordt elke minuut geüpdatet.",
-            "error" : "We zijn niet in staat om het nieuws van Fortnite te krijgen, probeer het later opnieuw.",
+            "line1" : "De huidige in-game nieuws feed van Epic Games. Dit wordt elke minuut geüpdate.",
+            "error" : "We zijn niet in staat om het nieuws van Fortnite te verkrijgen, probeer het later opnieuw.",
             "more-ingame-button" : "Meer Laden"
         },
         "randomiser" : {
@@ -146,20 +146,20 @@
         },
         "account" : {
             "oauth" : {
-                "title" : "Log in op fnbr.co",
+                "title" : "Log in bij fnbr.co",
                 "discord-button" : "Log in met Discord",
                 "legacy-text" : "Als alternatief, voor als je een oud account van 2018 wilt migreren:",
                 "twitter-button" : "Log in met Twitter",
                 "privacy-text" : "Door in te loggen accepteer je dat wij sommige data opslaan, deze data is geassocieerd met jouw account. Zoals in het [privacybeleid](/privacy) staat."
             },
             "username" : {
-                "title" : "Welkom op fnbr.co",
+                "title" : "Welkom bij fnbr.co",
                 "line1" : "Je bent ingelogd met Discord, om met andere te interacteren met andere op onze website moet je een gebruikersnaam kiezen",
-                "nameTaken" : "Je gebruikersnaam [attemptedName] is al gebruikt, we hebben je Discord nummer erbij toegevoegd en stellen voor dat je die gebruikt.",
-                "randomName" : "Je gebruikersnaam [attemptedName] is al gebruikt, het is ons niet gelukt een unieke naam maken door je Discord nummer te gebruiken.",
+                "nameTaken" : "Je gebruikersnaam [attemptedName] is al in gebruik, we hebben je Discord nummer erbij toegevoegd en stellen voor dat je die gebruikt.",
+                "randomName" : "Je gebruikersnaam [attemptedName] is al in gebruik, het is ons niet gelukt een unieke naam maken door je Discord nummer te gebruiken.",
                 "form-username" : "Gebruikersnaam",
                 "form-criteria" : "Kies alstublieft een gebruikersnaam tusseen 2 en 32 letters, die kan bestaan uit alfanumerieke letters, laag liggende streepjes en koppeltekens.",
-                "button-text" : "Stel jouw gebruikersnaam vast"
+                "button-text" : "Sla mijn gebruikersnaam op"
             },
             "locked" : {
                 "title" : "Kan niet inloggen",
