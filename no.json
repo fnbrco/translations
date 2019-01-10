@@ -31,7 +31,7 @@
                 "umbrella" : "Paraply",
                 "spray" : "Spray",
                 "toy" : "Leke",
-                "pet" : "Kjæledyr",
+                "pet" : "KjÃ¦ledyr",
                 "music" : "Musikk",
                 "wrap" : "Innpakkningspapir",
                 "bundle" : "Pakke",
@@ -44,7 +44,7 @@
                 "uncommon" : "Uvanlig",
                 "common" : "Vanlig"
             },
-            "translationNotAvailable" : "Desverre så er det ingen oversettelse tilgjengelig for denne siden.",
+            "translationNotAvailable" : "Desverre sÃ¥ er det ingen oversettelse tilgjengelig for denne siden.",
             "translationIncomplete" : "Denne siden er ikke helt oversatt."
         },
         "nav" : {
@@ -57,7 +57,7 @@
                 "png" : "png",
                 "gallery" : "galleri",
                 "icons" : "ikoner",
-                "reminders" : "påminnere",
+                "reminders" : "pÃ¥minnere",
                 "history" : "butikk historie"
             },
             "news" : "nyheter",
@@ -79,25 +79,25 @@
                 "logout" : "logg ut"
             },
             "languagePicker" : {
-                "trigger" : "språk",
-                "title" : "Velg Språk",
-                "currentLanguage" : "Du har nå [language] valgt som språk."
+                "trigger" : "sprÃ¥k",
+                "title" : "Velg SprÃ¥k",
+                "currentLanguage" : "Du har nÃ¥ [language] valgt som sprÃ¥k."
             }
         },
         "home" : {
             "title-upcoming" : "Kommende Ting",
             "title-all" : "Alle Ting",
-            "error" : "Ikke i stand til å hente tingene, prøv igjen veldig snart.",
+            "error" : "Ikke i stand til Ã¥ hente tingene, prÃ¸v igjen veldig snart.",
             "error-too-long" : "Dette tar lenger tid enn forventet"
         },
         "shop" : {
-            "title" : "Nåværende Rotasjon",
+            "title" : "NÃ¥vÃ¦rende Rotasjon",
             "title-featured" : "Framhevet",
             "title-daily" : "Daglig",
-            "error" : "Butikk ikke tilgjengelig, prøv igjen senere.",
-            "line1" : "Den nåværende Item Shop rotasjonen for Fortnite Battle ROyale - oppdateres daglig klokka [00:00 UTC](https://time.is/UTC|tooltip=Nåværende tid i UTC|newtab=true).",
-            "line2" : "Du kan se gårsdagens Item Shop [her](/shop/yesterday|tooltip=Gårsdagens Item Shop).",
-            "line3" : "Trykk på en av tingene for å få mere info om den.",
+            "error" : "Butikk ikke tilgjengelig, prÃ¸v igjen senere.",
+            "line1" : "Den nÃ¥vÃ¦rende Item Shop rotasjonen for Fortnite Battle Royale - oppdateres daglig klokka [00:00 UTC](https://time.is/UTC|tooltip=NÃ¥vÃ¦rende tid i UTC|newtab=true).",
+            "line2" : "Du kan se gÃ¥rsdagens Item Shop [her](/shop/yesterday|tooltip=GÃ¥rsdagens Item Shop).",
+            "line3" : "Trykk pÃ¥ en av tingene for Ã¥ fÃ¥ mere info om den.",
             "countdown" : {
                 "title" : "Nye Ting:",
                 "wordyFormat" : "[number] [noun]",
@@ -107,7 +107,7 @@
         },
         "upcoming" : {
             "title" : "Kommende Ting",
-            "line1" : "Alle ting som ikke er publisert ennå i Fortnite Battle Royale."
+            "line1" : "Alle ting som ikke er publisert ennÃ¥ i Fortnite Battle Royale."
         },
         "list" : {
             "title" : "Kosmetikker Liste",
@@ -124,69 +124,69 @@
             "list" : {
                 "title" : "Item Shop Historie",
                 "line1" : "Her er de siste 8 dagene av Item Shop rotasjonene for Fortnite Battle Royale.",
-                "line2" : "Klikk på en for å se full butikk eller skroll får å se den fulle Item Shop historien for dagen."
+                "line2" : "Klikk pÃ¥ en for Ã¥ se full butikk eller skroll fÃ¥r Ã¥ se den fulle Item Shop historien for dagen."
             },
             "view" : {
                 "title" : "Butikk Rotasjon",
                 "line1" : "Dette er Item Shop rotasjonen den [date] for Fortnite Battle Royale. ",
-                "line2" : "Trykk på en av tingene for å se mere info om den.",
+                "line2" : "Trykk pÃ¥ en av tingene for Ã¥ se mere info om den.",
                 "today-button" : "Dagens Item Shop"
             }
         },
         "news" : {
             "title" : "Nyheter",
-            "line1" : "Den nåværende in-game nyheter feeden fra Epic Games. Oppdatert hvert minutt.",
-            "error" : "Vi var ikke tilgjengelige til å få nye nyheter fra Epic Games, vi skal prøve igjen senere.",
+            "line1" : "Den nÃ¥vÃ¦rende in-game nyheter feeden fra Epic Games. Oppdatert hvert minutt.",
+            "error" : "Vi var ikke tilgjengelige til Ã¥ fÃ¥ nye nyheter fra Epic Games, vi skal prÃ¸ve igjen senere.",
             "more-ingame-button" : "Last Mere"
         },
         "randomiser" : {
             "title" : "Tilfeldigser",
             "line1" : "Velg et tilfeldig antrekk for alle de tilgjengelige tingene.",
-            "chooseText" : "Trykk for å velge",
+            "chooseText" : "Trykk for Ã¥ velge",
             "randomise-all" : "Tilfeldigser alt"
         },
         "account" : {
             "oauth" : {
-                "title" : "Log inn på fnbr.co",
+                "title" : "Log inn pÃ¥ fnbr.co",
                 "discord-button" : "Log inn med Discord",
                 "legacy-text" : "Alternativt, hvis du har en lovlig bruker fra 2018 som trenger migrasjon:",
                 "twitter-button" : "Logg inn med Twitter",
-                "privacy-text" : "Ved å logge inn så aksepterer du oss med å lagre data tilknyttet til din bruker som det blir sagt mere om i våres [personvern](/privacy)."
+                "privacy-text" : "Ved Ã¥ logge inn sÃ¥ aksepterer du oss med Ã¥ lagre data tilknyttet til din bruker som det blir sagt mere om i vÃ¥res [personvern](/privacy)."
             },
             "username" : {
                 "title" : "Velkommen til fnbr.co",
-                "line1" : "Du er logget inn med Discord, for å samhandle med andre på våres side så må du velge et brukernavn",
+                "line1" : "Du er logget inn med Discord, for Ã¥ samhandle med andre pÃ¥ vÃ¥res side sÃ¥ mÃ¥ du velge et brukernavn",
                 "nameTaken" : "Ditt brukernavn [attemptedName] er allerde brukt av en annen bruker, vi har addert ditt Discord navn og anbefaler at du bruker det.",
-                "randomName" : "Ditt brukernavn [attemptedName] er allerde brukt av en annen bruker, vi var utilgjengelige til å lage et unikt navn ved å bruke ditt Discord navn.",
+                "randomName" : "Ditt brukernavn [attemptedName] er allerde brukt av en annen bruker, vi var utilgjengelige til Ã¥ lage et unikt navn ved Ã¥ bruke ditt Discord navn.",
                 "form-username" : "Brukernavn",
                 "form-criteria" : "Vennligst velg et brukernavn mellom 2 og 32 bokstaver, som kan inneholde tegn som understreker.",
                 "button-text" : "Set my username"
             },
             "locked" : {
-                "title" : "Ikke tilgjengelig for å logge inn",
-                "line1" : "Du er ikke tilgjengelig for å logge inn på fnbr.co på grunn av at [din bruker er blitt låst](class=text-danger)."
+                "title" : "Ikke tilgjengelig for Ã¥ logge inn",
+                "line1" : "Du er ikke tilgjengelig for Ã¥ logge inn pÃ¥ fnbr.co pÃ¥ grunn av at [din bruker er blitt lÃ¥st](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Bruker migrert",
                 "line1" : "Du logget inn med Twitter",
-                "line2" : "Men, den brukeren har blitt migrert til å bruke Discord logg inn."
+                "line2" : "Men, den brukeren har blitt migrert til Ã¥ bruke Discord logg inn."
             },
             "notFound" : {
                 "title" : "Ingen bruker funnet",
                 "line1" : "Du logget inn med Twitter",
-                "line2" : "Men, den brukeren har aldri blitt logget inn på før, og nå støtter vi bare Twitter logg inn for migrasjon formål.",
+                "line2" : "Men, den brukeren har aldri blitt logget inn pÃ¥ fÃ¸r, og nÃ¥ stÃ¸tter vi bare Twitter logg inn for migrasjon formÃ¥l.",
                 "line3" : "Et alternativ er at du kan [Logge inn med Discord](/oauth/discord)."
             }
         },
         "errors" : {
             "404" : {
                 "title" : "Error",
-                "line1" : "Enten så finnes ikke kilden du forespurte, eller så har du ikke rett til å se den."
+                "line1" : "Enten sÃ¥ finnes ikke kilden du forespurte, eller sÃ¥ har du ikke rett til Ã¥ se den."
             },
             "500" : {
                 "title" : "Uh oh!",
-                "line1" : "Noe gikk galt imens din forespørsel ble behandlet, vennligst prøv igjen senere!",
-                "line2" : "Du kan prøve å logge inn igjen [her](/oauth)."
+                "line1" : "Noe gikk galt imens din forespÃ¸rsel ble behandlet, vennligst prÃ¸v igjen senere!",
+                "line2" : "Du kan prÃ¸ve Ã¥ logge inn igjen [her](/oauth)."
             }
         }
     }
