@@ -15,12 +15,6 @@
             "authors" : ["Closeings#9548", "daanz#3412", "Doolrex#5512", "srdrabx#6513"]
         },
         {
-            "name": "Português",
-            "code": "pt",
-            "flag": "pt",
-            "live": false
-        },
-        {
             "name": "Français",
             "code": "fr",
             "flag": "fr",
@@ -47,6 +41,19 @@
             "flag": "de",
             "live": true,
             "authors" : ["Laurin#0001", "Terax#9758"]
+        },
+        {
+            "name": "Português",
+            "code": "pt",
+            "flag": "pt",
+            "live": false
+        },
+        {
+            "name": "Português",
+            "code": "pt-BR",
+            "flag": "br",
+            "live": true,
+            "authors" : ["Ian Szot#4959"]
         },
         {
             "name": "Română",
