@@ -86,9 +86,9 @@
             }
         },
         "home" : {
-            "title-upcoming" : "Bald verfügbare Items",
-            "title-all" : "Alle Items",
-            "error" : "Fehler beim einsehen der Items, versuche es später erneut.",
+            "title-upcoming" : "Bald verfügbare Gegenstände",
+            "title-all" : "Alle Gegenstände",
+            "error" : "Fehler beim einsehen der Gegenstände, versuche es später erneut.",
             "error-too-long" : "Es dauert anscheinend länger als erwartet."
         },
         "shop" : {
