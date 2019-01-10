@@ -66,6 +66,7 @@
             "randomiser" : "randomiseur",
             "about" : {
                 "dropdown" : "menu déroulant",
+	        "translate" : "traduire",
                 "about" : "à propos de fnbr.co",
                 "privacy" : "politique de confidentialité",
                 "donate" : "Faire un don",
@@ -79,8 +80,9 @@
                 "logout" : "Se Déconnecter"
             },
             "languagePicker" : {
+		"trigger" : "language",
                 "title" : "Choisissez une langue",
-                "currentLanguage" : "Vous utilisez le français."
+                "currentLanguage" : "Vous utilisez le [language]"
             }
         },
         "home" : {
@@ -94,9 +96,9 @@
             "title-featured" : "Objets à la Une",
             "title-daily" : "Objets du Jour",
             "error" : "Boutique non disponible, veuillez réessayer dans quelques instants",
-            "line1" : "La rotation actuelle de la boutique d’articles pour Fortnite Battle Royale - mise à jour quotidiennement à [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line1" : "Rotation actuelle de la boutique d’articles pour Fortnite Battle Royale - mise à jour quotidiennement à [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
             "line2" : "Vous pouvez voir la boutique d'objets d'hier [ici](/shop/yesterday|tooltip=Magasin d'objets d'hier).",
-            "line3" : "Cliquez sur un cosmétique pour voir plus d'informations à ce sujet.",
+            "line3" : "Cliquez sur un objet pour voir plus d'informations à ce sujet.",
             "countdown" : {
                 "title" : "Nouveaux objets:",
                 "wordyFormat" : "[number] [noun]",
@@ -140,9 +142,9 @@
         },
         "randomiser" : {
             "title" : "Randomiseur",
-            "line1" : "Choisi une tenue aléatoirement avec tous les objets actuellement disponibles",
+            "line1" : "Créer une tenue aléatoire avec tous les objets actuellement disponibles",
             "chooseText" : "Cliquez pour choisir",
-            "randomise-all" : "Tout aléatoire"
+            "randomise-all" : "Choix aléatoire"
         },
         "account" : {
             "oauth" : {
@@ -185,7 +187,7 @@
             "500" : {
                 "title" : "Uh oh!",
                 "line1" : "Quelque chose s'est mal passé lors du traitement de votre demande, veuillez réessayer plus tard !",
-                "line2" : "Vous pouvez réessayer de vous connecter [ici](/oauth)."
+                "line2" : "Vous pouvez tenter de vous reconnecter [ici](/oauth)."
             }
         }
     }
