@@ -45,7 +45,7 @@
                 "uncommon" : "Ungewöhnlich",
                 "common" : "Gewöhnlich"
             },
-            "translationNotAvailable" : "Es gibt leider keine Übersetzung für diese Seite.",
+            "translationNotAvailable" : "Leider ist für diese Seite keine Übersetzung verfügbar.",
             "translationIncomplete" : "Nicht der komplette Text wird in dieser Sprache übersetzt."
         },
         "nav" : {
