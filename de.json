@@ -92,13 +92,13 @@
             "error-too-long" : "Das dauert länger als erwartet"
         },
         "shop" : {
-            "title" : "Aktueller Shop",
+            "title" : "Aktuelle Rotation",
             "title-featured" : "Vorgestellt",
             "title-daily" : "Täglich",
             "error" : "Shop nicht verfügbar, versuche es später erneut.",
-            "line1" : "Der aktuelle Item-Shop in Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Du kannst den gestrigen Item-Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
-            "line3" : "Klicke auf einen Gegenstand um mehr über diesen zu erfahren.",
+            "line1" : "Die aktuelle Item Shop-Rotation für Fortnite Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Aktuelle Zeit in UTC|newtab=true).",
+            "line2" : "Du kannst den gestrigen Item Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
+            "line3" : "Klicke auf einen Gegenstand, um mehr über diesen zu erfahren.",
             "countdown" : {
                 "title" : "Neue Gegenstände:",
                 "wordyFormat" : "[number] [noun]",
