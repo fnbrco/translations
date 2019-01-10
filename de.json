@@ -89,7 +89,7 @@
             "title-upcoming" : "Bald verfügbare Gegenstände",
             "title-all" : "Alle Gegenstände",
             "error" : "Fehler beim Abrufen der Gegenstände, versuche es später erneut.",
-            "error-too-long" : "Es dauert anscheinend länger als erwartet."
+            "error-too-long" : "Das dauert länger als erwartet"
         },
         "shop" : {
             "title" : "Aktueller Shop",
