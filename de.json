@@ -141,10 +141,10 @@
             "more-ingame-button" : "Mehr laden"
         },
         "randomiser" : {
-            "title" : "Zufalls-Generator",
-            "line1" : "Wähle ein zufälliges Item von allen verfügbaren aus.",
-            "chooseText" : "Drücke zum auswählen",
-            "randomise-all" : "Alle zufällig Generieren"
+            "title" : "Zufallsgenerator",
+            "line1" : "Wähle ein zufälliges Outfit von allen verfügbaren Gegenständen aus.",
+            "chooseText" : "Klicke, um auszuwählen",
+            "randomise-all" : "Alle randomisieren"
         },
         "account" : {
             "oauth" : {
