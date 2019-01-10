@@ -1,0 +1,194 @@
+{
+    "name" : "Dansk",
+    "name-en" : "Danish",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : true,
+            "dateFormat" : "[month] [date] [year]",
+            "months" : [
+                "Januar",
+                "Februar",
+                "Marts",
+                "April",
+                "Maj",
+                "Juni",
+                "Juli",
+                "August",
+                "September",
+                "Oktober",
+                "November",
+                "December"
+            ],
+            "types" : {
+                "backpack" : "Rygsæk",
+                "emote" : "Udtryk",
+                "glider" : "Svævefly",
+                "emoji" : "Emoji",
+                "loading" : "Indlæsningsskærm",
+                "outfit" : "Udrustning",
+                "pickaxe" : "Hakke",
+                "skydive" : "Faldskærmsudsprings Spor",
+                "umbrella" : "Paraply",
+                "spray" : "Sprøjte",
+                "toy" : "Legetøj",
+                "pet" : "Kæledyr",
+                "music" : "Musik",
+                "wrap" : "Indpakning",
+                "bundle" : "Pakke",
+                "misc" : "Diverse"
+            },
+            "rarity" : {
+                "legendary" : "Legendarisk",
+                "epic" : "Episk",
+                "rare" : "Sjælden",
+                "uncommon" : "Ualmindelig",
+                "common" : "Almindelig"
+            },
+            "translationNotAvailable" : "Desværre er der ingen oversættelse tilgængelig for denne side.",
+            "translationIncomplete" : "Ikke alt tekst på denne side vil blive oversat"
+        },
+        "nav" : {
+            "home" : "Hjem",
+            "shop" : "Butik",
+            "cosmetics" : {
+                "dropdown" : "Kosmetikker",
+                "upcoming" : "Kommende",
+                "list" : "Liste",
+                "png" : "png",
+                "gallery" : "Galleri",
+                "icons" : "Ikoner",
+                "reminders" : "Påmindelser",
+                "history" : "Butikshistorie"
+            },
+            "news" : "Nyheder",
+            "modes" : "Tilstande",
+            "randomiser" : "Tilfældig",
+            "about" : {
+                "dropdown" : "Om",
+                "translate" : "Oversæt",
+                "about" : "Om fnbr.co",
+                "privacy" : "Fortrolighedspolitik",
+                "donate" : "Donere",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "Konto",
+                "account" : "Konto",
+                "logout" : "Log ud"
+            },
+            "languagePicker" : {
+                "trigger" : "Sprog",
+                "title" : "Vælg sprog",
+                "currentLanguage" : "Du bruger i øjeblikket [language]."
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Kommende varer",
+            "title-all" : "Alle varer",
+            "error" : "Ude af stand til at hente varer, prøv venligst igen om et øjeblik.",
+            "error-too-long" : "Dette tager længere end forventet."
+        },
+        "shop" : {
+            "title" : "Nuværende Rotation",
+            "title-featured" : "Udvalgt",
+            "title-daily" : "Daglig",
+            "error" : "Butikken er ikke tilgængelig, prøv venligst igen om et øjeblik",
+            "line1" : "Den nuværende butik for Fortnite Battle Royale - opdaterer dagligt ved [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Du kan se i gårs butik [her](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line3" : "Klik på en kosmetik for at se mere information om den.",
+            "countdown" : {
+                "title" : "Nye varer:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "time",
+                "hours-plural" : "timer"
+            }
+        },
+        "upcoming" : {
+            "title" : "Kommende Kosmetikker",
+            "line1" : "Alle uudgivede varer i Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "Kosmetik Liste",
+            "line1" : "Alle kosmetikker tilgængelige i Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Ikon",
+                "name" : "Navn",
+                "type" : "Type",
+                "rarity" : "Sjældenhed",
+                "obtained" : "Opnået"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Butikkens Historie",
+                "line1" : "Her er de sidste 8 dages butiksrotationer i Fortnite Battle Royale.",
+                "line2" : "Klik på en for at se hele butikken eller scroll for at se hele butikkens historie dag for dag."
+            },
+            "view" : {
+                "title" : "Butiksrotation",
+                "line1" : "Dette er butikkens rotation af [date] for Fortnite Battle Royale. ",
+                "line2" : "Klik på en kosmetik for at se mere information om den.",
+                "today-button" : "I dags butik"
+            }
+        },
+        "news" : {
+            "title" : "Nyheder",
+            "line1" : "Den aktuelle in-game nyhedsfeed fra Epic Games. Opdateret hvert minut.",
+            "error" : "Vi var ude af stand til at få nyhederne fra Fortnite, vi vil prøve igen snart.",
+            "more-ingame-button" : "Indlæs Mere"
+        },
+        "randomiser" : {
+            "title" : "Tilfældig",
+            "line1" : "Vælg en tilfældig udrustning fra alle ting tilgængelige.",
+            "chooseText" : "Klik for at vælge",
+            "randomise-all" : "Gør alt tilfældigt"
+        },
+        "account" : {
+            "oauth" : {
+                "title" : "Log ind på fnbr.co",
+                "discord-button" : "Log ind med Discord",
+                "legacy-text" : "Alternativt, hvis du har en forældet konto fra 2018 som mangler migration:",
+                "twitter-button" : "Log ind med Twitter",
+                "privacy-text" : "Ved at logge ind accepterer du at vi opbevarer data i forbindelse med din konto som angivet i vores [Fortrolighedspolitik](/privacy)."
+            },
+            "username" : {
+                "title" : "Velkommen til fnbr.co",
+                "line1" : "Du er logget ind med Discord, for at interagere med andre på vores hjemmeside har vi brug for at du vælger et brugernavn",
+                "nameTaken" : "Dit brugernavn [attemptedName] er taget af en anden bruger, vi har tilføjet din Discord diskriminator og foreslår at du bruger den.",
+                "randomName" : "Dit brugernavn [attemptedName] er taget af en anden bruger, vi var ikke i stand til at lave et unikt navn ved at bruge din Discord diskriminator.",
+                "form-username" : "Brugernavn",
+                "form-criteria" : "Vælg venligst et brugernavn mellem 2 og 32 tegn, hvilket må indeholde alfanumeriske tegn såvel som understreg og bindestreg.",
+                "button-text" : "Indstil mit brugernavn"
+            },
+            "locked" : {
+                "title" : "Kan ikke logge ind",
+                "line1" : "Du kan ikke logge ind på fnbr.co fordi [din konto er blevet låst](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Konto migreret",
+                "line1" : "You logged in with Twitter as",
+                "line2" : "However, that account has been migrated to use Discord login."
+            },
+            "notFound" : {
+                "title" : "No Account Found",
+                "line1" : "Du er logget ind med Twitter, som",
+                "line2" : "Denne konto er dog aldrig logget ind før, og vi understøtter nu kun Twitter login for migrationsformål.",
+                "line3" : "Alternativt, kan du [logge ind med Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Fejl",
+                "line1" : "Den ressource, du har anmodet om, findes ikke, eller du har ikke tilladelse til at se den."
+            },
+            "500" : {
+                "title" : "Åh åh!",
+                "line1" : "Noget gik galt under behandlingen af din anmodning, prøv venligst igen senere!",
+                "line2" : "Du kan prøve at logge ind igen [her](/oauth)."
+            }
+        }
+    }
+}
