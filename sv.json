@@ -82,7 +82,12 @@
             "languagePicker" : {
                 "trigger" : "språk",
                 "title" : "Välj språk",
-                "currentLanguage" : "Du använder nu [language]."
+                "currentLanguage" : "Du använder nu [language].",
+                "error" : "Fel vid nedladdning språkfil",
+                "authors" : "Översatt av:",
+                "cta" : "Klicka för att växla till [language]",
+                "switching" : "Downloading [language]...",
+                "finished" : "Ditt språk har ändrats!"
             }
         },
         "home" : {
@@ -104,6 +109,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "timme",
                 "hours-plural" : "timmar"
+            },
+            "yesterday" : {
+                "title" : "Gårdagens Shop Rotation"
             }
         },
         "upcoming" : {
@@ -146,7 +154,80 @@
             "chooseText" : "Klicka för att välja",
             "randomise-all" : "Randomise All"
         },
+        "png" : {
+            "title" : "Kosmetika PNG",
+            "line1" : "Vänligen ge kredit till fnbr.co om du använder någon av dessa bilder. Previews är nedskalade, nedladdningar kommer att vara i full storlek.",
+            "sort-by" : "Sortera efter:",
+            "all" : "Allt"
+        },
+        "gallery" : {
+            "title" : "Kosmetika Gallery",
+            "line1" : "Varje kosmetisk tillgänglig i Fortnite Battle Royale.",
+            "line2" : "Vänligen använd inte dessa bilder på din personliga hemsida/sociala media konto utan kredit till fnbr.co"
+        },
+        "icons" : {
+            "title" : "Fortnite Battle Royale Ikoner",
+            "line1" : "Alla bilder tillhör Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Inte släppt",
+            "description" : "Beskrivning",
+            "history" : {
+                "title" : "Shop Historia",
+                "release-never" : "Utgivningsdatum: Aldrig",
+                "release-date" : "Utgivningsdatum:",
+                "last-never" : "Senast sedd: Aldrig",
+                "last-date" : "Senast sedd:",
+                "occurrences" : "Occurrences:",
+                "reminder-count" : "Användare med [påminnelser](/reminders):",
+                "add-reminder" : "Lägg till påminnelse",
+                "remove-reminder" : "Ta bort påminnelse",
+                "has-reminders" : "Du har påminnelser angett för det här objektet.",
+                "no-reminders" : "Påminnelser inte är tillgängliga för detta objekt.",
+                "images" : "Bilder",
+                "images-icon" : "Ikon",
+                "images-png" : "PNG",
+                "images-gallery" : "Galleri",
+                "images-featured" : "Featured",
+                "interest-title" : "Intresset över tiden",
+                "interest-line1" : "Detta representerar intresse för det här objektet över tiden, 100% är den mest populära tiden.",
+                "interest-line2" : "Data för idag kan vara ofullständig",
+                "occurrences-table" : {
+                    "title" : "Shop Occurences",
+                    "th-date" : "Datum",
+                    "th-days" : "Dagar sedan"
+                },
+                "set" : "Set",
+                "set-name" : "Del av [name]",
+                "popular-title" : "Populära Artiklar Idag"
+            }
+        },
         "account" : {
+            "home" : {
+                "title" : "Din Konto Data",
+                "error" : "Något gick fel med att ladda ditt konto data, försök igen senare.",
+                "info" : {
+                    "title" : "Information",
+                    "line1" : "Du är inloggad med [provider] som [username]",
+                    "line2-api-yes" : "Du har [api tillgång](/api/docs)",
+                    "line2-api-no" : "Du har inte api tillgång."
+                },
+                "migration" : {
+                    "title" : "Gamla Konton",
+                    "waiting-line1" : "Vi har börjat använda Discord logga in.",
+                    "waiting-line2" : "Om du har ett konto från 2018, du måste logga in med den att slå samman den med den här",
+                    "twitter-line1" : "Vi har börjat använda Discord logga in. Du använder för närvarande en gamla konto vilket kan stoppas i framtiden och har begränsade funktioner.",
+                    "twitter-line2" : "Att migrera till ett diskord konto, klicka på knappen nedan"
+                },
+                "ratings" : {
+                    "title" : "Ratings",
+                    "none" : "Du har inga ratings."
+                },
+                "destroy" : {
+                    "title" : "Förstöra Konto",
+                    "line1" : "Om du inte vill ha ditt konto, du kan ta bort den och dess data [här](/account/destroy)"
+                }
+            },
             "oauth" : {
                 "title" : "Logga in fnbr.co",
                 "discord-button" : "Logga in med Discord",
