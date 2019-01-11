@@ -37,7 +37,7 @@
                 "wrap" : "Wikkel",
                 "bundle" : "Bundel",
                 "misc" : "Overig"
-             },
+            },
             "rarity" : {
                 "legendary" : "Legendarisch",
                 "epic" : "Episch",
@@ -148,7 +148,7 @@
             "more-ingame-button" : "Meer Laden"
         },
         "randomiser" : {
-           "title" : "Willekeurige items",
+            "title" : "Willekeurige items",
             "line1" : "Kies een willekeurige outfit van alle outfits beschikbaar.",
             "chooseText" : "Klik om te kiezen",
             "randomise-all" : "Maak alles willekeurig"
