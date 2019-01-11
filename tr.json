@@ -82,7 +82,12 @@
             "languagePicker" : {
                 "trigger" : "language",
                 "title" : "Dil Seçiniz",
-                "currentLanguage" : "Şu anda [language] kullanıyorsunuz."
+                "currentLanguage" : "Şu anda [language] kullanıyorsunuz.",
+                "error" : "Dil dosyası indirilirken hata oluştu",
+                "authors" : "Tercüme eden:",
+                "cta" : "[language] geçmek için tıklayın",
+                "switching" : "İndiriliyor [language]...",
+                "finished" : "Diliniz değiştirildi!"
             }
         },
         "home" : {
