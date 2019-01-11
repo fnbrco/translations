@@ -81,7 +81,12 @@
             "languagePicker" : {
                 "trigger" : "language",
                 "title" : "Pick language",
-                "currentLanguage" : "You are currently using [language]."
+                "currentLanguage" : "You are currently using [language]",
+                "error" : "Error while downloading language file",
+                "authors" : "Translated by:",
+                "cta" : "Click to switch to [language]",
+                "switching" : "Downloading [language]...",
+                "finished" : "Your language has been changed!"
             }
         },
         "home" : {
