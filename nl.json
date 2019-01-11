@@ -1,5 +1,6 @@
 {
-    "name" : "Dutch",
+    "name" : "Nederlands",
+    "name-en" : "Dutch",
     "live" : true,
     "translations" : {
         "meta" : {
@@ -20,7 +21,7 @@
                 "December"
             ],
             "types" : {
-               "backpack" : "Rugzak",
+                "backpack" : "Rugzak",
                 "emote" : "Emote",
                 "glider" : "Zwever",
                 "emoji" : "Emoji",
@@ -46,7 +47,7 @@
             },
             "translationNotAvailable" : "Helaas is er geen vertaling beschikbaar voor deze pagina.",
             "translationIncomplete" : "Niet alle tekst op deze pagina zal worden vertaald."
-        {,
+        },
         "nav" : {
             "home" : "home",
             "shop" : "winkel",
@@ -60,7 +61,7 @@
                 "reminders" : "herinneringen",
                 "history" : "winkel geschiedenis"
             },
-              "news" : "nieuws",
+            "news" : "nieuws",
             "modes" : "modes",
             "randomiser" : "willekeurige Items",
             "about" : {
@@ -71,7 +72,7 @@
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
-           "api" : "api",
+            "api" : "api",
             "account" : {
                 "dropdown" : "account",
                 "account" : "account",
@@ -95,7 +96,7 @@
             "error-too-long" : "Dit duurt langer dan gedacht"
         },
         "shop" : {
-           "title" : "Huidige winkel",
+            "title" : "Huidige winkel",
             "title-featured" : "Uitgelicht",
             "title-daily" : "Dagelijks",
             "error" : "Winkel niet beschikbaar, probeer het later opnieuw.",
@@ -138,7 +139,6 @@
                 "line1" : "Dit is de item shop rotatie van [date] voor Fortnite Battle Royale. ",
                 "line2" : "Klik op een item om meer informati te zien.",
                 "today-button" : "Item Shop van vandaag"
-
             }
         },
         "news" : {
@@ -271,3 +271,4 @@
             }
         }
     }
+ }
