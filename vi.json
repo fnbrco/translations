@@ -80,7 +80,7 @@
             },
             "languagePicker" : {
                 "title" : "Chọn Ngôn Ngữ",
-                "currentLanguage" : "Bạn hiện đang sử dụng [ngôn ngữ]."
+                "currentLanguage" : "Bạn hiện đang sử dụng [language]."
             }
         },
         "home" : {
@@ -127,7 +127,7 @@
             },
             "view" : {
                 "title" : "Xoay vòng cửa hàng",
-                "line1" : "Đây là vòng quay của cửa hàng vật phẩm [ngày] cho Fortnite Battle Royale. ",
+                "line1" : "Đây là vòng quay của cửa hàng vật phẩm [date] cho Fortnite Battle Royale. ",
                 "line2" : "Nhấp vào một mỹ phẩm để xem thêm thông tin về nó.",
                 "today-button" : "Cửa hàng vật phẩm hôm nay"
             }
