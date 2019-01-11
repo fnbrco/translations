@@ -79,8 +79,14 @@
                 "logout" : "cerrar sesión"
             },
             "languagePicker" : {
+                "trigger" : "Idioma",
                 "title" : "Seleccionar idioma",
-                "currentLanguage" : "Actualmente estás usando [language]."
+                "currentLanguage" : "Estas usando el idioma [language]",
+                "error" : "Error al descargar el archivo de idioma",
+                "authors" : "Traducido por:",
+                "cta" : "Haga clic para cambiar a [language]",
+                "switching" : "Descargar [language]...",
+                "finished" : "¡Su idioma ha sido cambiado!"
             }
         },
         "home" : {
