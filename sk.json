@@ -80,8 +80,13 @@
             },
             "languagePicker" : {
                 "trigger" : "jazyk",
-                "title" : "Zvoľ jazyk",
-                "currentLanguage" : "Práve používaš [language]."
+                "title" : "Zvoľte jazyk",
+                "currentLanguage" : "Práve používate [language].",
+                "error" : "Vyskytla sa chyba pri sťahovaní jazykov",
+                "authors" : "Preložil:",
+                "cta" : "Klikne pre prepnutie na [language]",
+                "switching" : "Sťahujem [language]...",
+                "finished" : "Váš jazyk bol zmenený!"
             }
         },
         "home" : {
@@ -103,6 +108,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "hodina",
                 "hours-plural" : "hodiny"
+            },
+            "yesterday" : {
+                "title" : "Včerajšia rotácia v obchode"
             }
         },
         "upcoming" : {
@@ -142,8 +150,80 @@
             "line1" : "Zvoľ si náhodnú výstroj z hociktorej dostupnej položky.",
             "chooseText" : "Klikne pre zvolenie",
             "randomise-all" : "Náhodne Všetko"
+        "png" : {
+            "title" : "Položka PNG",
+            "line1" : "Prosíme aby ste poskytli uznanie fnbr.co, ak použijete tieto ktorékoľvek obrázky. Náhľad je zmenšený, stiahnite pre plnú veľkosť.",
+            "sort-by" : "Zoradené podľa:",
+            "all" : "Všetko"
+        },
+        "gallery" : {
+            "title" : "Galéria položiek",
+            "line1" : "Každá položka, ktorá je dostupná v Fortnite Battle Royale.",
+            "line2" : "Prosím nepoužívajte tieto obrázky pre vlastné účely alebo sociálne siete bez uvedenia uznania pre fnbr.co."
+        },
+        "icons" : {
+            "title" : "Fortnite Battle Royale Ikony",
+            "line1" : "Všetky obrázky patria Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Nevydané",
+            "description" : Popis",
+            "history" : {
+                "title" : "História Obchodu",
+                "release-never" : "Dátum vydania: Nikdy",
+                "release-date" : "Dátum vydania:",
+                "last-never" : "Naposledy videný: Nikdy",
+                "last-date" : "Naposledy videný:",
+                "occurrences" : "Výskyt:",
+                "reminder-count" : "Užívatelia s [reminders](/reminders):",
+                "add-reminder" : "Pridať Pripomienku",
+                "remove-reminder" : "Vymazať Pripomienku",
+                "has-reminders" : "Máte nastavenú pripomienku pre túto položku.",
+                "no-reminders" : "Pripomienky nie sú dostupné pre túto položku.",
+                "images" : "Obrázky",
+                "images-icon" : "Ikony",
+                "images-png" : "PNG",
+                "images-gallery" : "Galéria",
+                "images-featured" : "Vybrané",
+                "interest-title" : "Záujem v čase",
+                "interest-line1" : "Toto reprezentuje záujem o túto položku, 100% času je najviac populárna.",
+                "interest-line2" : "Dáta pre dnešok môžu byť nekompletné.",
+                "occurrences-table" : {
+                    "title" : "Výskyt v obchode",
+                    "th-date" : "Dátum",
+                    "th-days" : "Pred Dňami"
+                },
+                "set" : "Nastaviť",
+                "set-name" : "Časť z [name]",
+                "popular-title" : "Dnešná Populárna Položka"
+            }
         },
         "account" : {
+            "home" : {
+                "title" : "Vaše dáta z účtu",
+                "error" : "Pri načítaní údajov vášho účtu sa vyskytla chyba. Skúste to znova neskôr.",
+                "info" : {
+                    "title" : "Informácie",
+                    "line1" : "Ste prihláseny s [provider] ako [username]",
+                    "line2-api-yes" : "Máte [api access](/api/docs)",
+                    "line2-api-no" : "Nemáte prístup ku api."
+                },
+                "migration" : {
+                    "title" : "Staršie účty",
+                    "waiting-line1" : "Presunuli sme sa na prihlásenie cez Discord.",
+                    "waiting-line2" : "Ak máte účet od roku 2018, musíte sa s ním prihlásiť a zlúčiť ho s týmto",
+                    "twitter-line1" : "Presunuli sme sa na používanie Discordu pre prihlásenie. V súčasnosti používate starý účet, ktorý môže byť v budúcnosti zrušený a má obmedzené funkcie.",
+                    "twitter-line2" : "Pre presunutie sa na Discord účet kliknite na tlačidlo nižšie"
+                },
+                "ratings" : {
+                    "title" : "Hodnotenie",
+                    "none" : "Nemáte žiadne hodnotenie."
+                },
+                "destroy" : {
+                    "title" : "Zrušiť účet",
+                    "line1" : "Ak už nebudete chcieť váš účet, môžete ho vymazať a sním všetky jeho dáta [here](/account/destroy)"
+                }
+            },
             "oauth" : {
                 "title" : "Prihlásenie sa do fnbr.co",
                 "discord-button" : "Prihlásenie sa z Discord účtom",
