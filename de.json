@@ -5,7 +5,7 @@
     "translations" : {
         "meta" : {
             "thForDate" : false,
-            "dateFormat" : "[date] [month] [year]",
+            "dateFormat" : "[date]. [month] [year]",
             "months" : [
                 "Januar",
                 "Februar",
@@ -82,7 +82,12 @@
             "languagePicker" : {
                 "trigger" : "Sprache",
                 "title" : "Sprache auswählen",
-                "currentLanguage" : "Du verwendest derzeit [language]."
+                "currentLanguage" : "Du verwendest derzeit [language]",
+                "error" : "Fehler beim Herunterladen der Sprachdatei",
+                "authors" : "Übersetzt von:",
+                "cta" : "Klicke hier, um zu [language] zu wechseln",
+                "switching" : "Lade [language] herunter...",
+                "finished" : "Deine Sprache wurde geändert!"
             }
         },
         "home" : {
@@ -104,6 +109,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "Stunde",
                 "hours-plural" : "Stunden"
+            },
+            "yesterday" : {
+                "title" : "Gestrige Shop-Rotation"
             }
         },
         "upcoming" : {
@@ -146,7 +154,80 @@
             "chooseText" : "Klicke, um auszuwählen",
             "randomise-all" : "Alle randomisieren"
         },
+        "png" : {
+            "title" : "Gegenstands-PNG",
+            "line1" : "Bitte verweise auf fnbr.co, wenn du eines dieser Bilder verwendest. Vorschaubilder sind verkleinert dargestellt, Downloads werden in voller Größe angeboten.",
+            "sort-by" : "Sortieren nach:",
+            "all" : "Alle"
+        },
+        "gallery" : {
+            "title" : "Gegenstandsgallerie",
+            "line1" : "Jeder Gegenstand, der in Fortnite Battle Royale erhältlich ist.",
+            "line2" : "Bitte verwende diese Bilder nicht auf deiner persönlichen Website/deinem Social Media-Konto ohne Verweis auf fnbr.co"
+        },
+        "icons" : {
+            "title" : "Fortnite Battle Royale Icons",
+            "line1" : "Alle Bilder sind Eigentum von Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Nicht veröffentlicht",
+            "description" : "Beschreibung",
+            "history" : {
+                "title" : "Shop-Historie",
+                "release-never" : "Erscheinungsdatum: Niemals",
+                "release-date" : "Erscheinungsdatum:",
+                "last-never" : "Zuletzt gesehen: Niemals",
+                "last-date" : "Zuletzt gesehen:",
+                "occurrences" : "Erscheinungen:",
+                "reminder-count" : "Benutzer mit [Erinnerungen](/reminders):",
+                "add-reminder" : "Erinnerung hinzufügen",
+                "remove-reminder" : "Erinnerung entfernen",
+                "has-reminders" : "Du hast Erinnerungen für diesen Gegenstand eingerichtet.",
+                "no-reminders" : "Für diesen Gegenstand sind keine Erinnerungen verfügbar.",
+                "images" : "Bilder",
+                "images-icon" : "Icon",
+                "images-png" : "PNG",
+                "images-gallery" : "Gallerie",
+                "images-featured" : "Vorgestellt",
+                "interest-title" : "Interesse im Zeitverlauf",
+                "interest-line1" : "Dies stellt das Interesse an diesem Gegenstand im Laufe der Zeit dar, wobei 100 % die beliebteste Zeit ist.",
+                "interest-line2" : "Die Daten für heute können unvollständig sein",
+                "occurrences-table" : {
+                    "title" : "Shop-Erscheinungen",
+                    "th-date" : "Datum",
+                    "th-days" : "Tage zuvor"
+                },
+                "set" : "Set",
+                "set-name" : "Teil von [name]",
+                "popular-title" : "Beliebte Gegenstände heute"
+            }
+        },
         "account" : {
+            "home" : {
+                "title" : "Deine Kontodaten",
+                "error" : "Etwas ist beim Laden deiner Kontodaten schief gelaufen, bitte versuche es später noch einmal.",
+                "info" : {
+                    "title" : "Information",
+                    "line1" : "Du bist mit [provider] als [username] angemeldet",
+                    "line2-api-yes" : "Du hast [API-Zugriff](/api/docs)",
+                    "line2-api-no" : "Du hast keinen API-Zugriff."
+                },
+                "migration" : {
+                    "title" : "Legacy-Konten",
+                    "waiting-line1" : "Wir sind dazu übergegangen, Discord für die Anmeldung zu verwenden.",
+                    "waiting-line2" : "Wenn du ein Konto aus dem Jahr 2018 hast, musst du dich damit anmelden, um es mit diesem zusammenzuführen",
+                    "twitter-line1" : "Wir sind dazu übergegangen, Discord für die Anmeldung zu verwenden. Du verwendest derzeit ein Legacy-Konto, das in Zukunft möglicherweise nicht mehr verwendet werden kann und nur begrenzte Funktionalität bietet.",
+                    "twitter-line2" : "Um zu einem Discord-Konto zu migrieren, klicke auf die folgende Schaltfläche"
+                },
+                "ratings" : {
+                    "title" : "Bewertungen",
+                    "none" : "Du hast keine Bewertungen."
+                },
+                "destroy" : {
+                    "title" : "Konto löschen",
+                    "line1" : "Wenn du dein Konto nicht mehr willst, kannst du es und all seine Daten [hier](/account/destroy) löschen"
+                }
+            },
             "oauth" : {
                 "title" : "Bei fnbr.co anmelden",
                 "discord-button" : "Mit Discord anmelden",
