@@ -161,7 +161,7 @@
             "line1" : "Todas las imagenes pertenecen a Epic Games."
         },
         "item" : {
-            "unreleased" : "Unreleased",
+            "unreleased" : "No lanzado",
             "description" : "Descripción",
             "history" : {
                 "title" : "Historial de la tienda",
@@ -195,7 +195,7 @@
         },
         "account" : {
             "home" : {
-                "title" : "Datos de tu cuenta",
+                "title" : "Datos de su cuenta",
                 "error" : "Algo falló al cargar los datos de su cuenta, por favor inténtelo de nuevo más tarde.",
                 "info" : {
                     "title" : "Información",
