@@ -82,7 +82,12 @@
             "languagePicker" : {
                 "trigger" : "Sprache",
                 "title" : "Sprache auswählen",
-                "currentLanguage" : "Du verwendest derzeit [language]."
+                "currentLanguage" : "Du verwendest derzeit [language]",
+                "error" : "Fehler beim Herunterladen der Sprachdatei",
+                "authors" : "Übersetzt von:",
+                "cta" : "Klicke hier, um zu [language] zu wechseln",
+                "switching" : "Lade [language] herunter...",
+                "finished" : "Deine Sprache wurde geändert!"
             }
         },
         "home" : {
