@@ -103,6 +103,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "hour",
                 "hours-plural" : "hours"
+            },
+            "yesterday" : {
+                "title" : "Yesterday's Shop Rotation"
             }
         },
         "upcoming" : {
@@ -145,7 +148,80 @@
             "chooseText" : "Click to choose",
             "randomise-all" : "Randomise All"
         },
+        "png" : {
+            "title" : "Cosmetics PNG",
+            "line1" : "Please credit back to fnbr.co if you use any of these images. Previews are scaled down, downloads will be full size.",
+            "sort-by" : "Sort by:",
+            "all" : "All"
+        },
+        "gallery" : {
+            "title" : "Cosmetics Gallery",
+            "line1" : "Every cosmetic available in Fortnite Battle Royale.",
+            "line2" : "Please do not use these images on your personal website/social media account without direct credit to fnbr.co"
+        },
+        "icons" : {
+            "title" : "Fortnite Battle Royale Icons",
+            "line1" : "All images belong to Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Unreleased",
+            "description" : "Description",
+            "history" : {
+                "title" : "Shop History",
+                "release-never" : "Release date: Never",
+                "release-date" : "Release date:",
+                "last-never" : "Last seen: Never",
+                "last-date" : "Last seen:",
+                "occurrences" : "Occurrences:",
+                "reminder-count" : "Users with [reminders](/reminders):",
+                "add-reminder" : "Add Reminder",
+                "remove-reminder" : "Remove Reminder",
+                "has-reminders" : "You have reminders set for this item.",
+                "no-reminders" : "Reminders aren't available for this item.",
+                "images" : "Images",
+                "images-icon" : "Icon",
+                "images-png" : "PNG",
+                "images-gallery" : "Gallery",
+                "images-featured" : "Featured",
+                "interest-title" : "Interest over time",
+                "interest-line1" : "This represents interest in this item over time, 100% being the most popular time.",
+                "interest-line2" : "Data for today may be incomplete",
+                "occurrences-table" : {
+                    "title" : "Shop Occurences",
+                    "th-date" : "Date",
+                    "th-days" : "Days Ago"
+                },
+                "set" : "Set",
+                "set-name" : "Part of [name]",
+                "popular-title" : "Popular Items Today"
+            }
+        },
         "account" : {
+            "home" : {
+                "title" : "Your Account Data",
+                "error" : "Something went wrong loading your account data, please try again later.",
+                "info" : {
+                    "title" : "Information",
+                    "line1" : "You are logged in with [provider] as [username]",
+                    "line2-api-yes" : "You have [api access](/api/docs)",
+                    "line2-api-no" : "You do not have api access."
+                },
+                "migration" : {
+                    "title" : "Legacy Accounts",
+                    "waiting-line1" : "We have moved to using Discord for login.",
+                    "waiting-line2" : "If you have an account from 2018, you will need to login with it to merge it with this one",
+                    "twitter-line1" : "We have moved to using Discord for login. You are currently using a legacy account which may be discontinued in the future and has limited functionality.",
+                    "twitter-line2" : "To migrate to a Discord account, click the button below"
+                },
+                "ratings" : {
+                    "title" : "Ratings",
+                    "none" : "You don't have any ratings."
+                },
+                "destroy" : {
+                    "title" : "Destroy Account",
+                    "line1" : "If you no longer want your account, you can delete it and all its data [here](/account/destroy)"
+                }
+            },
             "oauth" : {
                 "title" : "Login to fnbr.co",
                 "discord-button" : "Login with Discord",
