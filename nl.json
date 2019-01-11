@@ -63,7 +63,7 @@
             },
             "news" : "nieuws",
             "modes" : "modes",
-            "randomiser" : "willekeuriger",
+            "randomiser" : "willekeurige Items",
             "about" : {
                 "dropdown" : "over",
                 "about" : "over fnbr.co",
@@ -79,8 +79,14 @@
                 "logout" : "log uit"
             },
             "languagePicker" : {
+                "trigger" : "Taal",
                 "title" : "Kies taal",
-                "currentLanguage" : "Je gebruikt nu [language]."
+                "currentLanguage" : "Je gebruikt nu [language]",
+                "error" : "Er is een fout opgetreden tijdens het downloaden van het bestand met de vertalingen.",
+                "authors" : "Vertaald door:",
+                "cta" : "Klik om te veranderen naar [language]",
+                "switching" : "[language] downloaden...",
+                "finished" : "Uw taal is veranderd!"
             }
         },
         "home" : {
@@ -102,6 +108,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "uur",
                 "hours-plural" : "uren"
+            },
+            "yesterday" : {
+                "title" : "Winkel van gisteren"
             }
         },
         "upcoming" : {
@@ -139,54 +148,127 @@
             "more-ingame-button" : "Meer Laden"
         },
         "randomiser" : {
-            "title" : "Willekeuriger",
+            "title" : "Willekeurige items",
             "line1" : "Kies een willekeurige outfit van alle outfits beschikbaar.",
             "chooseText" : "Klik om te kiezen",
             "randomise-all" : "Maak alles willekeurig"
         },
+        "png" : {
+            "title" : "Cosmetica PNG",
+            "line1" : "Geef credit aan fnbr.co als je een afbeelding gebruikt. Previews hebben een lagere resolutie, downloads hebben maximale resolutie.",
+            "sort-by" : "Sorteren door:",
+            "all" : "Alles"
+        },
+        "gallery" : {
+            "title" : "Cosmetica Galerij",
+            "line1" : "Alle cosmetica die beschikbaar zijn in Fortnite Battle Royale.",
+            "line2" : "Gebruik deze afbeeldingen niet op je eigen website/social media zonder credit naar fnbr.co."
+        },
+        "icons" : {
+            "title" : "Fortnite Battle Royale Iconen",
+            "line1" : "Alle afbeeldingen zijn eigendom van Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Onbekend",
+            "description" : "Beschrijving",
+            "history" : {
+                "title" : "Winkel Geschiedenis",
+                "release-never" : "Datum uitgebracht: Nooit",
+                "release-date" : "Datum uitgebracht:",
+                "last-never" : "Laatst gezien: Nooit",
+                "last-date" : "Laatst gezien:",
+                "occurrences" : "Aantal keer gezien:",
+                "reminder-count" : "Gebruikers met [herinneringen](/reminders):",
+                "add-reminder" : "Voeg Herinnering toe",
+                "remove-reminder" : "Verwijder Herinnering",
+                "has-reminders" : "Je hebt Herinneringen toegevoegd voor dit item.",
+                "no-reminders" : "Herinneringen zijn niet beschikbaar voor dit item.",
+                "images" : "Afbeeldingen",
+                "images-icon" : "Iconen",
+                "images-png" : "PNG",
+                "images-gallery" : "Galerij",
+                "images-featured" : "Aanbevolen",
+                "interest-title" : "Aandacht over tijd",
+                "interest-line1" : "Dit laat de aandacht van het item zien van afglopen tijd, 100% heeft de meeste aandacht.",
+                "interest-line2" : "De gegevens van vandaag kan niet compleet zijn.",
+                "occurrences-table" : {
+                    "title" : "Geschiedenis",
+                    "th-date" : "Datum",
+                    "th-days" : "Dagen geleden"
+                },
+                "set" : "Set",
+                "set-name" : "Onderdeel [name]",
+                "popular-title" : "Populaire Items Vandaag"
+            }
+        },
         "account" : {
+            "home" : {
+                "title" : "Jouw accountgegevens",
+                "error" : "Er is iets fout gegaan tijdens het laden van jouw gegevens, probeer het later opnieuw.",
+                "info" : {
+                    "title" : "Informatie",
+                    "line1" : "Je bent ingelogd met [provider] als [username]",
+                    "line2-api-yes" : "Je hebt toegang tot de [api](/api/docs)",
+                    "line2-api-no" : "Je hebt geen toegang tot de api."
+                },
+                "migration" : {
+                    "title" : "Oudere Accounts",
+                    "waiting-line1" : "We gebruiken nu Discord om te kunnen inloggen.",
+                    "waiting-line2" : "Als je nog een account hebt van 2018, moet je inloggen met dat account om het te kunnen samenvoegen met dit account.",
+                    "twitter-line1" : "We gebruiken nu Discord om te kunnen inloggen. Je gebruikt een verouderd account dat niet meer in de toekomst gebruikt kan worden en heeft minder functies.",
+                    "twitter-line2" : "Als je een Discord-account wilt gebruiken, klik dan op de knop hieronder."
+                },
+                "ratings" : {
+                    "title" : "Waarderingen",
+                    "none" : "Je hebt geen waarderingen."
+                },
+                "destroy" : {
+                    "title" : "Verwijder Account",
+                    "line1" : "Als je dit account niet meer wilt gebruiken, kan je dat [hier](/account/destroy) doen."
+                }
+            },
             "oauth" : {
                 "title" : "Log in op fnbr.co",
                 "discord-button" : "Log in met Discord",
-                "legacy-text" : "Als alternatief, voor als je een oud account van 2018 wilt migreren:",
+                "legacy-text" : "Als je nog een oud account van 2018 hebt dat veranderd moet worden:",
                 "twitter-button" : "Log in met Twitter",
-                "privacy-text" : "Door in te loggen accepteer je dat wij sommige data opslaan, deze data is geassocieerd met jouw account. Zoals in het [privacybeleid](/privacy) staat."
+                "privacy-text" : "Als je inlogt dan geeft je ons ook toestemming om data over jou te verzamelen, dat kan je lezen in ons [privacybeleid](/privacy)."
             },
             "username" : {
                 "title" : "Welkom op fnbr.co",
-                "line1" : "Je bent ingelogd met Discord, om met andere te interacteren met andere op onze website moet je een gebruikersnaam kiezen",
-                "nameTaken" : "Je gebruikersnaam [attemptedName] is al gebruikt, we hebben je Discord nummer erbij toegevoegd en stellen voor dat je die gebruikt.",
-                "randomName" : "Je gebruikersnaam [attemptedName] is al gebruikt, het is ons niet gelukt een unieke naam maken door je Discord nummer te gebruiken.",
+                "line1" : "Je bent ingelogd met Discord, maar je moet nog een gebruikersnaam kiezen om je de beste ervaring te bieden.",
+                "nameTaken" : "Je gebruikersnaam [attemptedName] is al in gebruik door iemand anders, we hebben je Discord discriminator toegevoegd en raden het aan om dat te gebruiken",
+                "randomName" : "Je gebruikersnaam [attemptedName] is al in gebruik door iemand anders, het is niet gelukt om je gebruikersnaam uniek te maken door je Discord discriminator toe te voegen.",
                 "form-username" : "Gebruikersnaam",
-                "form-criteria" : "Kies alstublieft een gebruikersnaam tusseen 2 en 32 letters, die kan bestaan uit alfanumerieke letters, laag liggende streepjes en koppeltekens.",
-                "button-text" : "Stel jouw gebruikersnaam vast"
+                "form-criteria" : "Kies een gebruikersnaam met 2 tot 32 tekens, het mag letters, cijfers en de tekens - en _ bevatten",
+                "button-text" : "Gebruikersnaam opslaan"
             },
             "locked" : {
                 "title" : "Kan niet inloggen",
-                "line1" : "Je kon niet worden ingelogd bij fnbr.co omdat [je account gesloten is](class=text-danger)."
+                "line1" : "Je kan niet inloggen op fnbr.co omdat [je account geblokkeerd is](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Account gemigreerd",
-                "line1" : "Je bent inglogd met Twitter als",
-                "line2" : "Maar dat account is gemigrerd naar een Discord login."
+                "line1" : "Je bent ingelogd met Twitter als",
+                "line2" : "Maar dat account is gemigreerd om Discord te gebruiken om te kunnen inloggen."
             },
             "notFound" : {
                 "title" : "Geen account gevonden",
-                "line1" : "Je bent inglogd met Twitter als",
-                "line2" : "Echter, heeft dat account heeft nog nooit eerder ingelogd, we ondersteunen Twitter logins momenteel alleen maar voor migraties.",
-                "line3" : "Als alternatief, kun je [inloggen met Discord](/oauth/discord)."
+                "line1" : "Je bent ingelogd met Twitter als",
+                "line2" : "Maar dat account heeft nog nooit eerder ingelogd op fnbr.co en we ondersteunen Twitter nu alleen nog voor account migratie.",
+                "line3" : "Je kan in plaats daarvan [inloggen met discord](/oauth/discord)."
             }
         },
         "errors" : {
             "404" : {
                 "title" : "Fout",
-                "line1" : "De gevraagde bron bestaat niet of u heeft geen toestemming om deze te bekijken."
+                "line1" : "Je bron die je hebt opgevraagd bestaat niet, of je hebt geen toestemming om het te kunnen bekijken."
             },
             "500" : {
-                "title" : "Uh oh!",
-                "line1" : "Er is iets misgegaan tijdens het verwerken. Probeer het later opnieuw!",
-                "line2" : "Je kan [hier](/oauth) opnieuw proberen in te loggen."
+                "title" : "Oh nee!",
+                "line1" : "Er is iets fout gegaan tijden het verwerken, probeer het later opnieuw!",
+                "line2" : "Je kan proberen om opnieuw in te loggen, klik dan [hier](/oauth)."
             }
         }
     }
-}
+ }
