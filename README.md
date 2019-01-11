@@ -12,13 +12,13 @@ If a string does not exist in the file it will default to English.
 
 There are a few things to remember:
 - Don't use Google Translate or other online translation tools, as these lack context and can come up with some very strange results.
-- Text inside square brackets (that's `[` and `]`) such as `[language]` needs to remain in English, as it is normally replaced when the page is loaded with dyanmic data such as the date.
+- Text inside square brackets (that's `[` and `]`) such as `[language]` needs to remain in English (unless it is followed by `(` and `)` making it a link - see below), as it is normally replaced when the page is loaded with dyanmic data such as the date.
 - Links are done similar to markdown, `[text here](https://example.com)` the closing square bracket and first round bracket need to stay together.
 - At the top of the file where the `name` attribute is, this should be the name of the language in that language, so that it is easily recognisable for speakers.
 - Underneath that, also put `name-en`, which is the name of the language in English. This is optional.
 - [`thForDate`](https://github.com/fnbrco/translations/blob/master/en.json#L6) means if st, nd, rd and th should be put after the date. For example in English it is used like this: `January 8th 2019`.
 
-In your pull request tell us your Discord name and discriminator and we will give you a Translator role on our Discord, make your [fnbr.co account](https://fnbr.co/oauth) have no adverts and credit your GitHub as a thank you.
+In your pull request tell us your Discord name and discriminator and we will give you a Translator role on our Discord, make your [fnbr.co account](https://fnbr.co/oauth) have no adverts and credit you as a thank you.
 
 ## Links and formatting
 

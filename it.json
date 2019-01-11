@@ -66,6 +66,7 @@
             "randomiser" : "randomizzatore",
             "about" : {
                 "dropdown" : "info",
+                "translate": "traduci",
                 "about" : "info fnbr.co",
                 "privacy" : "politica sulla privacy",
                 "donate" : "Dona",
