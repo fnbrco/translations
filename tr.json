@@ -185,7 +185,7 @@
             },
             "view" : {
                 "title" : "Mağaza Rotasyonu",
-                "line1" : "Bu, Fortnite Battle Royale için [date]in item shop rotasyonu.",
+                "line1" : "Bu, Fortnite Battle Royale için [date] item shop rotasyonu.",
                 "line2" : "Bu konuda daha fazla bilgi görmek için bir kozmetike tıklayın.",
                 "today-button" : "Günün Eşya Mağazası"
             }
