@@ -155,6 +155,11 @@
             "sort-by" : "Sortieren nach:",
             "all" : "Alle"
         },
+        "gallery" : {
+            "title" : "Gegenstandsgallerie",
+            "line1" : "Jeder Gegenstand, der in Fortnite Battle Royale erhältlich ist.",
+            "line2" : "Bitte verwende diese Bilder nicht auf deiner persönlichen Website/deinem Social Media-Konto ohne Verweis auf fnbr.co"
+        },
         "account" : {
             "oauth" : {
                 "title" : "Bei fnbr.co anmelden",
