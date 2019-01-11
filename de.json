@@ -149,6 +149,12 @@
             "chooseText" : "Klicke, um auszuwählen",
             "randomise-all" : "Alle randomisieren"
         },
+        "png" : {
+            "title" : "Gegenstands-PNG",
+            "line1" : "Bitte verweise auf fnbr.co, wenn du eines dieser Bilder verwendest. Vorschaubilder sind verkleinert dargestellt, Downloads werden in voller Größe angeboten.",
+            "sort-by" : "Sortieren nach:",
+            "all" : "Alle"
+        },
         "account" : {
             "oauth" : {
                 "title" : "Bei fnbr.co anmelden",
