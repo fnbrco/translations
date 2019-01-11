@@ -100,7 +100,7 @@
 			"title-featured": "Kiemelt",
 			"title-daily": "Napi",
 			"error": "A bolt jelenleg nem elérhető, kérjük probálkozzon néhány perc múlva.",
-			"line1": "A jelenlegi bolt Fortnite Battle Royale-hoz - Minden nap frissül [00:00 UTC]-kor(https://time.is/UTC|tooltip=Mostani idő az UTC ídőzónában|newtab=true).",
+			"line1": "A jelenlegi bolt Fortnite Battle Royale-hoz - Minden nap frissül [00:00 UTC](https://time.is/UTC|tooltip=Mostani idő az UTC ídőzónában|newtab=true)-kor.",
 			"line2": "Megtalálható a tegnapi bolt [itt](/shop/yesterday|tooltip=Tegnapi bolt).",
 			"line3": "Kattints az egyik kinézetre hogy több információt láthass.",
 			"countdown": {
@@ -243,7 +243,7 @@
 			},
 			"locked": {
 				"title": "Nem tudsz bejelentkezni",
-				"line1": "Nem tudsz bejelentkezni fnbr.co-ba mert  [a fiókod zárolva lett](class=text-danger)."
+				"line1": "Nem tudsz bejelentkezni fnbr.co-ba mert [a fiókod zárolva lett](class=text-danger)."
 			},
 			"migrated": {
 				"title": "Fiók áttelepítve",
