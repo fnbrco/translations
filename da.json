@@ -169,11 +169,11 @@
             },
             "migrated" : {
                 "title" : "Konto migreret",
-                "line1" : "You logged in with Twitter as",
-                "line2" : "However, that account has been migrated to use Discord login."
+                "line1" : "Du loggede ind med Twitter som",
+                "line2" : "Denne konto er imidlertid blevet migreret for, at bruge Discord login."
             },
             "notFound" : {
-                "title" : "No Account Found",
+                "title" : "Ingen konto fundet",
                 "line1" : "Du er logget ind med Twitter, som",
                 "line2" : "Denne konto er dog aldrig logget ind før, og vi understøtter nu kun Twitter login for migrationsformål.",
                 "line3" : "Alternativt, kan du [logge ind med Discord](/oauth/discord)."
