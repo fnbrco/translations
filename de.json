@@ -104,6 +104,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "Stunde",
                 "hours-plural" : "Stunden"
+            },
+            "yesterday" : {
+                "title" : "Gestrige Shop-Rotation"
             }
         },
         "upcoming" : {
