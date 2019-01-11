@@ -198,6 +198,31 @@
             }
         },
         "account" : {
+            "home" : {
+                "title" : "Deine Kontodaten",
+                "error" : "Etwas ist beim Laden deiner Kontodaten schief gelaufen, bitte versuche es später noch einmal.",
+                "info" : {
+                    "title" : "Information",
+                    "line1" : "Du bist mit [provider] als [username] angemeldet",
+                    "line2-api-yes" : "Du hast [API-Zugriff](/api/docs)",
+                    "line2-api-no" : "Du hast keinen API-Zugriff."
+                },
+                "migration" : {
+                    "title" : "Legacy-Konten",
+                    "waiting-line1" : "Wir sind dazu übergegangen, Discord für die Anmeldung zu verwenden.",
+                    "waiting-line2" : "Wenn du ein Konto aus dem Jahr 2018 hast, musst du dich damit anmelden, um es mit diesem zusammenzuführen",
+                    "twitter-line1" : "Wir sind dazu übergegangen, Discord für die Anmeldung zu verwenden. Du verwendest derzeit ein Legacy-Konto, das in Zukunft möglicherweise nicht mehr verwendet werden kann und nur begrenzte Funktionalität bietet.",
+                    "twitter-line2" : "Um zu einem Discord-Konto zu migrieren, klicke auf die folgende Schaltfläche"
+                },
+                "ratings" : {
+                    "title" : "Bewertungen",
+                    "none" : "Du hast keine Bewertungen."
+                },
+                "destroy" : {
+                    "title" : "Konto löschen",
+                    "line1" : "Wenn du dein Konto nicht mehr willst, kannst du es und all seine Daten [hier](/account/destroy) löschen"
+                }
+            },
             "oauth" : {
                 "title" : "Bei fnbr.co anmelden",
                 "discord-button" : "Mit Discord anmelden",
