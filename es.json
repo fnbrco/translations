@@ -79,8 +79,14 @@
                 "logout" : "cerrar sesión"
             },
             "languagePicker" : {
+                "trigger" : "Idioma",
                 "title" : "Seleccionar idioma",
-                "currentLanguage" : "Actualmente estás usando [language]."
+                "currentLanguage" : "Estas usando el idioma [language]",
+                "error" : "Error al descargar el archivo de idioma",
+                "authors" : "Traducido por:",
+                "cta" : "Haga clic para cambiar a [language]",
+                "switching" : "Descargar [language]...",
+                "finished" : "¡Su idioma ha sido cambiado!"
             }
         },
         "home" : {
@@ -102,6 +108,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "hora",
                 "hours-plural" : "horas"
+            },
+            "yesterday" : {
+                "title" : "Rotación de la tienda de ayer"
             }
         },
         "upcoming" : {
@@ -142,7 +151,80 @@
             "chooseText" : "Haga clic para elegir",
             "randomise-all" : "Aleatorizar Todos"
         },
+        "png" : {
+            "title" : "Cosméticos PNG",
+            "line1" : "Por favor, da créditos a fnbr.co si utiliza alguna de estas imágenes. Las vistas previas se reducen, las descargas serán a tamaño completo.",
+            "sort-by" : "Ordenar por:",
+            "all" : "Todo"
+        },
+        "gallery" : {
+            "title" : "Galería de cosméticos",
+            "line1" : "Todos los cosméticos de Fortnite Battle Royale",
+            "line2" : "Por favor, no utilice estas imágenes en su sitio web personal / redes sociales sin el crédito directo a fnbr.co"
+        },
+        "icons" : {
+            "title" : "Iconos Fortnite Battle Royale",
+            "line1" : "Todas las imagenes pertenecen a Epic Games."
+        },
+        "item" : {
+            "unreleased" : "No lanzado",
+            "description" : "Descripción",
+            "history" : {
+                "title" : "Historial de la tienda",
+                "release-never" : "Fecha de lanzamiento: Nunca",
+                "release-date" : "Fecha de lanzamiento:",
+                "last-never" : "Última aparición: Nunca",
+                "last-date" : "Última aparición:",
+                "occurrences" : "Apariciones:",
+                "reminder-count" : "Usuarios con [recordatorios](/reminders):",
+                "add-reminder" : "Añadir recordatorio",
+                "remove-reminder" : "Eliminar recordatorio",
+                "has-reminders" : "Tienes recordatorios para este objeto.",
+                "no-reminders" : "Los recordatorios no están disponible para este objeto.",
+                "images" : "Imágenes",
+                "images-icon" : "Icono",
+                "images-png" : "PNG",
+                "images-gallery" : "Galería",
+                "images-featured" : "Destacado",
+                "interest-title" : "Interés a lo largo tiempo",
+                "interest-line1" : "Esto representa el interés en este artículo a lo largo del tiempo, siendo el 100% el más popular.",
+                "interest-line2" : "Los datos de hoy pueden estar incompletos.",
+                "occurrences-table" : {
+                    "title" : "Apariciones en la tienda",
+                    "th-date" : "Fecha",
+                    "th-days" : "Días atrás"
+                },
+                "set" : "Set",
+                "set-name" : "Parte del [name]",
+                "popular-title" : "Objetos populares de hoy"
+            }
+        },
         "account" : {
+            "home" : {
+                "title" : "Datos de su cuenta",
+                "error" : "Algo falló al cargar los datos de su cuenta, por favor inténtelo de nuevo más tarde.",
+                "info" : {
+                    "title" : "Información",
+                    "line1" : "Has iniciado sesión con [provider] como [username]",
+                    "line2-api-yes" : "Tienes [acceso a la API](/api/docs)",
+                    "line2-api-no" : "No tienes acceso a la API."
+                },
+                "migration" : {
+                    "title" : "Cuentas heredadas",
+                    "waiting-line1" : "Hemos pasado a utilizar Discord para iniciar sesión",
+                    "waiting-line2" : "Si usted tiene una cuenta desde 2018, tendrá que iniciar sesión con ella para fusionarla con esta",
+                    "twitter-line1" : "Hemos pasado a utilizar Discord para iniciar sesión. Actualmente está utilizando una cuenta heredada que puede ser descontinuada en el futuro y que tiene funcionalidades limitadas.",
+                    "twitter-line2" : "Para migrar a una cuenta de Discord, haga clic en el botón de abajo"
+                },
+                "ratings" : {
+                    "title" : "Calificaciones",
+                    "none" : "No tienes ninguna calificación."
+                },
+                "destroy" : {
+                    "title" : "Destruir cuenta",
+                    "line1" : "Si ya no desea su cuenta, puede borrarla y todos sus datos [aquí](/account/destroy)"
+                }
+            },
             "oauth" : {
                 "title" : "Iniciar sesión en fnbr.co",
                 "discord-button" : "Iniciar sesión con Discord",
