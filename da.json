@@ -5,7 +5,7 @@
     "translations" : {
         "meta" : {
             "thForDate" : true,
-            "dateFormat" : "[month] [date] [year]",
+            "dateFormat" : "[date] [month] [year]",
             "months" : [
                 "Januar",
                 "Februar",
