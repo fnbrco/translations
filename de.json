@@ -1,0 +1,275 @@
+{ 
+    "name" : "Deutsch", 
+    "name-en" : "German", 
+    "live" : true, 
+    "translations" : { 
+        "meta" : { 
+            "thForDate" : false, 
+            "dateFormat" : "[date] [month] [year]", 
+            "months" : [ 
+                "Januar", 
+                "Februar", 
+                "März", 
+                "April", 
+                "Mai", 
+                "Juni", 
+                "Juli", 
+                "August", 
+                "September", 
+                "Oktober", 
+                "November", 
+                "Dezember" 
+            ], 
+            "types" : { 
+                "backpack" : "Rücken-Accessoire", 
+                "emote" : "Emote", 
+                "glider" : "Hängegleiter", 
+                "emoji" : "Emoji", 
+                "loading" : "Ladebildschirm", 
+                "outfit" : "Outfit", 
+                "pickaxe" : "Spitzhacke", 
+                "skydive" : "Kondensstreifen", 
+                "umbrella" : "Regenschirm", 
+                "spray" : "Spraymotiv", 
+                "toy" : "Spielsache", 
+                "pet" : "Gefährte", 
+                "music" : "Musik", 
+                "wrap" : "Lackierung", 
+                "bundle" : "Bundle", 
+                "misc" : "Sonstige" 
+            }, 
+            "rarity" : { 
+                "legendary" : "Legendär", 
+                "epic" : "Episch", 
+                "rare" : "Selten", 
+                "uncommon" : "Ungewöhnlich", 
+                "common" : "Gewöhnlich" 
+            }, 
+            "translationNotAvailable" : "Leider ist für diese Seite keine Übersetzung verfügbar.", 
+            "translationIncomplete" : "Nicht alle Texte auf dieser Seite sind übersetzt" 
+        }, 
+        "nav" : { 
+            "home" : "home", 
+            "shop" : "shop", 
+            "cosmetics" : { 
+                "dropdown" : "gegenstände", 
+                "upcoming" : "bald verfügbar", 
+                "list" : "liste", 
+                "png" : "png", 
+                "gallery" : "gallerie", 
+                "icons" : "icons", 
+                "reminders" : "erinnerungen", 
+                "history" : "historie des shops" 
+            }, 
+            "news" : "neuigkeiten", 
+            "modes" : "modi", 
+            "randomiser" : "zufallsgenerator", 
+            "about" : { 
+                "dropdown" : "über", 
+                "translate" : "übersetzen", 
+                "about" : "über fnbr.co", 
+                "privacy" : "datenschutzerklärung", 
+                "donate" : "Spenden", 
+                "discord" : "Discord", 
+                "twitter" : "Twitter" 
+            }, 
+            "api" : "api", 
+            "account" : { 
+                "dropdown" : "konto", 
+                "account" : "konto", 
+                "logout" : "abmelden" 
+            }, 
+            "languagePicker" : { 
+                "trigger" : "Sprache", 
+                "title" : "Sprache auswählen", 
+                "currentLanguage" : "Du verwendest derzeit [language]." 
+                "error" : "Es trat während dem herunterladen der Sprach Datei ein Fehler auf.", 
+                "authors" : "Übersetzt von: ", 
+                "cta" : "Klick um zu [language] zu wechseln", 
+                "switching" : "Lädt [language] herunter...", 
+                "finished" : "Deine Sprache wurde geändert!" 
+            } 
+        }, 
+        "home" : { 
+            "title-upcoming" : "Bald verfügbare Gegenstände", 
+            "title-all" : "Alle Gegenstände", 
+            "error" : "Fehler beim Abrufen der Gegenstände, versuche es später erneut.", 
+            "error-too-long" : "Das dauert länger als erwartet" 
+        }, 
+        "shop" : { 
+            "title" : "Aktuelle Rotation", 
+            "title-featured" : "Vorgestellt", 
+            "title-daily" : "Täglich", 
+            "error" : "Shop nicht verfügbar, versuche es später erneut.", 
+            "line1" : "Die aktuelle Item Shop-Rotation für Fortnite Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Aktuelle Zeit in UTC|newtab=true).", 
+            "line2" : "Du kannst den gestrigen Item Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.", 
+            "line3" : "Klicke auf einen Gegenstand, um mehr über diesen zu erfahren.", 
+            "countdown" : { 
+                "title" : "Neue Gegenstände:", 
+                "wordyFormat" : "[number] [noun]", 
+                "hour-singular" : "Stunde", 
+                "hours-plural" : "Stunden" 
+            }, 
+            "yesterday" : { 
+                "title" : "Die Item Shop-Rotation von Gestern" 
+            } 
+        }, 
+        "upcoming" : { 
+            "title" : "Bevorstehende Kosmetika", 
+            "line1" : "Alle unveröffentlichten Gegenstände in Fortnite Battle Royale." 
+        }, 
+        "list" : { 
+            "title" : "Gegenstandsliste", 
+            "line1" : "Jeder verfügbare Gegenstand in Fortnite Battle Royale.", 
+            "table" : { 
+                "icon" : "Icon", 
+                "name" : "Name", 
+                "type" : "Typ", 
+                "rarity" : "Seltenheit", 
+                "obtained" : "Wie zu erhalten" 
+            } 
+        },  
+        "history" : { 
+            "list" : { 
+                "title" : "Item Shop-Historie", 
+                "line1" : "Hier sind die letzten 8 Fortnite Battle Royale Item Shop-Rotationen zu sehen.", 
+                "line2" : "Klicke auf einen, um den kompletten Shop anzusehen, oder scrolle, um die komplette Item Shop-Historie nach Tag sortiert anzusehen." 
+            }, 
+            "view" : { 
+                "title" : "Shop-Rotation", 
+                "line1" : "Dies ist die Item Shop-Rotation vom [date] für Fortnite Battle Royale.", 
+                "line2" : "Klicke auf einen Gegenstand, um mehr über diesen zu erfahren.", 
+                "today-button" : "Heutiger Item Shop" 
+            } 
+        }, 
+        "news" : { 
+            "title" : "Neuigkeiten", 
+            "line1" : "Der aktuelle Neuigkeiten-Feed von Epic Games im Spiel. Wird jede Minute aktualisiert.", 
+            "error" : "Wir konnten die Nachrichten von Fortnite nicht beziehen, wir werden es in Kürze noch einmal versuchen.", 
+            "more-ingame-button" : "Mehr laden" 
+        }, 
+        "randomiser" : { 
+            "title" : "Zufallsgenerator", 
+            "line1" : "Wähle ein zufälliges Outfit von allen verfügbaren Gegenständen aus.", 
+            "chooseText" : "Klicke, um auszuwählen", 
+            "randomise-all" : "Alle randomisieren" 
+        }, 
+        "png" : { 
+            "title" : "Kosmetika PNG", 
+            "line1" : "Bitte gebe fnbr.co Kredit falls du diese Bilder benutzt. Vorschauen sind verkleinert, Downloads werden in voller Größe sein.", 
+            "sort-by" : "Sortiere nach:", 
+            "all" : "Alle" 
+        }, 
+        "gallery" : { 
+            "title" : "Kosmetik-Galerie", 
+            "line1" : "Jede Kosmetik welche in Fortnite Battle Royale verfügbar ist.", 
+            "line2" : "Bitte nutzte diese Bilder nicht auf privaten Website/sozialen Medien ohne auf fnbr.co zurück zu weisen" 
+        }, 
+        "icons" : { 
+            "title" : "Fortnite Battle Royale Symbole", 
+            "line1" : "Alle Bilder sind besitzt von Epic Games." 
+        }, 
+        "item" : { 
+            "unreleased" : "Unveröffentlicht", 
+            "description" : "Beschreibung", 
+            "history" : { 
+                "title" : "Item Shop Historie", 
+                "release-never" : "Veröffentlichungsdatum: Nie", 
+                "release-date" : "Veröffentlichungsdatum:", 
+                "last-never" : "Zuletzt erschienen: Nie", 
+                "last-date" : "Zuletzt erschienen:", 
+                "occurrences" : "Erscheinungen:", 
+                "reminder-count" : "Benutzer mit [reminders](/reminders):", 
+                "add-reminder" : "Erinnerung hinzufügen", 
+                "remove-reminder" : "Erinnerung Entfernen", 
+                "has-reminders" : "Du hast für diesen Gegenstand Erinnerungen gesetzt.", 
+                "no-reminders" : "Erinnerungen sind für diesen Gegenstand nicht verfügbar.", 
+                "images" : "Bilder", 
+                "images-icon" : "Symbol", 
+                "images-png" : "PNG", 
+                "images-gallery" : "Galerie", 
+                "images-featured" : "Vorgestellt", 
+                "interest-title" : "Interesse über Zeit", 
+                "interest-line1" : "Dies repräsentiert Interesse in diesem Gegenstand über Zeit, Bei 100% entspricht dem Zeitpunkt wo der Gegenstand am Beliebtesten war.", 
+                "interest-line2" : "Die Information für heute ist möglicherweise unvollständig", 
+                "occurrences-table" : { 
+                    "title" : "Shop Vorkommnisse", 
+                    "th-date" : "Datum", 
+                    "th-days" : "Tage vergangen" 
+                }, 
+                "set" : "Set", 
+                "set-name" : "Teil von [name]", 
+                "popular-title" : "Beliebte Gegenstände von Heute" 
+            } 
+        }, 
+        "account" : { 
+            "home" : { 
+                "title" : "Deine Konto Daten", 
+                "error" : "Etwas ist falsch gelaufen während wir deine Konto Daten geladen haben, bitte versuche es später noch einmal.", 
+                "info" : { 
+                    "title" : "Information", 
+                    "line1" : "Du bist mit [provider] eingeloggt als [username]", 
+                    "line2-api-yes" : "Du hast [api access](/api/docs)", 
+                    "line2-api-no" : "Du hast keinen API Zugang." 
+                }, 
+                "migration" : { 
+                    "title" : "Legacy Konten", 
+                    "waiting-line1" : "Wir haben zu Discord zum Anmelden gewechselt.", 
+                    "waiting-line2" : "Falls du ein Konto von 2018 hast wirst du dich mit diesem einloggen müssen um deine Konten zu vereinigen.", 
+                    "twitter-line1" : "Wir haben zu Discord zum Anmelden gewechselt. Du benutzt derzeit ein legacy-Konto welches in der Zukunft möglicherweise nicht mehr unterstützt wird und eingeschränkte Funktionalität hat.", 
+                    "twitter-line2" : "Um auf ein Discord Konto zu migrieren drücke auf den unteren Knopf" 
+                }, 
+                "ratings" : { 
+                    "title" : "Bewertungen", 
+                    "none" : "Du hast keine Bewertungen." 
+                }, 
+                "destroy" : { 
+                    "title" : "Konto Löschen", 
+                    "line1" : "Falls du dein Konto nicht mehr möchtest kannst du es [here](/account/destroy) mitsamt allen Daten Löschen." 
+                } 
+            }, 
+            "oauth" : { 
+                "title" : "Bei fnbr.co anmelden", 
+                "discord-button" : "Mit Discord anmelden", 
+                "legacy-text" : "Alternativ, wenn du ein Legacy-Konto aus dem Jahr 2018 hast, das migriert werden muss:", 
+                "twitter-button" : "Mit Twitter anmelden", 
+                "privacy-text" : "Mit der Anmeldung erklärst du dich damit einverstanden, dass wir Daten im Zusammenhang mit deinem Konto speichern, wie in unserer [Datenschutzerklärung](/privacy) beschrieben." 
+            }, 
+            "username" : { 
+                "title" : "Willkommen bei fnbr.co", 
+                "line1" : "Du bist mit Discord angemeldet. Um mit anderen auf unserer Seite zu interagieren, musst du einen Benutzernamen wählen.", 
+                "nameTaken" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir haben deinen Discord-Diskriminator hinzugefügt und schlagen dir vor, diesen zu verwenden.", 
+                "randomName" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir konnten mit deinem Discord-Diskriminator keinen eindeutigen Benutzernamen vergeben.", 
+                "form-username" : "Benutzername", 
+                "form-criteria" : "Bitte wähle einen Benutzernamen zwischen 2 und 32 Zeichen, der sowohl alphanumerische Zeichen als auch Unterstriche und Bindestriche enthalten kann.", 
+                "button-text" : "Benutzername festlegen" 
+            }, 
+            "locked" : { 
+                "title" : "Anmeldung nicht möglich", 
+                "line1" : "Du kannst dich nicht bei fnbr.co anmelden, weil [dein Konto gesperrt wurde](class=text-danger)." 
+            }, 
+            "migrated" : { 
+                "title" : "Konto migriert", 
+                "line1" : "Du hast dich mit Twitter angemeldet als", 
+                "line2" : "Dieses Konto wurde jedoch migriert, um die Discord-Anmeldung zu verwenden." 
+            }, 
+            "notFound" : { 
+                "title" : "Kein Konto gefunden", 
+                "line1" : "Du hast dich mit Twitter angemeldet als", 
+                "line2" : "Dieses Konto hat sich jedoch nie zuvor angemeldet und wir unterstützen die Twitter-Anmeldung nur noch für Migrationszwecke.", 
+                "line3" : "Alternativ kannst du dich auch [mit Discord anmelden](/oauth/discord)." 
+            } 
+        }, 
+        "errors" : { 
+            "404" : { 
+                "title" : "Fehler", 
+                "line1" : "Entweder existiert die von dir angeforderte Ressource nicht oder du hast keine Berechtigung, sie anzusehen." 
+            }, 
+            "500" : { 
+                "title" : "Oh oh!", 
+                "line1" : "Bei der Bearbeitung deiner Anfrage ist etwas schief gelaufen, bitte versuche es später noch einmal!", 
+                "line2" : "Du kannst versuchen, dich [hier](/oauth) erneut anzumelden." 
+            } 
+        } 
+    } 
+}
