@@ -80,7 +80,7 @@
             },
             "languagePicker" : {
                 "title" : "Chọn Ngôn Ngữ",
-                "currentLanguage" : "Bạn hiện đang sử dụng [ngôn ngữ]."
+                "currentLanguage" : "Bạn hiện đang sử dụng [language]."
             }
         },
         "home" : {
