@@ -81,12 +81,12 @@
             "languagePicker" : {
                 "trigger" : "limbă",
                 "title" : "Alege limba",
-                "currentLanguage" : "Momentan folosești limba [language]."
+                "currentLanguage" : "Momentan folosești limba [language]",
                 "error" : "Eroare la descărcarea fișierului limbii",
-	                "authors" : "Tradus de către:",
-	                "cta" : "Apasă pentru a schimba în limba [language]",
-	                "switching" : "Se descarcă limba [language]...",
-	                "finished" : "Limba a fost schimbată!"
+                "authors" : "Tradus de către:",
+                "cta" : "Apasă pentru a schimba în limba [language]",
+                "switching" : "Se descarcă limba [language]...",
+                "finished" : "Limba a fost schimbată!"
             }
         },
         "home" : {
@@ -133,7 +133,7 @@
             },
             "view" : {
                 "title" : "Rotația magazinului",
-                "line1" : "Aceasta este rotația magazinului din Fortnite Battle Royale pentru data de [date]`. ",
+                "line1" : "Aceasta este rotația magazinului din Fortnite Battle Royale pentru data de [date]`.",
                 "line2" : "Apasă pe un cosmetic pentru a vedea mai multe informații despre el.",
                 "today-button" : "Magazinul de astăzi"
             }
