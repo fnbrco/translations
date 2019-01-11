@@ -35,7 +35,7 @@
                 "pet" : "Mascota",
                 "music" : "Música",
                 "wrap" : "Envoltorio",
-                "bundle" : "Conjunto",
+                "bundle" : "Lote",
                 "misc" : "Misceláneo"
             },
             "rarity" : {
@@ -81,11 +81,11 @@
             "languagePicker" : {
                 "trigger" : "Idioma",
                 "title" : "Seleccionar idioma",
-                "currentLanguage" : "Estas usando el idioma [language]",
+                "currentLanguage" : "Estás usando el idioma [language]",
                 "error" : "Error al descargar el archivo de idioma",
                 "authors" : "Traducido por:",
                 "cta" : "Haga clic para cambiar a [language]",
-                "switching" : "Descargar [language]...",
+                "switching" : "Descargando [language]...",
                 "finished" : "¡Su idioma ha sido cambiado!"
             }
         },
@@ -110,7 +110,7 @@
                 "hours-plural" : "horas"
             },
             "yesterday" : {
-                "title" : "Rotación de la tienda de ayer"
+                "title" : "Rotación de la Tienda de Ayer"
             }
         },
         "upcoming" : {
@@ -143,17 +143,17 @@
         },
         "news" : {
             "title" : "Noticias",
-            "line1" : "La feed de noticias actual de Epic Games. Actualizado cada 2 minutos."
+            "line1" : "La sección de noticias actual de Epic Games. Actualizado cada 2 minutos."
         },
         "randomiser" : {
-            "title" : "Randomizador",
+            "title" : "Aleatorizador",
             "line1" : "Elige un traje al azar de entre todos los artículos disponibles.",
             "chooseText" : "Haga clic para elegir",
             "randomise-all" : "Aleatorizar Todos"
         },
         "png" : {
             "title" : "Cosméticos PNG",
-            "line1" : "Por favor, da créditos a fnbr.co si utiliza alguna de estas imágenes. Las vistas previas se reducen, las descargas serán a tamaño completo.",
+            "line1" : "Por favor, de créditos a fnbr.co si utiliza alguna de estas imágenes. Las vistas previas se reducen, las descargas serán a tamaño completo.",
             "sort-by" : "Ordenar por:",
             "all" : "Todo"
         },
@@ -194,7 +194,7 @@
                     "th-date" : "Fecha",
                     "th-days" : "Días atrás"
                 },
-                "set" : "Set",
+                "set" : "Conjunto",
                 "set-name" : "Parte del [name]",
                 "popular-title" : "Objetos populares de hoy"
             }
@@ -205,9 +205,9 @@
                 "error" : "Algo falló al cargar los datos de su cuenta, por favor inténtelo de nuevo más tarde.",
                 "info" : {
                     "title" : "Información",
-                    "line1" : "Has iniciado sesión con [provider] como [username]",
-                    "line2-api-yes" : "Tienes [acceso a la API](/api/docs)",
-                    "line2-api-no" : "No tienes acceso a la API."
+                    "line1" : "Ha iniciado sesión con [provider] como [username]",
+                    "line2-api-yes" : "Tiene [acceso a la API](/api/docs)",
+                    "line2-api-no" : "No tiene acceso a la API."
                 },
                 "migration" : {
                     "title" : "Cuentas heredadas",
@@ -222,7 +222,7 @@
                 },
                 "destroy" : {
                     "title" : "Destruir cuenta",
-                    "line1" : "Si ya no desea su cuenta, puede borrarla y todos sus datos [aquí](/account/destroy)"
+                    "line1" : "Si ya no desea su cuenta, puede borrarla con todos sus datos [aquí](/account/destroy)"
                 }
             },
             "oauth" : {
@@ -263,7 +263,7 @@
                 "line1" : "O bien el recurso solicitado no existe o no tiene permisos para verlo."
             },
             "500" : {
-                "title" : "Uh oh!",
+                "title" : "¡Ups!",
                 "line1" : "¡Algo salió mal mientras se procesaba su solicitud, por favor inténtelo de nuevo más tarde!",
                 "line2" : "Puede intentar iniciar sesión de nuevo [aquí](/oauth)."
             }
