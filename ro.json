@@ -53,7 +53,7 @@
             "shop" : "magazin",
             "cosmetics" : {
                 "dropdown" : "cosmetice",
-                "upcoming" : "în curând",
+                "upcoming" : "nelansate",
                 "list" : "listă",
                 "png" : "png",
                 "gallery" : "galerie",
@@ -82,10 +82,15 @@
                 "trigger" : "limbă",
                 "title" : "Alege limba",
                 "currentLanguage" : "Momentan folosești limba [language]."
+                "error" : "Eroare la descărcarea fișierului limbii",
+	                "authors" : "Tradus de către:",
+	                "cta" : "Apasă pentru a schimba în limba [language]",
+	                "switching" : "Se descarcă limba [language]...",
+	                "finished" : "Limba a fost schimbată!"
             }
         },
         "home" : {
-            "title-upcoming" : "Obiectele viitoare",
+            "title-upcoming" : "Obiectele nelansate",
             "title-all" : "Toate obiectele",
             "error" : "Nu s-au putut primi obiectele, te rugăm să încerci din nou în câteva momente.",
             "error-too-long" : "Acțiunea durează mai mult decât ar trebui"
@@ -106,8 +111,8 @@
             }
         },
         "upcoming" : {
-            "title" : "Cosmeticele viitoare",
-            "line1" : "Toate obiectele nelansate din Fortnite Battle Royale."
+            "title" : "Cosmeticele nelansate",
+            "line1" : "Toate cosmeticele nelansate din Fortnite Battle Royale."
         },
         "list" : {
             "title" : "Lista cosmeticelor",
@@ -145,7 +150,80 @@
             "chooseText" : "Apasă pentru a selecta",
             "randomise-all" : "Amestecă-le pe toate!"
         },
+        "png" : {
+            "title" : "PNG-ul cosmeticelor",
+            "line1" : "Te rugăm să lași creditele către fnbr.co dacă folosești imaginile noastre. Previzualizările sunt micșorate, însă descărcările vor fi în mărime normală.",
+            "sort-by" : "Filtrează după:",
+            "all" : "Toate"
+        },
+        "gallery" : {
+            "title" : "Galeria cosmeticelor",
+            "line1" : "Toate cosmeticele disponibile în Fortnite Battle Royale.",
+            "line2" : "Te rugăm să nu folosești aceste imagini pe contul tău social media/website-ul tău personal fără credite către fnbr.co"
+        },
+        "icons" : {
+            "title" : "Iconițele Fortnite Battle Royale",
+            "line1" : "Toate imaginile aparțin de Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Nelansate",
+            "description" : "Descriere",
+            "history" : {
+                "title" : "Istoria magazinului",
+                "release-never" : "Data lansării: Niciodata",
+                "release-date" : "Data lansării:",
+                "last-never" : "Văzut ultima dată: Niciodata",
+                "last-date" : "Văzut ultima dată:",
+                "occurrences" : "Apariții:",
+                "reminder-count" : "Utilizatori cu [remindere](/reminders):",
+                "add-reminder" : "Adaugă Reminder",
+                "remove-reminder" : "Șterge Reminder",
+                "has-reminders" : "Ai remindere setate pentru acest obiect.",
+                "no-reminders" : "Reminderele nu sunt disponibile pentru acest obiect.",
+                "images" : "Imagini",
+                "images-icon" : "Iconițe",
+                "images-png" : "PNG-uri",
+                "images-gallery" : "Gallerie",
+                "images-featured" : "Recomandate",
+                "interest-title" : "Interesul în timp",
+                "interest-line1" : "Aceasta reprezinta interesul acestui obiect în timp, 100% fiind cel mai popular timp.",
+                "interest-line2" : "Datele pentru astăzi pot fi incomplete.",
+                "occurrences-table" : {
+                    "title" : "Apariții în magazin",
+                    "th-date" : "Dată",
+                    "th-days" : "Zile în urmă"
+                },
+                "set" : "Setul",
+                "set-name" : "Parte din [name]",
+                "popular-title" : "Obiectele Populare de Astăzi"
+            }
+        },
         "account" : {
+            "home" : {
+                "title" : "Datele contului tău",
+                "error" : "Ceva nu a mers bine la încărcarea datelor contului tău,  te rugăm să înerci din nou mai târziu.",
+                "info" : {
+                    "title" : "Informații",
+                    "line1" : "Ești autentificat prin [provider] ca [username]",
+                    "line2-api-yes" : "Ai [acces la api](/api/docs)",
+                    "line2-api-no" : "Nu ai acces la api."
+                },
+                "migration" : {
+                    "title" : "Conturi vechi",
+                    "waiting-line1" : "Am trecut la autentificare prin Discord.",
+                    "waiting-line2" : "Dacă ai un cont din 2018, vei fi nevoit sa te autentifici cu acesta pentru a trece la autentificare prin Discord",
+                    "twitter-line1" : "Am trecut la autentificare prin Discord. Momentan folosești un cont vechi cu funcționalitate limitată, care ar putea fi întrerupt în viitor.",
+                    "twitter-line2" : "Pentru a migra la un cont Discord, apasă butonul de mai jos"
+                },
+                "ratings" : {
+                    "title" : "Evaluări",
+                    "none" : "Nu ai nicio evaluare."
+                },
+                "destroy" : {
+                    "title" : "Șterge contul",
+                    "line1" : "Dacă nu mai dorești să mai ai contul, poți sa îl ștergi cu toate datele lui [aici](/account/destroy)"
+                }
+            },
             "oauth" : {
                 "title" : "Autentifică-te la fnbr.co",
                 "discord-button" : "Autentifică-te cu Discord",
