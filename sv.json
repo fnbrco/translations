@@ -128,7 +128,7 @@
                 "line2" : "Klicka för att se full shop eller skrolla till se full artikel shop historia på dagen."
             },
             "view" : {
-                "title" : "Shop Cykel",
+                "title" : "Shop Rotation",
                 "line1" : "Det här är artikel shop av [date] för Fortnite Battle Royale. ",
                 "line2" : "Klicka på en kosmetisk för mer information om det.",
                 "today-button" : "Dagens Artikel Shop"
@@ -152,15 +152,15 @@
                 "discord-button" : "Logga in med Discord",
                 "legacy-text" : "Alternativt, om du har gamla konto från 2018 behöver migration:",
                 "twitter-button" : "Logga in med Twitter",
-                "privacy-text" : "By logging in you agree to us storing data associated with your account as set out in our [integritetspolicy](/privacy)."
+                "privacy-text" : "Genom att logga in samtycker du till oss lagring av data av ditt konto som i vår [integritetspolicy](/privacy)."
             },
             "username" : {
                "title" : "Välkommen till fnbr.co",
                 "line1" : "You are logged in with Discord, to interact with others on our site we need you to pick a username",
-                "nameTaken" : "Your username [attemptedName] is taken by another user, we have added your Discord discriminator to it and suggest you use that.",
-                "randomName" : "Your username [attemptedName] is taken by another user, we were unable to make a unique name using your Discord discriminator.",
+                "nameTaken" : "Ditt användarnamn [attemptedName] tas av en annan användare, vi har lagt till din Discord discriminator till det och föreslår att du använder det.",
+                "randomName" : "Ditt användarnamn [attemptedName] tas av en annan användare, vi kunde inte göra ett unikt namn använder din Discord discriminator.",
                 "form-username" : "Användarnamn",
-                "form-criteria" : "Please choose a username between 2 and 32 characters, which may contain alphanumeric characters as well as underscores and hyphens.",
+                "form-criteria" : "Vänligen välj ett användarnamn mellan 2 och 32 tecken, vilket kan innehålla alfanumerisk tecken såväl som underscores och hyphens.",
                 "button-text" : "Ställ mitt användarnamn"
             },
             "locked" : {
@@ -170,12 +170,12 @@
             "migrated" : {
                 "title" : "Konto migrerat",
                 "line1" : "Du loggade in med Twitter som",
-                "line2" : "However, that account has been migrated to use Discord login."
+                "line2" : "Dock, det kontot har migrerats att använda Discord logga in."
             },
             "notFound" : {
                 "title" : "Inget Konto Hittades",
                 "line1" : "Du loggade in med Twitter som",
-                "line2" : "However, that account has never logged in before and we now only support Twitter login for migration purposes.",
+                "line2" : "Dock, det kontot har aldrig loggat in tidigare och vi stöder nu bara Twitter logga in för migration ändamål.",
                 "line3" : "Alternativt, kan du [logga in med Discord](/oauth/discord)."
             }
         },
