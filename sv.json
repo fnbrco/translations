@@ -25,36 +25,36 @@
                 "emote" : "Emote",
                 "glider" : "Segelflygplan",
                 "emoji" : "Emoji",
-                "loading" : "Laddar Skärm",
+                "loading" : "Laddningsskärm",
                 "outfit" : "Kläder",
                 "pickaxe" : "Pickaxe",
-                "skydive" : "Frittfall Trail",
+                "skydive" : "Frittfall Spår",
                 "umbrella" : "Paraply",
                 "spray" : "Spray",
                 "toy" : "Leksak",
-                "pet" : "Sällskapsdjur",
+                "pet" : "Husdjur",
                 "music" : "Musik",
                 "wrap" : "Hinna",
                 "bundle" : "Bunt",
-                "misc" : "Misc"
+                "misc" : "Blandat"
             },
             "rarity" : {
-                "legendary" : "Legendary",
-                "epic" : "Epic",
-                "rare" : "Rare",
-                "uncommon" : "Uncommon",
-                "common" : "Common"
+                "legendary" : "Legendarisk",
+                "epic" : "Episk",
+                "rare" : "Sällsynt",
+                "uncommon" : "Ovanlig",
+                "common" : "Vanlig"
             },
-            "translationNotAvailable" : "Tyvärr finns det ingen översättning tillgänglig för denna page.",
-            "translationIncomplete" : "Inte all text på denna sida kommer att översättas"
+            "translationNotAvailable" : "Tyvärr finns det ingen översättning tillgänglig för denna sida.",
+            "translationIncomplete" : "Inte all text på denna sida kommer att översättas."
         },
         "nav" : {
-            "home" : "home",
+            "home" : "hem",
             "shop" : "shop",
             "cosmetics" : {
                 "dropdown" : "kosmetika",
                 "upcoming" : "kommande",
-                "list" : "listor",
+                "list" : "lista",
                 "png" : "bild",
                 "gallery" : "galleri",
                 "icons" : "ikoner",
@@ -67,7 +67,7 @@
             "about" : {
                 "dropdown" : "handla om",
                 "translate" : "översätt",
-                "about" : "handla om fnbr.co",
+                "about" : "om fnbr.co",
                 "privacy" : "integritetspolicy",
                 "donate" : "Donera",
                 "discord" : "Discord",
@@ -83,29 +83,29 @@
                 "trigger" : "språk",
                 "title" : "Välj språk",
                 "currentLanguage" : "Du använder nu [language].",
-                "error" : "Fel vid nedladdning språkfil",
+                "error" : "Fel vid nedladdning av språkfil",
                 "authors" : "Översatt av:",
                 "cta" : "Klicka för att växla till [language]",
-                "switching" : "Downloading [language]...",
+                "switching" : "Laddar ner [language]...",
                 "finished" : "Ditt språk har ändrats!"
             }
         },
         "home" : {
             "title-upcoming" : "Kommande Objekt",
             "title-all" : "Alla Objekt",
-            "error" : "Kan inte hämta objekt snälla försök igen senare.",
-            "error-too-long" : "Detta är tar lång tid"
+            "error" : "Kan inte hämta objekt, snälla försök igen senare.",
+            "error-too-long" : "Detta tar länge än förväntat"
         },
         "shop" : {
             "title" : "Nuvarande Rotation",
             "title-featured" : "Featured",
-            "title-daily" : "Dagligen",
-            "error" : "Shop inte tillgängliga, snälla försök igen senare",
-            "line1" : "Den nuvarande artikel shop för Fortnite Battle Royale - förändringar dagligen på [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Se gårdagens artikel shop [här](/shop/yesterday|tooltip=Yesterday's Item Shop).",
-            "line3" : "Klicka på en kosmetisk att se mer information om det.",
+            "title-daily" : "Dagliga",
+            "error" : "Shoppen är inte tillgänglig, snälla försök igen senare",
+            "line1" : "Den nuvarande kosmetiska shop för Fortnite Battle Royale - förändras dagligen på [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Se gårdagens kosmetiska shop [här](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line3" : "Klicka på en kosmetisk objekt för att se mer information om det.",
             "countdown" : {
-                "title" : "Ny objekt:",
+                "title" : "Nytt objekt:",
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "timme",
                 "hours-plural" : "timmar"
@@ -115,55 +115,55 @@
             }
         },
         "upcoming" : {
-            "title" : "Kommande Kosmetika",
-            "line1" : "Alla unreleased objekt i Fortnite Battle Royale."
+            "title" : "Kommande Kosmetiska Objekt",
+            "line1" : "Alla osläppta objekt i Fortnite Battle Royale."
         },
         "list" : {
-            "title" : "Kosmetika Lista",
-            "line1" : "Varje kosmetisk tillgängliga i Fortnite Battle Royale.",
+            "title" : "Kosmetiska Lista",
+            "line1" : "Varje kosmetisk tillgänglig i Fortnite Battle Royale.",
             "table" : {
                 "icon" : "Ikon",
                 "name" : "Namn",
-                "type" : "Slag",
+                "type" : "Typ",
                 "rarity" : "Raritet",
-                "obtained" : "Erhållen"
+                "obtained" : "Skaffat"
             }
         },
         "history" : {
             "list" : {
-                "title" : "Artikel Shop Historia",
-                "line1" : "Senast 8 dagar shop för Fortnite Battle Royale.",
-                "line2" : "Klicka för att se full shop eller skrolla till se full artikel shop historia på dagen."
+                "title" : "Kosmetisk Shop Historia",
+                "line1" : "Här är de senaste 8 dagarnas shop för Fortnite Battle Royale.",
+                "line2" : "Klicka för att se full shop eller skrolla för att se den fulla kosmetiska shop historia på dagen."
             },
             "view" : {
                 "title" : "Shop Rotation",
-                "line1" : "Det här är artikel shop av [date] för Fortnite Battle Royale. ",
-                "line2" : "Klicka på en kosmetisk för mer information om det.",
-                "today-button" : "Dagens Artikel Shop"
+                "line1" : "Det här är den kosmetiska shop av [date] för Fortnite Battle Royale. ",
+                "line2" : "Klicka på en kosmetisk för att se mer information om den.",
+                "today-button" : "Dagens Kosmetiska Shop"
             }
         },
         "news" : {
             "title" : "Nyheter",
             "line1" : "Nuvarande spel nyheter från Epic Games. Uppdateras varje minut.",
-            "error" : "Kan inte få nyheter från Fortnite, vi ska försöka igen senare.",
+            "error" : "Vi kunde inte få fram nyheterna från Fortnite, vi ska försöka igen senare.",
             "more-ingame-button" : "Ladda mer"
         },
         "randomiser" : {
             "title" : "Randomiser",
-            "line1" : "Välj en slumpmässig klänning från varje objekt tillgängliga.",
+            "line1" : "Välj en slumpmässig kosmetisk objekt från varje kategori tillgänglig.",
             "chooseText" : "Klicka för att välja",
             "randomise-all" : "Randomise All"
         },
         "png" : {
             "title" : "Kosmetika PNG",
-            "line1" : "Vänligen ge kredit till fnbr.co om du använder någon av dessa bilder. Previews är nedskalade, nedladdningar kommer att vara i full storlek.",
+            "line1" : "Vänligen ge kredit till fnbr.co om du använder någon av dessa bilder. Förhandsvisningarna av bilderna är nedskalade, nedladdningar kommer att vara i full storlek.",
             "sort-by" : "Sortera efter:",
             "all" : "Allt"
         },
         "gallery" : {
-            "title" : "Kosmetika Gallery",
+            "title" : "Kosmetika Galleri",
             "line1" : "Varje kosmetisk tillgänglig i Fortnite Battle Royale.",
-            "line2" : "Vänligen använd inte dessa bilder på din personliga hemsida/sociala media konto utan kredit till fnbr.co"
+            "line2" : "Vänligen använd inte dessa bilder på din personliga hemsida/sociala media konto utan att ge kredit till fnbr.co"
         },
         "icons" : {
             "title" : "Fortnite Battle Royale Ikoner",
@@ -178,34 +178,34 @@
                 "release-date" : "Utgivningsdatum:",
                 "last-never" : "Senast sedd: Aldrig",
                 "last-date" : "Senast sedd:",
-                "occurrences" : "Occurrences:",
+                "occurrences" : "Förekomster:",
                 "reminder-count" : "Användare med [påminnelser](/reminders):",
                 "add-reminder" : "Lägg till påminnelse",
                 "remove-reminder" : "Ta bort påminnelse",
-                "has-reminders" : "Du har påminnelser angett för det här objektet.",
-                "no-reminders" : "Påminnelser inte är tillgängliga för detta objekt.",
+                "has-reminders" : "Du har skapat påminnelser för detta objekt.",
+                "no-reminders" : "Påminnelser är inte tillgängliga för detta objekt.",
                 "images" : "Bilder",
                 "images-icon" : "Ikon",
                 "images-png" : "PNG",
                 "images-gallery" : "Galleri",
                 "images-featured" : "Featured",
-                "interest-title" : "Intresset över tiden",
+                "interest-title" : "Intresset över tid",
                 "interest-line1" : "Detta representerar intresse för det här objektet över tiden, 100% är den mest populära tiden.",
                 "interest-line2" : "Data för idag kan vara ofullständig",
                 "occurrences-table" : {
-                    "title" : "Shop Occurences",
+                    "title" : "Shop Förekomster",
                     "th-date" : "Datum",
                     "th-days" : "Dagar sedan"
                 },
                 "set" : "Set",
                 "set-name" : "Del av [name]",
-                "popular-title" : "Populära Artiklar Idag"
+                "popular-title" : "Populära Objekt Idag"
             }
         },
         "account" : {
             "home" : {
                 "title" : "Din Konto Data",
-                "error" : "Något gick fel med att ladda ditt konto data, försök igen senare.",
+                "error" : "Något gick fel med att ladda ditt konto data, vänligen försök igen senare.",
                 "info" : {
                     "title" : "Information",
                     "line1" : "Du är inloggad med [provider] som [username]",
@@ -214,44 +214,44 @@
                 },
                 "migration" : {
                     "title" : "Gamla Konton",
-                    "waiting-line1" : "Vi har börjat använda Discord logga in.",
-                    "waiting-line2" : "Om du har ett konto från 2018, du måste logga in med den att slå samman den med den här",
-                    "twitter-line1" : "Vi har börjat använda Discord logga in. Du använder för närvarande en gamla konto vilket kan stoppas i framtiden och har begränsade funktioner.",
-                    "twitter-line2" : "Att migrera till ett diskord konto, klicka på knappen nedan"
+                    "waiting-line1" : "Vi har börjat använda Discord login.",
+                    "waiting-line2" : "Om du har ett konto från 2018 måste du logga in med den för att slå samman den med den här",
+                    "twitter-line1" : "Vi har börjat använda Discord login. Du använder för närvarande ett gammalt konto vilket har begränsade funktioner och kan även stoppa framtida funktioner från att funka.",
+                    "twitter-line2" : "För att migrera till ett discord konto, klicka på knappen nedan"
                 },
                 "ratings" : {
-                    "title" : "Ratings",
-                    "none" : "Du har inga ratings."
+                    "title" : "Betyg",
+                    "none" : "Du har inga betyg."
                 },
                 "destroy" : {
                     "title" : "Förstöra Konto",
-                    "line1" : "Om du inte vill ha ditt konto, du kan ta bort den och dess data [här](/account/destroy)"
+                    "line1" : "Om du inte vill ha ditt konto kan du ta bort den och dess data [här](/account/destroy)"
                 }
             },
             "oauth" : {
-                "title" : "Logga in fnbr.co",
+                "title" : "Logga in på fnbr.co",
                 "discord-button" : "Logga in med Discord",
-                "legacy-text" : "Alternativt, om du har gamla konto från 2018 behöver migration:",
+                "legacy-text" : "Alternativt, om du har ett gammalt konto från 2018 som behöver migration:",
                 "twitter-button" : "Logga in med Twitter",
-                "privacy-text" : "Genom att logga in samtycker du till oss lagring av data av ditt konto som i vår [integritetspolicy](/privacy)."
+                "privacy-text" : "Genom att logga in samtycker du till lagring av data på ditt konto som i vår [integritetspolicy](/privacy)."
             },
             "username" : {
                "title" : "Välkommen till fnbr.co",
-                "line1" : "You are logged in with Discord, to interact with others on our site we need you to pick a username",
-                "nameTaken" : "Ditt användarnamn [attemptedName] tas av en annan användare, vi har lagt till din Discord discriminator till det och föreslår att du använder det.",
-                "randomName" : "Ditt användarnamn [attemptedName] tas av en annan användare, vi kunde inte göra ett unikt namn använder din Discord discriminator.",
+                "line1" : "Du är inloggad med Discord, för att interagera med andra på vår sida behöver vi att du väljer ett användarnamn",
+                "nameTaken" : "Ditt användarnamn [attemptedName] används redan av en annan användare, vi har lagt till din Discord discriminator till det och föreslår att du använder det.",
+                "randomName" : "Ditt användarnamn [attemptedName] används redan av en annan användare, vi kunde inte göra ett unikt namn genom att använda din Discord discriminator.",
                 "form-username" : "Användarnamn",
-                "form-criteria" : "Vänligen välj ett användarnamn mellan 2 och 32 tecken, vilket kan innehålla alfanumerisk tecken såväl som underscores och hyphens.",
-                "button-text" : "Ställ mitt användarnamn"
+                "form-criteria" : "Vänligen välj ett användarnamn mellan 2 och 32 tecken, vilket kan innehålla alfanumerisk tecken såväl som understreck och bindestreck.",
+                "button-text" : "Ange mitt användarnamn"
             },
             "locked" : {
                 "title" : "Kan inte logga in",
-                "line1" : "Du kan inte logga in till fnbr.co därför att [ditt konto har låsts](class=text-danger)."
+                "line1" : "Du kan inte logga in på fnbr.co därför att [ditt konto har låsts](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Konto migrerat",
                 "line1" : "Du loggade in med Twitter som",
-                "line2" : "Dock, det kontot har migrerats att använda Discord logga in."
+                "line2" : "Dock, det kontot har migrerats att använda Discord login."
             },
             "notFound" : {
                 "title" : "Inget Konto Hittades",
@@ -263,7 +263,7 @@
         "errors" : {
             "404" : {
                 "title" : "Fel",
-                "line1" : "Antingen resurs ej tillgänglig, eller inget tillstånd att se det."
+                "line1" : "Antingen är resursen ej tillgänglig, eller har du inget tillstånd att se det."
             },
             "500" : {
                 "title" : "Hoppsan!",
