@@ -82,7 +82,12 @@
             "languagePicker" : {
                 "trigger" : "language",
                 "title" : "Dil Seçiniz",
-                "currentLanguage" : "Şu anda [language] kullanıyorsunuz."
+                "currentLanguage" : "Şu anda [language] kullanıyorsunuz.",
+                "error" : "Dil dosyası indirilirken hata oluştu",
+                "authors" : "Tercüme eden:",
+                "cta" : "[language] geçmek için tıklayın",
+                "switching" : "İndiriliyor [language]...",
+                "finished" : "Diliniz değiştirildi!"
             }
         },
         "home" : {
@@ -104,11 +109,62 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "saat",
                 "hours-plural" : "saatler"
+            },
+            "yesterday" : {
+                "title" : "Dünkü Mağaza Rotasyonu"
             }
         },
         "upcoming" : {
             "title" : "Yaklaşan Kozmetikler",
             "line1" : "Fortnite Battle Royale'deki yayınlanmamış eşyalar."
+        },
+        "png" : {
+            "title" : "Kozmetik PNG",
+            "line1" : "Bu resimlerden birini kullanıyorsanız, lütfen fnbr.com'a kaynak gösterin. Önizlemeler küçültülür, indirmeler tam boy olur.",
+            "sort-by" : "Şuna göre sırala:",
+            "all" : "Tümü"
+        },
+        "gallery" : {
+            "title" : "Kozmetik Galerisi",
+            "line1" : "Fortnite Battle Royale'de mevcut her kozmetik.",
+            "line2" : "Lütfen bu görüntüleri fnbr.com'a doğrudan kaynak vermeden kişisel web sitenizde / sosyal medya hesabınızda kullanmayın."
+        },
+        "icons" : {
+            "title" : "Fortnite Battle Royale İkonlar",
+            "line1" : "Tüm resimler Epic Games'e aittir."
+        },
+        "item" : {
+            "unreleased" : "Yayınlanmadı",
+            "description" : "Açıklama",
+            "history" : {
+                "title" : "Mağaza Tarihi",
+                "release-never" : "Çıkış tarihi: Asla",
+                "release-date" : "Çıkış tarihi:",
+                "last-never" : "Son görülen: Asla",
+                "last-date" : "Son görülen:",
+                "occurrences" : "Çıkma:",
+                "reminder-count" : "[Hatırlatıcı](/reminders)'sı olan kullanıcılar:",
+                "add-reminder" : "Hatırlatıcı Ekle",
+                "remove-reminder" : "Hatırlatıcıyı Sil",
+                "has-reminders" : "Bu öğe için ayarlanmış hatırlatıcılarınız var.",
+                "no-reminders" : "Bu öğe için hatırlatıcı kullanılamaz.",
+                "images" : "Görüntüler",
+                "images-icon" : "İkon",
+                "images-png" : "PNG",
+                "images-gallery" : "Galeri",
+                "images-featured" : "Öne çıkan",
+                "interest-title" : "Zamanla İlgi",
+                "interest-line1" : "Bu, zaman içinde bu öğeye olan ilgiyi temsil eder, %100 en popüler zaman.",
+                "interest-line2" : "Bugün için veriler eksik olabilir",
+                "occurrences-table" : {
+                    "title" : "Dükkan Oluşumları",
+                    "th-date" : "Tarih",
+                    "th-days" : "Gün Önce"
+                },
+                "set" : "Set",
+                "set-name" : "[name] Bir Parçası",
+                "popular-title" : "Bugün Popüler Eşyalar"
+            }
         },
         "list" : {
             "title" : "Kozmetik Listesi",
@@ -147,6 +203,31 @@
             "randomise-all" : "Tümü Rastgele"
         },
         "account" : {
+            "home" : {
+                "title" : "Sizin Hesap Verileriniz",
+                "error" : "Hesap verilerinizi yüklerken bir şeyler ters gitti, lütfen daha sonra tekrar deneyin.",
+                "info" : {
+                    "title" : "Bilgi",
+                    "line1" : "[provider] ile [username] olarak giriş yaptınız",
+                    "line2-api-yes" : "Sizin [api erişiminiz](/api/docs) var",
+                    "line2-api-no" : "Sizin api erişiminiz yok."
+                },
+                "migration" : {
+                    "title" : "Eski Hesaplar",
+                    "waiting-line1" : "Giriş için Discord kullanımına geçtik.",
+                    "waiting-line2" : "2018'ten bir hesabınız varsa, bununla birleştirmek için onunla giriş yapmanız gerekecektir",
+                    "twitter-line1" : "Giriş için Discord kullanmaya geçtik. Şu anda, gelecekte durdurulabilecek ve sınırlı bir işlevselliğe sahip eski bir hesap kullanıyorsunuz.",
+                    "twitter-line2" : "Bir Discord hesabına geçmek için aşağıdaki düğmeye tıklayın"
+                },
+                "ratings" : {
+                    "title" : "Puanlamalar",
+                    "none" : "Hiçbir puanlamanız yok."
+                },
+                "destroy" : {
+                    "title" : "Hesabı Yok Et",
+                    "line1" : "Artık hesabınızı istemiyorsanız, [buradan](/account/destroy) tüm verileri silebilirsiniz"
+                }
+            },
             "oauth" : {
                 "title" : "Fnbr.co'ya giriş yapın",
                 "discord-button" : "Discord ile giriş yap",
