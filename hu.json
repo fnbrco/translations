@@ -67,16 +67,16 @@
             "about": {
                 "dropdown": "about",
                 "about": "fnbr.co-ról",
-                "privacy": "Adatvédelmi irányelvek",
+                "privacy": "adatvédelmi irányelvek",
                 "donate": "Adományozz",
                 "discord": "Discord",
                 "twitter": "Twitter"
             },
             "api": "api",
             "account": {
-                "dropdown": "Fiók",
-                "account": "Fiók",
-                "logout": "Kijelentkezés"
+                "dropdown": "fiók",
+                "account": "fiók",
+                "logout": "kijelentkezés"
             },
             "languagePicker": {
                 "trigger": "Nyelv",
