@@ -56,7 +56,7 @@
                 "upcoming" : "bald verfügbar",
                 "list" : "liste",
                 "png" : "png",
-                "gallery" : "gallerie",
+                "gallery" : "galerie",
                 "icons" : "icons",
                 "reminders" : "erinnerungen",
                 "history" : "historie des shops"
@@ -161,7 +161,7 @@
             "all" : "Alle"
         },
         "gallery" : {
-            "title" : "Gegenstandsgallerie",
+            "title" : "Gegenstandsgalerie",
             "line1" : "Jeder Gegenstand, der in Fortnite Battle Royale erhältlich ist.",
             "line2" : "Bitte verwende diese Bilder nicht auf deiner persönlichen Website/deinem Social Media-Konto ohne Verweis auf fnbr.co"
         },
@@ -187,7 +187,7 @@
                 "images" : "Bilder",
                 "images-icon" : "Icon",
                 "images-png" : "PNG",
-                "images-gallery" : "Gallerie",
+                "images-gallery" : "Galerie",
                 "images-featured" : "Vorgestellt",
                 "interest-title" : "Interesse im Zeitverlauf",
                 "interest-line1" : "Dies stellt das Interesse an diesem Gegenstand im Laufe der Zeit dar, wobei 100 % die beliebteste Zeit ist.",
