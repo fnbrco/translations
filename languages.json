@@ -117,6 +117,13 @@
             "flag": "sk",
             "live": true,
             "authors" : ["EzBugatti#0001"]
+        },
+        {
+            "name": "Svenska",
+            "code": "sv",
+            "flag": "se",
+            "live": true,
+            "authors" : ["Lord Drift#4014", "Rizk#0001"]
         }
     ]
 }
