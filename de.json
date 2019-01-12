@@ -174,9 +174,9 @@
             "description" : "Beschreibung",
             "history" : {
                 "title" : "Shop-Historie",
-                "release-never" : "Erscheinungsdatum: Niemals",
+                "release-never" : "Erscheinungsdatum: Nie",
                 "release-date" : "Erscheinungsdatum:",
-                "last-never" : "Zuletzt gesehen: Niemals",
+                "last-never" : "Zuletzt gesehen: Nie",
                 "last-date" : "Zuletzt gesehen:",
                 "occurrences" : "Erscheinungen:",
                 "reminder-count" : "Benutzer mit [Erinnerungen](/reminders):",
