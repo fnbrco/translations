@@ -66,6 +66,7 @@
             "randomiser" : "randomizator",
             "about" : {
                 "dropdown" : "despre",
+                "translate" : "traduceri",
                 "about" : "despre fnbr.co",
                 "privacy" : "politica de confidențialitate",
                 "donate" : "Donează",
@@ -108,6 +109,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "oră",
                 "hours-plural" : "ore"
+            },
+            "yesterday" : {
+                "title" : "Rotația magazinului de ieri"
             }
         },
         "upcoming" : {
