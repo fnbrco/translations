@@ -61,7 +61,7 @@
                 "reminders" : "rappels",
                 "history" : "historique"
             },
-            "news" : "Nouvelles",
+            "news" : "nouvelles",
             "modes" : "modes",
             "randomiser" : "randomiseur",
             "about" : {
@@ -76,8 +76,8 @@
             "api" : "api",
             "account" : {
                 "dropdown" : "menu déroulant",
-                "account" : "Compte",
-                "logout" : "Se Déconnecter"
+                "account" : "compte",
+                "logout" : "se déconnecter"
             },
             "languagePicker" : {
                 "trigger" : "language",
