@@ -52,8 +52,8 @@
             "home" : "hjem",
             "shop" : "butikk",
             "cosmetics" : {
-                "dropdown" : "Kosmetikker",
-                "upcoming" : "Kommende",
+                "dropdown" : "kosmetikker",
+                "upcoming" : "kommende",
                 "list" : "liste",
                 "png" : "png",
                 "gallery" : "galleri",
