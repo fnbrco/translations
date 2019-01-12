@@ -52,7 +52,7 @@
             "home" : "startseite",
             "shop" : "shop",
             "cosmetics" : {
-                "dropdown" : "gegenstände",
+                "dropdown" : "kosmetika",
                 "upcoming" : "bald verfügbar",
                 "list" : "liste",
                 "png" : "png",
@@ -103,7 +103,7 @@
             "error" : "Shop nicht verfügbar, versuche es später erneut.",
             "line1" : "Die aktuelle Item Shop-Rotation für Fortnite Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Aktuelle Zeit in UTC|newtab=true).",
             "line2" : "Du kannst den gestrigen Item Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
-            "line3" : "Klicke auf einen Gegenstand, um mehr über diesen zu erfahren.",
+            "line3" : "Klicke auf eine Kosmetik, um mehr über diese zu erfahren.",
             "countdown" : {
                 "title" : "Neue Gegenstände:",
                 "wordyFormat" : "[number] [noun]",
@@ -115,12 +115,12 @@
             }
         },
         "upcoming" : {
-            "title" : "Bald verfügbare Gegenstände",
+            "title" : "Bald verfügbare Kosmetika",
             "line1" : "Alle noch nicht erschienenen Gegenstände in Fortnite Battle Royale."
         },
         "list" : {
-            "title" : "Gegenstandsliste",
-            "line1" : "Jeder verfügbare Gegenstand in Fortnite Battle Royale.",
+            "title" : "Kosmetikliste",
+            "line1" : "Jede verfügbare Kosmetik in Fortnite Battle Royale.",
             "table" : {
                 "icon" : "Icon",
                 "name" : "Name",
@@ -138,7 +138,7 @@
             "view" : {
                 "title" : "Shop-Rotation",
                 "line1" : "Dies ist die Item Shop-Rotation vom [date] für Fortnite Battle Royale.",
-                "line2" : "Klicke auf einen Gegenstand, um mehr über diesen zu erfahren.",
+                "line2" : "Klicke auf eine Kosmetik, um mehr über diese zu erfahren.",
                 "today-button" : "Heutiger Item Shop"
             }
         },
@@ -155,14 +155,14 @@
             "randomise-all" : "Alle randomisieren"
         },
         "png" : {
-            "title" : "Gegenstands-PNG",
+            "title" : "Kosmetik-PNG",
             "line1" : "Bitte verweise auf fnbr.co, wenn du eines dieser Bilder verwendest. Vorschaubilder sind verkleinert dargestellt, Downloads werden in voller Größe angeboten.",
             "sort-by" : "Sortieren nach:",
             "all" : "Alle"
         },
         "gallery" : {
-            "title" : "Gegenstandsgalerie",
-            "line1" : "Jeder Gegenstand, der in Fortnite Battle Royale erhältlich ist.",
+            "title" : "Kosmetikgalerie",
+            "line1" : "Jede Kosmetik, die in Fortnite Battle Royale erhältlich ist.",
             "line2" : "Bitte verwende diese Bilder nicht auf deiner persönlichen Website/deinem Social Media-Konto ohne Verweis auf fnbr.co"
         },
         "icons" : {
