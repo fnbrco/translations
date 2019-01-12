@@ -82,12 +82,12 @@
             "languagePicker" : {
                 "trigger" : "language",
                 "title" : "Scegli lingua",
-                "currentLanguage" : "Stai attualmente usando [language]."
+                "currentLanguage" : "Stai attualmente usando [language].",
                 "error" : "Errore durante il download del file delle traduzioni",
                 "authors" : "Tradotto da:",
                 "cta" : "Clicca per cambiare a [language]",
                 "switching" : "Scaricando [language]...",
-	            "finished" : "La tua lingua e' stata cambiata!"
+	        "finished" : "La tua lingua e' stata cambiata!"
             }
         },
         "home" : {
