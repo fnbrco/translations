@@ -229,14 +229,14 @@
                 }
             },
             "oauth" : {
-                "title" : "Fnbr.co'ya giriş yapın",
+                "title" : "fnbr.co'ya giriş yapın",
                 "discord-button" : "Discord ile giriş yap",
                 "legacy-text" : "Alternatif olarak, 2018’den kalma bir hesabınız varsa:",
                 "twitter-button" : "Twitter ile giriş yap",
                 "privacy-text" : "Giriş yaparak, hesabımızda belirtilmiş olan ve hesabımızda belirtilen verileri kaydetmemizi kabul edersiniz [Gizlilik Politikası](/privacy)."
             },
             "username" : {
-                "title" : "Fnbr.co'ya Hoşgeldiniz",
+                "title" : "fnbr.co'ya Hoşgeldiniz",
                 "line1" : "Discord'la giriş yaptınız, sitemizdeki diğer kullanıcılarla etkileşimde bulunmak için bir kullanıcı adı seçmeniz gerekiyor",
                 "nameTaken" : "Kullanıcı adınız [attemptedName] başka bir kullanıcı tarafından alındı, Discord ayırıcınızı buna ekledik ve kullanmanızı öneririz.",
                 "randomName" : "Kullanıcı adınız [attemptedName] başka bir kullanıcı tarafından alındı, Discord ayırıcınızı kullanarak benzersiz bir ad oluşturamadık.",
@@ -246,7 +246,7 @@
             },
             "locked" : {
                 "title" : "Giriş yapılamıyor",
-                "line1" : "Fnbr.co sitesine giriş yapamazsınız çünkü [hesabınız kilitlendi](class=text-danger)."
+                "line1" : "fnbr.co sitesine giriş yapamazsınız çünkü [hesabınız kilitlendi](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Hesap taşındı",
