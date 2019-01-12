@@ -120,14 +120,14 @@
         },
         "png" : {
             "title" : "Kozmetik PNG",
-            "line1" : "Bu resimlerden birini kullanıyorsanız, lütfen fnbr.com'a kaynak gösterin. Önizlemeler küçültülür, indirmeler tam boy olur.",
+            "line1" : "Bu resimlerden birini kullanıyorsanız, lütfen fnbr.co'a kaynak gösterin. Önizlemeler küçültülür, indirmeler tam boy olur.",
             "sort-by" : "Şuna göre sırala:",
             "all" : "Tümü"
         },
         "gallery" : {
             "title" : "Kozmetik Galerisi",
             "line1" : "Fortnite Battle Royale'de mevcut her kozmetik.",
-            "line2" : "Lütfen bu görüntüleri fnbr.com'a doğrudan kaynak vermeden kişisel web sitenizde / sosyal medya hesabınızda kullanmayın."
+            "line2" : "Lütfen bu görüntüleri fnbr.co'a doğrudan kaynak vermeden kişisel web sitenizde / sosyal medya hesabınızda kullanmayın."
         },
         "icons" : {
             "title" : "Fortnite Battle Royale İkonlar",
@@ -229,14 +229,14 @@
                 }
             },
             "oauth" : {
-                "title" : "Fnbr.co'ya giriş yapın",
+                "title" : "fnbr.co'ya giriş yapın",
                 "discord-button" : "Discord ile giriş yap",
                 "legacy-text" : "Alternatif olarak, 2018’den kalma bir hesabınız varsa:",
                 "twitter-button" : "Twitter ile giriş yap",
                 "privacy-text" : "Giriş yaparak, hesabımızda belirtilmiş olan ve hesabımızda belirtilen verileri kaydetmemizi kabul edersiniz [Gizlilik Politikası](/privacy)."
             },
             "username" : {
-                "title" : "Fnbr.co'ya Hoşgeldiniz",
+                "title" : "fnbr.co'ya Hoşgeldiniz",
                 "line1" : "Discord'la giriş yaptınız, sitemizdeki diğer kullanıcılarla etkileşimde bulunmak için bir kullanıcı adı seçmeniz gerekiyor",
                 "nameTaken" : "Kullanıcı adınız [attemptedName] başka bir kullanıcı tarafından alındı, Discord ayırıcınızı buna ekledik ve kullanmanızı öneririz.",
                 "randomName" : "Kullanıcı adınız [attemptedName] başka bir kullanıcı tarafından alındı, Discord ayırıcınızı kullanarak benzersiz bir ad oluşturamadık.",
@@ -246,7 +246,7 @@
             },
             "locked" : {
                 "title" : "Giriş yapılamıyor",
-                "line1" : "Fnbr.com sitesine giriş yapamazsınız çünkü [hesabınız kilitlendi](class=text-danger)."
+                "line1" : "fnbr.co sitesine giriş yapamazsınız çünkü [hesabınız kilitlendi](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Hesap taşındı",
