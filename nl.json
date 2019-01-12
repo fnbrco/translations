@@ -23,16 +23,16 @@
             "types" : {
                 "backpack" : "Rugzak",
                 "emote" : "Emote",
-                "glider" : "Zwever",
+                "glider" : "Glijder",
                 "emoji" : "Emoji",
                 "loading" : "Laadscherm",
                 "outfit" : "Outfit",
                 "pickaxe" : "Houweel",
-                "skydive" : "Skydiving Trail",
+                "skydive" : "Skydiving Spoor",
                 "umbrella" : "Paraplu",
                 "spray" : "Spray",
                 "toy" : "Speelgoed",
-                "pet" : "Dier",
+                "pet" : "Huisdier",
                 "music" : "Muziek",
                 "wrap" : "Wikkel",
                 "bundle" : "Bundel",
@@ -56,13 +56,13 @@
                 "upcoming" : "aankomend",
                 "list" : "lijst",
                 "png" : "png",
-                "gallery" : "galerij",
+                "gallery" : "gallerij",
                 "icons" : "iconen",
                 "reminders" : "herinneringen",
                 "history" : "winkel geschiedenis"
             },
             "news" : "nieuws",
-            "modes" : "modes",
+            "modes" : "modussen",
             "randomiser" : "willekeurige items",
             "about" : {
                 "dropdown" : "over",
@@ -96,7 +96,7 @@
             "error-too-long" : "Dit duurt langer dan gedacht"
         },
         "shop" : {
-            "title" : "Huidige winkel",
+            "title" : "Huidige Winkel",
             "title-featured" : "Uitgelicht",
             "title-daily" : "Dagelijks",
             "error" : "Winkel niet beschikbaar, probeer het later opnieuw.",
@@ -155,7 +155,7 @@
         },
         "png" : {
             "title" : "Cosmetica PNG",
-            "line1" : "Geef credit aan fnbr.co als je een afbeelding gebruikt. Previews hebben een lagere resolutie, downloads hebben maximale resolutie.",
+            "line1" : "Geef credit aan fnbr.co als je een afbeelding gebruikt. Voorbeelden hebben een lagere resolutie, downloads hebben maximale resolutie.",
             "sort-by" : "Sorteren door:",
             "all" : "Alles"
         },
@@ -166,10 +166,10 @@
         },
         "icons" : {
             "title" : "Fortnite Battle Royale Iconen",
-            "line1" : "Alle afbeeldingen zijn eigendom van Epic Games."
+            "line1" : "Alle afbeeldingen behoren tot Epic Games."
         },
         "item" : {
-            "unreleased" : "Onbekend",
+            "unreleased" : "Nog niet aangekomen",
             "description" : "Beschrijving",
             "history" : {
                 "title" : "Winkel Geschiedenis",
@@ -179,9 +179,9 @@
                 "last-date" : "Laatst gezien:",
                 "occurrences" : "Aantal keer gezien:",
                 "reminder-count" : "Gebruikers met [herinneringen](/reminders):",
-                "add-reminder" : "Voeg Herinnering toe",
-                "remove-reminder" : "Verwijder Herinnering",
-                "has-reminders" : "Je hebt Herinneringen toegevoegd voor dit item.",
+                "add-reminder" : "Voeg herinnering toe",
+                "remove-reminder" : "Verwijder herinnering",
+                "has-reminders" : "Je hebt herinneringen toegevoegd voor dit item.",
                 "no-reminders" : "Herinneringen zijn niet beschikbaar voor dit item.",
                 "images" : "Afbeeldingen",
                 "images-icon" : "Iconen",
@@ -190,14 +190,14 @@
                 "images-featured" : "Aanbevolen",
                 "interest-title" : "Aandacht over tijd",
                 "interest-line1" : "Dit laat de aandacht van het item zien van afglopen tijd, 100% heeft de meeste aandacht.",
-                "interest-line2" : "De gegevens van vandaag kan niet compleet zijn.",
+                "interest-line2" : "De gegevens van vandaag kunnen niet compleet zijn.",
                 "occurrences-table" : {
                     "title" : "Geschiedenis",
                     "th-date" : "Datum",
                     "th-days" : "Dagen geleden"
                 },
                 "set" : "Set",
-                "set-name" : "Onderdeel [name]",
+                "set-name" : "Onderdeel van [name]",
                 "popular-title" : "Populaire Items Vandaag"
             }
         },
@@ -230,7 +230,7 @@
             "oauth" : {
                 "title" : "Log in op fnbr.co",
                 "discord-button" : "Log in met Discord",
-                "legacy-text" : "Als je nog een oud account van 2018 hebt dat veranderd moet worden:",
+                "legacy-text" : "Als alternatief, als je nog een oud account van 2018 hebt dat veranderd moet worden:",
                 "twitter-button" : "Log in met Twitter",
                 "privacy-text" : "Als je inlogt dan geeft je ons ook toestemming om data over jou te verzamelen, dat kan je lezen in ons [privacybeleid](/privacy)."
             },
@@ -244,7 +244,7 @@
                 "button-text" : "Gebruikersnaam opslaan"
             },
             "locked" : {
-                "title" : "Kan niet inloggen",
+                "title" : "Fout bij het inloggen",
                 "line1" : "Je kan niet inloggen op fnbr.co omdat [je account geblokkeerd is](class=text-danger)."
             },
             "migrated" : {
@@ -271,4 +271,4 @@
             }
         }
     }
- }
+}
