@@ -93,14 +93,14 @@
         "home" : {
             "title-upcoming" : "Bald verfügbare Gegenstände",
             "title-all" : "Alle Gegenstände",
-            "error" : "Fehler beim Abrufen der Gegenstände, versuche es später erneut.",
+            "error" : "Fehler beim Abrufen der Gegenstände, bitte versuche es in wenigen Augenblicken noch einmal.",
             "error-too-long" : "Das dauert länger als erwartet"
         },
         "shop" : {
             "title" : "Aktuelle Rotation",
             "title-featured" : "Vorgestellt",
             "title-daily" : "Täglich",
-            "error" : "Shop nicht verfügbar, versuche es später erneut.",
+            "error" : "Shop nicht verfügbar, bitte versuche es in wenigen Augenblicken noch einmal",
             "line1" : "Die aktuelle Item Shop-Rotation für Fortnite Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Aktuelle Zeit in UTC|newtab=true).",
             "line2" : "Du kannst den gestrigen Item Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
             "line3" : "Klicke auf eine Kosmetik, um mehr über diese zu erfahren.",
