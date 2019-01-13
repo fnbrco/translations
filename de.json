@@ -178,29 +178,29 @@
                 "release-date" : "Erscheinungsdatum:",
                 "last-never" : "Zuletzt gesehen: Nie",
                 "last-date" : "Zuletzt gesehen:",
-                "occurrences" : "Erscheinungen:",
-                "reminder-count" : "Benutzer mit [Erinnerungen](/reminders):",
-                "add-reminder" : "Erinnerung hinzufügen",
-                "remove-reminder" : "Erinnerung entfernen",
-                "has-reminders" : "Du hast Erinnerungen für diesen Gegenstand eingerichtet.",
-                "no-reminders" : "Für diesen Gegenstand sind keine Erinnerungen verfügbar.",
-                "images" : "Bilder",
-                "images-icon" : "Icon",
-                "images-png" : "PNG",
-                "images-gallery" : "Galerie",
-                "images-featured" : "Vorgestellt",
-                "interest-title" : "Interesse im Zeitverlauf",
-                "interest-line1" : "Dies stellt das Interesse an diesem Gegenstand im Laufe der Zeit dar, wobei 100 % die beliebteste Zeit ist.",
-                "interest-line2" : "Die Daten für heute können unvollständig sein",
-                "occurrences-table" : {
-                    "title" : "Shop-Erscheinungen",
-                    "th-date" : "Datum",
-                    "th-days" : "Tage zuvor"
-                },
-                "set" : "Set",
-                "set-name" : "Teil von [name]",
-                "popular-title" : "Beliebte Gegenstände heute"
-            }
+                "occurrences" : "Erscheinungen:"
+            },
+            "reminder-count" : "Benutzer mit [Erinnerungen](/reminders):",
+            "add-reminder" : "Erinnerung hinzufügen",
+            "remove-reminder" : "Erinnerung entfernen",
+            "has-reminders" : "Du hast Erinnerungen für diesen Gegenstand eingerichtet.",
+            "no-reminders" : "Für diesen Gegenstand sind keine Erinnerungen verfügbar.",
+            "images" : "Bilder",
+            "images-icon" : "Icon",
+            "images-png" : "PNG",
+            "images-gallery" : "Galerie",
+            "images-featured" : "Vorgestellt",
+            "interest-title" : "Interesse im Zeitverlauf",
+            "interest-line1" : "Dies stellt das Interesse an diesem Gegenstand im Laufe der Zeit dar, wobei 100 % die beliebteste Zeit ist.",
+            "interest-line2" : "Die Daten für heute können unvollständig sein",
+            "occurrences-table" : {
+                "title" : "Shop-Erscheinungen",
+                "th-date" : "Datum",
+                "th-days" : "Tage zuvor"
+            },
+            "set" : "Set",
+            "set-name" : "Teil von [name]",
+            "popular-title" : "Beliebte Gegenstände heute"
         },
         "account" : {
             "home" : {

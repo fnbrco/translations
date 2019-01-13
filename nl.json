@@ -177,29 +177,29 @@
                 "release-date" : "Datum uitgebracht:",
                 "last-never" : "Laatst gezien: Nooit",
                 "last-date" : "Laatst gezien:",
-                "occurrences" : "Aantal keer gezien:",
-                "reminder-count" : "Gebruikers met [herinneringen](/reminders):",
-                "add-reminder" : "Voeg herinnering toe",
-                "remove-reminder" : "Verwijder herinnering",
-                "has-reminders" : "Je hebt herinneringen toegevoegd voor dit item.",
-                "no-reminders" : "Herinneringen zijn niet beschikbaar voor dit item.",
-                "images" : "Afbeeldingen",
-                "images-icon" : "Iconen",
-                "images-png" : "PNG",
-                "images-gallery" : "Galerij",
-                "images-featured" : "Aanbevolen",
-                "interest-title" : "Aandacht over tijd",
-                "interest-line1" : "Dit laat de aandacht van het item zien van afglopen tijd, 100% heeft de meeste aandacht.",
-                "interest-line2" : "De gegevens van vandaag kunnen niet compleet zijn.",
-                "occurrences-table" : {
-                    "title" : "Geschiedenis",
-                    "th-date" : "Datum",
-                    "th-days" : "Dagen geleden"
-                },
-                "set" : "Set",
-                "set-name" : "Onderdeel van [name]",
-                "popular-title" : "Populaire Items Vandaag"
-            }
+                "occurrences" : "Aantal keer gezien:"
+            },
+            "reminder-count" : "Gebruikers met [herinneringen](/reminders):",
+            "add-reminder" : "Voeg herinnering toe",
+            "remove-reminder" : "Verwijder herinnering",
+            "has-reminders" : "Je hebt herinneringen toegevoegd voor dit item.",
+            "no-reminders" : "Herinneringen zijn niet beschikbaar voor dit item.",
+            "images" : "Afbeeldingen",
+            "images-icon" : "Iconen",
+            "images-png" : "PNG",
+            "images-gallery" : "Galerij",
+            "images-featured" : "Aanbevolen",
+            "interest-title" : "Aandacht over tijd",
+            "interest-line1" : "Dit laat de aandacht van het item zien van afglopen tijd, 100% heeft de meeste aandacht.",
+            "interest-line2" : "De gegevens van vandaag kunnen niet compleet zijn.",
+            "occurrences-table" : {
+                "title" : "Geschiedenis",
+                "th-date" : "Datum",
+                "th-days" : "Dagen geleden"
+            },
+            "set" : "Set",
+            "set-name" : "Onderdeel van [name]",
+            "popular-title" : "Populaire Items Vandaag"
         },
         "account" : {
             "home" : {

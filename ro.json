@@ -178,29 +178,29 @@
                 "release-date" : "Data lansării:",
                 "last-never" : "Văzut ultima dată: Niciodata",
                 "last-date" : "Văzut ultima dată:",
-                "occurrences" : "Apariții:",
-                "reminder-count" : "Utilizatori cu [remindere](/reminders):",
-                "add-reminder" : "Adaugă Reminder",
-                "remove-reminder" : "Șterge Reminder",
-                "has-reminders" : "Ai remindere setate pentru acest obiect.",
-                "no-reminders" : "Reminderele nu sunt disponibile pentru acest obiect.",
-                "images" : "Imagini",
-                "images-icon" : "Iconițe",
-                "images-png" : "PNG-uri",
-                "images-gallery" : "Gallerie",
-                "images-featured" : "Recomandate",
-                "interest-title" : "Interesul în timp",
-                "interest-line1" : "Aceasta reprezinta interesul acestui obiect în timp, 100% fiind cel mai popular timp.",
-                "interest-line2" : "Datele pentru astăzi pot fi incomplete.",
-                "occurrences-table" : {
-                    "title" : "Apariții în magazin",
-                    "th-date" : "Dată",
-                    "th-days" : "Zile în urmă"
-                },
-                "set" : "Setul",
-                "set-name" : "Parte din [name]",
-                "popular-title" : "Obiectele Populare de Astăzi"
-            }
+                "occurrences" : "Apariții:"
+            },
+            "reminder-count" : "Utilizatori cu [remindere](/reminders):",
+            "add-reminder" : "Adaugă Reminder",
+            "remove-reminder" : "Șterge Reminder",
+            "has-reminders" : "Ai remindere setate pentru acest obiect.",
+            "no-reminders" : "Reminderele nu sunt disponibile pentru acest obiect.",
+            "images" : "Imagini",
+            "images-icon" : "Iconițe",
+            "images-png" : "PNG-uri",
+            "images-gallery" : "Gallerie",
+            "images-featured" : "Recomandate",
+            "interest-title" : "Interesul în timp",
+            "interest-line1" : "Aceasta reprezinta interesul acestui obiect în timp, 100% fiind cel mai popular timp.",
+            "interest-line2" : "Datele pentru astăzi pot fi incomplete.",
+            "occurrences-table" : {
+                "title" : "Apariții în magazin",
+                "th-date" : "Dată",
+                "th-days" : "Zile în urmă"
+            },
+            "set" : "Setul",
+            "set-name" : "Parte din [name]",
+            "popular-title" : "Obiectele Populare de Astăzi"
         },
         "account" : {
             "home" : {

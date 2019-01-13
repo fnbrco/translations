@@ -178,29 +178,29 @@
                 "release-date" : "Utgivningsdatum:",
                 "last-never" : "Senast sedd: Aldrig",
                 "last-date" : "Senast sedd:",
-                "occurrences" : "Förekomster:",
-                "reminder-count" : "Användare med [påminnelser](/reminders):",
-                "add-reminder" : "Lägg till påminnelse",
-                "remove-reminder" : "Ta bort påminnelse",
-                "has-reminders" : "Du har skapat påminnelser för detta objekt.",
-                "no-reminders" : "Påminnelser är inte tillgängliga för detta objekt.",
-                "images" : "Bilder",
-                "images-icon" : "Ikon",
-                "images-png" : "PNG",
-                "images-gallery" : "Galleri",
-                "images-featured" : "Featured",
-                "interest-title" : "Intresset över tid",
-                "interest-line1" : "Detta representerar intresse för det här objektet över tiden, 100% är den mest populära tiden.",
-                "interest-line2" : "Data för idag kan vara ofullständig",
-                "occurrences-table" : {
-                    "title" : "Shop Förekomster",
-                    "th-date" : "Datum",
-                    "th-days" : "Dagar sedan"
-                },
-                "set" : "Set",
-                "set-name" : "Del av [name]",
-                "popular-title" : "Populära Objekt Idag"
-            }
+                "occurrences" : "Förekomster:"
+            },
+            "reminder-count" : "Användare med [påminnelser](/reminders):",
+            "add-reminder" : "Lägg till påminnelse",
+            "remove-reminder" : "Ta bort påminnelse",
+            "has-reminders" : "Du har skapat påminnelser för detta objekt.",
+            "no-reminders" : "Påminnelser är inte tillgängliga för detta objekt.",
+            "images" : "Bilder",
+            "images-icon" : "Ikon",
+            "images-png" : "PNG",
+            "images-gallery" : "Galleri",
+            "images-featured" : "Featured",
+            "interest-title" : "Intresset över tid",
+            "interest-line1" : "Detta representerar intresse för det här objektet över tiden, 100% är den mest populära tiden.",
+            "interest-line2" : "Data för idag kan vara ofullständig",
+            "occurrences-table" : {
+                "title" : "Shop Förekomster",
+                "th-date" : "Datum",
+                "th-days" : "Dagar sedan"
+            },
+            "set" : "Set",
+            "set-name" : "Del av [name]",
+            "popular-title" : "Populära Objekt Idag"
         },
         "account" : {
             "home" : {

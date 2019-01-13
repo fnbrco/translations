@@ -177,29 +177,29 @@
                 "release-date" : "Release date:",
                 "last-never" : "Last seen: Never",
                 "last-date" : "Last seen:",
-                "occurrences" : "Occurrences:",
-                "reminder-count" : "Users with [reminders](/reminders):",
-                "add-reminder" : "Add Reminder",
-                "remove-reminder" : "Remove Reminder",
-                "has-reminders" : "You have reminders set for this item.",
-                "no-reminders" : "Reminders aren't available for this item.",
-                "images" : "Images",
-                "images-icon" : "Icon",
-                "images-png" : "PNG",
-                "images-gallery" : "Gallery",
-                "images-featured" : "Featured",
-                "interest-title" : "Interest over time",
-                "interest-line1" : "This represents interest in this item over time, 100% being the most popular time.",
-                "interest-line2" : "Data for today may be incomplete",
-                "occurrences-table" : {
-                    "title" : "Shop Occurences",
-                    "th-date" : "Date",
-                    "th-days" : "Days Ago"
-                },
-                "set" : "Set",
-                "set-name" : "Part of [name]",
-                "popular-title" : "Popular Items Today"
-            }
+                "occurrences" : "Occurrences:"
+            },
+            "reminder-count" : "Users with [reminders](/reminders):",
+            "add-reminder" : "Add Reminder",
+            "remove-reminder" : "Remove Reminder",
+            "has-reminders" : "You have reminders set for this item.",
+            "no-reminders" : "Reminders aren't available for this item.",
+            "images" : "Images",
+            "images-icon" : "Icon",
+            "images-png" : "PNG",
+            "images-gallery" : "Gallery",
+            "images-featured" : "Featured",
+            "interest-title" : "Interest over time",
+            "interest-line1" : "This represents interest in this item over time, 100% being the most popular time.",
+            "interest-line2" : "Data for today may be incomplete",
+            "occurrences-table" : {
+                "title" : "Shop Occurences",
+                "th-date" : "Date",
+                "th-days" : "Days Ago"
+            },
+            "set" : "Set",
+            "set-name" : "Part of [name]",
+            "popular-title" : "Popular Items Today"
         },
         "account" : {
             "home" : {

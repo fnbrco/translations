@@ -175,29 +175,29 @@
                 "release-date": "Kiadási dátum:",
                 "last-never": "Legutóbb látva: soha",
                 "last-date": "Legutóbb látva:",
-                "occurrences": "Előfordulások:",
-                "reminder-count": "Felhasználók [emlékeszetőkkel](/reminders):",
-                "add-reminder": "Emlékeztető hozzáadása",
-                "remove-reminder": "Emlékeztető eltávolítása",
-                "has-reminders": "Vannak emlékeztetőid erre a tételre.",
-                "no-reminders": "Emlékeztetők nem elérhetőek erre a tételre.",
-                "images": "Képek",
-                "images-icon": "Ikon",
-                "images-png": "PNG",
-                "images-gallery": "Galléria",
-                "images-featured": "Kiemelt",
-                "interest-title": "Érdeklődés az idők során",
-                "interest-line1": "Ez képviseli az érdeklődést erre a tételre az idők során, 100% a legnépszerűbb idő.",
-                "interest-line2": "A mai adat hiányos lehet",
-                "occurrences-table": {
-                    "title": "Bolt eléfordulások",
-                    "th-date": "Dátum",
-                    "th-days": "Napok óta"
-                },
-                "set": "Készlet",
-                "set-name": "A [name] része",
-                "popular-title": "Népszerű tételek ma"
-            }
+                "occurrences": "Előfordulások:"
+            },
+            "reminder-count": "Felhasználók [emlékeszetőkkel](/reminders):",
+            "add-reminder": "Emlékeztető hozzáadása",
+            "remove-reminder": "Emlékeztető eltávolítása",
+            "has-reminders": "Vannak emlékeztetőid erre a tételre.",
+            "no-reminders": "Emlékeztetők nem elérhetőek erre a tételre.",
+            "images": "Képek",
+            "images-icon": "Ikon",
+            "images-png": "PNG",
+            "images-gallery": "Galléria",
+            "images-featured": "Kiemelt",
+            "interest-title": "Érdeklődés az idők során",
+            "interest-line1": "Ez képviseli az érdeklődést erre a tételre az idők során, 100% a legnépszerűbb idő.",
+            "interest-line2": "A mai adat hiányos lehet",
+            "occurrences-table": {
+                "title": "Bolt eléfordulások",
+                "th-date": "Dátum",
+                "th-days": "Napok óta"
+            },
+            "set": "Készlet",
+            "set-name": "A [name] része",
+            "popular-title": "Népszerű tételek ma"
         },
         "account": {
             "home": {
