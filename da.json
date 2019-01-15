@@ -82,7 +82,7 @@
             "languagePicker" : {
                 "trigger" : "Sprog",
                 "title" : "Vælg sprog",
-                "currentLanguage" : "Du bruger i øjeblikket [language]."
+                "currentLanguage" : "Du bruger i øjeblikket [language].",
                 "error" : "Fejl under download af sprogfil",
                 "authors" : "Oversat af:",
                 "cta" : "Klik for at skifte til [sprog]",
