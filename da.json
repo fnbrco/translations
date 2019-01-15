@@ -110,7 +110,7 @@
                 "hour-singular" : "time",
                 "hours-plural" : "timer"
             },
-            "Yesterday" : {
+            "yesterday" : {
                 "title" : "I gårs butiksrotation"
             }
         },
