@@ -145,8 +145,81 @@
             "line1" : "Créer une tenue aléatoire avec tous les objets actuellement disponibles",
             "chooseText" : "Cliquez pour choisir",
             "randomise-all" : "Choix aléatoire"
+             },
+        "png" : {
+            "title" : "Cosmetiques en PNG",
+            "line1" : "Merci de créditer fnbr.co si vous utilisez une de ces images. Les prévisualisations sont réduites, les téléchargements seront en taille réelle.",
+            "sort-by" : "Trier par:",
+            "all" : "tout"
+        },
+        "gallery" : {
+            "title" : "Gallerie des cosmetiques",
+            "line1" : "Tous les cosmetiques disponibles dans Fortnite Battle Royale.",
+            "line2" : "Merci de ne pas utiliser ces images sur votre site internet/réseau social sans créditer fnbr.co"
+        },
+        "icons" : {
+            "title" : "Icônes de Fortnite Battle Royale",
+            "line1" : "Toutes ces images appartiennent à Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Pas encore sorti",
+            "description" : "Description",
+            "history" : {
+                "title" : "Historique de la boutique",
+                "release-never" : "Date de sortie: Jamais",
+                "release-date" : "Date de sortie:",
+                "last-never" : "Dernièrement apparu: Jamais",
+                "last-date" : "Apparu pour la dernière fois:",
+                "occurrences" : "Nombre d'apparitions:"
+            },
+            "reminder-count" : "Utilisateurs avec [reminders](/reminders):",
+            "add-reminder" : "Ajouter un rappel",
+            "remove-reminder" : "Retirer le rappel",
+            "has-reminders" : "Vous avez un rappel pour cet objet.",
+            "no-reminders" : "Les rappels ne sont pas disponibles pour cet objet.",
+            "images" : "Images",
+            "images-icon" : "Icônes",
+            "images-png" : "PNG",
+            "images-gallery" : "Gallerie",
+            "images-featured" : "À la une",
+            "interest-title" : "Popularité à travers le temps",
+            "interest-line1" : "Cela représente la popularité à travers le temps de cet objet, 100% étant la periode où il était le plus populaire.",
+            "interest-line2" : "Les données d'aujourd'hui peuvent être incomplètes",
+            "occurrences-table" : {
+                "title" : "Apparitions dans la boutique",
+                "th-date" : "Date",
+                "th-days" : "jours avant aujourd'hui"
+            },
+            "set" : "Définir",
+            "set-name" : "Fait partie de l'ensemble [name]",
+            "popular-title" : "Objets populaires aujourd'hui"
         },
         "account" : {
+              "home" : {
+                "title" : "Les données de votre compte",
+                "error" : "Quelque chose s'est mal passé en chargeant les données de votre compte, merci de réessayer plus tard.",
+                "info" : {
+                    "title" : "Information",
+                    "line1" : "Vous êtes connecté avec [provider] comme [username]",
+                    "line2-api-yes" : "Vous avez [api access](/api/docs)",
+                    "line2-api-no" : "Vous n'avez pas d'accès API."
+                },
+                "migration" : {
+                    "title" : "Anciens comptes",
+                    "waiting-line1" : "Nous utilisons désormais Discord pour la connexion.",
+                    "waiting-line2" : "Si vous possédez un compte datant de 2018, vous devrez vous connecter avec lui pour le fusionner avec celui-ci",
+                    "twitter-line1" : "Nous utilisons désormais Discord pour la connexion. Vous êtes actuellement entrain d'utiliser un ancien compte qui pourrait être supprimé à l'avenir et dont la fonctionnalité est limitée.",
+                    "twitter-line2" : "Pour migrer vers un compte Discord, cliquez ci-dessous"
+                },
+                "ratings" : {
+                    "title" : "Notations/Avis",
+                    "none" : "Vous n'avez pas de notation."
+                },
+                "destroy" : {
+                    "title" : "Supprimer le compte",
+                    "line1" : "Si vous ne voulez plus de votre compte, vous pouvez le supprimer ainsi que toutes ses données. [here](/account/destroy)"
+                }
+            },
             "oauth" : {
                 "title" : "Se connecter à fnbr.co",
                 "discord-button" : "Se connecter avec Discord",
