@@ -66,6 +66,7 @@
             "randomiser": "véletlenszerűsítő",
             "about": {
                 "dropdown": "about",
+                "translate" : "translate",
                 "about": "fnbr.co-ról",
                 "privacy": "adatvédelmi irányelvek",
                 "donate": "Adományozz",
@@ -143,7 +144,9 @@
         },
         "news": {
             "title": "Hírek",
-            "line1": "A jelenlegi játék-beli hírek Epic Games-től. Minden 2 percenként frissül."
+            "line1": "A jelenlegi játék-beli hírek Epic Games-től. Minden 2 percenként frissül.",
+            "error" : "We were unable to get the news from Fortnite, we'll try again shortly.",
+            "more-ingame-button" : "Load More"
         },
         "randomiser": {
             "title": "Véletlenszerűsítő",
