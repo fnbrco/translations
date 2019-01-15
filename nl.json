@@ -66,6 +66,7 @@
             "randomiser" : "willekeurige items",
             "about" : {
                 "dropdown" : "over",
+                "translate" : "vertalen",
                 "about" : "over fnbr.co",
                 "privacy" : "privacybeleid",
                 "donate" : "Doneer",
