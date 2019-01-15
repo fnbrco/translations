@@ -82,7 +82,12 @@
             "languagePicker" : {
                 "trigger" : "Sprog",
                 "title" : "Vælg sprog",
-                "currentLanguage" : "Du bruger i øjeblikket [language]."
+                "currentLanguage" : "Du bruger i øjeblikket [language].",
+                "error" : "Fejl under download af sprogfil",
+                "authors" : "Oversat af:",
+                "cta" : "Klik for at skifte til [sprog]",
+                "switching" : "Downloader [sprog]...",
+                "finished" : "Dit sprog er blevet ændret!"
             }
         },
         "home" : {
@@ -104,6 +109,9 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "time",
                 "hours-plural" : "timer"
+            },
+            "yesterday" : {
+                "title" : "I gårs butiksrotation"
             }
         },
         "upcoming" : {
@@ -146,7 +154,80 @@
             "chooseText" : "Klik for at vælge",
             "randomise-all" : "Gør alt tilfældigt"
         },
+        "png" : {
+            "title" : "Kosmetik PNG",
+            "line1" : "Giv venligst kredit til fnbr.co, hvis du bruger et af disse billeder. Forhåndsvisninger er i mindre størrelse, downloads bliver fuld størrelse.",
+            "sort-by" : "Sorter efter:",
+            "all" : "Alle"
+        },
+        "gallery" : {
+            "title" : "Kosmetik Galleri",
+            "line1" : "Hver kosmetik tilgængelig i Fortnite Battle Royale.",
+            "line2" : "Brug venligst ikke disse billeder på din personlige hjemmeside/sociale medie konto uden direkte kredit til fnbr.co"
+        },
+        "icons" : {
+            "title" : "Fortnite Battle Royale Ikoner",
+            "line1" : "Alle billeder tilhører Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Ikke frigivet",
+            "description" : "Beskrivelse",
+            "history" : {
+                "title" : "Butikshistorie",
+                "release-never" : "Udgivelses dato: Aldrig",
+                "release-date" : "Udgivelses dato:",
+                "last-never" : "Sidst set: Aldrig",
+                "last-date" : "Sidst set:",
+                "occurrences" : "Forekomster:"
+            },
+            "reminder-count" : "Brugere med [påmindelser](/reminders):",
+            "add-reminder" : "Tilføj påmindelse",
+            "remove-reminder" : "Fjern påmindelse",
+            "has-reminders" : "Du har sat påmindelser for denne vare.",
+            "no-reminders" : "Påmindelser er ikke tilgængelige for denne vare.",
+            "images" : "Billeder",
+            "images-icon" : "Ikon",
+            "images-png" : "PNG",
+            "images-gallery" : "Galleri",
+            "images-featured" : "Fremhævede",
+            "interest-title" : "Interesse over tid",
+            "interest-line1" : "Dette repræsenterer interesse for denne vare over tid, hvor 100% er den mest populære tid.",
+            "interest-line2" : "Data for i dag kan være mangelfuld",
+            "occurrences-table" : {
+                "title" : "Butiks forekomster",
+                "th-date" : "Dato",
+                "th-days" : "Dage Siden"
+            },
+            "set" : "Sæt",
+            "set-name" : "Del af [name]",
+            "popular-title" : "Populære varer i dag"
+        },
         "account" : {
+            "home" : {
+                "title" : "Dine konto data",
+                "error" : "Noget gik galt under indlæsningen af dine konto data, prøv venligst igen senere.",
+                "info" : {
+                    "title" : "Information",
+                    "line1" : "Du er logget ind med [provider] som [username]",
+                    "line2-api-yes" : "Du har [api adgang](/api/docs)",
+                    "line2-api-no" : "Du har ikke adgang til api."
+                },
+                "migration" : {
+                    "title" : "Arvede kontoer",
+                    "waiting-line1" : "Vi har flyttet til brug af Discord for login.",
+                    "waiting-line2" : "Hvis du har en konto fra 2018, vil du være nødt til at logge ind med den for at slå den sammen med denne",
+                    "twitter-line1" : "Vi har flyttet til brug af Discord for login. Du bruger for øjeblikket en arvskonto, der kan ophøre i fremtiden og har begrænset funktionalitet.",
+                    "twitter-line2" : "Hvis du vil overføre til en Discord-konto, skal du klikke på knappen nedenfor"
+                },
+                "ratings" : {
+                    "title" : "Vurderinger",
+                    "none" : "Du har ikke nogle vurderinger."
+                },
+                "destroy" : {
+                    "title" : "Slet Konto",
+                    "line1" : "Hvis du ikke længere vil have din konto, kan du slette den og alt dens data [her](/account/destroy)"
+                }
+            },
             "oauth" : {
                 "title" : "Log ind på fnbr.co",
                 "discord-button" : "Log ind med Discord",
