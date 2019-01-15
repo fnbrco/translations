@@ -66,6 +66,7 @@
             "randomiser" : "randomizador",
             "about" : {
                 "dropdown" : "sobre",
+                "translate" : "translate",
                 "about" : "sobre fnbr.co",
                 "privacy" : "política de privacidad",
                 "donate" : "Donar",
@@ -143,7 +144,9 @@
         },
         "news" : {
             "title" : "Noticias",
-            "line1" : "La sección de noticias actual de Epic Games. Actualizado cada 2 minutos."
+            "line1" : "La sección de noticias actual de Epic Games. Actualizado cada 2 minutos.",
+            "error" : "We were unable to get the news from Fortnite, we'll try again shortly.",
+            "more-ingame-button" : "Load More"
         },
         "randomiser" : {
             "title" : "Aleatorizador",
