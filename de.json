@@ -249,7 +249,7 @@
                 "line1" : "Du kannst dich nicht bei fnbr.co anmelden, weil [dein Konto gesperrt wurde](class=text-danger)."
             },
             "migrated" : {
-                "title" : "Konto mitgriert",
+                "title" : "Konto migriert",
                 "line1" : "Du hast dich mit Twitter angemeldet als",
                 "line2" : "Dieses Konto wurde jedoch migriert, um die Discord-Anmeldung zu verwenden."
             },
