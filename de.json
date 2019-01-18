@@ -239,7 +239,7 @@
                 "title" : "Wilkommen bei fnbr.co",
                 "line1" : "Du bist mit Discord angemeldet. Um mit anderen auf unserer Seite zu interagieren, musst du einen Benutzernamen wählen.",
                 "nameTaken" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir haben deinen Discord-Diskriminator hinzugefügt und schlagen dir vor, diesen zu verwenden.",
-                "randomName" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir konnten mit deinem Discord-Diskriminator keinen eindeutigen Benutzernamen vergeben.",
+                "randomName" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir konnten mit deinem Discord-Diskriminator keinen eindeutigen Benutzernamen erzeugen.",
                 "form-username" : "Benutzername",
                 "form-criteria" : "Bitte wähle einen Benutzernamen zwischen 2 und 32 Zeichen, der sowohl alphanumerische Zeichen als auch Unterstriche und Bindestriche enthalten kann.",
                 "button-text" : "Benutzername festlegen"
