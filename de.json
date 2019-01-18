@@ -207,7 +207,7 @@
                 "title" : "Deine Kontodaten",
                 "error" : "Etwas ist beim Laden deiner Kontodaten schief gelaufen, bitte versuche es später noch einmal.",
                 "info" : {
-                    "title" : "Information",
+                    "title" : "Informationen",
                     "line1" : "Du bist mit [provider] als [username] angemeldet",
                     "line2-api-yes" : "Du hast [API-Zugriff](/api/docs)",
                     "line2-api-no" : "Du hast keinen API-Zugriff."
