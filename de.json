@@ -207,7 +207,7 @@
                 "title" : "Deine Kontodaten",
                 "error" : "Etwas ist beim Laden deiner Kontodaten schief gelaufen, bitte versuche es später noch einmal.",
                 "info" : {
-                    "title" : "Information",
+                    "title" : "Informationen",
                     "line1" : "Du bist mit [provider] als [username] angemeldet",
                     "line2-api-yes" : "Du hast [API-Zugriff](/api/docs)",
                     "line2-api-no" : "Du hast keinen API-Zugriff."
@@ -239,7 +239,7 @@
                 "title" : "Wilkommen bei fnbr.co",
                 "line1" : "Du bist mit Discord angemeldet. Um mit anderen auf unserer Seite zu interagieren, musst du einen Benutzernamen wählen.",
                 "nameTaken" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir haben deinen Discord-Diskriminator hinzugefügt und schlagen dir vor, diesen zu verwenden.",
-                "randomName" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir konnten mit deinem Discord-Diskriminator keinen eindeutigen Benutzernamen vergeben.",
+                "randomName" : "Dein Benutzername [attemptedName] wird von einem anderen Benutzer verwendet, wir konnten mit deinem Discord-Diskriminator keinen eindeutigen Benutzernamen erzeugen.",
                 "form-username" : "Benutzername",
                 "form-criteria" : "Bitte wähle einen Benutzernamen zwischen 2 und 32 Zeichen, der sowohl alphanumerische Zeichen als auch Unterstriche und Bindestriche enthalten kann.",
                 "button-text" : "Benutzername festlegen"
@@ -249,7 +249,7 @@
                 "line1" : "Du kannst dich nicht bei fnbr.co anmelden, weil [dein Konto gesperrt wurde](class=text-danger)."
             },
             "migrated" : {
-                "title" : "Konto mitgriert",
+                "title" : "Konto migriert",
                 "line1" : "Du hast dich mit Twitter angemeldet als",
                 "line2" : "Dieses Konto wurde jedoch migriert, um die Discord-Anmeldung zu verwenden."
             },
