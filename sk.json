@@ -176,7 +176,7 @@
                 "last-never" : "Naposledy videný: Nikdy",
                 "last-date" : "Naposledy videný:",
                 "occurrences" : "Výskyt:",
-                "reminder-count" : "Užívatelia s [reminders](/reminders):",
+                "reminder-count" : "Užívatelia s [upozornením](/reminders):",
                 "add-reminder" : "Pridať Pripomienku",
                 "remove-reminder" : "Vymazať Pripomienku",
                 "has-reminders" : "Máte nastavenú pripomienku pre túto položku.",
@@ -206,7 +206,7 @@
                 "info" : {
                     "title" : "Informácie",
                     "line1" : "Ste prihláseny s [provider] ako [username]",
-                    "line2-api-yes" : "Máte [api access](/api/docs)",
+                    "line2-api-yes" : "Máte [prístup ku api](/api/docs)",
                     "line2-api-no" : "Nemáte prístup ku api."
                 },
                 "migration" : {
@@ -222,7 +222,7 @@
                 },
                 "destroy" : {
                     "title" : "Zrušiť účet",
-                    "line1" : "Ak už nebudete chcieť váš účet, môžete ho vymazať a sním všetky jeho dáta [here](/account/destroy)"
+                    "line1" : "Ak už nebudete chcieť váš účet, môžete ho vymazať a sním všetky jeho dáta [tu](/account/destroy)"
                 }
             },
             "oauth" : {
