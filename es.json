@@ -143,7 +143,9 @@
         },
         "news" : {
             "title" : "Noticias",
-            "line1" : "La sección de noticias actual de Epic Games. Actualizado cada 2 minutos."
+            "line1" : "La sección de noticias actual de Epic Games. Actualizado cada minuto.",
+            "error" : "No hemos podido recibir nuevas noticias desde Fortnite, lo intentaremos más tarde.",
+            "more-ingame-button" : "Cargar más"
         },
         "randomiser" : {
             "title" : "Aleatorizador",
@@ -163,7 +165,7 @@
             "line2" : "Por favor, no utilice estas imágenes en su sitio web personal / redes sociales sin el crédito directo a fnbr.co"
         },
         "icons" : {
-            "title" : "Iconos Fortnite Battle Royale",
+            "title" : "Iconos de Fortnite Battle Royale",
             "line1" : "Todas las imagenes pertenecen a Epic Games."
         },
         "item" : {
@@ -175,29 +177,29 @@
                 "release-date" : "Fecha de lanzamiento:",
                 "last-never" : "Última aparición: Nunca",
                 "last-date" : "Última aparición:",
-                "occurrences" : "Apariciones:"
-            },
-            "reminder-count" : "Usuarios con [recordatorios](/reminders):",
-            "add-reminder" : "Añadir recordatorio",
-            "remove-reminder" : "Eliminar recordatorio",
-            "has-reminders" : "Tienes recordatorios para este objeto.",
-            "no-reminders" : "Los recordatorios no están disponible para este objeto.",
-            "images" : "Imágenes",
-            "images-icon" : "Icono",
-            "images-png" : "PNG",
-            "images-gallery" : "Galería",
-            "images-featured" : "Destacado",
-            "interest-title" : "Interés a lo largo tiempo",
-            "interest-line1" : "Esto representa el interés en este artículo a lo largo del tiempo, siendo el 100% el más popular.",
-            "interest-line2" : "Los datos de hoy pueden estar incompletos.",
-            "occurrences-table" : {
-                "title" : "Apariciones en la tienda",
-                "th-date" : "Fecha",
-                "th-days" : "Días atrás"
+                "occurrences" : "Apariciones:",
+                "reminder-count" : "Usuarios con [recordatorios](/reminders):",
+                "add-reminder" : "Añadir recordatorio",
+                "remove-reminder" : "Eliminar recordatorio",
+                "has-reminders" : "Tienes recordatorios para este objeto.",
+                "no-reminders" : "Los recordatorios no están disponible para este objeto.",
+                "images" : "Imágenes",
+                "images-icon" : "Icono",
+                "images-png" : "PNG",
+                "images-gallery" : "Galería",
+                "images-featured" : "Destacado",
+                "interest-title" : "Interés a lo largo tiempo",
+                "interest-line1" : "Esto representa el interés en este artículo a lo largo del tiempo, siendo el 100% el más popular.",
+                "interest-line2" : "Los datos de hoy pueden estar incompletos.",
+                "occurrences-table" : {
+                    "title" : "Apariciones en la tienda",
+                    "th-date" : "Fecha",
+                    "th-days" : "Días atrás"
             },
             "set" : "Conjunto",
             "set-name" : "Parte del [name]",
             "popular-title" : "Objetos populares de hoy"
+            }
         },
         "account" : {
             "home" : {
@@ -228,7 +230,7 @@
             "oauth" : {
                 "title" : "Iniciar sesión en fnbr.co",
                 "discord-button" : "Iniciar sesión con Discord",
-                "legacy-text" : "Alternativamente, si tiene una cuenta heredada de 2018 que necesita migrar:",
+                "legacy-text" : "También, si tiene una cuenta heredada de 2018 que necesita migrar:",
                 "twitter-button" : "Iniciar sesión con Twitter",
                 "privacy-text" : "Al iniciar sesión, usted acepta que almacenemos los datos asociados con su cuenta tal y como se establece en nuestra [política de privacidad](/privacy)."
             },
