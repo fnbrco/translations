@@ -177,29 +177,29 @@
                 "release-date" : "Fecha de lanzamiento:",
                 "last-never" : "Última aparición: Nunca",
                 "last-date" : "Última aparición:",
-                "occurrences" : "Apariciones:",
-                "reminder-count" : "Usuarios con [recordatorios](/reminders):",
-                "add-reminder" : "Añadir recordatorio",
-                "remove-reminder" : "Eliminar recordatorio",
-                "has-reminders" : "Tienes recordatorios para este objeto.",
-                "no-reminders" : "Los recordatorios no están disponible para este objeto.",
-                "images" : "Imágenes",
-                "images-icon" : "Icono",
-                "images-png" : "PNG",
-                "images-gallery" : "Galería",
-                "images-featured" : "Destacado",
-                "interest-title" : "Interés a lo largo tiempo",
-                "interest-line1" : "Esto representa el interés en este artículo a lo largo del tiempo, siendo el 100% el más popular.",
-                "interest-line2" : "Los datos de hoy pueden estar incompletos.",
-                "occurrences-table" : {
-                    "title" : "Apariciones en la tienda",
-                    "th-date" : "Fecha",
-                    "th-days" : "Días atrás"
+                "occurrences" : "Apariciones:"
+            },
+            "reminder-count" : "Usuarios con [recordatorios](/reminders):",
+            "add-reminder" : "Añadir recordatorio",
+            "remove-reminder" : "Eliminar recordatorio",
+            "has-reminders" : "Tienes recordatorios para este objeto.",
+            "no-reminders" : "Los recordatorios no están disponible para este objeto.",
+            "images" : "Imágenes",
+            "images-icon" : "Icono",
+            "images-png" : "PNG",
+            "images-gallery" : "Galería",
+            "images-featured" : "Destacado",
+            "interest-title" : "Interés a lo largo tiempo",
+            "interest-line1" : "Esto representa el interés en este artículo a lo largo del tiempo, siendo el 100% el más popular.",
+            "interest-line2" : "Los datos de hoy pueden estar incompletos.",
+            "occurrences-table" : {
+                "title" : "Apariciones en la tienda",
+                "th-date" : "Fecha",
+                "th-days" : "Días atrás"
             },
             "set" : "Conjunto",
             "set-name" : "Parte del [name]",
             "popular-title" : "Objetos populares de hoy"
-            }
         },
         "account" : {
             "home" : {
