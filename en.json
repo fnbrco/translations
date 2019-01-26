@@ -193,7 +193,7 @@
             "interest-line1" : "This represents interest in this item over time, 100% being the most popular time.",
             "interest-line2" : "Data for today may be incomplete",
             "occurrences-table" : {
-                "title" : "Shop Occurences",
+                "title" : "Shop Occurrences",
                 "th-date" : "Date",
                 "th-days" : "Days Ago"
             },
