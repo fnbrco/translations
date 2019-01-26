@@ -33,7 +33,8 @@
             "code": "it",
             "flag": "it",
             "live": true,
-            "authors" : ["bhz_ema#8181"]
+            "authors" : ["bhz_ema#8181"],
+            "outdated" : true
         },
         {
             "name": "Deutsch",
@@ -53,7 +54,8 @@
             "code": "pt-BR",
             "flag": "br",
             "live": true,
-            "authors" : ["Ian Szot#4959"]
+            "authors" : ["Ian Szot#4959"],
+            "outdated" : true
         },
         {
             "name": "Română",
@@ -67,7 +69,8 @@
             "code": "vi",
             "flag": "vn",
             "live": true,
-            "authors" : ["FallenTaco#6666"]
+            "authors" : ["FallenTaco#6666"],
+            "outdated" : true
         },
         {
             "name": "Magyar",
@@ -81,7 +84,8 @@
             "code": "cy",
             "flag": "gb-wls",
             "live": true,
-            "authors" : ["dAn#0001", "Ö.J#1904"]
+            "authors" : ["dAn#0001", "Ö.J#1904"],
+            "outdated" : true
         },
         {
             "name": "Turkish",
@@ -95,7 +99,8 @@
             "code": "fi",
             "flag": "fi",
             "live": true,
-            "authors" : ["daanz#3412", "Nikko#0023"]
+            "authors" : ["daanz#3412", "Nikko#0023"],
+            "outdated" : true
         },
         {
             "name": "Dansk",
@@ -109,7 +114,8 @@
             "code": "no",
             "flag": "no",
             "live": true,
-            "authors" : ["Jonathanツ#6969", "Krymonota#3025"]
+            "authors" : ["Jonathanツ#6969", "Krymonota#3025"],
+            "outdated" : true
         },
         {
             "name": "Slovenský",
