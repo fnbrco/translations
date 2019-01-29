@@ -150,14 +150,14 @@
         },
         "randomiser" : {
             "title" : "Willekeurige items",
-            "line1" : "Kies een willekeurige outfit van alle outfits beschikbaar.",
+            "line1" : "Kies een willekeurig item van alle items beschikbaar.",
             "chooseText" : "Klik om te kiezen",
-            "randomise-all" : "Maak alles willekeurig"
+            "randomise-all" : "Kies alles"
         },
         "png" : {
             "title" : "Cosmetica PNG",
             "line1" : "Geef credit aan fnbr.co als je een afbeelding gebruikt. Voorbeelden hebben een lagere resolutie, downloads hebben maximale resolutie.",
-            "sort-by" : "Sorteren door:",
+            "sort-by" : "Sorteren op:",
             "all" : "Alles"
         },
         "gallery" : {
@@ -167,10 +167,10 @@
         },
         "icons" : {
             "title" : "Fortnite Battle Royale Iconen",
-            "line1" : "Alle afbeeldingen behoren tot Epic Games."
+            "line1" : "Alle afbeeldingen zijn eigendom van Epic Games."
         },
         "item" : {
-            "unreleased" : "Nog niet aangekomen",
+            "unreleased" : "Nog niet uitgebracht",
             "description" : "Beschrijving",
             "history" : {
                 "title" : "Winkel Geschiedenis",
@@ -190,8 +190,8 @@
             "images-png" : "PNG",
             "images-gallery" : "Galerij",
             "images-featured" : "Aanbevolen",
-            "interest-title" : "Aandacht over tijd",
-            "interest-line1" : "Dit laat de aandacht van het item zien van afglopen tijd, 100% heeft de meeste aandacht.",
+            "interest-title" : "Populariteit over tijd",
+            "interest-line1" : "Dit laat de populariteit van het item zien van afglopen tijd, 100% heeft de meeste aandacht.",
             "interest-line2" : "De gegevens van vandaag kunnen niet compleet zijn.",
             "occurrences-table" : {
                 "title" : "Geschiedenis",
