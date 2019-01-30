@@ -5,7 +5,7 @@
     "translations" : {
         "meta" : {
             "thForDate" : false,
-            "dateFormat" : "[month] [date] [year]",
+            "dateFormat" : "[date] [month] [year]",
             "months" : [
                 "Ocak",
                 "Şubat",
