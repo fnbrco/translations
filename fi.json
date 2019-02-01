@@ -164,8 +164,8 @@
                 "button-text" : "Aseta käyttäjänimi"
             },
             "locked" : {
-                "title" : "Unable to login",
-                "line1" : "You aren't able to login to fnbr.co because [your account has been locked](class=text-danger)."
+                "title" : "Kirjautuminen ei onnistu",
+                "line1" : "Sinulla ei ole lupaa kirjautua fnbr.co koska [your account has been locked](class=text-danger)."
             },
             "migrated" : {
                 "title" : "käyttäjä muutettu",
@@ -186,8 +186,8 @@
             },
             "500" : {
                 "title" : "Uh Oh",
-                "line1" : "otain meni vikaan pyyntösi käsittelyn aikana, yritä myöhemmin uudelleen!",
-                "line2" : "voit yrittää kirjautu uudelleen tästä [here](/oauth)."
+                "line1" : "Jotain meni vikaan pyyntösi käsittelyn aikana, yritä myöhemmin uudelleen!",
+                "line2" : "voit yrittää kirjautua uudelleen tästä [here](/oauth)."
             }
         }
     }
