@@ -155,7 +155,7 @@
             "oauth" : {
                 "title" : "Accesso a fnbr.co",
                 "discord-button" : "Accedi con Discord",
-                "legacy-text" : "Alternativamente, se hai un accoutn del 2018 da migrare:",
+                "legacy-text" : "Alternativamente, se hai un account del 2018 da migrare:",
                 "twitter-button" : "Accedi con Twitter",
                 "privacy-text" : "Effettuando l'accesso ci consenti di salvare i dati associati al tuo account come dichiarato nella nostra [privacy policy](/privacy)."
             },
