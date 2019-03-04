@@ -22,11 +22,11 @@
             ],
             "types" : {
                 "backpack" : "Rygsæk",
-                "emote" : "Udtryk",
+                "emote" : "Dans",
                 "glider" : "Svævefly",
                 "emoji" : "Emoji",
                 "loading" : "Indlæsningsskærm",
-                "outfit" : "Udrustning",
+                "outfit" : "Beklædning",
                 "pickaxe" : "Hakke",
                 "skydive" : "Faldskærmsudsprings Spor",
                 "umbrella" : "Paraply",
@@ -91,9 +91,9 @@
             }
         },
         "home" : {
-            "title-upcoming" : "Kommende varer",
-            "title-all" : "Alle varer",
-            "error" : "Ude af stand til at hente varer, prøv venligst igen om et øjeblik.",
+            "title-upcoming" : "Kommende kosmetikker",
+            "title-all" : "Alle kosmetikker",
+            "error" : "Ude af stand til at hente kosmetikker, prøv venligst igen om et øjeblik.",
             "error-too-long" : "Dette tager længere end forventet."
         },
         "shop" : {
