@@ -1,5 +1,6 @@
 {
-    "name-en" : "Русский",
+    "name" : "Русский",
+    "name-en" : "Russian",
     "live" : true,
     "translations" : {
         "meta" : {
