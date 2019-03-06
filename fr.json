@@ -75,8 +75,8 @@
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "compte",
-                "account" : "compte",
+                "dropdown" : "mon compte",
+                "account" : "mon compte",
                 "logout" : "se déconnecter"
             },
             "languagePicker" : {
@@ -229,9 +229,9 @@
             },
             "username" : {
                 "title" : "Bienvenue sur fnbr.co",
-                "line1" : "Vous êtes connectez avec Discord, pour interagir avec d'autres usagers sur notre site, il faut que vous choisissiez un pseudo.",
-                "nameTaken" : "Ce pseudo [attemptedName] est déjà pris, nous vous suggérons d'utiliser votre discriminateur discord.",
-                "randomName" : "Ce pseudo [attemptedName] est déjà pris par un autre usager, il nous est malheureusement impossible de vous créer un pseudo unique utilisant votre discriminateur discord.",
+                "line1" : "Vous êtes connectez avec Discord, pour intéragir avec d'autres Utilisateurs sur notre site, il faut que vous choisissiez un pseudo.",
+                "nameTaken" : "Ce pseudo [attemptedName] est déjà pris, nous y avons ajouté votre tag Discord et vous suggérons de l'utiliser.",
+                "randomName" : "Ce pseudo [attemptedName] est déja pris par un autre usager, il nous est malheureusement impossible de vous créer un pseudo unique utilisant votre tag discord.",
                 "form-username" : "Pseudo",
                 "form-criteria" : "Veuillez choisir un pseudo contenant entre 2 et 32 caractères, pouvant contenir lettres, chiffres ainsi que traits d'union et traits de liaison.",
                 "button-text" : "Choisir mon pseudo"
@@ -248,7 +248,7 @@
             "notFound" : {
                 "title" : "Compte introuvable",
                 "line1" : "Vous vous êtes connecté avec Twitter en tant que",
-                "line2" : "Cependant, ce compte n'a jamais été connecté auparavant et nous supportons la connexion via Twitter pour seul but de migrer.",
+                "line2" : "Cependant, ce compte n'a jamais été connecté auparavant et nous supportons la connexion via Twitter dans le seul but de migrer.",
                 "line3" : "Alternativement, vous pouvez [vous connectez avec Discord](/oauth/discord)."
             }
         },
