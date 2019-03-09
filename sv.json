@@ -144,7 +144,7 @@
         },
         "news" : {
             "title" : "Nyheter",
-            "line1" : "Nuvarande spel nyheter från Epic Games. Uppdateras varje minut.",
+            "line1" : "Nuvarande spel nyheter från Epic Games. Uppdateras varannan minut.",
             "error" : "Vi kunde inte få fram nyheterna från Fortnite, vi ska försöka igen senare.",
             "more-ingame-button" : "Ladda mer"
         },
@@ -152,7 +152,7 @@
             "title" : "Randomiser",
             "line1" : "Välj en slumpmässig kosmetisk objekt från varje kategori tillgänglig.",
             "chooseText" : "Klicka för att välja",
-            "randomise-all" : "Randomise All"
+            "randomise-all" : "Välj alla slumpmässigt"
         },
         "png" : {
             "title" : "Kosmetika PNG",
@@ -214,9 +214,9 @@
                 },
                 "migration" : {
                     "title" : "Gamla Konton",
-                    "waiting-line1" : "Vi har börjat använda Discord login.",
+                    "waiting-line1" : "Vi har börjat använda Discord för att logga in.",
                     "waiting-line2" : "Om du har ett konto från 2018 måste du logga in med den för att slå samman den med den här",
-                    "twitter-line1" : "Vi har börjat använda Discord login. Du använder för närvarande ett gammalt konto vilket har begränsade funktioner och kan även stoppa framtida funktioner från att funka.",
+                    "twitter-line1" : "Vi har börjat använda Discord för att logga in. Du använder för närvarande ett gammalt konto som kan läggas ner i framtiden och har begränsade funktioner.",
                     "twitter-line2" : "För att migrera till ett discord konto, klicka på knappen nedan"
                 },
                 "ratings" : {
