@@ -45,8 +45,8 @@
                 "uncommon" : "Ongewoon",
                 "common" : "Gewoon"
             },
-            "translationNotAvailable" : "Helaas is er geen vertaling beschikbaar voor deze pagina.",
-            "translationIncomplete" : "Niet alle tekst op deze pagina zal worden vertaald."
+            "translationNotAvailable" : "Er is geen vertaling beschikbaar voor deze pagina.",
+            "translationIncomplete" : "Niet alle tekst op deze pagina is vertaald."
         },
         "nav" : {
             "home" : "home",
@@ -62,7 +62,7 @@
                 "history" : "winkel geschiedenis"
             },
             "news" : "nieuws",
-            "modes" : "modussen",
+            "modes" : "spelmodi",
             "randomiser" : "willekeurige items",
             "about" : {
                 "dropdown" : "over",
@@ -87,21 +87,21 @@
                 "authors" : "Vertaald door:",
                 "cta" : "Klik om te veranderen naar [language]",
                 "switching" : "[language] downloaden...",
-                "finished" : "Uw taal is veranderd!"
+                "finished" : "De taal is veranderd!"
             }
         },
         "home" : {
-            "title-upcoming" : "Items die eraan komen",
+            "title-upcoming" : "Aankomende items",
             "title-all" : "Alle Items",
-            "error" : "We kunnen de items niet ophalen, probeer het later nog eens.",
-            "error-too-long" : "Dit duurt langer dan gedacht"
+            "error" : "We kunnen de items niet ophalen, probeer het later opnieuw.",
+            "error-too-long" : "Dit duurt langer dan gedacht..."
         },
         "shop" : {
             "title" : "Huidige Winkel",
             "title-featured" : "Uitgelicht",
             "title-daily" : "Dagelijks",
             "error" : "Winkel niet beschikbaar, probeer het later opnieuw.",
-            "line1" : "De huidige item shop van Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
+            "line1" : "De huidige item shop in Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
             "line2" : "Je kan de item shop van gisteren [hier](/shop/yesterday|tooltip=Item Shop van gisteren) zien.",
             "line3" : "Klik op een item voor meer informatie.",
             "countdown" : {
@@ -116,7 +116,7 @@
         },
         "upcoming" : {
             "title" : "Aankomende Items",
-            "line1" : "Alle onbekende items in Fortnite Battle Royale."
+            "line1" : "Alle nog niet uitgebrachte items in Fortnite Battle Royale."
         },
         "list" : {
             "title" : "Cosmetica Lijst",
@@ -132,19 +132,19 @@
         "history" : {
             "list" : {
                 "title" : "Item Shop Geschiedenis",
-                "line1" : "Hier zijn de laatste 8 dagen van de item shop voor Fortnite Battle Royale.",
-                "line2" : "Klik op een item om een hele winkel te zien of scroll om de volledige item shop geschiedenis te zien per dag."
+                "line1" : "Hier zijn de laatste 8 dagen van de item shop in Fortnite Battle Royale.",
+                "line2" : "Klik op een item om de hele winkel te zien of scroll om de volledige item shop geschiedenis te zien per dag."
             },
             "view" : {
-                "title" : "Shop Rotatie",
-                "line1" : "Dit is de item shop rotatie van [date] voor Fortnite Battle Royale. ",
-                "line2" : "Klik op een item om meer informati te zien.",
+                "title" : "Winkel",
+                "line1" : "Dit is de item shop van [date] in Fortnite Battle Royale. ",
+                "line2" : "Klik op een item om meer informatie te zien.",
                 "today-button" : "Item Shop van vandaag"
             }
         },
         "news" : {
             "title" : "Nieuws",
-            "line1" : "De huidige in-game nieuws feed van Epic Games. Wordt elke minuut geüpdatet.",
+            "line1" : "De huidige in-game nieuws feed van Epic Games, deze wordt elke minuut geüpdatet.",
             "error" : "We zijn niet in staat om het nieuws van Fortnite te krijgen, probeer het later opnieuw.",
             "more-ingame-button" : "Meer Laden"
         },
@@ -163,7 +163,7 @@
         "gallery" : {
             "title" : "Cosmetica Galerij",
             "line1" : "Alle cosmetica die beschikbaar zijn in Fortnite Battle Royale.",
-            "line2" : "Gebruik deze afbeeldingen niet op je eigen website/social media zonder credit naar fnbr.co."
+            "line2" : "Gebruik deze afbeeldingen niet op je eigen website/social media zonder credit aan fnbr.co."
         },
         "icons" : {
             "title" : "Fortnite Battle Royale Iconen",
@@ -183,7 +183,7 @@
             "reminder-count" : "Gebruikers met [herinneringen](/reminders):",
             "add-reminder" : "Voeg herinnering toe",
             "remove-reminder" : "Verwijder herinnering",
-            "has-reminders" : "Je hebt herinneringen toegevoegd voor dit item.",
+            "has-reminders" : "Je hebt een herinnering ingesteld voor dit item.",
             "no-reminders" : "Herinneringen zijn niet beschikbaar voor dit item.",
             "images" : "Afbeeldingen",
             "images-icon" : "Iconen",
@@ -191,7 +191,7 @@
             "images-gallery" : "Galerij",
             "images-featured" : "Aanbevolen",
             "interest-title" : "Populariteit over tijd",
-            "interest-line1" : "Dit laat de populariteit van het item zien van afglopen tijd, 100% heeft de meeste aandacht.",
+            "interest-line1" : "Dit laat de populariteit van het item zien van afglopen tijd, 100% betekent de meeste aandacht.",
             "interest-line2" : "De gegevens van vandaag kunnen niet compleet zijn.",
             "occurrences-table" : {
                 "title" : "Geschiedenis",
@@ -200,7 +200,7 @@
             },
             "set" : "Set",
             "set-name" : "Onderdeel van [name]",
-            "popular-title" : "Populaire Items Vandaag"
+            "popular-title" : "Populaire Items van Vandaag"
         },
         "account" : {
             "home" : {
@@ -215,7 +215,7 @@
                 "migration" : {
                     "title" : "Oudere Accounts",
                     "waiting-line1" : "We gebruiken nu Discord om te kunnen inloggen.",
-                    "waiting-line2" : "Als je nog een account hebt van 2018, moet je inloggen met dat account om het te kunnen samenvoegen met dit account.",
+                    "waiting-line2" : "Als je nog een ouder account hebt uit 2018, moet je inloggen met dat account om het te kunnen samenvoegen met dit account.",
                     "twitter-line1" : "We gebruiken nu Discord om te kunnen inloggen. Je gebruikt een verouderd account dat niet meer in de toekomst gebruikt kan worden en heeft minder functies.",
                     "twitter-line2" : "Als je een Discord-account wilt gebruiken, klik dan op de knop hieronder."
                 },
@@ -231,15 +231,15 @@
             "oauth" : {
                 "title" : "Log in op fnbr.co",
                 "discord-button" : "Log in met Discord",
-                "legacy-text" : "Als alternatief, als je nog een oud account van 2018 hebt dat veranderd moet worden:",
+                "legacy-text" : "Als alternatief, als je nog een oud account uit 2018 hebt dat gemigreerd moet worden:",
                 "twitter-button" : "Log in met Twitter",
-                "privacy-text" : "Als je inlogt dan geeft je ons ook toestemming om data over jou te verzamelen, dat kan je lezen in ons [privacybeleid](/privacy)."
+                "privacy-text" : "Als je inlogt dan geeft je ons ook meteen toestemming om data over jou te verzamelen, dat kan je lezen in ons [privacybeleid](/privacy)."
             },
             "username" : {
                 "title" : "Welkom op fnbr.co",
                 "line1" : "Je bent ingelogd met Discord, maar je moet nog een gebruikersnaam kiezen om je de beste ervaring te bieden.",
-                "nameTaken" : "Je gebruikersnaam [attemptedName] is al in gebruik door iemand anders, we hebben je Discord discriminator toegevoegd en raden het aan om dat te gebruiken",
-                "randomName" : "Je gebruikersnaam [attemptedName] is al in gebruik door iemand anders, het is niet gelukt om je gebruikersnaam uniek te maken door je Discord discriminator toe te voegen.",
+                "nameTaken" : "Je gebruikersnaam [attemptedName] is al in gebruik door iemand anders, dus we hebben je Discord discriminator toegevoegd en raden het aan om dat te gebruiken.",
+                "randomName" : "Je gebruikersnaam [attemptedName] is al in gebruik door iemand anders en het is ook niet gelukt om je gebruikersnaam uniek te maken door je Discord discriminator toe te voegen.",
                 "form-username" : "Gebruikersnaam",
                 "form-criteria" : "Kies een gebruikersnaam met 2 tot 32 tekens, het mag letters, cijfers en de tekens - en _ bevatten",
                 "button-text" : "Gebruikersnaam opslaan"
@@ -267,8 +267,8 @@
             },
             "500" : {
                 "title" : "Oh nee!",
-                "line1" : "Er is iets fout gegaan tijden het verwerken, probeer het later opnieuw!",
-                "line2" : "Je kan proberen om opnieuw in te loggen, klik dan [hier](/oauth)."
+                "line1" : "Er is iets fout gegaan tijdens het verwerken, probeer het later opnieuw!",
+                "line2" : "Je kan proberen om opnieuw in te loggen. (Dat kan je [hier](/oauth) doen)"
             }
         }
     }
