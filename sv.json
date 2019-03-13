@@ -23,19 +23,19 @@
             "types" : {
                 "backpack" : "Ryggsäck",
                 "emote" : "Emote",
-                "glider" : "Segelflygplan",
+                "glider" : "Glidare",
                 "emoji" : "Emoji",
                 "loading" : "Laddningsskärm",
                 "outfit" : "Kläder",
-                "pickaxe" : "Pickaxe",
+                "pickaxe" : "Hacka",
                 "skydive" : "Frittfall Spår",
                 "umbrella" : "Paraply",
                 "spray" : "Spray",
                 "toy" : "Leksak",
                 "pet" : "Husdjur",
                 "music" : "Musik",
-                "wrap" : "Hinna",
-                "bundle" : "Bunt",
+                "wrap" : "Vapen Wrap",
+                "bundle" : "Bunte",
                 "misc" : "Blandat"
             },
             "rarity" : {
