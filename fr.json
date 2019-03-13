@@ -21,7 +21,7 @@
                 "Décembre"
             ],
             "types" : {
-                "backpack" : "Accesoire de Dos",
+                "backpack" : "Accessoire de Dos",
                 "emote" : "Emote",
                 "glider" : "Planeur",
                 "emoji" : "Émoticône",
@@ -52,7 +52,7 @@
             "home" : "accueil",
             "shop" : "boutique",
             "cosmetics" : {
-                "dropdown" : "menu déroulant",
+                "dropdown" : "cosmétiques",
                 "upcoming" : "prochainement",
                 "list" : "liste",
                 "png" : "png",
@@ -61,11 +61,11 @@
                 "reminders" : "rappels",
                 "history" : "historique"
             },
-            "news" : "nouvelles",
+            "news" : "actualités",
             "modes" : "modes",
             "randomiser" : "randomiseur",
             "about" : {
-                "dropdown" : "menu déroulant",
+                "dropdown" : "à propos",
                 "translate" : "traduire",
                 "about" : "à propos de fnbr.co",
                 "privacy" : "politique de confidentialité",
@@ -75,8 +75,8 @@
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "menu déroulant",
-                "account" : "compte",
+                "dropdown" : "mon compte",
+                "account" : "mon compte",
                 "logout" : "se déconnecter"
             },
             "languagePicker" : {
@@ -137,7 +137,7 @@
         "news" : {
             "title" : "Actu",
             "line1" : "Toute l'actualité sur Fortnite venant d'Epic Game. Mise à jour toutes les 2 minutes. ",
-            "error" : "Nous ne pouvions pas récuperer l'information. Veuillez réessayer plus tard.",
+            "error" : "Nous ne pouvions pas récupérer l'information. Veuillez réessayer plus tard.",
             "more-ingame-button" : "Charger plus"
         },
         "randomiser" : {
@@ -147,14 +147,14 @@
             "randomise-all" : "Choix aléatoire"
         },
         "png" : {
-            "title" : "Cosmetiques en PNG",
+            "title" : "Cosmétiques en PNG",
             "line1" : "Merci de créditer fnbr.co si vous utilisez une de ces images. Les prévisualisations sont réduites, les téléchargements seront en taille réelle.",
             "sort-by" : "Trier par:",
             "all" : "tout"
         },
         "gallery" : {
-            "title" : "Gallerie des cosmetiques",
-            "line1" : "Tous les cosmetiques disponibles dans Fortnite Battle Royale.",
+            "title" : "Galerie des cosmétiques",
+            "line1" : "Tous les cosmétiques disponibles dans Fortnite Battle Royale.",
             "line2" : "Merci de ne pas utiliser ces images sur votre site internet/réseau social sans créditer fnbr.co"
         },
         "icons" : {
@@ -180,10 +180,10 @@
             "images" : "Images",
             "images-icon" : "Icônes",
             "images-png" : "PNG",
-            "images-gallery" : "Gallerie",
+            "images-gallery" : "Galerie",
             "images-featured" : "À la une",
             "interest-title" : "Popularité à travers le temps",
-            "interest-line1" : "Cela représente la popularité à travers le temps de cet objet, 100% étant la periode où il était le plus populaire.",
+            "interest-line1" : "Cela représente la popularité à travers le temps de cet objet, 100% étant la période où il était le plus populaire.",
             "interest-line2" : "Les données d'aujourd'hui peuvent être incomplètes",
             "occurrences-table" : {
                 "title" : "Apparitions dans la boutique",
@@ -229,9 +229,9 @@
             },
             "username" : {
                 "title" : "Bienvenue sur fnbr.co",
-                "line1" : "Vous êtes connectez avec Discord, pour intéragir avec d'autres usagers sur notre site, il faut que vous choisissiez un pseudo.",
-                "nameTaken" : "Ce pseudo [attemptedName] est déjà pris, nous vous suggérons d'utiliser votre discriminateur discord.",
-                "randomName" : "Ce pseudo [attemptedName] est déja pris par un autre usager, il nous est malheureusement impossible de vous créer un pseudo unique utilisant votre discriminateur discord.",
+                "line1" : "Vous êtes connectez avec Discord, pour intéragir avec d'autres Utilisateurs sur notre site, il faut que vous choisissiez un pseudo.",
+                "nameTaken" : "Ce pseudo [attemptedName] est déjà pris, nous y avons ajouté votre tag Discord et vous suggérons de l'utiliser.",
+                "randomName" : "Ce pseudo [attemptedName] est déja pris par un autre usager, il nous est malheureusement impossible de vous créer un pseudo unique utilisant votre tag discord.",
                 "form-username" : "Pseudo",
                 "form-criteria" : "Veuillez choisir un pseudo contenant entre 2 et 32 caractères, pouvant contenir lettres, chiffres ainsi que traits d'union et traits de liaison.",
                 "button-text" : "Choisir mon pseudo"
@@ -248,7 +248,7 @@
             "notFound" : {
                 "title" : "Compte introuvable",
                 "line1" : "Vous vous êtes connecté avec Twitter en tant que",
-                "line2" : "Cependant, ce compte n'a jamais été connecté auparavant et nous supportons la connexion via Twitter pour seul but de migrer.",
+                "line2" : "Cependant, ce compte n'a jamais été connecté auparavant et nous supportons la connexion via Twitter dans le seul but de migrer.",
                 "line3" : "Alternativement, vous pouvez [vous connectez avec Discord](/oauth/discord)."
             }
         },
