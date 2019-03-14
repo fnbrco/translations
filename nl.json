@@ -271,5 +271,9 @@
                 "line2" : "Je kan proberen om opnieuw in te loggen. (Dat kan je [hier](/oauth) doen)"
             }
         }
+    "translate" : {
+        "title" : "Vertaal fnbr.co"
+        "line 1" : "In vroeg 2019 zijn we begonnen fnbr.co te vertalen, door onze geweldige community hebben we al de website in een paar ander talen vertaald!"
+        }
     }
 }
