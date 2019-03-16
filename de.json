@@ -112,6 +112,27 @@
             },
             "yesterday" : {
                 "title" : "Gestrige Shop-Rotation"
+            },
+            "vote" : {
+                "title" : "Was hältst du von diesem Shop?",
+                "line1" : "Dies wird täglich um 00:00 Uhr UTC zurückgesetzt.",
+                "line2" : "Lies unsere [Datenschutzerklärung](/privacy), bevor du abstimmst",
+                "choice" : {
+                    "up" : "Ich liebe ihn!",
+                    "neutral" : "Es geht so.",
+                    "down" : "Ich verabscheue ihn."
+                },
+                "response" : {
+                    "success" : "Stimme aufgezeichnet",
+                    "timeout" : "Anfrage dauerte zu lange und wurde daher abgebrochen",
+                    "internal" : "Interner Fehler",
+                    "failover" : "Anfrage an [server] fehlgeschlagen, erneuter Versuch an Standard...",
+                    "ratelimit" : "Zu viele Anfragen, bitte versuche es in wenigen Augenblicken noch einmal",
+                    "unavailable" : "Abstimmung ist nicht verfügbar, bis der Shop innerhalb der nächsten Minute wechselt",
+                    "conflict" : "Abstimmen nicht möglich, bitte versuche es später noch einmal.",
+                    "bad-choice" : "Stimme nicht erkannt",
+                    "no-data" : "Keine Daten verfügbar - bitte versuche es in wenigen Augenblicken noch einmal"
+                }
             }
         },
         "upcoming" : {
