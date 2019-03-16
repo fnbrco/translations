@@ -101,8 +101,8 @@
             "title-featured" : "Рекомендуемые",
             "title-daily" : "Ежедневный",
             "error" : "Магазин недоступен, попробуйте позже",
-            "line1" : "Сегодняшний магазин предметов в Fortnite Battle Royale - обновляется каждый день в [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Вы можете посмотреть вчерашний магазин [здесь](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line1" : "Сегодняшний магазин предметов в Fortnite Battle Royale - обновляется каждый день в [00:00 UTC](https://time.is/UTC|tooltip=Текущее время в UTC|newtab=true).",
+            "line2" : "Вы можете посмотреть вчерашний магазин [здесь](/shop/yesterday|tooltip=Вчерашний магазин).",
             "line3" : "Нажмите на предмет для подробной информации.",
             "countdown" : {
                 "title" : "Новые предметы:",
