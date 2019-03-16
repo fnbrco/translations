@@ -129,7 +129,8 @@
                     "ratelimit" : "Too many requests, please try again in a few moments",
                     "unavailable" : "Voting is not available until the shop changes within the next minute",
                     "conflict" : "Vote not possible, please try again later.",
-                    "bad-choice" : "Vote not recognised"
+                    "bad-choice" : "Vote not recognised",
+                    "no-data" : "No data available - please retry in a few moments"
                 }
             }
         },
