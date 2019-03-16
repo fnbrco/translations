@@ -4,8 +4,8 @@
     "live" : true,
     "translations" : {
         "meta" : {
-            "thForDate" : true,
-            "dateFormat" : "[month] [date] [year]",
+            "thForDate" : false,
+            "dateFormat" : "[date] [month] [year]",
             "months" : [
                 "Январь",
                 "Февраль",
