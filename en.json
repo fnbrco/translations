@@ -111,6 +111,26 @@
             },
             "yesterday" : {
                 "title" : "Yesterday's Shop Rotation"
+            },
+            "vote" : {
+                "title" : "What do you think of this shop?",
+                "line1" : "This resets daily at 00:00 UTC.",
+                "line2" : "Review our [privacy policy](/privacy] before voting",
+                "choice" : {
+                    "up" : "Love it!",
+                    "neutral" : "It's meh.",
+                    "down" : "Hate it."
+                },
+                "response" : {
+                    "success" : "Vote recorded",
+                    "timeout" : "Request took too long and timed out",
+                    "internal" : "Internal Error",
+                    "failover" : "Request to [server] failed, retrying on default...",
+                    "ratelimit" : "Too many requests, please try again in a few moments",
+                    "unavailable" : "Voting is not available until the shop changes within the next minute",
+                    "conflict" : "Vote not possible, please try again later.",
+                    "bad-choice" : "Vote not recognised"
+                }
             }
         },
         "upcoming" : {
