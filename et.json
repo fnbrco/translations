@@ -101,8 +101,8 @@
             "title-featured" : "Esile toodud",
             "title-daily" : "Igapäevane",
             "error" : "Pood pole saadaval, palun proovi uuesti mõne hetke pärast",
-            "line1" : "Praegune eseme poe vahetus Fortnite Battle Royale's - uueneb iga päev kella [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true) ajal.",
-            "line2" : "Võid näha eilset eseme poodi [siin](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line1" : "Praegune eseme poe vahetus Fortnite Battle Royale's - uueneb iga päev kella [00:00 UTC](https://time.is/UTC|tooltip=Praegune kellaaeg UTC's|newtab=true) ajal.",
+            "line2" : "Võid näha eilset eseme poodi [siin](/shop/yesterday|tooltip=Eilne Eseme Pood).",
             "line3" : "Vajuta kosmeetilise eseme peale, et näha rohkem infot selle kohta.",
             "countdown" : {
                 "title" : "Uued esemed:",
