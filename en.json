@@ -115,7 +115,7 @@
             "vote" : {
                 "title" : "What do you think of this shop?",
                 "line1" : "This resets daily at 00:00 UTC.",
-                "line2" : "Review our [privacy policy](/privacy] before voting",
+                "line2" : "Review our [privacy policy](/privacy) before voting",
                 "choice" : {
                     "up" : "Love it!",
                     "neutral" : "It's meh.",
