@@ -112,28 +112,28 @@
             },
             "yesterday" : {
                 "title" : "Eilne eseme poe vahetus"
-             }, 
- "vote" : { 
-     "title" : "Mis sa arvad sellest poest?", 
-     "line1" : "See lähtestub iga päev kella 00:00 UTC ajal.", 
-     "line2" : "Vaadake uuesti üle meie [privacy policy](/privacy) enne hääletamist", 
-     "choice" : { 
-         "up" : "Mulle meeldib!", 
-         "neutral" : "Se on nii ja naa.", 
-         "down" : "Mulle ei meeldi." 
-     }, 
-     "response" : { 
-         "success" : "Hääl salvestatud", 
-         "timeout" : "Taotlus võttis liiga kaua aega ning aegus", 
-         "internal" : "Sisemine Viga", 
-         "failover" : "Taotlus [server]'ile ebaõnnestus, proovib uuesti vaikimisi...", 
-         "ratelimit" : "Liiga palju taotlusi, palun proovi uuesti mõne hetke pärast", 
-         "unavailable" : "Hääletamine pole saadaval kuni eseme pood muutub järgmise minuti jooksul", 
-         "conflict" : "Hääletamine pole võimalik, palun proovi hiljem uuesti.", 
-         "bad-choice" : "Häält ei tunnustatud", 
-         "no-data" : "Andmeid pole saadaval - palun proovi uuesti mõne hetke pärast" 
-       } 
-       }
+            }, 
+            "vote" : { 
+                "title" : "Mis sa arvad sellest poest?", 
+                "line1" : "See lähtestub iga päev kella 00:00 UTC ajal.", 
+                "line2" : "Vaadake uuesti üle meie [privacy policy](/privacy) enne hääletamist", 
+                "choice" : { 
+                    "up" : "Mulle meeldib!", 
+                    "neutral" : "Se on nii ja naa.", 
+                    "down" : "Mulle ei meeldi." 
+                }, 
+                "response" : { 
+                    "success" : "Hääl salvestatud", 
+                    "timeout" : "Taotlus võttis liiga kaua aega ning aegus", 
+                    "internal" : "Sisemine Viga", 
+                    "failover" : "Taotlus [server]'ile ebaõnnestus, proovib uuesti vaikimisi...", 
+                    "ratelimit" : "Liiga palju taotlusi, palun proovi uuesti mõne hetke pärast", 
+                    "unavailable" : "Hääletamine pole saadaval kuni eseme pood muutub järgmise minuti jooksul", 
+                    "conflict" : "Hääletamine pole võimalik, palun proovi hiljem uuesti.", 
+                    "bad-choice" : "Häält ei tunnustatud", 
+                    "no-data" : "Andmeid pole saadaval - palun proovi uuesti mõne hetke pärast" 
+                } 
+            }
         },
         "upcoming" : {
             "title" : "Tulevased Kosmeetilised Esemed",
