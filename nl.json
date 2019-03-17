@@ -112,6 +112,27 @@
             },
             "yesterday" : {
                 "title" : "Winkel van gisteren"
+            },
+            "vote" : {
+                "title" : "Wat vind jij van deze winkel?",
+                "line1" : "Dit word dagelijks gereset om 00:00 uur (UTC tijzone).",
+                "line2" : "Bekijk ons [privacybeleid](/privacy) voordat je gaat stemmen",
+                "choice" : {
+                    "up" : "Ik hous ervan!",
+                    "neutral" : "meh!",
+                    "down" : "Ik haat het!"
+                },
+                "response" : {
+                    "success" : "Stem opgeslagen!",
+                    "timeout" : "Het verzoek duurde te lang en heeft een time-out veroorzaakt",
+                    "internal" : "Interne Fout",
+                    "failover" : "Het verzoek naar [server] is mislukt, opnieuw proberen op de standaard manier...",
+                    "ratelimit" : "We hebben teveel verzoeken ontvangen, probeer het over een paar seconden opnieuw",
+                    "unavailable" : "Je kunt niet stemmen totdat de winkel vernieuwt (dat duurt niet langer dan 60 seconden).",
+                    "conflict" : "Stemmen is niet mogelijk, probeer het later opnieuw.",
+                    "bad-choice" : "Stem niet herkend",
+                    "no-data" : "Geen data beschikbaar, probeer het over een paar seconden opnieuw"
+                }
             }
         },
         "upcoming" : {
