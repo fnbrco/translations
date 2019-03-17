@@ -84,7 +84,7 @@
                 "title" : "Vali keel",
                 "currentLanguage" : "Praegu kasutate [language]",
                 "error" : "Tekkis viga keele faili tõmbamisel",
-                "authors" : "Tõlkis: MrMightyGamer#1337",
+                "authors" : "Tõlkis:",
                 "cta" : "Vajuta, et muuta keelele [language]",
                 "switching" : "Laen alla [language]...",
                 "finished" : "Teie keel on muudetud!"
@@ -116,7 +116,7 @@
             "vote" : { 
                 "title" : "Mis sa arvad sellest poest?", 
                 "line1" : "See lähtestub iga päev kella 00:00 UTC ajal.", 
-                "line2" : "Vaadake uuesti üle meie [privacy policy](/privacy) enne hääletamist", 
+                "line2" : "Vaadake uuesti üle meie [puutumatusnormide kirjeldust](/privacy) enne hääletamist", 
                 "choice" : { 
                     "up" : "Mulle meeldib!", 
                     "neutral" : "Se on nii ja naa.", 
@@ -254,7 +254,7 @@
                 "discord-button" : "Logi sisse Discord'iga",
                 "legacy-text" : "Teisel juhul, kui sul on legaat konto aastast 2018, mis vajab liitumist:",
                 "twitter-button" : "logi sisse Twitter'iga",
-                "privacy-text" : "Logides sisse, lubad meil kasutada teie kasutajaga seotud andmeid, nagu on mainitud meie puutumatusnormide kirjelduses](/privacy)."
+                "privacy-text" : "Logides sisse, lubad meil kasutada teie kasutajaga seotud andmeid, nagu on mainitud meie [puutumatusnormide kirjelduses](/privacy)."
             },
             "username" : {
                 "title" : "Tere tulemast fnbr.co'sse",
