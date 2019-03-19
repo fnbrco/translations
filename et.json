@@ -21,27 +21,27 @@
                 "Detsember"
             ],
             "types" : {
-                "backpack" : "Seljakotid",
-                "emote" : "Emote",
-                "glider" : "Deltaplaan",
-                "emoji" : "Emojid",
-                "loading" : "Laadimisekraanid",
-                "outfit" : "Kostüümid",
-                "pickaxe" : "Kirka",
-                "skydive" : "Vabalangemise Jutt",
-                "umbrella" : "Vihmavari",
-                "spray" : "Pihusti",
-                "toy" : "Mänguasi",
-                "pet" : "Lemmikloom",
-                "music" : "Muusika",
-                "wrap" : "Paber",
-                "bundle" : "Kimp",
-                "misc" : "Muu"
+                "backpack" : "seljakott",
+                "emote" : "emotsioon",
+                "glider" : "deltaplaan",
+                "emoji" : "emotikon",
+                "loading" : "laadimisekraanid",
+                "outfit" : "kostüüm",
+                "pickaxe" : "kirka",
+                "skydive" : "vabalangemise jutt",
+                "umbrella" : "bihmavari",
+                "spray" : "pihusti",
+                "toy" : "mänguasi",
+                "pet" : "lemmikloom",
+                "music" : "muusika",
+                "wrap" : "paber",
+                "bundle" : "kimp",
+                "misc" : "muu"
             },
             "rarity" : {
-                "legendary" : "Legendaarney",
+                "legendary" : "Legendaarne",
                 "epic" : "Eepiline",
-                "rare" : "haruldane",
+                "rare" : "Haruldane",
                 "uncommon" : "Ebaharilik",
                 "common" : "Harilik"
             },
@@ -82,11 +82,11 @@
             "languagePicker" : {
                 "trigger" : "keel",
                 "title" : "Vali keel",
-                "currentLanguage" : "Praegu kasutate [language]",
+                "currentLanguage" : "Praegu kasutate [language] keelt",
                 "error" : "Tekkis viga keele faili tõmbamisel",
                 "authors" : "Tõlkis:",
                 "cta" : "Vajuta, et muuta keelele [language]",
-                "switching" : "Laen alla [language]...",
+                "switching" : "Laen alla [language] keelt...",
                 "finished" : "Teie keel on muudetud!"
             }
         },
@@ -114,7 +114,7 @@
                 "title" : "Eilne eseme poe vahetus"
             }, 
             "vote" : { 
-                "title" : "Mis sa arvad sellest poest?", 
+                "title" : "Mida sa arvad sellest poest?", 
                 "line1" : "See lähtestub iga päev kella 00:00 UTC ajal.", 
                 "line2" : "Vaadake uuesti üle meie [puutumatusnormide kirjeldust](/privacy) enne hääletamist", 
                 "choice" : { 
@@ -238,7 +238,7 @@
                     "waiting-line1" : "Me kolisime Discord'i, et sisse logida.",
                     "waiting-line2" : "Kui sul on kasutaja aastast 2018, pead sa tooga sisse logima, et liituda sellega",
                     "twitter-line1" : "Me kasutame nüüd Discord'i, et sisse logida. Sa kasutad praegu legaat kontot, mis võib tulevikus lõpetatud olla ning millel on limiteeritud funktsionaalsus.",
-                    "twitter-line2" : "Et liituda Discord'i kontoga, vajutage all olevale nupule"
+                    "twitter-line2" : "Et migreerida Discord'i kontoga, vajutage all olevale nupule"
                 },
                 "ratings" : {
                     "title" : "Hinnangud",
@@ -252,7 +252,7 @@
             "oauth" : {
                 "title" : "Logi sisse fnbr.co'sse",
                 "discord-button" : "Logi sisse Discord'iga",
-                "legacy-text" : "Teisel juhul, kui sul on legaat konto aastast 2018, mis vajab liitumist:",
+                "legacy-text" : "Teisel juhul, kui sul on legaat konto aastast 2018, mis vajab migreerimist:",
                 "twitter-button" : "logi sisse Twitter'iga",
                 "privacy-text" : "Logides sisse, lubad meil kasutada teie kasutajaga seotud andmeid, nagu on mainitud meie [puutumatusnormide kirjelduses](/privacy)."
             },
@@ -270,14 +270,14 @@
                 "line1" : "Sa ei saa enda fnbr.co kontosse sisse logida, sest [sinu konto on lukustatud](class=text-danger)."
             },
             "migrated" : {
-                "title" : "Konto liidetud",
+                "title" : "Konto migreeritud",
                 "line1" : "Logisid sisse Twitter'iga",
-                "line2" : "Kuid see konto on liidetud Discord'iga."
+                "line2" : "Kuid see konto on migreeritud Discord'iga."
             },
             "notFound" : {
                 "title" : "Kontot ei leitud",
                 "line1" : "Logisid sisse Twitter'iga",
-                "line2" : "Kuid see konto pole sisse loginud varem ja me lubame ainult Twitter'iga sisse logimist, et liita.",
+                "line2" : "Kuid see konto pole sisse loginud varem ja me lubame ainult Twitter'iga sisse logimist, et migreerida.",
                 "line3" : "Teisel juhul, võite [sisse logida Discord'iga](/oauth/discord)."
             }
         },
