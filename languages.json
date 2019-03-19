@@ -130,6 +130,13 @@
             "flag": "se",
             "live": true,
             "authors" : ["Lord Drift#4014", "Rizk#0001", "Kretle#0001"]
+        },
+        {
+            "name": "Eesti",
+            "code": "et",
+            "flag": "ee",
+            "live": true,
+            "authors" : ["MrMightyGamer#1337"]
         }
     ]
 }
