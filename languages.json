@@ -137,6 +137,13 @@
             "flag": "ee",
             "live": true,
             "authors" : ["MrMightyGamer#1337"]
+        },
+        {
+            "name": "Русский",
+            "code": "ru",
+            "flag": "ru",
+            "live": true,
+            "authors" : ["d4nzee#1337"]
         }
     ]
 }
