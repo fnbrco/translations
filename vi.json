@@ -4,7 +4,7 @@
     "live" : true,
     "translations" : {
         "meta" : {
-            "thForDate" : true,
+            "thForDate" : false,
             "dateFormat" : "[month] [date] [year]",
             "months" : [
                 "Tháng Một",
