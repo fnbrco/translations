@@ -29,12 +29,12 @@
                 "outfit" : "kostüüm",
                 "pickaxe" : "kirka",
                 "skydive" : "vabalangemise jutt",
-                "umbrella" : "bihmavari",
-                "spray" : "pihusti",
+                "umbrella" : "vihmavari",
+                "spray" : "grafitti",
                 "toy" : "mänguasi",
                 "pet" : "lemmikloom",
                 "music" : "muusika",
-                "wrap" : "paber",
+                "wrap" : "ümbris",
                 "bundle" : "kimp",
                 "misc" : "muu"
             },
@@ -55,14 +55,14 @@
                 "dropdown" : "kosmeetika esemed",
                 "upcoming" : "tulemas",
                 "list" : "nimekiri",
-                "png" : "png",
+                "png" : "png pildid",
                 "gallery" : "galerii",
                 "icons" : "ikoonid",
                 "reminders" : "meeldetuletused",
                 "history" : "poe ajalugu"
             },
             "news" : "uudised",
-            "modes" : "moodid",
+            "modes" : "mängumoodid",
             "randomiser" : "randomiseerija",
             "about" : {
                 "dropdown" : "info",
@@ -176,7 +176,7 @@
             "randomise-all" : "Randomiseeri kõik"
         },
         "png" : {
-            "title" : "Cosmetics PNG",
+            "title" : "Kosmeetilise esemete PNG pildid",
             "line1" : "Palun krediteerige fnbr.co'd, kui kasutate neid pilte. Eelvaated on vähendatud, allalaadimised on täismõõdus.",
             "sort-by" : "Sorteeri:",
             "all" : "Kõik"
@@ -236,7 +236,7 @@
                 "migration" : {
                     "title" : "Legaat Kasutajad",
                     "waiting-line1" : "Me kolisime Discord'i, et sisse logida.",
-                    "waiting-line2" : "Kui sul on kasutaja aastast 2018, pead sa tooga sisse logima, et liituda sellega",
+                    "waiting-line2" : "Kui sul on kasutaja aastast 2018, pead sa tooga sisse logima, et migreerida sellega",
                     "twitter-line1" : "Me kasutame nüüd Discord'i, et sisse logida. Sa kasutad praegu legaat kontot, mis võib tulevikus lõpetatud olla ning millel on limiteeritud funktsionaalsus.",
                     "twitter-line2" : "Et migreerida Discord'i kontoga, vajutage all olevale nupule"
                 },
