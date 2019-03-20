@@ -114,9 +114,9 @@
                 "title" : "I gårs butiksrotation"
             }
               "vote" : {
-                "title" : "What do you think of this shop?",
-                "line1" : "This resets daily at 00:00 UTC.",
-                "line2" : "Review our [privacy policy](/privacy) before voting",
+                "title" : "Hvad synes du om denne butik?",
+                "line1" : "Den skifter klokken 01:00 Dansk til",
+                "line2" : "Læs vores [Privatlivspolitik](/privacy) før du stemmer",
                 "choice" : {
                     "up" : "Elsker den!",
                     "neutral" : "Den er meh.",
