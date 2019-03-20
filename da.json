@@ -113,6 +113,27 @@
             "yesterday" : {
                 "title" : "I gårs butiksrotation"
             }
+              "vote" : {
+                "title" : "What do you think of this shop?",
+                "line1" : "This resets daily at 00:00 UTC.",
+                "line2" : "Review our [privacy policy](/privacy) before voting",
+                "choice" : {
+                    "up" : "Elsker den!",
+                    "neutral" : "Den er meh.",
+                    "down" : "Hader den."
+                },
+                "response" : {
+                    "success" : "Stemmen er talt.",
+                    "timeout" : "Anmodninge tog for lang tid og stoppede",
+                    "internal" : "Fejl",
+                    "failover" : "Anmodnigen til [serveren] fejlede, prøver igen...",
+                    "ratelimit" : "For mange anmodninger, prøv venligst igen om lidt.",
+                    "unavailable" : "Du kan ikke stemme indtil butikken ændrer sig indenfor den næste minutter. ",
+                    "conflict" : "VDu kan ikke stemme, prøv igen senere.",
+                    "bad-choice" : "Stemme ikke genkendt",
+                    "no-data" : "Ingen dat tilgængelig - prøv igen om lidt."
+                }
+            }
         },
         "upcoming" : {
             "title" : "Kommende Kosmetikker",
