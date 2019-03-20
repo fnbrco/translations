@@ -112,8 +112,8 @@
             },
             "yesterday" : {
                 "title" : "I gårs butiksrotation"
-            }
-              "vote" : {
+            },
+            "vote" : {
                 "title" : "Hvad synes du om denne butik?",
                 "line1" : "Den skifter klokken 01:00 Dansk til",
                 "line2" : "Læs vores [Privatlivspolitik](/privacy) før du stemmer",
@@ -126,7 +126,7 @@
                     "success" : "Stemmen er talt.",
                     "timeout" : "Anmodninge tog for lang tid og stoppede",
                     "internal" : "Fejl",
-                    "failover" : "Anmodnigen til [serveren] fejlede, prøver igen...",
+                    "failover" : "Anmodnigen til [server] fejlede, prøver igen...",
                     "ratelimit" : "For mange anmodninger, prøv venligst igen om lidt.",
                     "unavailable" : "Du kan ikke stemme indtil butikken ændrer sig indenfor den næste minutter. ",
                     "conflict" : "Du kan ikke stemme, prøv igen senere.",
