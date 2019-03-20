@@ -129,9 +129,9 @@
                     "failover" : "Anmodnigen til [serveren] fejlede, prøver igen...",
                     "ratelimit" : "For mange anmodninger, prøv venligst igen om lidt.",
                     "unavailable" : "Du kan ikke stemme indtil butikken ændrer sig indenfor den næste minutter. ",
-                    "conflict" : "VDu kan ikke stemme, prøv igen senere.",
+                    "conflict" : "Du kan ikke stemme, prøv igen senere.",
                     "bad-choice" : "Stemme ikke genkendt",
-                    "no-data" : "Ingen dat tilgængelig - prøv igen om lidt."
+                    "no-data" : "Ingen data tilgængelig - prøv igen om lidt."
                 }
             }
         },
