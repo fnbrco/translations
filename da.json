@@ -112,6 +112,27 @@
             },
             "yesterday" : {
                 "title" : "I gårs butiksrotation"
+            },
+            "vote" : {
+                "title" : "Hvad synes du om denne butik?",
+                "line1" : "Den skifter klokken 00:00 UTC",
+                "line2" : "Læs vores [Privatlivspolitik](/privacy) før du stemmer",
+                "choice" : {
+                    "up" : "Elsker den!",
+                    "neutral" : "Den er meh.",
+                    "down" : "Hader den."
+                },
+                "response" : {
+                    "success" : "Stemmen er talt.",
+                    "timeout" : "Anmodninge tog for lang tid og stoppede",
+                    "internal" : "Fejl",
+                    "failover" : "Anmodnigen til [server] fejlede, prøver igen...",
+                    "ratelimit" : "For mange anmodninger, prøv venligst igen om lidt.",
+                    "unavailable" : "Du kan ikke stemme indtil butikken ændrer sig indenfor den næste minutter. ",
+                    "conflict" : "Du kan ikke stemme, prøv igen senere.",
+                    "bad-choice" : "Stemme ikke genkendt",
+                    "no-data" : "Ingen data tilgængelig - prøv igen om lidt."
+                }
             }
         },
         "upcoming" : {
