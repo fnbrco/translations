@@ -115,7 +115,7 @@
             },
             "vote" : {
                 "title" : "Hvad synes du om denne butik?",
-                "line1" : "Den skifter klokken 01:00 Dansk til",
+                "line1" : "Den skifter klokken 00:00 UTC",
                 "line2" : "Læs vores [Privatlivspolitik](/privacy) før du stemmer",
                 "choice" : {
                     "up" : "Elsker den!",
