@@ -111,7 +111,28 @@
             },
             "yesterday" : {
                 "title" : "Rotación de la Tienda de Ayer"
-            }
+            },
+            "vote" : {
+                "title" : "¿Qué os parece esta Tienda?",
+                "line1" : "Se reinicia diariamente a las 00:00 UTC.",
+                "line2" : "Revisa nuestra [política de privacidad](/privacy) antes de votar",
+                "choice" : {
+                    "up" : "¡Me encanta!",
+                    "neutral" : "Meh.",
+                    "down" : "La odio.",
+                },
+                "response" : {
+                    "success" : "Voto registrado",
+                    "timeout" : "La petición tardó demasiado y se desconectó",
+                    "internal" : "Error Interno",
+                    "failover" : "La petición al [servidor] ha fallado, intentándolo de nuevo...",
+                    "ratelimit" : "Demasiadas peiticiones, intentálo más tarde.",
+                    "unavailable" : "Las votaciones no están disponibles hasta que la tienda cambie el próximo minuto",
+                    "conflict" : "No es posible votar, inténtalo más tarde.",
+                    "bad-choice" : "Voto no reconocido",
+                    "no-data" : "No hay datos disponibles, intentálo más tarde",
+                }
+            } 
         },
         "upcoming" : {
             "title" : "Próximos Cosméticos",
