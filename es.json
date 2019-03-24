@@ -119,18 +119,18 @@
                 "choice" : {
                     "up" : "¡Me encanta!",
                     "neutral" : "Meh.",
-                    "down" : "La odio.",
+                    "down" : "La odio."
                 },
                 "response" : {
                     "success" : "Voto registrado",
                     "timeout" : "La petición tardó demasiado y se desconectó",
                     "internal" : "Error Interno",
-                    "failover" : "La petición al [servidor] ha fallado, intentándolo de nuevo...",
+                    "failover" : "La petición al [server] ha fallado, intentándolo de nuevo...",
                     "ratelimit" : "Demasiadas peiticiones, intentálo más tarde.",
                     "unavailable" : "Las votaciones no están disponibles hasta que la tienda cambie el próximo minuto",
                     "conflict" : "No es posible votar, inténtalo más tarde.",
                     "bad-choice" : "Voto no reconocido",
-                    "no-data" : "No hay datos disponibles, intentálo más tarde",
+                    "no-data" : "No hay datos disponibles, intentálo más tarde"
                 }
             } 
         },
