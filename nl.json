@@ -115,10 +115,10 @@
             },
             "vote" : {
                 "title" : "Wat vind jij van deze winkel?",
-                "line1" : "Dit word dagelijks gereset om 00:00 uur (UTC tijzone).",
+                "line1" : "Dit word dagelijks gereset om 00:00 uur (UTC tijdzone).",
                 "line2" : "Bekijk ons [privacybeleid](/privacy) voordat je gaat stemmen",
                 "choice" : {
-                    "up" : "Ik hous ervan!",
+                    "up" : "Ik houd ervan!",
                     "neutral" : "meh!",
                     "down" : "Ik haat het!"
                 },
