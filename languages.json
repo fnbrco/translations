@@ -144,6 +144,13 @@
             "flag": "ru",
             "live": true,
             "authors" : ["d4nzee#1337"]
+        },
+        {
+            "name": "Polski",
+            "code": "pl",
+            "flag": "pl",
+            "live": true,
+            "authors" : ["Calslock#4485"]
         }
     ]
 }
