@@ -191,10 +191,10 @@
             "line1" : "Wszystkie obrazy należą do Epic Games."
         },
         "item" : {
-            "unreleased" : "Unreleased",
+            "unreleased" : "Niewydana",
             "description" : "Opis",
             "history" : {
-                "title" : "Shop History",
+                "title" : "Wcześniej w sklepie",
                 "release-never" : "Premiera w sklepie: nigdy",
                 "release-date" : "Premiera w sklepie:",
                 "last-never" : "Ostatnio w sklepie: nigdy",
