@@ -1,0 +1,296 @@
+{
+    "name" : "Polski",
+    "name-en" : "Polish",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : false,
+            "dateFormat" : "[date] [month] [year]",
+            "months" : [
+                "Styczeń",
+                "Luty",
+                "Marzec",
+                "Kwiecień",
+                "Maj",
+                "Czerwiec",
+                "Lipiec",
+                "Sierpień",
+                "Wrzesień",
+                "Październik",
+                "Listopad",
+                "Grudzień"
+            ],
+            "types" : {
+                "backpack" : "Sprzęt na plecy",
+                "emote" : "Emotka",
+                "glider" : "Lotnia",
+                "emoji" : "Emotka",
+                "loading" : "Ekran wczytywania",
+                "outfit" : "Ubiór",
+                "pickaxe" : "Zbierak",
+                "skydive" : "Smugi",
+                "umbrella" : "Parasol",
+                "spray" : "Graffiti",
+                "toy" : "Zabawka",
+                "pet" : "Pupil",
+                "music" : "Muzyka",
+                "wrap" : "Malowanie",
+                "bundle" : "Zestaw",
+                "misc" : "Różne"
+            },
+            "rarity" : {
+                "legendary" : "Legendarny",
+                "epic" : "Epicki",
+                "rare" : "Rzadki",
+                "uncommon" : "Niepospolity",
+                "common" : "Zwykły"
+            },
+            "translationNotAvailable" : "Niestety tłumaczenie nie jest dostępne.",
+            "translationIncomplete" : "Strona nie została całkowicie przetłumaczona"
+        },
+        "nav" : {
+            "home" : "główna",
+            "shop" : "sklep",
+            "cosmetics" : {
+                "dropdown" : "skórki",
+                "upcoming" : "nadchodzące",
+                "list" : "lista",
+                "png" : "png",
+                "gallery" : "galeria",
+                "icons" : "ikony",
+                "reminders" : "przypomnienia",
+                "history" : "poprzednio w sklepie"
+            },
+            "news" : "wiadomości",
+            "modes" : "tryby",
+            "randomiser" : "randomizer",
+            "about" : {
+                "dropdown" : "info",
+                "translate" : "przetłumacz",
+                "about" : "o fnbr.co",
+                "privacy" : "polityka prywatności",
+                "donate" : "Wesprzyj",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "konto",
+                "account" : "konto",
+                "logout" : "wyloguj"
+            },
+            "languagePicker" : {
+                "trigger" : "język",
+                "title" : "Wybierz język",
+                "currentLanguage" : "Obecnie używasz [language]",
+                "error" : "Błąd podczas pobierania tłumaczenia",
+                "authors" : "Przetłumaczono przez:",
+                "cta" : "Kliknij aby wybrać [language]",
+                "switching" : "Pobieram [language]...",
+                "finished" : "Twój język został zmieniony!"
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Nadchodzące przedmioty",
+            "title-all" : "Wszystkie przedmioty",
+            "error" : "Błąd podczas pobierania przedmiotów, spróbuj ponownie za kilka minut.",
+            "error-too-long" : "To zajmuje dłużej niż się spodziewaliśmy"
+        },
+        "shop" : {
+            "title" : "Obecny sklep",
+            "title-featured" : "Wyróżnione",
+            "title-daily" : "Dzienne",
+            "error" : "Sklep niedostępny, spróbuj za kilka minut",
+            "line1" : "Obecna oferta sklepu dla Fortnite Battle Royale - odświeża się codziennie o [00:00 UTC](https://time.is/UTC|tooltip=Kliknij, aby zobaczyć godzinę (UTC)|newtab=true).",
+            "line2" : "Możesz zobaczyć wczorajczą ofertę [tutaj](/shop/yesterday|tooltip=Wczorajszy sklep).",
+            "line3" : "Kliknij na skórkę, aby wyświetlić o niej informacje.",
+            "countdown" : {
+                "title" : "Nowe przedmioty za:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "godzinę",
+                "hours-plural" : "godzin"
+            },
+            "yesterday" : {
+                "title" : "Wczorajsza oferta"
+            },
+            "vote" : {
+                "title" : "Co sądzisz o dzisiejszej ofercie?",
+                "line1" : "Odświeża się codziennie o 00:00 UTC.",
+                "line2" : "Przeczytaj naszą [politykę prywatności](/privacy) zanim zagłosujesz.",
+                "choice" : {
+                    "up" : "Świetny!",
+                    "neutral" : "Meh.",
+                    "down" : "Nie podoba mi się."
+                },
+                "response" : {
+                    "success" : "Głos zapisany",
+                    "timeout" : "Żądanie trwało zbyt długo i wygasło",
+                    "internal" : "Błąd serwera",
+                    "failover" : "Żądanie do [server] nie powiodło się, ponawiam...",
+                    "ratelimit" : "Zbyt wiele żądań, spróbuj ponownie za kilka minut",
+                    "unavailable" : "Głosowanie niedostępne, trwa zmiana sklepu",
+                    "conflict" : "Głosowanie niedostępne, spróbuj ponownie później.",
+                    "bad-choice" : "Głos nie został wysłany",
+                    "no-data" : "Brak danych - spróbuj ponownie za kilka minut"
+                }
+            }
+        },
+        "upcoming" : {
+            "title" : "Nadchodzące skórki",
+            "line1" : "Wszystkie jeszcze niedostępne skórki w Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "Lista skórek",
+            "line1" : "Wszystkie dostępne skórki w Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Ikona",
+                "name" : "Nazwa",
+                "type" : "Typ",
+                "rarity" : "Rzadkość",
+                "obtained" : "Sposób zdobycia"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Poprzednie sklepy",
+                "line1" : "Tutaj znajduje się oferta w sklepie Fortnite Battle Royale dla poprzednich 8 dni.",
+                "line2" : "Wybierz, aby zobaczyć pełną ofertę sklepu tego dnia, lub przesuń w dół aby zobaczyć wcześniejsze oferty."
+            },
+            "view" : {
+                "title" : "Oferta sklepu",
+                "line1" : "To jest oferta w sklepie Fortnite Battle Royale w dniu [date].",
+                "line2" : "Kliknij na skórkę, aby wyświetlić o niej informacje.",
+                "today-button" : "Dzisiejsza oferta sklepu"
+            }
+        },
+        "news" : {
+            "title" : "Wiadomości",
+            "line1" : "Obecne wiadomości z Fortnite Battle Royale. Odświeżane co minutę.",
+            "error" : "Ładowanie wiadomości z Fortnite nie powiodło się, spróbuj ponownie za chwilę.",
+            "more-ingame-button" : "Pokaż więcej"
+        },
+        "randomiser" : {
+            "title" : "Randomizer",
+            "line1" : "Wybierz losowy przedmiot z każdej kategorii.",
+            "chooseText" : "Kliknij, aby wylosować",
+            "randomise-all" : "Losuj wszystko"
+        },
+        "png" : {
+            "title" : "PNG skórek",
+            "line1" : "Możliwe jest pobranie plików PNG ze skórkami w pełnym rozmiarze. Jeżeli korzystasz z dowolnego z tych obrazów, pamiętaj o wskazaniu źródła - fnbr.co.",
+            "sort-by" : "Sortuj:",
+            "all" : "Wszystkie"
+        },
+        "gallery" : {
+            "title" : "Galeria skórek",
+            "line1" : "Wszystkie skórki dostępne w Fortnite Battle Royale.",
+            "line2" : "Jeżeli używasz dowolnego z tych obrazów na medium społecznościowym/własnej stronie pamiętaj o wskazaniu źródła - fnbr.co"
+        },
+        "icons" : {
+            "title" : "Ikony Fortnite Battle Royale",
+            "line1" : "Wszystkie obrazy należą do Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Niewydana",
+            "description" : "Opis",
+            "history" : {
+                "title" : "Wcześniej w sklepie",
+                "release-never" : "Premiera w sklepie: nigdy",
+                "release-date" : "Premiera w sklepie:",
+                "last-never" : "Ostatnio w sklepie: nigdy",
+                "last-date" : "Ostatnio w sklepie:",
+                "occurrences" : "Występowania:"
+            },
+            "reminder-count" : "Użytkownicy z [przypomnieniami](/reminders):",
+            "add-reminder" : "Dodaj przypomnienie",
+            "remove-reminder" : "Usuń przypomnienie",
+            "has-reminders" : "Ustawiłeś przypomnienie dla tego przedmiotu.",
+            "no-reminders" : "Przypomnienia niedostępne dla tego przedmiotu.",
+            "images" : "Obrazy",
+            "images-icon" : "Ikona",
+            "images-png" : "PNG",
+            "images-gallery" : "Galeria",
+            "images-featured" : "Wyróżnione",
+            "interest-title" : "Zainteresowanie",
+            "interest-line1" : "Ten wykres przedstawia zainteresowanie danym przedmiotem, przyjmując 100% jako najbardziej popularny.",
+            "interest-line2" : "Dane z dnia dzisiejszego mogą być niekompletne",
+            "occurrences-table" : {
+                "title" : "Daty dostępności",
+                "th-date" : "Data",
+                "th-days" : "Dni temu"
+            },
+            "set" : "Zestaw",
+            "set-name" : "Część z zestawu [name]",
+            "popular-title" : "Najbardziej popularne dzisiaj"
+        },
+        "account" : {
+            "home" : {
+                "title" : "Twoje dane konta",
+                "error" : "Ładowanie danych Twojego konta się nie powiodło, spróbuj ponownie później.",
+                "info" : {
+                    "title" : "Informacje",
+                    "line1" : "Jesteś zalogowany przez [provider] jako [username]",
+                    "line2-api-yes" : "Masz [dostęp do api](/api/docs)",
+                    "line2-api-no" : "Nie masz dostępu do api."
+                },
+                "migration" : {
+                    "title" : "Wcześniejsze konta",
+                    "waiting-line1" : "Od teraz logowanie jest dostępne tylko za pomocą Discorda.",
+                    "waiting-line2" : "Jeżeli założyłeś konto w 2018, musisz połączyć konto z Discordem.",
+                    "twitter-line1" : "Obecnie używasz konta połączonego z Twitterem. Konta te nie będą wspierane od niedalekiej przyszłości.",
+                    "twitter-line2" : "Kliknij na przycisk poniżej, aby połączyć konta"
+                },
+                "ratings" : {
+                    "title" : "Oceny",
+                    "none" : "Nie wystawiłeś żadnych ocen."
+                },
+                "destroy" : {
+                    "title" : "Usuń konto",
+                    "line1" : "Jeżeli chcesz usunąć konto i wszystkie dane, możesz zrobić to [tutaj](/account/destroy)"
+                }
+            },
+            "oauth" : {
+                "title" : "Zaloguj do fnbr.co",
+                "discord-button" : "Zaloguj z Discordem",
+                "legacy-text" : "Jeżeli posiadasz konto z 2018 niepołączone z Discordem:",
+                "twitter-button" : "Zaloguj używając Twittera",
+                "privacy-text" : "Logując się wyrażasz zgodę na przechowywanie Twoich danych zgodnie z [polityką prywatności](/privacy)."
+            },
+            "username" : {
+                "title" : "Witaj na fnbr.co",
+                "line1" : "Zalogowałeś się za pomocą Discorda, aby móc używać w pełni naszej strony wybierz nazwę użytkownika",
+                "nameTaken" : "Nazwa [attemptedName] jest już zajęta, ale możesz jej używać ze swoim tagiem Discord.",
+                "randomName" : "Nazwa [attemptedName] jest już zajęta, nie udało się wygenerować nowej nazwy używając Twojego tagu Discord.",
+                "form-username" : "Nazwa użytkownika",
+                "form-criteria" : "Nazwa może mieć od 2 do 32 znaków, wliczając w to znaki alfanumeryczne, podkreślniki (_) oraz myślniki (-).",
+                "button-text" : "Ustaw nazwę użytkownika"
+            },
+            "locked" : {
+                "title" : "Błąd podczas logowania",
+                "line1" : "Nie możesz zalogować się do fnbr.co, ponieważ [Twoje konto zostało zablokowane](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Konto połączone",
+                "line1" : "Jesteś zalogowany jako",
+                "line2" : "To konto zostało połączone do logowania z Discordem."
+            },
+            "notFound" : {
+                "title" : "Nie znaleziono konta",
+                "line1" : "Zalogowałeś się używając Twittera jako",
+                "line2" : "Jednakże tworzenie kont używając Twittera jest już niedostępne.",
+                "line3" : "Możesz się [zalogować używając Discorda](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Błąd",
+                "line1" : "Żądany zasób nie istnieje, bądź nie masz do niego dostępu."
+            },
+            "500" : {
+                "title" : "Ups!",
+                "line1" : "Podczas przetwarzania Twojego żądania coś poszło nie tak, spróbuj ponownie później!",
+                "line2" : "Możesz zalogować się ponownie [tutaj](/oauth)."
+            }
+        }
+    }
+}
