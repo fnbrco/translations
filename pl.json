@@ -101,7 +101,7 @@
             "title-featured" : "Wyróżnione",
             "title-daily" : "Dzienne",
             "error" : "Sklep niedostępny, spróbuj za kilka minut",
-            "line1" : "Obecna oferta sklepu dla Fortnite Battle Royale - odświeża się codziennie o [00:00 UTC](https://time.is/UTC|tooltip=Kliknij, aby zobaczyć godzinę (UTC)|newtab=true).",
+            "line1" : "Obecna oferta sklepu dla Fortnite Battle Royale - odświeża się codziennie o [00:00 UTC](https://time.is/UTC|tooltip=Kliknij, aby zobaczyć obecną godzinę w UTC|newtab=true).",
             "line2" : "Możesz zobaczyć wczorajczą ofertę [tutaj](/shop/yesterday|tooltip=Wczorajszy sklep).",
             "line3" : "Kliknij na skórkę, aby wyświetlić o niej informacje.",
             "countdown" : {
