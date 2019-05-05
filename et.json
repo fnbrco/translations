@@ -7,22 +7,22 @@
             "thForDate" : false,
             "dateFormat" : "[date] [month] [year]",
             "months" : [
-                "Jaanuar",
-                "Veebruar",
-                "Märts",
-                "Aprill",
-                "Mai",
-                "Juuni",
-                "Juuli",
-                "August",
-                "September",
-                "Oktoober",
-                "November",
-                "Detsember"
+                "jaanuar",
+                "veebruar",
+                "märts",
+                "aprill",
+                "mai",
+                "juuni",
+                "juuli",
+                "august",
+                "september",
+                "oktoober",
+                "november",
+                "detsember"
             ],
             "types" : {
                 "backpack" : "seljakott",
-                "emote" : "emotsioon",
+                "emote" : "liigutus",
                 "glider" : "deltaplaan",
                 "emoji" : "emotikon",
                 "loading" : "laadimisekraanid",
@@ -46,7 +46,7 @@
                 "common" : "Harilik"
             },
             "translationNotAvailable" : "Kahjuks pole siin lehel tõlkeid.",
-            "translationIncomplete" : "Kõik ei ole siin lehel tõlgitud."
+            "translationIncomplete" : "Kõike ei ole siin lehel tõlgitud."
         },
         "nav" : {
             "home" : "kodu",
@@ -136,7 +136,7 @@
             }
         },
         "upcoming" : {
-            "title" : "Tulevased Kosmeetilised Esemed",
+            "title" : "Tulevased kosmeetilised esemed",
             "line1" : "Kõik avaldamata esemed Fortnite Battle Royale's."
         },
         "list" : {
@@ -152,9 +152,9 @@
         },
         "history" : {
             "list" : {
-                "title" : "Eseme Poe Ajalugu",
+                "title" : "Eseme poe ajalugu",
                 "line1" : "Siin näete eseme poe 8 eelmise päeva vahetusi Fortnite Battle Royale's.",
-                "line2" : "Vajutage ühele, et näha tervet eseme poodi või kerige, et näha tervet eseme poe ajalugu päeva kaupa."
+                "line2" : "Vajutage päevale, et näha tervet eseme poodi või kerige, et näha tervet eseme poe ajalugu päeva kaupa."
             },
             "view" : {
                 "title" : "Poe Vahetus",
@@ -187,7 +187,7 @@
             "line2" : "Palun ärge kasutage neid pilte enda veebilehel/sotsiaal meedia leheküljel ilma fnbr.co krediteerimiseta."
         },
         "icons" : {
-            "title" : "Fortnite Battle Royale'i Ikoonid",
+            "title" : "Fortnite Battle Royale'i ikoonid",
             "line1" : "Kõik pildid kuuluvad Epic Games'ile."
         },
         "item" : {
@@ -215,9 +215,9 @@
             "interest-line1" : "See näitab huvi selle asja kohta üle aja, 100% tähendab, et ese on kõige populaarsem üle aja.",
             "interest-line2" : "Andmed tänase kohta võivad olla mittetäielikud",
             "occurrences-table" : {
-                "title" : "Poe Esinemisi",
+                "title" : "Poes esinemisi",
                 "th-date" : "Kuupäev",
-                "th-days" : "Päeva Tagasi"
+                "th-days" : "Päevi tagasi"
             },
             "set" : "Komplekt",
             "set-name" : "Osa [name] komplektist",
@@ -225,16 +225,16 @@
         },
         "account" : {
             "home" : {
-                "title" : "Andmed Sinu Kasutaja Kohta",
+                "title" : "Andmed sinu kasutaja kohta",
                 "error" : "Midagi läks valesti sinu kasutaja andmete laadimisel, palun proovi hiljem uuesti.",
                 "info" : {
                     "title" : "Informatsioon",
-                    "line1" : "Sa oled sisse logitud [provider] kaudu [username]'na",
-                    "line2-api-yes" : "Sul on [juurdepääs api'le](/api/docs)",
-                    "line2-api-no" : "Sul ei ole juurdepääs api'le."
+                    "line1" : "Sa oled sisse logitud [provider]'i kaudu [username]'na",
+                    "line2-api-yes" : "Sul on [juurdepääsu api'le](/api/docs)",
+                    "line2-api-no" : "Sul ei ole juurdepääsu api'le."
                 },
                 "migration" : {
-                    "title" : "Legaat Kasutajad",
+                    "title" : "Legaat kasutajad",
                     "waiting-line1" : "Me kolisime Discord'i, et sisse logida.",
                     "waiting-line2" : "Kui sul on kasutaja aastast 2018, pead sa tooga sisse logima, et migreerida sellega",
                     "twitter-line1" : "Me kasutame nüüd Discord'i, et sisse logida. Sa kasutad praegu legaat kontot, mis võib tulevikus lõpetatud olla ning millel on limiteeritud funktsionaalsus.",
@@ -245,7 +245,7 @@
                     "none" : "Sul pole hinnanguid."
                 },
                 "destroy" : {
-                    "title" : "Hävita Konto",
+                    "title" : "Hävita konto",
                     "line1" : "Kui sa enam ei soovi enda kontot, võid konto ja selle andmed eemaldada [siin](/account/destroy)"
                 }
             },
