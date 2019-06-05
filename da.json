@@ -52,32 +52,32 @@
             "home" : "hjem",
             "shop" : "butik",
             "cosmetics" : {
-                "dropdown" : "Kosmetikker",
-                "upcoming" : "Kommende",
-                "list" : "Liste",
-                "png" : "Png",
-                "gallery" : "Galleri",
-                "icons" : "Ikoner",
-                "reminders" : "Påmindelser",
-                "history" : "Butikshistorie"
+                "dropdown" : "kosmetikker",
+                "upcoming" : "kommende",
+                "list" : "liste",
+                "png" : "png",
+                "gallery" : "galleri",
+                "icons" : "ikoner",
+                "reminders" : "påmindelser",
+                "history" : "butikshistorie"
             },
-            "news" : "Nyheder",
-            "modes" : "Tilstande",
-            "randomiser" : "Tilfældig",
+            "news" : "nyheder",
+            "modes" : "tilstande",
+            "randomiser" : "tilfældig",
             "about" : {
-                "dropdown" : "Om",
-                "translate" : "Oversæt",
-                "about" : "Om fnbr.co",
-                "privacy" : "Fortrolighedspolitik",
-                "donate" : "Donere",
-                "discord" : "Discord",
-                "twitter" : "Twitter"
+                "dropdown" : "om",
+                "translate" : "oversæt",
+                "about" : "om fnbr.co",
+                "privacy" : "fortrolighedspolitik",
+                "donate" : "doner",
+                "discord" : "discord",
+                "twitter" : "twitter"
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "Konto",
-                "account" : "Konto",
-                "logout" : "Log ud"
+                "dropdown" : "konto",
+                "account" : "konto",
+                "logout" : "log ud"
             },
             "languagePicker" : {
                 "trigger" : "Sprog",
