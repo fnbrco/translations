@@ -151,6 +151,13 @@
             "flag": "pl",
             "live": true,
             "authors" : ["Calslock#4485"]
+        },
+        {
+            "name": "한국어",
+            "code": "ko",
+            "flag": "kr",
+            "live": true,
+            "authors" : ["hs7982#6039"]
         }
     ]
 }
