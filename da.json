@@ -49,8 +49,8 @@
             "translationIncomplete" : "Ikke alt tekst på denne side vil blive oversat"
         },
         "nav" : {
-            "home" : "Hjem",
-            "shop" : "Butik",
+            "home" : "hjem",
+            "shop" : "butik",
             "cosmetics" : {
                 "dropdown" : "Kosmetikker",
                 "upcoming" : "Kommende",
