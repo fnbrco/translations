@@ -30,7 +30,7 @@
                 "pickaxe" : "Hakke",
                 "skydive" : "Faldskærms Spor",
                 "umbrella" : "Paraply",
-                "spray" : "Sprøjte",
+                "spray" : "Graffiti",
                 "toy" : "Legetøj",
                 "pet" : "Kæledyr",
                 "music" : "Musik",
@@ -49,35 +49,35 @@
             "translationIncomplete" : "Ikke alt tekst på denne side vil blive oversat"
         },
         "nav" : {
-            "home" : "hjem",
-            "shop" : "butik",
+            "home" : "Hjem",
+            "shop" : "Butik",
             "cosmetics" : {
-                "dropdown" : "kosmetikker",
-                "upcoming" : "kommende",
-                "list" : "liste",
-                "png" : "png",
-                "gallery" : "galleri",
-                "icons" : "ikoner",
-                "reminders" : "påmindelser",
-                "history" : "butikshistorie"
+                "dropdown" : "Kosmetikker",
+                "upcoming" : "Kommende",
+                "list" : "Liste",
+                "png" : "Png",
+                "gallery" : "Galleri",
+                "icons" : "Ikoner",
+                "reminders" : "Påmindelser",
+                "history" : "Butikshistorie"
             },
-            "news" : "nyheder",
-            "modes" : "tilstande",
-            "randomiser" : "tilfældig",
+            "news" : "Nyheder",
+            "modes" : "Tilstande",
+            "randomiser" : "Tilfældig",
             "about" : {
-                "dropdown" : "om",
-                "translate" : "oversæt",
-                "about" : "om fnbr.co",
-                "privacy" : "fortrolighedspolitik",
+                "dropdown" : "Om",
+                "translate" : "Oversæt",
+                "about" : "Om fnbr.co",
+                "privacy" : "Fortrolighedspolitik",
                 "donate" : "Donere",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "konto",
-                "account" : "konto",
-                "logout" : "log ud"
+                "dropdown" : "Konto",
+                "account" : "Konto",
+                "logout" : "Log ud"
             },
             "languagePicker" : {
                 "trigger" : "Sprog",
@@ -116,7 +116,7 @@
             "vote" : {
                 "title" : "Hvad synes du om denne butik?",
                 "line1" : "Den skifter klokken 00:00 UTC",
-                "line2" : "Læs vores [Privatlivspolitik](/privacy) før du stemmer",
+                "line2" : "Læs vores [Fortrolighedspolitik](/privacy) før du stemmer",
                 "choice" : {
                     "up" : "Elsker den!",
                     "neutral" : "Den er meh.",
