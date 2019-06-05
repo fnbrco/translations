@@ -177,14 +177,14 @@
         },
         "png" : {
             "title" : "치장 아이템 PNG",
-            "line1" : "Please credit back to fnbr.co if you use any of these images. Previews are scaled down, downloads will be full size.",
+            "line1" : "이미지를 이용할 경우 fnbr.co의 허가 후 사용하십시오. 미리보기 이미지의 사이즈는 축소 되어있으나, 다운로드 시 원본 크기로 다운됩니다.",
             "sort-by" : "정렬 기준:",
             "all" : "모두"
         },
         "gallery" : {
             "title" : "치장 아이템 갤러리",
             "line1" : "포트나이트 배틀로얄에서 사용할 수 있는 모든 치장 아이템입니다.",
-            "line2" : "Please do not use these images on your personal website/social media account without direct credit to fnbr.co"
+            "line2" : "fnbr.co의 허가 없이 귀하의 개인 웹사이트/소셜 미디어 계정에 사용하지 마십시오."
         },
         "icons" : {
             "title" : "포트나이트 배틀로얄 아이콘",
