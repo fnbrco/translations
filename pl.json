@@ -111,7 +111,7 @@
                 "hours-plural" : "godzin"
             },
             "yesterday" : {
-                "title" : "Wczorajsza oferta"
+                "title" : "Wczorajszy sklep"
             },
             "vote" : {
                 "title" : "Co sądzisz o dzisiejszej ofercie?",
@@ -284,7 +284,7 @@
         "errors" : {
             "404" : {
                 "title" : "Błąd",
-                "line1" : "Żądany zasób nie istnieje, bądź nie masz do niego dostępu."
+                "line1" : "Strona lub plik nie istnieje, bądź nie masz do niego dostępu."
             },
             "500" : {
                 "title" : "Ups!",
