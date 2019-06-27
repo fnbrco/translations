@@ -1,0 +1,296 @@
+{
+    "name" : "Italiano",
+    "name-en": "Italian",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : false,
+            "dateFormat" : "[date] [month] [year]",
+            "months" : [
+                "Gennaio",
+                "Febbraio",
+                "Marzo",
+                "Aprile",
+                "Maggio",
+                "Giugno",
+                "Luglio",
+                "Agosto",
+                "Settembre",
+                "Ottobre",
+                "Novembre",
+                "Dicembre"
+            ],
+            "types" : {
+                "backpack" : "Zainetto",
+                "emote" : "Emote",
+                "glider" : "Deltaplano",
+                "emoji" : "Emoji",
+                "loading" : "Schermata di caricamento",
+                "outfit" : "Outfit",
+                "pickaxe" : "Piccone",
+                "skydive" : "Scia",
+                "umbrella" : "Ombrello",
+                "spray" : "Spray",
+                "toy" : "Giocattolo",
+                "pet" : "Animale",
+                "music" : "Musica",
+                "wrap" : "Copertura",
+                "bundle" : "Bundle",
+                "misc" : "Varie"
+            },
+            "rarity" : {
+                "legendary" : "Leggendario",
+                "epic" : "Epico",
+                "rare" : "Raro",
+                "uncommon" : "Non comune",
+                "common" : "Comune"
+            },
+            "translationNotAvailable" : "Sfortunatamente non ci sono traduzioni per questa pagina.",
+            "translationIncomplete" : "Non verra' tradotto tutto il testo della pagina"
+        },
+        "nav" : {
+            "home" : "home",
+            "shop" : "negozio",
+            "cosmetics" : {
+                "dropdown" : "info",
+                "translate": "traduci",
+                "upcoming" : "in arrivo",
+                "list" : "lista",
+                "png" : "png",
+                "gallery" : "galleria",
+                "icons" : "icone",
+                "reminders" : "promemoria",
+                "history" : "cronologia del negozio"
+            },
+            "news" : "notizie",
+            "modes" : "modalita'",
+            "randomiser" : "randomizzatore",
+            "about" : {
+                "dropdown" : "info",
+                "translate": "traduci",
+                "about" : "info fnbr.co",
+                "privacy" : "politica sulla privacy",
+                "donate" : "Dona",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "account",
+                "account" : "account",
+                "logout" : "esci"
+            },
+            "languagePicker" : {
+                "trigger" : "language",
+                "title" : "Scegli lingua",
+                "currentLanguage" : "Stai attualmente usando [language].",
+                "error" : "Errore durante il download del file delle traduzioni",
+                "authors" : "Tradotto da:",
+                "cta" : "Clicca per cambiare a [language]",
+                "switching" : "Scaricando [language]...",
+	        "finished" : "La tua lingua e' stata cambiata!"
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Oggetti in Arrivo",
+            "title-all" : "Tutti gli Oggetti",
+            "error" : "Impossibile recuperare gli oggetti, perfavore riprova tra un po'.",
+            "error-too-long" : "Ci mettera' piu' del previsto"
+        },
+        "shop" : {
+            "title" : "Rotazione Attuale",
+            "title-featured" : "In evidenza",
+            "title-daily" : "Giornaliero",
+            "error" : "Negozio non disponibile, perfavore riprova piu' tardi",
+            "line1" : "Rotazione attuale del negozio di Fortnite Battaglia Reale - aggiornamenti giornalieri alle [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Puoi vedere il negozio di ieri [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line3" : "Clicca su un cosmetico per avere piu' informazioni.",
+            "countdown" : {
+                "title" : "Nuovi oggetti:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "ora",
+                "hours-plural" : "ore"
+            },
+            "yesterday" : {
+                "title" : "Rotazione negozio di ieri"
+            },
+            "vote" : {
+                "title" : "Cosa ne pensi del negozio?",
+                "line1" : "Si resetta alle 00:00 UTC.",
+                "line2" : "Controlla la nostra [privacy policy](/privacy) prima di votare",
+                "choice" : {
+                    "up" : "Mi piace!",
+                    "neutral" : "E' cosi' cosi'.",
+                    "down" : "Lo odio."
+                },
+                "response" : {
+                    "success" : "Voto registrato",
+                    "timeout" : "La richiesta ci ha messo troppo ed e' scaduta",
+                    "internal" : "Errore interno",
+                    "failover" : "Richiesta a [server] fallita, riprovano...",
+                    "ratelimit" : "Troppe richieste, riprova tra poco",
+                    "unavailable" : "Il voto non e' disponibile finche' non cambia nel prossimo minuto",
+                    "conflict" : "Voto non possibile, riprova piu' tardi.",
+                    "bad-choice" : "Voto non riconosciuto",
+                    "no-data" : "Nessuno dato disponibile, riprova piu' tardi"
+                }
+        },
+        "upcoming" : {
+            "title" : "Cosmetici in arrivo",
+            "line1" : "Tutti gli oggetti di Fortnite Battaglia Reale non ancora rilasciati."
+        },
+        "list" : {
+            "title" : "Lista dei cosmetici",
+            "line1" : "Ogni cosmetico disponibile su Fortnite Battaglia Reale.",
+            "table" : {
+                "icon" : "Icona",
+                "name" : "Nome",
+                "type" : "Tipo",
+                "rarity" : "Rarita'",
+                "obtained" : "Ottenuto"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Cronologia del Negozio Oggetti",
+                "line1" : "Qui ci sono gli ultimi 8 giorni del negozio oggetti di Fortnite Battaglia Reale.",
+                "line2" : "Clicca su uno per vedere il negozio intero oppure scendi per vedere la cronologia completa giorno per giorno."
+            },
+            "view" : {
+                "title" : "Rotazione del Negozio",
+                "line1" : "Questa e' la rotazione del negozio oggetti del [date] di Fortnite Battaglia Reale. ",
+                "line2" : "Clicca su un cosmetico per avere piu' informazioni su di esso.",
+                "today-button" : "Negozio Oggetti di Oggi"
+            }
+        },
+        "news" : {
+            "title" : "Notizie",
+            "line1" : "Le attuali notizie in gioco di Epic Games. Aggiornate ogni minuto.",
+            "error" : "Non siamo riusciti a prendere le notizie da Fortnite, ci riproveremo a breve.",
+            "more-ingame-button" : "Carica di piu'"
+        },
+        "randomiser" : {
+            "title" : "Randomizzatore",
+            "line1" : "Prendi un outfit casuale da ogni oggetto disponibile.",
+            "chooseText" : "Clicca per scegliere",
+            "randomise-all" : "Tutto Casuale"
+        },
+        "png" : {
+            "title" : "Cosmetici PNG",
+            "line1" : "Perfavore dai i riconoscimenti a fnbr.co se usi alcune di queste immagini. Le anteprime sono ridotte, i download sono con maggiore qualita'.",
+            "sort-by" : "Ordina per:",
+            "all" : "Tutto"
+        },
+        "gallery" : {
+            "title" : "Galleria Cosmetici",
+            "line1" : "Tutti i cosmetici disponibile in Fortnite Battaglia Reale.",
+            "line2" : "Perfavore non usare queste immagini per il tuo website/social media account senza dare i crediti a fnbr.co"
+        },
+        "icons" : {
+            "title" : "Icone Fortnite Battagli Reale ",
+            "line1" : "Tutte le immagini appartengono a Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Non rilasciato",
+            "description" : "Descrizione",
+            "history" : {
+                "title" : "Cronologia negozio",
+                "release-never" : "Data di rilascio: Non rilasciato",
+                "release-date" : "Data di rilascio:",
+                "last-never" : "Ultima volta visto: Mai",
+                "last-date" : "Ultima volta visto:",
+                "occurrences" : "Avvenimenti:"
+            },
+            "reminder-count" : "Utenti con [reminders](/reminders):",
+            "add-reminder" : "Aggiungi promemoria",
+            "remove-reminder" : "Rimuovi promemoria",
+            "has-reminders" : "Hai un promemoria impostato per questo oggetto.",
+            "no-reminders" : "I promemoria non sono disponibili per questo oggetto.",
+            "images" : "Immagini",
+            "images-icon" : "Icone",
+            "images-png" : "PNG",
+            "images-gallery" : "Galleria",
+            "images-featured" : "In primo piano",
+            "interest-title" : "Interesse nel tempo",
+            "interest-line1" : "Questo rappresenta l'interesse nell'oggetto nel corso del tempo, 100% e' il momento piu' popolare.",
+            "interest-line2" : "Data for today may be incomplete",
+            "occurrences-table" : {
+                "title" : "Avvenimenti Negozio",
+                "th-date" : "Data",
+                "th-days" : "Giorni Fa"
+            },
+            "set" : "Imposta",
+            "set-name" : "Parte del [name]",
+            "popular-title" : "Oggetti popolari oggi"
+        },
+        "account" : {
+            "home" : {
+                "title" : "I Dati Del Tuo Account",
+                "error" : "Qualcosa e' andato storto durante il caricamento, riprova piu' tardi.",
+                "info" : {
+                    "title" : "Informazioni",
+                    "line1" : "Sei entrato come [username] tramite [provider]",
+                    "line2-api-yes" : "Hai [api access](/api/docs)",
+                    "line2-api-no" : "Non hai accesso api."
+                },
+                "migration" : {
+                    "title" : "Account Legacy",
+                    "waiting-line1" : "Ci siamo trasferiti a un login tramite Discord.",
+                    "waiting-line2" : "Se hai un account dal 2018, hai bisogno di fare l'accesso con quello per collegarlo a questo",
+                    "twitter-line1" : "Ci siamo trasferiti a un login tramite Discord. Stai attualmento usando un vecchio account che nel futuro potrebbe essere obsoleto.",
+                    "twitter-line2" : "Per migare ad un account Discord, clicca qui sotto"
+                },
+                "ratings" : {
+                    "title" : "Giudizi",
+                    "none" : "Non hai nessun giudizio."
+                },
+                "destroy" : {
+                    "title" : "Elimina Account",
+                    "line1" : "Se non vuoi piu' il tuo account, puoi eliminarlo cliccando qui [here](/account/destroy)"
+                }
+            },
+            "oauth" : {
+                "title" : "Accesso a fnbr.co",
+                "discord-button" : "Accedi con Discord",
+                "legacy-text" : "Alternativamente, se hai un account del 2018 da migrare:",
+                "twitter-button" : "Accedi con Twitter",
+                "privacy-text" : "Effettuando l'accesso ci consenti di salvare i dati associati al tuo account come dichiarato nella nostra [privacy policy](/privacy)."
+            },
+            "username" : {
+                "title" : "Benvenuto su fnbr.co",
+                "line1" : "Hai effettuato l'accesso con Discord, per interagire con gli altri utenti devi scegliere un nickname",
+                "nameTaken" : "Il nickname [attemptedName] e' gia' stato preso, ci abbiamo aggiunto il tuo tag Discord che ti consigliamo di usare.",
+                "randomName" : "Il nickname [attemptedName] e' gia' stato preso, non siamo stati in grado di usare il tuo tag Discord per generarne uno univoco.",
+                "form-username" : "Nickname",
+                "form-criteria" : "Perfavore scegli un nickname compreso tra 2 e 32 caratteri, che puo contenere caratteri alfanumerici come trattini e trattini bassi.",
+                "button-text" : "Imposta il mio nickname"
+            },
+            "locked" : {
+                "title" : "Impssibile accedere",
+                "line1" : "Non e' possibile accedere a fnbr.co perche' [your account has been locked](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Account migrato",
+                "line1" : "Hai effettuato l'accesso a Twitter come",
+                "line2" : "Pero', quell'account e' stato migrato per usare l'accesso con Discord."
+            },
+            "notFound" : {
+                "title" : "Nessun Account Trovato",
+                "line1" : "Hai effettuate l'accesso a Twitter come",
+                "line2" : "Pero', quell'account non ha mai effettuato l'accesso e supportiamo solo l'accesso con Twitter per motivi di migrazione.",
+                "line3" : "Alternativamente, puoi [login with Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Errore",
+                "line1" : "La risorsa che hai richiesto non esiste, oppure non hai i permessi per accederci."
+            },
+            "500" : {
+                "title" : "Oh oh!",
+                "line1" : "Qualcosa e' andato storto mentre processavamo la tua richiesta, perfavore riprova piu' tardi!",
+                "line2" : "Puoi riprovare ad accedere [here](/oauth)."
+            }
+        }
+    }
+}
