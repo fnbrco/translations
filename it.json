@@ -52,7 +52,8 @@
             "home" : "home",
             "shop" : "negozio",
             "cosmetics" : {
-                "dropdown" : "cosmetici",
+                "dropdown" : "info",
+                "translate": "traduci",
                 "upcoming" : "in arrivo",
                 "list" : "lista",
                 "png" : "png",
@@ -109,7 +110,30 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "ora",
                 "hours-plural" : "ore"
-            }
+            },
+            "yesterday" : {
+                "title" : "Rotazione negozio di ieri"
+            },
+            "vote" : {
+                "title" : "Cosa ne pensi del negozio?",
+                "line1" : "Si resetta alle 00:00 UTC.",
+                "line2" : "Controlla la nostra [privacy policy](/privacy) prima di votare",
+                "choice" : {
+                    "up" : "Mi piace!",
+                    "neutral" : "E' cosi' cosi'.",
+                    "down" : "Lo odio."
+                },
+                "response" : {
+                    "success" : "Voto registrato",
+                    "timeout" : "La richiesta ci ha messo troppo ed e' scaduta",
+                    "internal" : "Errore interno",
+                    "failover" : "Richiesta a [server] fallita, riprovano...",
+                    "ratelimit" : "Troppe richieste, riprova tra poco",
+                    "unavailable" : "Il voto non e' disponibile finche' non cambia nel prossimo minuto",
+                    "conflict" : "Voto non possibile, riprova piu' tardi.",
+                    "bad-choice" : "Voto non riconosciuto",
+                    "no-data" : "Nessuno dato disponibile, riprova piu' tardi"
+                }
         },
         "upcoming" : {
             "title" : "Cosmetici in arrivo",
@@ -151,7 +175,80 @@
             "chooseText" : "Clicca per scegliere",
             "randomise-all" : "Tutto Casuale"
         },
+        "png" : {
+            "title" : "Cosmetici PNG",
+            "line1" : "Perfavore dai i riconoscimenti a fnbr.co se usi alcune di queste immagini. Le anteprime sono ridotte, i download sono con maggiore qualita'.",
+            "sort-by" : "Ordina per:",
+            "all" : "Tutto"
+        },
+        "gallery" : {
+            "title" : "Galleria Cosmetici",
+            "line1" : "Tutti i cosmetici disponibile in Fortnite Battaglia Reale.",
+            "line2" : "Perfavore non usare queste immagini per il tuo website/social media account senza dare i crediti a fnbr.co"
+        },
+        "icons" : {
+            "title" : "Icone Fortnite Battagli Reale ",
+            "line1" : "Tutte le immagini appartengono a Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Non rilasciato",
+            "description" : "Descrizione",
+            "history" : {
+                "title" : "Cronologia negozio",
+                "release-never" : "Data di rilascio: Non rilasciato",
+                "release-date" : "Data di rilascio:",
+                "last-never" : "Ultima volta visto: Mai",
+                "last-date" : "Ultima volta visto:",
+                "occurrences" : "Avvenimenti:"
+            },
+            "reminder-count" : "Utenti con [reminders](/reminders):",
+            "add-reminder" : "Aggiungi promemoria",
+            "remove-reminder" : "Rimuovi promemoria",
+            "has-reminders" : "Hai un promemoria impostato per questo oggetto.",
+            "no-reminders" : "I promemoria non sono disponibili per questo oggetto.",
+            "images" : "Immagini",
+            "images-icon" : "Icone",
+            "images-png" : "PNG",
+            "images-gallery" : "Galleria",
+            "images-featured" : "In primo piano",
+            "interest-title" : "Interesse nel tempo",
+            "interest-line1" : "Questo rappresenta l'interesse nell'oggetto nel corso del tempo, 100% e' il momento piu' popolare.",
+            "interest-line2" : "Data for today may be incomplete",
+            "occurrences-table" : {
+                "title" : "Avvenimenti Negozio",
+                "th-date" : "Data",
+                "th-days" : "Giorni Fa"
+            },
+            "set" : "Imposta",
+            "set-name" : "Parte del [name]",
+            "popular-title" : "Oggetti popolari oggi"
+        },
         "account" : {
+            "home" : {
+                "title" : "I Dati Del Tuo Account",
+                "error" : "Qualcosa e' andato storto durante il caricamento, riprova piu' tardi.",
+                "info" : {
+                    "title" : "Informazioni",
+                    "line1" : "Sei entrato come [username] tramite [provider]",
+                    "line2-api-yes" : "Hai [api access](/api/docs)",
+                    "line2-api-no" : "Non hai accesso api."
+                },
+                "migration" : {
+                    "title" : "Account Legacy",
+                    "waiting-line1" : "Ci siamo trasferiti a un login tramite Discord.",
+                    "waiting-line2" : "Se hai un account dal 2018, hai bisogno di fare l'accesso con quello per collegarlo a questo",
+                    "twitter-line1" : "Ci siamo trasferiti a un login tramite Discord. Stai attualmento usando un vecchio account che nel futuro potrebbe essere obsoleto.",
+                    "twitter-line2" : "Per migare ad un account Discord, clicca qui sotto"
+                },
+                "ratings" : {
+                    "title" : "Giudizi",
+                    "none" : "Non hai nessun giudizio."
+                },
+                "destroy" : {
+                    "title" : "Elimina Account",
+                    "line1" : "Se non vuoi piu' il tuo account, puoi eliminarlo cliccando qui [here](/account/destroy)"
+                }
+            },
             "oauth" : {
                 "title" : "Accesso a fnbr.co",
                 "discord-button" : "Accedi con Discord",
