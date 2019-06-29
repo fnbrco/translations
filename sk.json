@@ -1,0 +1,272 @@
+{
+    "name" : "Slovenský",
+    "name-en" : "Slovak",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : false,
+            "dateFormat" : "[date] [month] [year]",
+            "months" : [
+                "Január",
+                "Február",
+                "Marec",
+                "Apríl",
+                "Máj",
+                "Jún",
+                "Júl",
+                "August",
+                "September",
+                "Október",
+                "November",
+                "December"
+            ],
+            "types" : {
+                "backpack" : "Ruksak",
+                "emote" : "Emote",
+                "glider" : "Glider",
+                "emoji" : "Emodži",
+                "loading" : "Načítavacia obrazovka",
+                "outfit" : "Výstroj",
+                "pickaxe" : "Krompáč",
+                "skydive" : "Skydiving Trail",
+                "umbrella" : "Dáždnik",
+                "spray" : "Sprej",
+                "toy" : "Hračka",
+                "pet" : "Zviera",
+                "music" : "Hudba",
+                "wrap" : "Wrap",
+                "bundle" : "Balík",
+                "misc" : "Ostatné"
+            },
+            "rarity" : {
+                "legendary" : "Legendárny",
+                "epic" : "Epický",
+                "rare" : "Vzácny",
+                "uncommon" : "Neobvyklý",
+                "common" : "Obyčajný"
+            },
+            "translationNotAvailable" : "Pre túto stránku bohužiaľ nie je k dispozícii preklad.",
+            "translationIncomplete" : "Nie všetko na tejto stránke bude preložené"
+        },
+        "nav" : {
+            "home" : "domov",
+            "shop" : "obchod",
+            "cosmetics" : {
+                "dropdown" : "cosmetics",
+                "upcoming" : "nadchádzajúce",
+                "list" : "list",
+                "png" : "png",
+                "gallery" : "galéria",
+                "icons" : "ikony",
+                "reminders" : "pripomenutie",
+                "history" : "história obchodu"
+            },
+            "news" : "novinky",
+            "modes" : "módy",
+            "randomiser" : "randomizer",
+            "about" : {
+                "dropdown" : "niečo o tom",
+                "about" : "niečo o fnbr.co",
+                "privacy" : "zásady ochrany osobných údajov",
+                "donate" : "Darovať",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "účet",
+                "account" : "účet",
+                "logout" : "odhlásenie"
+            },
+            "languagePicker" : {
+                "trigger" : "jazyk",
+                "title" : "Zvoľte jazyk",
+                "currentLanguage" : "Práve používate [language].",
+                "error" : "Vyskytla sa chyba pri sťahovaní jazykov",
+                "authors" : "Preložil:",
+                "cta" : "Klikne pre prepnutie na [language]",
+                "switching" : "Sťahujem [language]...",
+                "finished" : "Váš jazyk bol zmenený!"
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Nadchádzajúce Veci",
+            "title-all" : "Všetky Položky",
+            "error" : "Položky sa nedajú načítať. Skúste to znova o niekoľko minút.",
+            "error-too-long" : "Trvá to dlhšie, ako sa očakávalo"
+        },
+        "shop" : {
+            "title" : "Aktuálna Rotácia",
+            "title-featured" : "Vybrané",
+            "title-daily" : "Denné",
+            "error" : "Obchod nie je k dispozícii, skúste to znova o pár minút",
+            "line1" : "Aktuálny obchod pre Fortnite Battle Royale - aktualizácia denne o [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "Môžete vidieť včerajší obchod tu [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line3" : "Kliknite na nejakú položku pre viac informácií",
+            "countdown" : {
+                "title" : "Nové položky:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "hodina",
+                "hours-plural" : "hodiny"
+            },
+            "yesterday" : {
+                "title" : "Včerajšia rotácia v obchode"
+            }
+        },
+        "upcoming" : {
+            "title" : "Nadchádzajúce Položky",
+            "line1" : "Všetky nevydané veci pre Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "List položiek",
+            "line1" : "Všetky veci dostupné v Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Ikona",
+                "name" : "Meno",
+                "type" : "Typ",
+                "rarity" : "Vzácnosť",
+                "obtained" : "Získané"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "História obchodu",
+                "line1" : "Tu sú rotácie obchodov za posledných 8 dní pre Fortnite Battle Royale.",
+                "line2" : "Kliknutím na tlačidlo zobrazíte celý obchod alebo prejdite dole pre každodenný obchod."
+            },
+            "view" : {
+                "title" : "Rotácia Obchodu",
+                "line1" : "Toto je rotácia obchodu z [date] pre Fortnite Battle Royale. ",
+                "line2" : "Kliknite na položku pre viac informácií.",
+                "today-button" : "Dnešný obchod"
+            }
+        },
+        "news" : {
+            "title" : "Novinky",
+            "line1" : "Aktuálne in-game novinky od Epic Games. Aktualizujú sa každé 2 minúty."
+        },
+        "randomiser" : {
+            "title" : "Randomizér",
+            "line1" : "Zvoľ si náhodnú výstroj z hociktorej dostupnej položky.",
+            "chooseText" : "Klikne pre zvolenie",
+            "randomise-all" : "Náhodne Všetko"
+	},
+        "png" : {
+            "title" : "Položka PNG",
+            "line1" : "Prosíme aby ste poskytli uznanie fnbr.co, ak použijete tieto ktorékoľvek obrázky. Náhľad je zmenšený, stiahnite pre plnú veľkosť.",
+            "sort-by" : "Zoradené podľa:",
+            "all" : "Všetko"
+        },
+        "gallery" : {
+            "title" : "Galéria položiek",
+            "line1" : "Každá položka, ktorá je dostupná v Fortnite Battle Royale.",
+            "line2" : "Prosím nepoužívajte tieto obrázky pre vlastné účely alebo sociálne siete bez uvedenia uznania pre fnbr.co."
+        },
+        "icons" : {
+            "title" : "Fortnite Battle Royale Ikony",
+            "line1" : "Všetky obrázky patria Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Nevydané",
+            "description" : "Popis",
+            "history" : {
+                "title" : "História Obchodu",
+                "release-never" : "Dátum vydania: Nikdy",
+                "release-date" : "Dátum vydania:",
+                "last-never" : "Naposledy videný: Nikdy",
+                "last-date" : "Naposledy videný:",
+                "occurrences" : "Výskyt:",
+                "reminder-count" : "Užívatelia s [upozornením](/reminders):",
+                "add-reminder" : "Pridať Pripomienku",
+                "remove-reminder" : "Vymazať Pripomienku",
+                "has-reminders" : "Máte nastavenú pripomienku pre túto položku.",
+                "no-reminders" : "Pripomienky nie sú dostupné pre túto položku.",
+                "images" : "Obrázky",
+                "images-icon" : "Ikony",
+                "images-png" : "PNG",
+                "images-gallery" : "Galéria",
+                "images-featured" : "Vybrané",
+                "interest-title" : "Záujem v čase",
+                "interest-line1" : "Toto reprezentuje záujem o túto položku, 100% času je najviac populárna.",
+                "interest-line2" : "Dáta pre dnešok môžu byť nekompletné.",
+                "occurrences-table" : {
+                    "title" : "Výskyt v obchode",
+                    "th-date" : "Dátum",
+                    "th-days" : "Pred Dňami"
+                },
+                "set" : "Nastaviť",
+                "set-name" : "Časť z [name]",
+                "popular-title" : "Dnešná Populárna Položka"
+            }
+        },
+        "account" : {
+            "home" : {
+                "title" : "Vaše dáta z účtu",
+                "error" : "Pri načítaní údajov vášho účtu sa vyskytla chyba. Skúste to znova neskôr.",
+                "info" : {
+                    "title" : "Informácie",
+                    "line1" : "Ste prihláseny s [provider] ako [username]",
+                    "line2-api-yes" : "Máte [prístup ku api](/api/docs)",
+                    "line2-api-no" : "Nemáte prístup ku api."
+                },
+                "migration" : {
+                    "title" : "Staršie účty",
+                    "waiting-line1" : "Presunuli sme sa na prihlásenie cez Discord.",
+                    "waiting-line2" : "Ak máte účet od roku 2018, musíte sa s ním prihlásiť a zlúčiť ho s týmto",
+                    "twitter-line1" : "Presunuli sme sa na používanie Discordu pre prihlásenie. V súčasnosti používate starý účet, ktorý môže byť v budúcnosti zrušený a má obmedzené funkcie.",
+                    "twitter-line2" : "Pre presunutie sa na Discord účet kliknite na tlačidlo nižšie"
+                },
+                "ratings" : {
+                    "title" : "Hodnotenie",
+                    "none" : "Nemáte žiadne hodnotenie."
+                },
+                "destroy" : {
+                    "title" : "Zrušiť účet",
+                    "line1" : "Ak už nebudete chcieť váš účet, môžete ho vymazať a sním všetky jeho dáta [tu](/account/destroy)"
+                }
+            },
+            "oauth" : {
+                "title" : "Prihlásenie sa do fnbr.co",
+                "discord-button" : "Prihlásenie sa z Discord účtom",
+                "legacy-text" : "Prípadne, ak máte starý účet od roku 2018, ktorý potrebuje migráciu:",
+                "twitter-button" : "Prihlásenie sa z Twitter účtom",
+                "privacy-text" : "Prihlásením sa vyjadrujete súhlas s ukladaním údajov súvisiacich s vaším účtom podľa našich pravidiel [privacy policy](/privacy)."
+            },
+             "username" : {
+                "title" : "Vitajte na stránke fnbr.co",
+                "line1" : "Ste prihlásený z Discord účtom, pre komunikáciu z ostatnými užívateľmi na našej stránke musíte si zvoliť meno",
+                "nameTaken" : "Toto meno [attemptedName] je už obsadené iným používateľom, pridali sme vám do neho Discord diskriminátor a odporúčame aby ste to použili.",
+                "randomName" : "Tvoje užívateľské meno [attemptedName] je obsadené iným užívateľom, nemohli sme vytvoriť unikátne meno pomocou Discord discriminátora.",
+                "form-username" : "Užívateľské meno",
+                "form-criteria" : "Prosím zvoľte si uživateľské meno o dĺžky 2 až 32 znakov, ktoré môže obsahovať alfanumerické znaky tak ako aj podčiarkovník alebo pomlčka.",
+                "button-text" : "Nastav užívateľské meno"
+            },
+            "locked" : {
+                "title" : "Nemohli sme vás prihlásiť",
+                "line1" : "Nemôžete sa prihlásiť do fnbr.co pretože [your account has been locked](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Migrujúci účet",
+                "line1" : "Ste prihlásený do Twitteru ako",
+                "line2" : "Napriek tomu, tento účet migroval na prihlásenie pomocou Discord účtu H."
+            },
+            "notFound" : {
+                "title" : "Účet nenájdený",
+                "line1" : "Ste prihláseny do Twitteru ako",
+                "line2" : "Napriek tomu, tento účet nikdy nebol predtým prihlásený a my podporujeme len prihlásenie pomocou Twitteru.",
+                "line3" : "Alternatívne, vy môžete [login with Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Chyba",
+                "line1" : "Požadovaný zdroj neexistuje, alebo nemáte povolenie na jeho zobrazenie."
+            },
+            "500" : {
+                "title" : "Uh oh!",
+                "line1" : "Počas spracovania žiadosti sa vyskytla chyba, skúste to znova neskôr!",
+                "line2" : "Môžete sa pokúsiť znova prihlásiť [here](/oauth)."
+            }
+        }
+    }
+}

@@ -4,7 +4,7 @@
     "live" : true,
     "translations" : {
         "meta" : {
-            "thForDate" : true,
+            "thForDate" : false,
             "dateFormat" : "[month] [date] [year]",
             "months" : [
                 "Tháng Một",
@@ -49,28 +49,28 @@
             "translationIncomplete" : "Không phải tất cả văn bản trên trang này sẽ được dịch"
         },
         "nav" : {
-            "home" : "Nhà",
-            "shop" : "Cửa Tiệm",
+            "home" : "nhà",
+            "shop" : "cửa tiệm",
             "cosmetics" : {
-                "dropdown" : "Mỹ Phẩm",
-                "upcoming" : "Sắp Tới",
-                "list" : "Danh Sách",
+                "dropdown" : "mỹ phẩm",
+                "upcoming" : "sắp tới",
+                "list" : "danh sách",
                 "png" : "png",
-                "gallery" : "Bộ Sưu Tập",
-                "icons" : "Tượng ở Giáo Đường",
-                "reminders" : "Người Nhắc Lại",
-                "history" : "Lịch Sử Cửa Hàng"
+                "gallery" : "bộ sưu tập",
+                "icons" : "tượng ở giáo đường",
+                "reminders" : "người nhắc lại",
+                "history" : "lịch sử cửa hàng"
             },
-            "news" : "Tin Tức",
-            "modes" : "Âm Pháp",
-            "randomiser" : "Ngẫu Nhiên",
+            "news" : "tin tức",
+            "modes" : "âm pháp",
+            "randomiser" : "ngẫu nhiên",
             "about" : {
-                "dropdown" : "Trong Khoảng",
-                "about" : "Về fnbr.co",
-                "privacy" : "Chính Sách Bảo Mật",
+                "dropdown" : "trong khoảng",
+                "about" : "về fnbr.co",
+                "privacy" : "chính sách bảo mật",
                 "donate" : "Tặng",
-                "discord" : "Bất Hòa",
-                "twitter" : "Hát Líu Lo"
+                "discord" : "Discord",
+                "twitter" : "Twitter"
             },
             "api" : "api",
             "account" : {
@@ -80,7 +80,7 @@
             },
             "languagePicker" : {
                 "title" : "Chọn Ngôn Ngữ",
-                "currentLanguage" : "Bạn hiện đang sử dụng [ngôn ngữ]."
+                "currentLanguage" : "Bạn hiện đang sử dụng [language]."
             }
         },
         "home" : {
@@ -127,7 +127,7 @@
             },
             "view" : {
                 "title" : "Xoay vòng cửa hàng",
-                "line1" : "Đây là vòng quay của cửa hàng vật phẩm [ngày] cho Fortnite Battle Royale. ",
+                "line1" : "Đây là vòng quay của cửa hàng vật phẩm [date] cho Fortnite Battle Royale. ",
                 "line2" : "Nhấp vào một mỹ phẩm để xem thêm thông tin về nó.",
                 "today-button" : "Cửa hàng vật phẩm hôm nay"
             }

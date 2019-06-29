@@ -66,6 +66,7 @@
             "randomiser" : "ar hap",
             "about" : {
                 "dropdown" : "am",
+                "translate" : "chyfieithu",
                 "about" : "am fnbr.co",
                 "privacy" : "polisi preifatrwydd",
                 "donate" : "Rhoddwch",
@@ -96,7 +97,7 @@
             "title-daily" : "Bob Dydd",
             "error" : "Siop ddim ar gael, ceisiwch eto mewn ychydig funudau",
             "line1" : "Cylchdroi eitemau cyfredol ar gyfer Fortnite Battle Royale - yn diweddaru bob dydd yn [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Gallwch weld siop eitem ddoe [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line2" : "Gallwch weld siop eitem ddoe [yma](/shop/yesterday|tooltip=Yesterday's Item Shop).",
             "line3" : "Cliciwch ar gosmetig i weld mwy o wybodaeth amdano.",
             "countdown" : {
                 "title" : "Eitemau Newydd:",
@@ -173,7 +174,7 @@
                 "title" : "Ni ddarganfuwyd unrhyw gyfrif",
                 "line1" : "Rydych wedi mewngofnodi gyda Twitter fel",
                 "line2" : "Fodd bynnag, nid yw'r cyfrif hwnnw erioed wedi mewngofnodi o'r blaen ac nawr rydym yn cefnogi dim ond Twitter mewngofnodi at ddibenion mudo.",
-                "line3" : "Fel arall, gallwch chi [login with Discord](/oauth/discord)."
+                "line3" : "Fel arall, gallwch chi [mewngofnodi gyda Discord](/oauth/discord)."
             }
         },
         "errors" : {
@@ -184,7 +185,7 @@
             "500" : {
                 "title" : "Uh oh!",
                 "line1" : "Aeth rhywbeth o'i le wrth brosesu eich cais, rho gynnig arni eto'n hwyrach!",
-                "line2" : "Gallwch geisio mewngofnodi eto [here](/oauth)."
+                "line2" : "Gallwch geisio mewngofnodi eto [yma](/oauth)."
             }
         }
     }

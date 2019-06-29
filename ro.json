@@ -25,7 +25,7 @@
                 "emote" : "Dans",
                 "glider" : "Parașută",
                 "emoji" : "Emoji",
-                "loading" : "Ecran de incărcare",
+                "loading" : "Ecran de încărcare",
                 "outfit" : "Costum",
                 "pickaxe" : "Târnăcop",
                 "skydive" : "Urmă de aer",
@@ -36,14 +36,14 @@
                 "music" : "Muzică",
                 "wrap" : "Înveliș",
                 "bundle" : "Pachet",
-                "misc" : "Diverse"
+                "misc" : "Divers"
             },
             "rarity" : {
                 "legendary" : "Legendar",
                 "epic" : "Epic",
                 "rare" : "Rar",
                 "uncommon" : "Neobișnuit",
-                "common" : "Comun"
+                "common" : "Obișnuit"
             },
             "translationNotAvailable" : "Din păcate, nu există o traducere pentru această pagină.",
             "translationIncomplete" : "Nu se va traduce tot textul de pe această pagină!"
@@ -53,7 +53,7 @@
             "shop" : "magazin",
             "cosmetics" : {
                 "dropdown" : "cosmetice",
-                "upcoming" : "în curând",
+                "upcoming" : "nelansate",
                 "list" : "listă",
                 "png" : "png",
                 "gallery" : "galerie",
@@ -61,14 +61,15 @@
                 "reminders" : "remindere",
                 "history" : "istoria magazinului"
             },
-            "news" : "noutati",
+            "news" : "noutăți",
             "modes" : "moduri",
             "randomiser" : "randomizator",
             "about" : {
                 "dropdown" : "despre",
+                "translate" : "traduceri",
                 "about" : "despre fnbr.co",
-                "privacy" : "politică de confidențialitate",
-                "donate" : "Doneaza",
+                "privacy" : "politica de confidențialitate",
+                "donate" : "Donează",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
@@ -79,12 +80,18 @@
                 "logout" : "deconectare"
             },
             "languagePicker" : {
+                "trigger" : "limbă",
                 "title" : "Alege limba",
-                "currentLanguage" : "Momentan folosesti limba [language]."
+                "currentLanguage" : "Momentan folosești limba [language]",
+                "error" : "Eroare la descărcarea fișierului limbii",
+                "authors" : "Tradus de către:",
+                "cta" : "Apasă pentru a schimba în limba [language]",
+                "switching" : "Se descarcă limba [language]...",
+                "finished" : "Limba a fost schimbată!"
             }
         },
         "home" : {
-            "title-upcoming" : "Obiecte viitoare",
+            "title-upcoming" : "Obiectele nelansate",
             "title-all" : "Toate obiectele",
             "error" : "Nu s-au putut primi obiectele, te rugăm să încerci din nou în câteva momente.",
             "error-too-long" : "Acțiunea durează mai mult decât ar trebui"
@@ -94,7 +101,7 @@
             "title-featured" : "Recomandate",
             "title-daily" : "Zilnice",
             "error" : "Magazinul nu este disponibil, te rugăm încearcă din nou în câteva momente",
-            "line1" : "Rotația magazinului curent pentru Fortnite Battle Royale - se actualizează in fiecare zi la ora [00:00 UTC](https://time.is/UTC|tooltip=Current timp în UTC|newtab=true).",
+            "line1" : "Rotația magazinului curent pentru Fortnite Battle Royale - se actualizează in fiecare zi la ora [00:00 UTC](https://time.is/UTC|tooltip=Tipm curent in UTC|newtab=true).",
             "line2" : "Poți vedea magazinul de ieri apăsând [aici](/shop/yesterday|tooltip=Magazinul de ieri).",
             "line3" : "Apasă pe un cosmetic pentru a vedea mai multe informații despre acesta.",
             "countdown" : {
@@ -102,6 +109,166 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "oră",
                 "hours-plural" : "ore"
+            },
+            "yesterday" : {
+                "title" : "Rotația magazinului de ieri"
+            }
+        },
+        "upcoming" : {
+            "title" : "Cosmeticele nelansate",
+            "line1" : "Toate cosmeticele nelansate din Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "Lista cosmeticelor",
+            "line1" : "Toate cosmeticele disponibile în Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Iconiță",
+                "name" : "Nume",
+                "type" : "Tip",
+                "rarity" : "Raritate",
+                "obtained" : "Obținut"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Istoria magazinului",
+                "line1" : "Aici sunt ultimele 8 rotații ale magazinului din Fortnite Battle Royale.",
+                "line2" : "Apasă pe una pentru a vedea magazinul sau derulează pentru a vedea toată istoria magazinelor după zi."
+            },
+            "view" : {
+                "title" : "Rotația magazinului",
+                "line1" : "Aceasta este rotația magazinului din Fortnite Battle Royale pentru data de [date]`.",
+                "line2" : "Apasă pe un cosmetic pentru a vedea mai multe informații despre el.",
+                "today-button" : "Magazinul de astăzi"
+            }
+        },
+        "news" : {
+            "title" : "Noutăți",
+            "line1" : "Noutățile curente din joc de la Epic Games. Actualizat odată la un minut.",
+            "error" : "Ne este imposibil sa luăm noutățile din Fortnite, vom incerca din nou în scurt timp.",
+            "more-ingame-button" : "Afișează mai mult"
+        },
+        "randomiser" : {
+            "title" : "Randomizator",
+            "line1" : "Alege un costum la întâmplare din toate obiectele disponibile.",
+            "chooseText" : "Apasă pentru a selecta",
+            "randomise-all" : "Amestecă-le pe toate!"
+        },
+        "png" : {
+            "title" : "PNG-ul cosmeticelor",
+            "line1" : "Te rugăm să lași creditele către fnbr.co dacă folosești imaginile noastre. Previzualizările sunt micșorate, însă descărcările vor fi în mărime normală.",
+            "sort-by" : "Filtrează după:",
+            "all" : "Toate"
+        },
+        "gallery" : {
+            "title" : "Galeria cosmeticelor",
+            "line1" : "Toate cosmeticele disponibile în Fortnite Battle Royale.",
+            "line2" : "Te rugăm să nu folosești aceste imagini pe contul tău social media/website-ul tău personal fără credite către fnbr.co"
+        },
+        "icons" : {
+            "title" : "Iconițele Fortnite Battle Royale",
+            "line1" : "Toate imaginile aparțin de Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Nelansate",
+            "description" : "Descriere",
+            "history" : {
+                "title" : "Istoria magazinului",
+                "release-never" : "Data lansării: Niciodata",
+                "release-date" : "Data lansării:",
+                "last-never" : "Văzut ultima dată: Niciodata",
+                "last-date" : "Văzut ultima dată:",
+                "occurrences" : "Apariții:"
+            },
+            "reminder-count" : "Utilizatori cu [remindere](/reminders):",
+            "add-reminder" : "Adaugă Reminder",
+            "remove-reminder" : "Șterge Reminder",
+            "has-reminders" : "Ai remindere setate pentru acest obiect.",
+            "no-reminders" : "Reminderele nu sunt disponibile pentru acest obiect.",
+            "images" : "Imagini",
+            "images-icon" : "Iconițe",
+            "images-png" : "PNG-uri",
+            "images-gallery" : "Gallerie",
+            "images-featured" : "Recomandate",
+            "interest-title" : "Interesul în timp",
+            "interest-line1" : "Aceasta reprezinta interesul acestui obiect în timp, 100% fiind cel mai popular timp.",
+            "interest-line2" : "Datele pentru astăzi pot fi incomplete.",
+            "occurrences-table" : {
+                "title" : "Apariții în magazin",
+                "th-date" : "Dată",
+                "th-days" : "Zile în urmă"
+            },
+            "set" : "Setul",
+            "set-name" : "Parte din [name]",
+            "popular-title" : "Obiectele Populare de Astăzi"
+        },
+        "account" : {
+            "home" : {
+                "title" : "Datele contului tău",
+                "error" : "Ceva nu a mers bine la încărcarea datelor contului tău,  te rugăm să înerci din nou mai târziu.",
+                "info" : {
+                    "title" : "Informații",
+                    "line1" : "Ești autentificat prin [provider] ca [username]",
+                    "line2-api-yes" : "Ai [acces la api](/api/docs)",
+                    "line2-api-no" : "Nu ai acces la api."
+                },
+                "migration" : {
+                    "title" : "Conturi vechi",
+                    "waiting-line1" : "Am trecut la autentificare prin Discord.",
+                    "waiting-line2" : "Dacă ai un cont din 2018, vei fi nevoit sa te autentifici cu acesta pentru a trece la autentificare prin Discord",
+                    "twitter-line1" : "Am trecut la autentificare prin Discord. Momentan folosești un cont vechi cu funcționalitate limitată, care ar putea fi întrerupt în viitor.",
+                    "twitter-line2" : "Pentru a migra la un cont Discord, apasă butonul de mai jos"
+                },
+                "ratings" : {
+                    "title" : "Evaluări",
+                    "none" : "Nu ai nicio evaluare."
+                },
+                "destroy" : {
+                    "title" : "Șterge contul",
+                    "line1" : "Dacă nu mai dorești să mai ai contul, poți sa îl ștergi cu toate datele lui [aici](/account/destroy)"
+                }
+            },
+            "oauth" : {
+                "title" : "Autentifică-te la fnbr.co",
+                "discord-button" : "Autentifică-te cu Discord",
+                "legacy-text" : "Alternativ, dacă ai un cont vechi din 2018 care necesita migrație:",
+                "twitter-button" : "Autentifică-te cu Twitter",
+                "privacy-text" : "Prin autentificare esti de acord să îți stocăm datele asociate cu contul tau, așa cum prevede și [politica de confidențialitate](/privacy)."
+            },
+            "username" : {
+                "title" : "Bun venit pe fnbr.co",
+                "line1" : "Ești autentificat cu Discord, pentru a interacționa cu alții pe site-ul nostru, alege-ți un nume",
+                "nameTaken" : "Numele tău, [attemptedName] este folosit de către alt utilizator, am adăugat discriminator-ul Discord-ului tău la acesta și îți sugerăm să îl folosești.",
+                "randomName" : "Numele tău, [attemptedName] este folosit de către alt utilizator, ne este imposibil să creem un nume unic cu discriminator-ul Discord-ului tău.",
+                "form-username" : "Nume",
+                "form-criteria" : "Te rugăm să alegi un nume între 2 și 32 de caractere, care poate conține caractere alfanumerice precum tălpile și cratimele.",
+                "button-text" : "Seteaza numele meu"
+            },
+            "locked" : {
+                "title" : "Autentificare imposibilă",
+                "line1" : "Nu te poți conecta la fnbr.co fiindcă [contul tău a fost dezactivat](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Contul a fost migrat cu succes",
+                "line1" : "Te-ai autentificat cu Twitter sub numele de",
+                "line2" : "În orice caz, acel cont a fost migrat pentru a folosi autentificare prin Discord."
+            },
+            "notFound" : {
+                "title" : "Niciun Cont Găsit",
+                "line1" : "Te-ai autentificat cu Twitter sub numele de",
+                "line2" : "În orice caz, acel cont nu a mai fost autentificat înainte, iar acum, acceptăm autentificari prin twitter doar pentru scopuri în migrarea contului.",
+                "line3" : "Alternativ, poți să [te autentifici cu Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Eroare",
+                "line1" : "Fie resursa pe care ai solicitat-o nu există, sau nu ai permisiunea să o vezi."
+            },
+            "500" : {
+                "title" : "Of!",
+                "line1" : "Ceva nu a mers în timp ce solicitarea ta se procesa, te rugăm să încerci din nou mai târziu!",
+                "line2" : "Poți încerca să te autentifici din nou [aici](/oauth)."
             }
         }
     }

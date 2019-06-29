@@ -1,0 +1,163 @@
+{
+    "_notice" : "Temporary static file until it is auto generated on deploy",
+    "languages" : [
+        {
+            "name": "English",
+            "code": "en",
+            "flag": "gb",
+            "live": true
+        },
+        {
+            "name": "Español",
+            "code": "es",
+            "flag": "es",
+            "live": true,
+            "authors" : ["Closeings#9548", "daanz#3412", "Doolrex#2499", "srdrabx#6513"]
+        },
+        {
+            "name": "Français",
+            "code": "fr",
+            "flag": "fr",
+            "live": true,
+            "authors" : ["Closeings#9548", "Majestea#0001", "Incendit#2698"]
+        },
+        {
+            "name": "Nederlands",
+            "code": "nl",
+            "flag": "nl",
+            "live": true,
+            "authors" : ["Byte#5253", "ImranDoet#2682", "Joachiem#2003", "REVOTIX#4925"]
+        },
+        {
+            "name": "Italiano",
+            "code": "it",
+            "flag": "it",
+            "live": true,
+            "authors" : ["bhz_ema#6777", "Massimiliano007#4569"],
+            "outdated" : true
+        },
+        {
+            "name": "Deutsch",
+            "code": "de",
+            "flag": "de",
+            "live": true,
+            "authors" : ["Krymonota#3025", "Laurin#0001", "Terax#9758"]
+        },
+        {
+            "name": "Português",
+            "code": "pt",
+            "flag": "pt",
+            "live": false
+        },
+        {
+            "name": "Português",
+            "code": "pt-BR",
+            "flag": "br",
+            "live": true,
+            "authors" : ["Ian Szot#4959"],
+            "outdated" : true
+        },
+        {
+            "name": "Română",
+            "code": "ro",
+            "flag": "ro",
+            "live": true,
+            "authors" : ["Alex T.#2011"]
+        },
+        {
+            "name": "Tiếng Việt",
+            "code": "vi",
+            "flag": "vn",
+            "live": true,
+            "authors" : ["FallenTaco#6666"],
+            "outdated" : true
+        },
+        {
+            "name": "Magyar",
+            "code": "hu",
+            "flag": "hu",
+            "live": true,
+            "authors" : ["zsoto98#5959"]
+        },
+        {
+            "name": "Cymraeg",
+            "code": "cy",
+            "flag": "gb-wls",
+            "live": true,
+            "authors" : ["dAn#0001", "Ö.J#1904"],
+            "outdated" : true
+        },
+        {
+            "name": "Turkish",
+            "code": "tr",
+            "flag": "tr",
+            "live": true,
+            "authors" : ["Anılcan 狮子#0001"]
+        },
+        {
+            "name": "Finnish",
+            "code": "fi",
+            "flag": "fi",
+            "live": true,
+            "authors" : ["daanz#3412", "Nikko#0023"],
+            "outdated" : true
+        },
+        {
+            "name": "Dansk",
+            "code": "da",
+            "flag": "dk",
+            "live": true,
+            "authors" : ["Mkarco#7880", "MiTonder#1792"]
+        },
+        {
+            "name": "Norsk",
+            "code": "no",
+            "flag": "no",
+            "live": true,
+            "authors" : ["Jonathanツ#6969", "Krymonota#3025"],
+            "outdated" : true
+        },
+        {
+            "name": "Slovenský",
+            "code": "sk",
+            "flag": "sk",
+            "live": true,
+            "authors" : ["EzBugatti#0001"]
+        },
+        {
+            "name": "Svenska",
+            "code": "sv",
+            "flag": "se",
+            "live": true,
+            "authors" : ["Lord Drift#4014", "Rizk#0001", "Kretle#0001"]
+        },
+        {
+            "name": "Eesti",
+            "code": "et",
+            "flag": "ee",
+            "live": true,
+            "authors" : ["MrMightyGamer#3013"]
+        },
+        {
+            "name": "Русский",
+            "code": "ru",
+            "flag": "ru",
+            "live": true,
+            "authors" : ["d4nzee#1337"]
+        },
+        {
+            "name": "Polski",
+            "code": "pl",
+            "flag": "pl",
+            "live": true,
+            "authors" : ["Calslock#4485"]
+        },
+        {
+            "name": "한국어",
+            "code": "ko",
+            "flag": "kr",
+            "live": true,
+            "authors" : ["hs7982#6039"]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "name" : "Português",
+    "name-en": "Portuguese - Brazil",
+    "live" : false,
+    "translations" : {
+        "meta" : {
+            "thForDate" : false,
+            "dateFormat" : "[date] de [month] de [year]",
+            "months" : [
+                "Janeiro",
+                "Fevereiro",
+                "Março",
+                "Abril",
+                "Maio",
+                "Junho",
+                "Julho",
+                "Agosto",
+                "Setembro",
+                "Outubro",
+                "Novembro",
+                "Dezembro"
+            ],
+            "types" : {
+                "backpack" : "Mochila",
+                "emote" : "Emote",
+                "glider" : "Planador",
+                "emoji" : "Emoji",
+                "loading" : "Tela de Carregamento",
+                "outfit" : "Traje",
+                "pickaxe" : "Picareta",
+                "skydive" : "Rastro de Fumaça",
+                "umbrella" : "Guarda-chuva",
+                "spray" : "Spray",
+                "toy" : "Brinquedo",
+                "pet" : "Pet",
+                "music" : "Música",
+                "wrap" : "Embrulho",
+                "bundle" : "Bundle",
+                "misc" : "Diversos"
+            },
+            "rarity" : {
+                "legendary" : "Lendário",
+                "epic" : "Épica",
+                "rare" : "Rara",
+                "uncommon" : "Incomum",
+                "common" : "Comum"
+            },
+            "translationNotAvailable" : "Infelizmente não existe tradução para esta página.",
+            "translationIncomplete" : "Nem todo texto desta página será traduzido."
+        },
+        "nav" : {
+            "home" : "início",
+            "shop" : "loja",
+            "cosmetics" : {
+                "dropdown" : "cosméticos",
+                "upcoming" : "em breve",
+                "list" : "lista",
+                "png" : "png",
+                "gallery" : "galeria",
+                "icons" : "ícones",
+                "reminders" : "lembretes",
+                "history" : "histórico da loja"
+            },
+            "news" : "notícias",
+            "modes" : "modos",
+            "randomiser" : "randomizar",
+            "about" : {
+                "dropdown" : "sobre",
+                "translate" : "traduza",
+                "about" : "sobre fnbr.co",
+                "privacy" : "política de privacidade",
+                "donate" : "Doação",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "conta",
+                "account" : "conta",
+                "logout" : "sair"
+            },
+            "languagePicker" : {
+                "trigger" : "língua",
+                "title" : "Escolha uma língua",
+                "currentLanguage" : "Você está atualmente usando [language]."
+            }
+        },
+        "home" : {
+            "title-upcoming" : "Itens em breve",
+            "title-all" : "Todos os itens",
+            "error" : "Não foi possível carregar todos os itens, tente novamente em alguns instantes.",
+            "error-too-long" : "Isso está demorando mais que o normal"
+        },
+        "shop" : {
+            "title" : "Rotação atual",
+            "title-featured" : "Destaques",
+            "title-daily" : "Diário",
+            "error" : "Loja não disponível",
+            "line1" : "A rotação de itens atuais da loja de Fortnite Battle Royale - atualiza diariamente em [00:00 UTC](https://time.is/UTC|tooltip=Tempo local em UTC|newtab=true).",
+            "line2" : "Você pode ver a loja de itens de ontem [aqui](/shop/yesterday|tooltip=Loja de itens de ontem).",
+            "line3" : "Clique em um item cosmético para ver mais informações.",
+            "countdown" : {
+                "title" : "Novos itens:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "hora",
+                "hours-plural" : "horas"
+            }
+        },
+        "upcoming" : {
+            "title" : "Cosméticos não lançados",
+            "line1" : "Todos itens não lançados em Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "Lista de Cosméticos",
+            "line1" : "Todo cosmético disponível em Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Ícone",
+                "name" : "Nome",
+                "type" : "Tipo",
+                "rarity" : "Raridade",
+                "obtained" : "Obtido"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Histórico da Loja de Itens",
+                "line1" : "Aqui estão os itens dos últimos 8 dias da loja de Fortnite Battle Royale.",
+                "line2" : "Clique aqui para ver a loja completa ou use o scroll para ver o histórico por dia."
+            },
+            "view" : {
+                "title" : "Rotação da Loja",
+                "line1" : "Essa é a rotação da loja de itens para [date] de Fortnite Battle Royale.",
+                "line2" : "Clique em um cosmético para ver mais informações sobre.",
+                "today-button" : "Loja de Itens de Hoje"
+            }
+        },
+        "news" : {
+            "title" : "Notícias",
+            "line1" : "O feed de notícias da Epic Games. Atualizado todo minuto.",
+            "error" : "Não conseguimos carregar as notícias de Fortnite. Tente novamente em breve",
+            "more-ingame-button" : "Carregar Mais"
+        },
+        "randomiser" : {
+            "title" : "Randomizador",
+            "line1" : "Escolha uma skin aleatória a partir de todos itens disponíveis.",
+            "chooseText" : "Clique para escolher",
+            "randomise-all" : "Randomizar todas"
+        },
+        "account" : {
+            "oauth" : {
+                "title" : "Login em fnbr.co",
+                "discord-button" : "Login com Discord",
+                "legacy-text" : "Se você tiver uma conta legado de 2018 precisando de migração:",
+                "twitter-button" : "Login com Twitter",
+                "privacy-text" : "Ao logar você concorda com a gente guardar inforamções da sua conta de acordo com a [política de privacidade](/privacy)."
+            },
+            "username" : {
+                "title" : "Bem-vindo a fnbr.co",
+                "line1" : "Você está logado pelo Discord, para poder interagir em nosso site precisamos que você escolha um nome de usuário",
+                "nameTaken" : "Seu usuário [attemptedName] já está sendo usado por outra pessoa, nós adicionamos seu nome do Discord a ele e sugerimos usar isso.",
+                "randomName" : "Seu usuário [attemptedName] já está sendo usado por outra pessoa, nós não conseguimos gerar um nome único usando o Discord.",
+                "form-username" : "Nome de usuário",
+                "form-criteria" : "Por favor escolha um nome de usuário entre 2 e 32 caracteres, que podem conter caracteres alfanuméricos, underline e hífen.",
+                "button-text" : "Definir nome de usuário"
+            },
+            "locked" : {
+                "title" : "Não foi possível logar",
+                "line1" : "Você não pode se logar ao fnbr.co porque [sua conta foi bloqueada](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Conta migrada",
+                "line1" : "Você logou com o Twitter como",
+                "line2" : "Porém essa conta foi migrada para usar login com Discord."
+            },
+            "notFound" : {
+                "title" : "Conta não encontrada",
+                "line1" : "Você logou via Twitter como",
+                "line2" : "Porém essa conta nunca foi criada antes e a gente apenas suporta login via Twitter para migrações de conta.",
+                "line3" : "Você pode [logar com Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Erro",
+                "line1" : "Ou o que você queria ver não existe ou você não tem permissão para ver."
+            },
+            "500" : {
+                "title" : "Oh não!",
+                "line1" : "Alguma coisa deu errado enquanto processávamos o seu pedido, por favor tente novamente mais tarde!",
+                "line2" : "Você pode tentar logar novamente [aqui](/oauth)."
+            }
+        }
+    }
+}

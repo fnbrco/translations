@@ -4,7 +4,7 @@
     "live" : true,
     "translations" : {
         "meta" : {
-            "thForDate" : true,
+            "thForDate" : false,
             "dateFormat" : "[date] [month] [year]",
             "months" : [
                 "Janvier",
@@ -21,20 +21,20 @@
                 "Décembre"
             ],
             "types" : {
-                "backpack" : "Sac à dos",
+                "backpack" : "Accessoire de Dos",
                 "emote" : "Emote",
                 "glider" : "Planeur",
-                "emoji" : "Emoji",
+                "emoji" : "Émoticône",
                 "loading" : "Écran de Chargement",
                 "outfit" : "Tenue",
-                "pickaxe" : "Pioche",
+                "pickaxe" : "Outil de Collecte",
                 "skydive" : "Traînée",
                 "umbrella" : "Parapluie",
                 "spray" : "Aérosol",
                 "toy" : "Jouet",
                 "pet" : "Compagnon",
                 "music" : "Musique",
-                "wrap" : "Revêtement",
+                "wrap" : "Emballage",
                 "bundle" : "Paquet",
                 "misc" : "Autres"
             },
@@ -52,7 +52,7 @@
             "home" : "accueil",
             "shop" : "boutique",
             "cosmetics" : {
-                "dropdown" : "menu déroulant",
+                "dropdown" : "cosmétiques",
                 "upcoming" : "prochainement",
                 "list" : "liste",
                 "png" : "png",
@@ -65,7 +65,8 @@
             "modes" : "modes",
             "randomiser" : "randomiseur",
             "about" : {
-                "dropdown" : "menu déroulant",
+                "dropdown" : "à propos",
+                "translate" : "traduire",
                 "about" : "à propos de fnbr.co",
                 "privacy" : "politique de confidentialité",
                 "donate" : "Faire un don",
@@ -74,13 +75,14 @@
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "menu déroulant",
-                "account" : "Compte",
-                "logout" : "Se Déconnecter"
+                "dropdown" : "mon compte",
+                "account" : "mon compte",
+                "logout" : "se déconnecter"
             },
             "languagePicker" : {
-                "title" : "Choisissez la langue",
-                "currentLanguage" : "Vous utilisez actuellement le français."
+                "trigger" : "language",
+                "title" : "Choisissez une langue",
+                "currentLanguage" : "Vous utilisez le [language]"
             }
         },
         "home" : {
@@ -94,14 +96,171 @@
             "title-featured" : "Objets à la Une",
             "title-daily" : "Objets du Jour",
             "error" : "Boutique non disponible, veuillez réessayer dans quelques instants",
-            "line1" : "La rotation actuelle de la boutique d’articles pour Fortnite Battle Royale - mise à jour quotidiennement à [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line1" : "Rotation actuelle de la boutique d’articles pour Fortnite Battle Royale - mise à jour quotidiennement à [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
             "line2" : "Vous pouvez voir la boutique d'objets d'hier [ici](/shop/yesterday|tooltip=Magasin d'objets d'hier).",
-            "line3" : "Cliquez sur un cosmétique pour voir plus d'informations à ce sujet.",
+            "line3" : "Cliquez sur un objet pour voir plus d'informations à ce sujet.",
             "countdown" : {
                 "title" : "Nouveaux objets:",
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "heure",
                 "hours-plural" : "heures"
+            }
+        },
+        "upcoming" : {
+            "title" : "Objets à venir",
+            "line1" : "Tous les objets à venir dans Fortnite Battle Royale."
+        },
+        "list" : {
+            "title" : "Liste d'Objets",
+            "line1" : "Tous les objets actuellement disponibles dans Fortnite Battle Royale.",
+            "table" : {
+                "icon" : "Icône",
+                "name" : "Nom",
+                "type" : "Type",
+                "rarity" : "Rareté",
+                "obtained" : "Obtenu"
+            }
+        },
+        "history" : {
+            "list" : {
+                "title" : "Historique de la boutique d'objets",
+                "line1" : "Voici la rotation de la boutique d'objets de ces 8 derniers jours",
+                "line2" : "Cliquez pour voir la boutique dans son entièreté ou défilez pour voir tout l'historique, classé par jours. "
+            },
+            "view" : {
+                "title" : "Boutique",
+                "line1" : "Voici la boutique du [date] sur Fortnite Battle Royale ",
+                "line2" : "Cliquez sur un objet pour plus d'informations.",
+                "today-button" : "Boutique du jour"
+            }
+        },
+        "news" : {
+            "title" : "Actu",
+            "line1" : "Toute l'actualité sur Fortnite venant d'Epic Game. Mise à jour toutes les 2 minutes. ",
+            "error" : "Nous ne pouvions pas récupérer l'information. Veuillez réessayer plus tard.",
+            "more-ingame-button" : "Charger plus"
+        },
+        "randomiser" : {
+            "title" : "Randomiseur",
+            "line1" : "Créer une tenue aléatoire avec tous les objets actuellement disponibles",
+            "chooseText" : "Cliquez pour choisir",
+            "randomise-all" : "Choix aléatoire"
+        },
+        "png" : {
+            "title" : "Cosmétiques en PNG",
+            "line1" : "Merci de créditer fnbr.co si vous utilisez une de ces images. Les prévisualisations sont réduites, les téléchargements seront en taille réelle.",
+            "sort-by" : "Trier par:",
+            "all" : "tout"
+        },
+        "gallery" : {
+            "title" : "Galerie des cosmétiques",
+            "line1" : "Tous les cosmétiques disponibles dans Fortnite Battle Royale.",
+            "line2" : "Merci de ne pas utiliser ces images sur votre site internet/réseau social sans créditer fnbr.co"
+        },
+        "icons" : {
+            "title" : "Icônes de Fortnite Battle Royale",
+            "line1" : "Toutes ces images appartiennent à Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Pas encore sorti",
+            "description" : "Description",
+            "history" : {
+                "title" : "Historique de la boutique",
+                "release-never" : "Date de sortie: Jamais",
+                "release-date" : "Date de sortie:",
+                "last-never" : "Dernièrement apparu: Jamais",
+                "last-date" : "Apparu pour la dernière fois:",
+                "occurrences" : "Nombre d'apparitions:"
+            },
+            "reminder-count" : "Utilisateurs avec [rappels](/reminders):",
+            "add-reminder" : "Ajouter un rappel",
+            "remove-reminder" : "Retirer le rappel",
+            "has-reminders" : "Vous avez un rappel pour cet objet.",
+            "no-reminders" : "Les rappels ne sont pas disponibles pour cet objet.",
+            "images" : "Images",
+            "images-icon" : "Icônes",
+            "images-png" : "PNG",
+            "images-gallery" : "Galerie",
+            "images-featured" : "À la une",
+            "interest-title" : "Popularité à travers le temps",
+            "interest-line1" : "Cela représente la popularité à travers le temps de cet objet, 100% étant la période où il était le plus populaire.",
+            "interest-line2" : "Les données d'aujourd'hui peuvent être incomplètes",
+            "occurrences-table" : {
+                "title" : "Apparitions dans la boutique",
+                "th-date" : "Date",
+                "th-days" : "jours avant aujourd'hui"
+            },
+            "set" : "Définir",
+            "set-name" : "Fait partie de l'ensemble [name]",
+            "popular-title" : "Objets populaires aujourd'hui"
+        },
+        "account" : {
+              "home" : {
+                "title" : "Les données de votre compte",
+                "error" : "Quelque chose s'est mal passé en chargeant les données de votre compte, merci de réessayer plus tard.",
+                "info" : {
+                    "title" : "Information",
+                    "line1" : "Vous êtes connecté avec [provider] comme [username]",
+                    "line2-api-yes" : "Vous avez [accès api](/api/docs)",
+                    "line2-api-no" : "Vous n'avez pas d'accès API."
+                },
+                "migration" : {
+                    "title" : "Anciens comptes",
+                    "waiting-line1" : "Nous utilisons désormais Discord pour la connexion.",
+                    "waiting-line2" : "Si vous possédez un compte datant de 2018, vous devrez vous connecter avec lui pour le fusionner avec celui-ci",
+                    "twitter-line1" : "Nous utilisons désormais Discord pour la connexion. Vous êtes actuellement entrain d'utiliser un ancien compte qui pourrait être supprimé à l'avenir et dont la fonctionnalité est limitée.",
+                    "twitter-line2" : "Pour migrer vers un compte Discord, cliquez ci-dessous"
+                },
+                "ratings" : {
+                    "title" : "Notations/Avis",
+                    "none" : "Vous n'avez pas de notation."
+                },
+                "destroy" : {
+                    "title" : "Supprimer le compte",
+                    "line1" : "Si vous ne voulez plus de votre compte, vous pouvez le supprimer [ici](/account/destroy) ainsi que toutes ses données."
+                }
+            },
+            "oauth" : {
+                "title" : "Se connecter à fnbr.co",
+                "discord-button" : "Se connecter avec Discord",
+                "legacy-text" : "Si vous possédez déjà un compte datant de 2018, une migration est requise:",
+                "twitter-button" : "Se connecter avec Twitter",
+                "privacy-text" : "En vous connectant, vous acceptez que nous récupérons vos données associées à votre compte, comme expliqué dans notre [politique de confidentialité](/privacy)."
+            },
+            "username" : {
+                "title" : "Bienvenue sur fnbr.co",
+                "line1" : "Vous êtes connectez avec Discord, pour intéragir avec d'autres Utilisateurs sur notre site, il faut que vous choisissiez un pseudo.",
+                "nameTaken" : "Ce pseudo [attemptedName] est déjà pris, nous y avons ajouté votre tag Discord et vous suggérons de l'utiliser.",
+                "randomName" : "Ce pseudo [attemptedName] est déja pris par un autre usager, il nous est malheureusement impossible de vous créer un pseudo unique utilisant votre tag discord.",
+                "form-username" : "Pseudo",
+                "form-criteria" : "Veuillez choisir un pseudo contenant entre 2 et 32 caractères, pouvant contenir lettres, chiffres ainsi que traits d'union et traits de liaison.",
+                "button-text" : "Choisir mon pseudo"
+            },
+            "locked" : {
+                "title" : "Impossible de se connecter",
+                "line1" : "Il vous est impossible de vous connecter à fnbr.co car [votre compte a été bloqué](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Compte migré",
+                "line1" : "Vous vous êtes connecté avec Twitter en tant que",
+                "line2" : "Cependant, ce compte à été migré pour pouvoir utiliser la connexion avec Discord."
+            },
+            "notFound" : {
+                "title" : "Compte introuvable",
+                "line1" : "Vous vous êtes connecté avec Twitter en tant que",
+                "line2" : "Cependant, ce compte n'a jamais été connecté auparavant et nous supportons la connexion via Twitter dans le seul but de migrer.",
+                "line3" : "Alternativement, vous pouvez [vous connectez avec Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Erreur",
+                "line1" : "Soit l'information que vous cherchez n'existe pas, soit vous n'avez pas la permission de la voir."
+            },
+            "500" : {
+                "title" : "Uh oh!",
+                "line1" : "Quelque chose s'est mal passé lors du traitement de votre demande, veuillez réessayer plus tard !",
+                "line2" : "Vous pouvez tenter de vous reconnecter [ici](/oauth)."
             }
         }
     }
