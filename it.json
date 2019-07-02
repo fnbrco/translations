@@ -279,7 +279,7 @@
                 "title" : "Nessun Account Trovato",
                 "line1" : "Hai effettuate l'accesso a Twitter come",
                 "line2" : "Pero', quell'account non ha mai effettuato l'accesso e supportiamo solo l'accesso con Twitter per motivi di migrazione.",
-                "line3" : "Alternativamente, puoi [login with Discord](/oauth/discord)."
+                "line3" : "Alternativamente, puoi [effettuare l'accesso con Discord](/oauth/discord)."
             }
         },
         "errors" : {
