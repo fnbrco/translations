@@ -102,8 +102,8 @@
             "title-featured" : "In evidenza",
             "title-daily" : "Giornaliero",
             "error" : "Negozio non disponibile, perfavore riprova piu' tardi",
-            "line1" : "Rotazione attuale del negozio di Fortnite Battaglia Reale - aggiornamenti giornalieri alle [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Puoi vedere il negozio di ieri [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line1" : "Rotazione attuale del negozio di Fortnite Battaglia Reale - aggiornamenti giornalieri alle [00:00 UTC](https://time.is/UTC|tooltip=Ora attuale UTC|newtab=true).",
+            "line2" : "Puoi vedere il negozio di ieri [qui](/shop/yesterday|tooltip=Negozio oggetti di ieri).",
             "line3" : "Clicca su un cosmetico per avere piu' informazioni.",
             "countdown" : {
                 "title" : "Nuovi oggetti:",
@@ -117,7 +117,7 @@
             "vote" : {
                 "title" : "Cosa ne pensi del negozio?",
                 "line1" : "Si resetta alle 00:00 UTC.",
-                "line2" : "Controlla la nostra [privacy policy](/privacy) prima di votare",
+                "line2" : "Controlla la nostra [politica sulla privacy](/privacy) prima di votare",
                 "choice" : {
                     "up" : "Mi piace!",
                     "neutral" : "E' cosi' cosi'.",
@@ -134,6 +134,7 @@
                     "bad-choice" : "Voto non riconosciuto",
                     "no-data" : "Nessuno dato disponibile, riprova piu' tardi"
                 }
+            }
         },
         "upcoming" : {
             "title" : "Cosmetici in arrivo",
@@ -201,7 +202,7 @@
                 "last-date" : "Ultima volta visto:",
                 "occurrences" : "Avvenimenti:"
             },
-            "reminder-count" : "Utenti con [reminders](/reminders):",
+            "reminder-count" : "Utenti con [promemoria](/reminders):",
             "add-reminder" : "Aggiungi promemoria",
             "remove-reminder" : "Rimuovi promemoria",
             "has-reminders" : "Hai un promemoria impostato per questo oggetto.",
@@ -230,7 +231,7 @@
                 "info" : {
                     "title" : "Informazioni",
                     "line1" : "Sei entrato come [username] tramite [provider]",
-                    "line2-api-yes" : "Hai [api access](/api/docs)",
+                    "line2-api-yes" : "Hai [accesso api](/api/docs)",
                     "line2-api-no" : "Non hai accesso api."
                 },
                 "migration" : {
@@ -246,7 +247,7 @@
                 },
                 "destroy" : {
                     "title" : "Elimina Account",
-                    "line1" : "Se non vuoi piu' il tuo account, puoi eliminarlo cliccando qui [here](/account/destroy)"
+                    "line1" : "Se non vuoi piu' il tuo account, puoi eliminarlo cliccando [qui](/account/destroy)"
                 }
             },
             "oauth" : {
@@ -254,7 +255,7 @@
                 "discord-button" : "Accedi con Discord",
                 "legacy-text" : "Alternativamente, se hai un account del 2018 da migrare:",
                 "twitter-button" : "Accedi con Twitter",
-                "privacy-text" : "Effettuando l'accesso ci consenti di salvare i dati associati al tuo account come dichiarato nella nostra [privacy policy](/privacy)."
+                "privacy-text" : "Effettuando l'accesso ci consenti di salvare i dati associati al tuo account come dichiarato nella nostra [politica sulla privacy](/privacy)."
             },
             "username" : {
                 "title" : "Benvenuto su fnbr.co",
@@ -267,7 +268,7 @@
             },
             "locked" : {
                 "title" : "Impssibile accedere",
-                "line1" : "Non e' possibile accedere a fnbr.co perche' [your account has been locked](class=text-danger)."
+                "line1" : "Non e' possibile accedere a fnbr.co perche' [il tuo account e' stato bloccato](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Account migrato",
@@ -289,7 +290,7 @@
             "500" : {
                 "title" : "Oh oh!",
                 "line1" : "Qualcosa e' andato storto mentre processavamo la tua richiesta, perfavore riprova piu' tardi!",
-                "line2" : "Puoi riprovare ad accedere [here](/oauth)."
+                "line2" : "Puoi riprovare ad accedere [qui](/oauth)."
             }
         }
     }
