@@ -52,7 +52,8 @@
             "home" : "home",
             "shop" : "negozio",
             "cosmetics" : {
-                "dropdown" : "cosmetici",
+                "dropdown" : "info",
+                "translate": "traduci",
                 "upcoming" : "in arrivo",
                 "list" : "lista",
                 "png" : "png",
@@ -101,14 +102,38 @@
             "title-featured" : "In evidenza",
             "title-daily" : "Giornaliero",
             "error" : "Negozio non disponibile, perfavore riprova piu' tardi",
-            "line1" : "Rotazione attuale del negozio di Fortnite Battaglia Reale - aggiornamenti giornalieri alle [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "Puoi vedere il negozio di ieri [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line1" : "Rotazione attuale del negozio di Fortnite Battaglia Reale - aggiornamenti giornalieri alle [00:00 UTC](https://time.is/UTC|tooltip=Ora attuale UTC|newtab=true).",
+            "line2" : "Puoi vedere il negozio di ieri [qui](/shop/yesterday|tooltip=Negozio oggetti di ieri).",
             "line3" : "Clicca su un cosmetico per avere piu' informazioni.",
             "countdown" : {
                 "title" : "Nuovi oggetti:",
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "ora",
                 "hours-plural" : "ore"
+            },
+            "yesterday" : {
+                "title" : "Rotazione negozio di ieri"
+            },
+            "vote" : {
+                "title" : "Cosa ne pensi del negozio?",
+                "line1" : "Si resetta alle 00:00 UTC.",
+                "line2" : "Controlla la nostra [politica sulla privacy](/privacy) prima di votare",
+                "choice" : {
+                    "up" : "Mi piace!",
+                    "neutral" : "E' cosi' cosi'.",
+                    "down" : "Lo odio."
+                },
+                "response" : {
+                    "success" : "Voto registrato",
+                    "timeout" : "La richiesta ci ha messo troppo ed e' scaduta",
+                    "internal" : "Errore interno",
+                    "failover" : "Richiesta a [server] fallita, riprovano...",
+                    "ratelimit" : "Troppe richieste, riprova tra poco",
+                    "unavailable" : "Il voto non e' disponibile finche' non cambia nel prossimo minuto",
+                    "conflict" : "Voto non possibile, riprova piu' tardi.",
+                    "bad-choice" : "Voto non riconosciuto",
+                    "no-data" : "Nessuno dato disponibile, riprova piu' tardi"
+                }
             }
         },
         "upcoming" : {
@@ -151,13 +176,86 @@
             "chooseText" : "Clicca per scegliere",
             "randomise-all" : "Tutto Casuale"
         },
+        "png" : {
+            "title" : "Cosmetici PNG",
+            "line1" : "Perfavore dai i riconoscimenti a fnbr.co se usi alcune di queste immagini. Le anteprime sono ridotte, i download sono con maggiore qualita'.",
+            "sort-by" : "Ordina per:",
+            "all" : "Tutto"
+        },
+        "gallery" : {
+            "title" : "Galleria Cosmetici",
+            "line1" : "Tutti i cosmetici disponibile in Fortnite Battaglia Reale.",
+            "line2" : "Perfavore non usare queste immagini per il tuo website/social media account senza dare i crediti a fnbr.co"
+        },
+        "icons" : {
+            "title" : "Icone Fortnite Battagli Reale ",
+            "line1" : "Tutte le immagini appartengono a Epic Games."
+        },
+        "item" : {
+            "unreleased" : "Non rilasciato",
+            "description" : "Descrizione",
+            "history" : {
+                "title" : "Cronologia negozio",
+                "release-never" : "Data di rilascio: Non rilasciato",
+                "release-date" : "Data di rilascio:",
+                "last-never" : "Ultima volta visto: Mai",
+                "last-date" : "Ultima volta visto:",
+                "occurrences" : "Avvenimenti:"
+            },
+            "reminder-count" : "Utenti con [promemoria](/reminders):",
+            "add-reminder" : "Aggiungi promemoria",
+            "remove-reminder" : "Rimuovi promemoria",
+            "has-reminders" : "Hai un promemoria impostato per questo oggetto.",
+            "no-reminders" : "I promemoria non sono disponibili per questo oggetto.",
+            "images" : "Immagini",
+            "images-icon" : "Icone",
+            "images-png" : "PNG",
+            "images-gallery" : "Galleria",
+            "images-featured" : "In primo piano",
+            "interest-title" : "Interesse nel tempo",
+            "interest-line1" : "Questo rappresenta l'interesse nell'oggetto nel corso del tempo, 100% e' il momento piu' popolare.",
+            "interest-line2" : "Data for today may be incomplete",
+            "occurrences-table" : {
+                "title" : "Avvenimenti Negozio",
+                "th-date" : "Data",
+                "th-days" : "Giorni Fa"
+            },
+            "set" : "Imposta",
+            "set-name" : "Parte del [name]",
+            "popular-title" : "Oggetti popolari oggi"
+        },
         "account" : {
+            "home" : {
+                "title" : "I Dati Del Tuo Account",
+                "error" : "Qualcosa e' andato storto durante il caricamento, riprova piu' tardi.",
+                "info" : {
+                    "title" : "Informazioni",
+                    "line1" : "Sei entrato come [username] tramite [provider]",
+                    "line2-api-yes" : "Hai [accesso api](/api/docs)",
+                    "line2-api-no" : "Non hai accesso api."
+                },
+                "migration" : {
+                    "title" : "Account Legacy",
+                    "waiting-line1" : "Ci siamo trasferiti a un login tramite Discord.",
+                    "waiting-line2" : "Se hai un account dal 2018, hai bisogno di fare l'accesso con quello per collegarlo a questo",
+                    "twitter-line1" : "Ci siamo trasferiti a un login tramite Discord. Stai attualmento usando un vecchio account che nel futuro potrebbe essere obsoleto.",
+                    "twitter-line2" : "Per migare ad un account Discord, clicca qui sotto"
+                },
+                "ratings" : {
+                    "title" : "Giudizi",
+                    "none" : "Non hai nessun giudizio."
+                },
+                "destroy" : {
+                    "title" : "Elimina Account",
+                    "line1" : "Se non vuoi piu' il tuo account, puoi eliminarlo cliccando [qui](/account/destroy)"
+                }
+            },
             "oauth" : {
                 "title" : "Accesso a fnbr.co",
                 "discord-button" : "Accedi con Discord",
                 "legacy-text" : "Alternativamente, se hai un account del 2018 da migrare:",
                 "twitter-button" : "Accedi con Twitter",
-                "privacy-text" : "Effettuando l'accesso ci consenti di salvare i dati associati al tuo account come dichiarato nella nostra [privacy policy](/privacy)."
+                "privacy-text" : "Effettuando l'accesso ci consenti di salvare i dati associati al tuo account come dichiarato nella nostra [politica sulla privacy](/privacy)."
             },
             "username" : {
                 "title" : "Benvenuto su fnbr.co",
@@ -170,7 +268,7 @@
             },
             "locked" : {
                 "title" : "Impssibile accedere",
-                "line1" : "Non e' possibile accedere a fnbr.co perche' [your account has been locked](class=text-danger)."
+                "line1" : "Non e' possibile accedere a fnbr.co perche' [il tuo account e' stato bloccato](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Account migrato",
@@ -181,7 +279,7 @@
                 "title" : "Nessun Account Trovato",
                 "line1" : "Hai effettuate l'accesso a Twitter come",
                 "line2" : "Pero', quell'account non ha mai effettuato l'accesso e supportiamo solo l'accesso con Twitter per motivi di migrazione.",
-                "line3" : "Alternativamente, puoi [login with Discord](/oauth/discord)."
+                "line3" : "Alternativamente, puoi [effettuare l'accesso con Discord](/oauth/discord)."
             }
         },
         "errors" : {
@@ -192,7 +290,7 @@
             "500" : {
                 "title" : "Oh oh!",
                 "line1" : "Qualcosa e' andato storto mentre processavamo la tua richiesta, perfavore riprova piu' tardi!",
-                "line2" : "Puoi riprovare ad accedere [here](/oauth)."
+                "line2" : "Puoi riprovare ad accedere [qui](/oauth)."
             }
         }
     }
