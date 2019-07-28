@@ -34,6 +34,7 @@
                 "pet" : "Pet",
                 "music" : "Music",
                 "wrap" : "Wrap",
+                "banner" : "Banner",
                 "bundle" : "Bundle",
                 "misc" : "Misc"
             },
@@ -60,6 +61,7 @@
                 "reminders" : "reminders",
                 "history" : "shop history"
             },
+            "guideDropdown" : "guide",
             "news" : "news",
             "modes" : "modes",
             "randomiser" : "randomiser",
