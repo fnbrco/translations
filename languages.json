@@ -88,6 +88,11 @@
             "outdated" : true
         },
         {
+            "name": "עברית",
+            "code": "he",
+            "authors" : ["RealA10N#1909"]
+        },
+        {
             "name": "Turkish",
             "code": "tr",
             "flag": "tr",
