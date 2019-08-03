@@ -1,6 +1,6 @@
 {
-    "name" : "English",
-    "live" : true,
+    "name" : "עברית",
+    "name-en" : "Hebrew",
     "translations" : {
         "meta" : {
             "thForDate" : true,
