@@ -4,293 +4,293 @@
     "translations" : {
         "meta" : {
             "thForDate" : true,
-            "dateFormat" : "[month] [date] [year]",
+            "dateFormat" : "[date] [month] [year]",
             "months" : [
-                "January",
-                "February",
-                "March",
-                "April",
-                "May",
-                "June",
-                "July",
-                "August",
-                "September",
-                "October",
-                "November",
-                "December"
+                "ינואר",
+                "פברואר",
+                "מרץ",
+                "אפריל",
+                "מאי",
+                "יוני",
+                "יולי",
+                "אוגוסט",
+                "ספטמבר",
+                "אוקטובר",
+                "נובמבר",
+                "דצמבר"
             ],
             "types" : {
-                "backpack" : "Back Bling",
-                "emote" : "Emote",
-                "glider" : "Glider",
-                "emoji" : "Emoji",
-                "loading" : "Loading Screen",
-                "outfit" : "Outfit",
-                "pickaxe" : "Pickaxe",
-                "skydive" : "Skydiving Trail",
-                "umbrella" : "Umbrella",
-                "spray" : "Spray",
-                "toy" : "Toy",
-                "pet" : "Pet",
-                "music" : "Music",
-                "wrap" : "Wrap",
-                "banner" : "Banner",
-                "bundle" : "Bundle",
-                "misc" : "Misc"
+                "backpack" : "תיק גב",
+                "emote" : "ריקוד",
+                "glider" : "מנצח",
+                "emoji" : "אימוג'י",
+                "loading" : "מסך טעינה",
+                "outfit" : "תלבושת",
+                "pickaxe" : "מכוש",
+                "skydive" : "שביל נחיתה",
+                "umbrella" : "מטרייה",
+                "spray" : "ספריי",
+                "toy" : "צעצוע",
+                "pet" : "חית מחמג",
+                "music" : "מוזיקה",
+                "wrap" : "עטיפה",
+                "banner" : "באנר",
+                "bundle" : "באנדל",
+                "misc" : "שונה"
             },
             "rarity" : {
-                "legendary" : "Legendary",
-                "epic" : "Epic",
-                "rare" : "Rare",
-                "uncommon" : "Uncommon",
-                "common" : "Common"
+                "legendary" : "לגנדרי",
+                "epic" : "אפיק",
+                "rare" : "רר",
+                "uncommon" : "אנ-קומון",
+                "common" : "קומון"
             },
-            "translationNotAvailable" : "Unfortunately there is no translation available for this page.",
-            "translationIncomplete" : "Not all text on this page will be translated"
+            "translationNotAvailable" : "למרבה הצער, אין תרגום זמין לדף זה.",
+            "translationIncomplete" : "לא כל הטקסט בדף זה יתורגם"
         },
         "nav" : {
-            "home" : "home",
-            "shop" : "shop",
+            "home" : "ראשי",
+            "shop" : "חנות",
             "cosmetics" : {
-                "dropdown" : "cosmetics",
-                "upcoming" : "upcoming",
-                "list" : "list",
-                "png" : "png",
-                "gallery" : "gallery",
-                "icons" : "icons",
-                "reminders" : "reminders",
-                "history" : "shop history"
+                "dropdown" : "אייטמים קוסמטיים",
+                "upcoming" : "בקרוב",
+                "list" : "רשימה",
+                "png" : "פורמט png",
+                "gallery" : "גלרייה",
+                "icons" : "אייקונים",
+                "reminders" : "תזכורות",
+                "history" : "היסטוריית החנות"
             },
-            "guideDropdown" : "guide",
-            "news" : "news",
-            "modes" : "modes",
-            "randomiser" : "randomiser",
+            "guideDropdown" : "מדריך",
+            "news" : "חדשות",
+            "modes" : "מודים",
+            "randomiser" : "סט אקראי",
             "about" : {
-                "dropdown" : "about",
-                "translate" : "translate",
-                "about" : "about fnbr.co",
-                "privacy" : "privacy policy",
-                "donate" : "Donate",
-                "discord" : "Discord",
-                "twitter" : "Twitter"
+                "dropdown" : "אודות",
+                "translate" : "תרגם",
+                "about" : "אודות fnbr.co",
+                "privacy" : "מדיניות פרטיות",
+                "donate" : "תרום",
+                "discord" : "דיסקורד",
+                "twitter" : "טוויטר"
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "account",
-                "account" : "account",
-                "logout" : "logout"
+                "dropdown" : "חשבון",
+                "account" : "חשבון",
+                "logout" : "התנתק"
             },
             "languagePicker" : {
-                "trigger" : "language",
-                "title" : "Pick language",
-                "currentLanguage" : "You are currently using [language]",
-                "error" : "Error while downloading language file",
-                "authors" : "Translated by:",
-                "cta" : "Click to switch to [language]",
-                "switching" : "Downloading [language]...",
-                "finished" : "Your language has been changed!"
+                "trigger" : "שפה",
+                "title" : "בחר שפה",
+                "currentLanguage" : "אתה משתמש כרגע ב[language]",
+                "error" : "שגיאה בעת הורדת קובץ השפה",
+                "authors" : "תורגם על ידי:",
+                "cta" : "לחץ כאן כדי להחליף ל[language]",
+                "switching" : "מוריד [language]...",
+                "finished" : "השפה שלך שונתה בהצלחה!"
             }
         },
         "home" : {
-            "title-upcoming" : "Upcoming Items",
-            "title-all" : "All Items",
-            "error" : "Unable to retrieve items, please try again in a few moments.",
-            "error-too-long" : "This is taking longer than expected"
+            "title-upcoming" : "אייטמים צפויים בקרוב",
+            "title-all" : "כל האייטמים",
+            "error" : "לא ניתן לאחזר פריטים, אנא נסה שוב בעוד כמה רגעים.",
+            "error-too-long" : "הפעולה לוקח זמן רב מהצפוי"
         },
         "shop" : {
-            "title" : "Current Rotation",
-            "title-featured" : "Featured",
-            "title-daily" : "Daily",
-            "error" : "Shop not available, please try again in a few moments",
-            "line1" : "The current item shop rotation for Fortnite Battle Royale - updates daily at [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "You can see yesterday's item shop [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
-            "line3" : "Click a cosmetic to see more information about it.",
+            "title" : "סבב נוכחי",
+            "title-featured" : "בולט",
+            "title-daily" : "יומי",
+            "error" : "החנות לא זמינה, נסה שוב בעוד כמה רגעים",
+            "line1" : "הסבב הנוכחי של חנות האייטמים בפורטנייט באטל רויאל - מתעדכן בכל יום [בחצות זמן אוניברסלי מתואם](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line2" : "תוכל לצפות בסבב האייטם שופ הקודם [פה](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line3" : "לחץ על אייטם קוסמטי כדי לראות מידע נוסף אודותיו.",
             "countdown" : {
-                "title" : "New items:",
+                "title" : "אייטמים חדשים:",
                 "wordyFormat" : "[number] [noun]",
-                "hour-singular" : "hour",
-                "hours-plural" : "hours"
+                "hour-singular" : "שעה",
+                "hours-plural" : "שעות"
             },
             "yesterday" : {
-                "title" : "Yesterday's Shop Rotation"
+                "title" : "סבב האייטם שופ הקודם"
             },
             "vote" : {
-                "title" : "What do you think of this shop?",
-                "line1" : "This resets daily at 00:00 UTC.",
-                "line2" : "Review our [privacy policy](/privacy) before voting",
+                "title" : "מה אתם חושבים על סבב החנות הנוכחי?",
+                "line1" : "החנות מתאפסת מדי יום בחצות זמן אוניברסלי מתואם.",
+                "line2" : "עיין ב[מדיניות הפרטיות שלנו](/privacy) לפני שאתה מצביע",
                 "choice" : {
-                    "up" : "Love it!",
-                    "neutral" : "It's meh.",
-                    "down" : "Hate it."
+                    "up" : "אוהב את זה!",
+                    "neutral" : "ככה ככה..",
+                    "down" : "שונא את זה."
                 },
                 "response" : {
-                    "success" : "Vote recorded",
-                    "timeout" : "Request took too long and timed out",
-                    "internal" : "Internal Error",
-                    "failover" : "Request to [server] failed, retrying on default...",
-                    "ratelimit" : "Too many requests, please try again in a few moments",
-                    "unavailable" : "Voting is not available until the shop changes within the next minute",
-                    "conflict" : "Vote not possible, please try again later.",
-                    "bad-choice" : "Vote not recognised",
-                    "no-data" : "No data available - please retry in a few moments"
+                    "success" : "ההצבעה נקלטה",
+                    "timeout" : "הבקשה לקחה זמן רב ופג תוקפה",
+                    "internal" : "שגיאה פנימית",
+                    "failover" : "הבקשה ל-[server] נכשלה, מנסה שוב כברירת מחדל...",
+                    "ratelimit" : "יותר מדי בקשות, נסה שוב בעוד כמה רגעים",
+                    "unavailable" : "ההצבעה אינה זמינה עד שהחנות תתחלף בדקה הבאה",
+                    "conflict" : "ההצבעה אינה אפשרית, נסה שוב מאוחר יותר.",
+                    "bad-choice" : "ההצבעה לא חוקית",
+                    "no-data" : "אין נתונים זמינים - נסה שוב בעוד כמה רגעים"
                 }
             }
         },
         "upcoming" : {
-            "title" : "Upcoming Cosmetics",
-            "line1" : "All unreleased items in Fortnite Battle Royale."
+            "title" : "אייטמים צפויים בקרוב",
+            "line1" : "כל האייטמים שעדיין לא פורסמו בפורטנייט באטל רויאל"
         },
         "list" : {
-            "title" : "Cosmetics List",
-            "line1" : "Every cosmetic available in Fortnite Battle Royale.",
+            "title" : "רשימת אייטמים",
+            "line1" : "כל אייטם קוסמטי זמין בפורטנייט באטל רויאל",
             "table" : {
-                "icon" : "Icon",
-                "name" : "Name",
-                "type" : "Type",
-                "rarity" : "Rarity",
-                "obtained" : "Obtained"
+                "icon" : "אייקון",
+                "name" : "שם",
+                "type" : "סוג",
+                "rarity" : "נדירות",
+                "obtained" : "להשיג באמצעות..."
             }
         },
         "history" : {
             "list" : {
-                "title" : "Item Shop History",
-                "line1" : "Here are the last 8 days of item shop rotations for Fortnite Battle Royale.",
-                "line2" : "Click one to view full shop or scroll to view full item shop history by day."
+                "title" : "היסטוריית האייטם שופ",
+                "line1" : "להלן 8 הימים האחרונים של סיבובי האייטם שופ עבור פורטנייט באטל רויאל",
+                "line2" : "לחץ על אחת כדי לצפות באייטם שופ המלא, או גלול כדי להציג את היסטורית החנות המלאה לפי יום."
             },
             "view" : {
-                "title" : "Shop Rotation",
-                "line1" : "This is the item shop rotation of [date] for Fortnite Battle Royale. ",
-                "line2" : "Click a cosmetic to see more information about it.",
-                "today-button" : "Today's Item Shop"
+                "title" : "סבב החנות",
+                "line1" : "זהו סבב האייטם שופ של ה[date] עבור פורטנייט באטל רויאל",
+                "line2" : "לחץ על אייטם קוסמטי כלשהוא כדי לראות מידע נוסף אודותיו.",
+                "today-button" : "האייטם שופ הנוכחי"
             }
         },
         "news" : {
-            "title" : "News",
-            "line1" : "The current in-game news feed from Epic Games. Updated every minute.",
-            "error" : "We were unable to get the news from Fortnite, we'll try again shortly.",
-            "more-ingame-button" : "Load More"
+            "title" : "חדשות",
+            "line1" : "עדכוני החדשות הרשמיים מהמשחק. מתעדכן בכל דקה.",
+            "error" : "לא הצלחנו לקבל את החדשות מהמשחק, אך ננסה שוב בזמן הקרוב.",
+            "more-ingame-button" : "טען עוד"
         },
         "randomiser" : {
-            "title" : "Randomiser",
-            "line1" : "Pick a random outfit from every item available.",
-            "chooseText" : "Click to choose",
-            "randomise-all" : "Randomise All"
+            "title" : "סט אקראי",
+            "line1" : "בחר תלבושת אקראית מתוך כל האייטמים הקיימים.",
+            "chooseText" : "לחץ כדי לבחור",
+            "randomise-all" : "הגרל את כולם"
         },
         "png" : {
-            "title" : "Cosmetics PNG",
-            "line1" : "Please credit back to fnbr.co if you use any of these images. Previews are scaled down, downloads will be full size.",
-            "sort-by" : "Sort by:",
-            "all" : "All"
+            "title" : "אייטמים קוסמטיים בפורמט PNG",
+            "line1" : "אנא השתמש בתמונות כאשר אתה נותן קרדיט לאתר fnbr.co. התמונות בתצוגה המקדימה מוקטנות, אך ההורדה שלהם תתבצע בגודל המקורי",
+            "sort-by" : "מיין לפי:",
+            "all" : "הכל"
         },
         "gallery" : {
-            "title" : "Cosmetics Gallery",
-            "line1" : "Every cosmetic available in Fortnite Battle Royale.",
-            "line2" : "Please do not use these images on your personal website/social media account without direct credit to fnbr.co"
+            "title" : "גלריית האייטמים הקוסמטיים",
+            "line1" : "כל אייטם קוסמטי הזמין בפורטנייט באטל רויאל",
+            "line2" : "אנא השתמש בתמונות כאשר אתה נותן קרדיט לאתר fnbr.co"
         },
         "icons" : {
-            "title" : "Fortnite Battle Royale Icons",
-            "line1" : "All images belong to Epic Games."
+            "title" : "אייקוני פורטנייט באטל רויאל",
+            "line1" : "כל התמונות בדף זה שייכות לאפיק גיימס."
         },
         "item" : {
-            "unreleased" : "Unreleased",
-            "description" : "Description",
+            "unreleased" : "לא פורסם",
+            "description" : "תיאור",
             "history" : {
-                "title" : "Shop History",
-                "release-never" : "Release date: Never",
-                "release-date" : "Release date:",
-                "last-never" : "Last seen: Never",
-                "last-date" : "Last seen:",
-                "occurrences" : "Occurrences:"
+                "title" : "היסטוריית החנות",
+                "release-never" : "תאריך שחרור: אף פעם",
+                "release-date" : "תאריך שחרור:",
+                "last-never" : "נראה לאחרונה: אף פעם",
+                "last-date" : "נראה לאחרונה:",
+                "occurrences" : "פעמים באייטם שופ: "
             },
-            "reminder-count" : "Users with [reminders](/reminders):",
-            "add-reminder" : "Add Reminder",
-            "remove-reminder" : "Remove Reminder",
-            "has-reminders" : "You have reminders set for this item.",
-            "no-reminders" : "Reminders aren't available for this item.",
-            "images" : "Images",
-            "images-icon" : "Icon",
+            "reminder-count" : "משתמשים עם [תזכורות](/reminders):",
+            "add-reminder" : "הוסף תזכורת",
+            "remove-reminder" : "הסר תזכורת",
+            "has-reminders" : "הגדרת תזכורת לפריט זה.",
+            "no-reminders" : "תזכורות אינן זמינות עבור פריט זה.",
+            "images" : "תמונות",
+            "images-icon" : "אייקון",
             "images-png" : "PNG",
-            "images-gallery" : "Gallery",
-            "images-featured" : "Featured",
-            "interest-title" : "Interest over time",
-            "interest-line1" : "This represents interest in this item over time, 100% being the most popular time.",
-            "interest-line2" : "Data for today may be incomplete",
+            "images-gallery" : "גלרייה",
+            "images-featured" : "בולט",
+            "interest-title" : "רמת עיניין לאורך זמן",
+            "interest-line1" : "גרף זה מייצג את רמת העיניין באייטם הזה לאורך זמן, כאשר המקסימום הוא הזמן הפופולארי ביותר",
+            "interest-line2" : "מידע לגבי היום הנוכחי עשוי להיות לא שלם",
             "occurrences-table" : {
-                "title" : "Shop Occurrences",
-                "th-date" : "Date",
-                "th-days" : "Days Ago"
+                "title" : "הופעות בחנות",
+                "th-date" : "תאריך",
+                "th-days" : "מספר ימים לפני"
             },
-            "set" : "Set",
-            "set-name" : "Part of [name]",
-            "popular-title" : "Popular Items Today"
+            "set" : "סט",
+            "set-name" : "חלק מ[name]",
+            "popular-title" : "אייטמים פופולאריים היום"
         },
         "account" : {
             "home" : {
-                "title" : "Your Account Data",
-                "error" : "Something went wrong loading your account data, please try again later.",
+                "title" : "נתוני החשבון שלך",
+                "error" : "משהו השתבש בזמן טעינת נתוני החשבון שלך, אנא נסה שוב מאוחר יותר.",
                 "info" : {
-                    "title" : "Information",
-                    "line1" : "You are logged in with [provider] as [username]",
-                    "line2-api-yes" : "You have [api access](/api/docs)",
-                    "line2-api-no" : "You do not have api access."
+                    "title" : "מידע",
+                    "line1" : "אתה מחובר בתור [username] בעזרת [provider]",
+                    "line2-api-yes" : "יש לך[גישה לapi](/api/docs)",
+                    "line2-api-no" : "אין לך גישה לapi."
                 },
                 "migration" : {
-                    "title" : "Legacy Accounts",
-                    "waiting-line1" : "We have moved to using Discord for login.",
-                    "waiting-line2" : "If you have an account from 2018, you will need to login with it to merge it with this one",
-                    "twitter-line1" : "We have moved to using Discord for login. You are currently using a legacy account which may be discontinued in the future and has limited functionality.",
-                    "twitter-line2" : "To migrate to a Discord account, click the button below"
+                    "title" : "חשבונות קודמים",
+                    "waiting-line1" : "עברנו להשתמש בדיסקורד לצורך התחברות.",
+                    "waiting-line2" : "אם יש לך חשבון עוד מ2018, תצטרך להתחבר אליו ולשייך אותו לחשבון הזה",
+                    "twitter-line1" : "עברנו להשתמש בדיסקורד לצורך התחברות. אתה כרגע משתמש בחשבון מדור קודם שעלול להיפסק בעתיד ושכבר עכשיו בעל פונקציונליות מוגבלת.",
+                    "twitter-line2" : "כדי לעבור לחשבון דיסקורד, לחץ על הכפתור מטה"
                 },
                 "ratings" : {
-                    "title" : "Ratings",
-                    "none" : "You don't have any ratings."
+                    "title" : "דירוגים",
+                    "none" : "אין לך דירוגים."
                 },
                 "destroy" : {
-                    "title" : "Destroy Account",
-                    "line1" : "If you no longer want your account, you can delete it and all its data [here](/account/destroy)"
+                    "title" : "השמד חשבון",
+                    "line1" : "אם אינך רוצה עוד את חשבונך, תוכל למחוק אותו ואת כל הנתונים שלו [כאן](/account/destroy)"
                 }
             },
             "oauth" : {
-                "title" : "Login to fnbr.co",
-                "discord-button" : "Login with Discord",
-                "legacy-text" : "Alternatively, if you have a legacy account from 2018 needing migration:",
-                "twitter-button" : "Login with Twitter",
-                "privacy-text" : "By logging in you agree to us storing data associated with your account as set out in our [privacy policy](/privacy)."
+                "title" : "התחבר לfnbr.co",
+                "discord-button" : "התחבר בעזרת דיסקורד",
+                "legacy-text" : "לחלופין, אם יש לך חשבון דור קודם משנת 2018 הזקוק להעברה:",
+                "twitter-button" : "התחבר בעזרת טוויטר",
+                "privacy-text" : "על ידי כניסה אתה מסכים לנו לאחסן נתונים המשויכים לחשבונך כמפורט [במדיניות הפרטיות](/privacy) שלנו."
             },
             "username" : {
-                "title" : "Welcome to fnbr.co",
-                "line1" : "You are logged in with Discord, to interact with others on our site we need you to pick a username",
-                "nameTaken" : "Your username [attemptedName] is taken by another user, we have added your Discord discriminator to it and suggest you use that.",
-                "randomName" : "Your username [attemptedName] is taken by another user, we were unable to make a unique name using your Discord discriminator.",
-                "form-username" : "Username",
-                "form-criteria" : "Please choose a username between 2 and 32 characters, which may contain alphanumeric characters as well as underscores and hyphens.",
-                "button-text" : "Set my username"
+                "title" : "ברוך הבא לfnbr.co",
+                "line1" : "אתה מחובר בעזרת דיסקורד. כדי ליצור אינטרקציה עם אחרים באתר, תצטרך לבחור שם משתמש",
+                "nameTaken" : "שם המשתמש שלך [attemptedName] נלקח על ידי משתמש אחר, ולכן הוספנו לו את מאבחן הדיסקורד שלך ואנו ממליצים לך להשתמש בשם זה.",
+                "randomName" : "שם המשתמש שלך [attemptedName] נלקח על ידי משתמש אחר, ולא הצלחנו ליצור לך שם משתמש יחודי בעזרת מאבחן משתמש הדיסקורד שלך.",
+                "form-username" : "שם משתמש",
+                "form-criteria" : "אנא בחר שם משתמש בין 2 ל-32 תווים, אשר יכיל אותיות באנגלית,  קווים תחתונים ומקפים בלבד.",
+                "button-text" : "קבע את שם המשתמש שלי"
             },
             "locked" : {
-                "title" : "Unable to login",
-                "line1" : "You aren't able to login to fnbr.co because [your account has been locked](class=text-danger)."
+                "title" : "ההתחברות נכשלה",
+                "line1" : "אינך יכול להתחבר לfnbr.co מכיוון [שחשבונך ננעל](class=text-danger)"
             },
             "migrated" : {
-                "title" : "Account migrated",
-                "line1" : "You logged in with Twitter as",
-                "line2" : "However, that account has been migrated to use Discord login."
+                "title" : "חשבונך הועבר",
+                "line1" : "התחברת בעזרת טוויטר בתור ",
+                "line2" : "אך משתמש זה הועבר להתחברות בעזרת דיסקורד."
             },
             "notFound" : {
-                "title" : "No Account Found",
-                "line1" : "You logged in with Twitter as",
-                "line2" : "However, that account has never logged in before and we now only support Twitter login for migration purposes.",
-                "line3" : "Alternatively, you can [login with Discord](/oauth/discord)."
+                "title" : "לא נמצא חשבון",
+                "line1" : "התחברת בעזרת טוויטר בתור ",
+                "line2" : "אך משתמש זה לא התחבר לפני כן וכרגע אנו תומכים רק בכניסה בעזרת טוויטר רק לשם העברת החשבון.",
+                "line3" : "לחלופין, תוכל [להתחבר באמצעות דיסקורד](/oauth/discord)"
             }
         },
         "errors" : {
             "404" : {
-                "title" : "Error",
-                "line1" : "Either the resource you requested doesn't exist, or you don't have permission to view it."
+                "title" : "שגיאה",
+                "line1" : "המשאב שביקשת אינו קיים, או שאין לך הרשאה להציג אותו."
             },
             "500" : {
-                "title" : "Uh oh!",
-                "line1" : "Something went wrong while processing your request, please try again later!",
-                "line2" : "You can try to login again [here](/oauth)."
+                "title" : "אוי לא!",
+                "line1" : "משהו השתבש במהלך עיבוד בקשתך, אנא נסה שוב מאוחר יותר!",
+                "line2" : "תוכל לנסות ולהתחבר שוב [כאן](/oauth)"
             }
         }
     }
