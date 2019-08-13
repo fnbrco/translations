@@ -35,6 +35,7 @@
                 "pet" : "Animale",
                 "music" : "Musica",
                 "wrap" : "Copertura",
+		"banner" : "Stendardo",
                 "bundle" : "Bundle",
                 "misc" : "Varie"
             },
@@ -62,6 +63,7 @@
                 "reminders" : "promemoria",
                 "history" : "cronologia del negozio"
             },
+	    "guideDropdown" : "guida",
             "news" : "notizie",
             "modes" : "modalita'",
             "randomiser" : "randomizzatore",
