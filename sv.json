@@ -30,7 +30,7 @@
                 "pickaxe" : "Hacka",
                 "skydive" : "Frittfall Spår",
                 "umbrella" : "Paraply",
-                "spray" : "Spray",
+                "spray" : "Sprej",
                 "toy" : "Leksak",
                 "pet" : "Husdjur",
                 "music" : "Musik",
@@ -50,7 +50,7 @@
         },
         "nav" : {
             "home" : "hem",
-            "shop" : "shop",
+            "shop" : "affär",
             "cosmetics" : {
                 "dropdown" : "kosmetika",
                 "upcoming" : "kommande",
@@ -98,7 +98,7 @@
         },
         "shop" : {
             "title" : "Nuvarande Rotation",
-            "title-featured" : "Featured",
+            "title-featured" : "framhävd",
             "title-daily" : "Dagliga",
             "error" : "Shoppen är inte tillgänglig, snälla försök igen senare",
             "line1" : "Den nuvarande kosmetiska shop för Fortnite Battle Royale - förändras dagligen på [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
