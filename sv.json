@@ -112,6 +112,27 @@
             },
             "yesterday" : {
                 "title" : "Gårdagens Shop Rotation"
+                          },
+            "vote" : {
+                "title" : "Vad göra du tro av detta butik?",
+                "line1" : "Detta resets dagligen i 00:00 UTC.",
+                "line2" : "Granska vår [privacy policy](/privacy) innan omröstning",
+                "choice" : {
+                    "up" : "kärlek den!",
+                    "neutral" : "Den är okay.",
+                    "down" : "Hata den."
+                },
+                "response" : {
+                    "success" : "rösta inspelad",
+                    "timeout" : "anhålla ta med lång och tid ut",
+                    "internal" : "internt fel",
+                    "failover" : "begäran till [server] misslyckades, försöka igen på default...",
+                    "ratelimit" : "För många förfrågningar, försök igen om några ögonblick",
+                    "unavailable" : "Röstning är inte tillgänglig förrän butiken ändras inom nästa minut",
+                    "conflict" : "Rösta inte möjligt, försök igen senare.",
+                    "bad-choice" : "Rösta inte erkänd",
+                    "no-data" : "Ingen information tillgänglig - försök på nytt om några ögonblick"
+                }
             }
         },
         "upcoming" : {
