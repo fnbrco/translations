@@ -90,6 +90,8 @@
         {
             "name": "עברית",
             "code": "he",
+            "flag": "il",
+            "live": true,
             "authors" : ["RealA10N#1909"]
         },
         {

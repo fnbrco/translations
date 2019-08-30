@@ -1,6 +1,7 @@
 {
     "name" : "עברית",
     "name-en" : "Hebrew",
+    "live" : true,
     "translations" : {
         "meta" : {
             "thForDate" : false,
