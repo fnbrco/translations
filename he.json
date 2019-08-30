@@ -3,7 +3,7 @@
     "name-en" : "Hebrew",
     "translations" : {
         "meta" : {
-            "thForDate" : true,
+            "thForDate" : false,
             "dateFormat" : "[date] [month] [year]",
             "months" : [
                 "ינואר",
@@ -102,8 +102,8 @@
             "title-featured" : "בולט",
             "title-daily" : "יומי",
             "error" : "החנות לא זמינה, נסה שוב בעוד כמה רגעים",
-            "line1" : "הסבב הנוכחי של חנות האייטמים בפורטנייט באטל רויאל - מתעדכן בכל יום [בחצות זמן אוניברסלי מתואם](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : "תוכל לצפות בסבב האייטם שופ הקודם [פה](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line1" : "הסבב הנוכחי של חנות האייטמים בפורטנייט באטל רויאל - מתעדכן בכל יום [בחצות זמן אוניברסלי מתואם](https://time.is/UTC|tooltip=הזמן האוניברסלי הנוכחי|newtab=true).",
+            "line2" : "תוכל לצפות בסבב האייטם שופ הקודם [פה](/shop/yesterday|tooltip=האייטם שופ הקודם).",
             "line3" : "לחץ על אייטם קוסמטי כדי לראות מידע נוסף אודותיו.",
             "countdown" : {
                 "title" : "אייטמים חדשים:",
