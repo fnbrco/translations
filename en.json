@@ -40,6 +40,10 @@
             },
             "rarity" : {
                 "legendary" : "Legendary",
+                "dark" : "Dark",
+                "marvel" : "Marvel",
+                "dc" : "DC",
+                "icon_series" : "Icon Series",
                 "epic" : "Epic",
                 "rare" : "Rare",
                 "uncommon" : "Uncommon",
