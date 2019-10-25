@@ -41,6 +41,10 @@
             },
             "rarity" : {
                 "legendary" : "Legendär",
+                "dark" : "Dunkel",
+                "marvel" : "Marvel",
+                "dc" : "DC",
+                "icon_series" : "Ikonen-Serie",
                 "epic" : "Episch",
                 "rare" : "Selten",
                 "uncommon" : "Ungewöhnlich",
