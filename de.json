@@ -109,7 +109,7 @@
             "error" : "Shop nicht verfügbar, bitte versuche es in wenigen Augenblicken noch einmal",
             "line1" : "Die aktuelle Item Shop-Rotation für Fortnite Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Aktuelle Zeit in UTC|newtab=true).",
             "line2" : "Du kannst den gestrigen Item Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
-            "line3" : "Klicke auf eine Kosmetik, um mehr über diese zu erfahren.",
+            "line3" : "Klicke auf eine Kosmetik, um mehr über diese zu erfahren. Teile deine Meinung zu diesem Shop, indem du unten auf dieser Seite darüber abstimmst.",
             "countdown" : {
                 "title" : "Neue Gegenstände:",
                 "wordyFormat" : "[number] [noun]",
