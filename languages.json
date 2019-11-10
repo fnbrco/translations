@@ -157,6 +157,13 @@
             "flag": "kr",
             "live": true,
             "authors" : ["hs7982#6039"]
+        },
+        {
+            "name": "日本語",
+            "code": "ja",
+            "flag": "jp",
+            "live": true,
+            "authors" : ["FNJPNews#1234"]
         }
     ]
 }
