@@ -103,7 +103,7 @@
       "title-featured": "イチオシ！",
       "title-daily": "デイリー",
       "error": "ショップを取得できませんでした。しばらくしてからもう一度お試しください。",
-      "line1": "フォートナイト バトルロイヤルのショップは毎日[00:00 UTC](https://time.is/UTC|tooltip=Current UTCの時刻|newtab=true)に更新されます。",
+      "line1": "フォートナイト バトルロイヤルのショップは毎日[00:00 UTC](https://time.is/UTC|tooltip=現在 UTCの時刻|newtab=true)に更新されます。",
       "line2": "昨日のアイテムショップは [こちら](/shop/yesterday|tooltip=昨日のアイテムショップ)から確認することができます。",
       "line3": "スキンをクリックすると詳細が表示されます。",
       "countdown": {
