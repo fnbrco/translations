@@ -256,7 +256,7 @@
         "discord-button": "Discordでログイン",
         "legacy-text": "または、移行が必要な2018年の古いアカウントがある場合:",
         "twitter-button": "Twitterでログイン",
-        "privacy-text": "ログインすると、[privacy policy](/privacy)に記載されているように、アカウントに関連付けられたデータを保存することに同意したことになります。."
+        "privacy-text": "ログインすると、[プライバシーポリシー](/privacy)に記載されているように、アカウントに関連付けられたデータを保存することに同意したことになります。."
       },
       "username": {
         "title": "fnbr.coへようこそ",
