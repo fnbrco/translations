@@ -269,7 +269,7 @@
       },
       "locked": {
         "title": "ログインできません",
-        "line1": "[your account has been locked](class=text-danger)のため、fnbr.coにログインできません。."
+        "line1": "[あなたのアカウントはロックされている](class=text-danger)のため、fnbr.coにログインできません。."
       },
       "migrated": {
         "title": "移行されたアカウント",
