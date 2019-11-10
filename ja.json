@@ -232,7 +232,7 @@
         "info": {
           "title": "情報",
           "line1": "[provider]で[username]としてログインしています",
-          "line2-api-yes": "[api access](/api/docs)があります",
+          "line2-api-yes": "[api アクセス](/api/docs)があります",
           "line2-api-no": "あなたはAPIを持っていません。"
         },
         "migration": {
