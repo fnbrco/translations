@@ -206,7 +206,7 @@
                 "last-date" : "Last seen:",
                 "occurrences" : "Occurrences:"
             },
-            "reminder-count" : "Users with [reminders](/reminders):",
+            "reminder-count" : "Users with [reminders](/reminders) on Discord:",
             "app-reminder-count" : "Users with reminders on [our app](/app):",
             "add-reminder" : "Add Reminder",
             "remove-reminder" : "Remove Reminder",
