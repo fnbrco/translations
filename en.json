@@ -207,6 +207,7 @@
                 "occurrences" : "Occurrences:"
             },
             "reminder-count" : "Users with [reminders](/reminders):",
+            "app-reminder-count" : "Users with reminders on [our app](/app):",
             "add-reminder" : "Add Reminder",
             "remove-reminder" : "Remove Reminder",
             "has-reminders" : "You have reminders set for this item.",
