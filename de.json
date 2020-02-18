@@ -54,36 +54,36 @@
             "translationIncomplete" : "Nicht alle Texte auf dieser Seite sind übersetzt"
         },
         "nav" : {
-            "home" : "startseite",
-            "shop" : "shop",
+            "home" : "Startseite",
+            "shop" : "Shop",
             "cosmetics" : {
-                "dropdown" : "kosmetika",
+                "dropdown" : "Kosmetika",
                 "upcoming" : "bald verfügbar",
-                "list" : "liste",
+                "list" : "Liste",
                 "png" : "png",
-                "gallery" : "galerie",
-                "icons" : "icons",
-                "reminders" : "erinnerungen",
-                "history" : "historie des shops"
+                "gallery" : "Galerie",
+                "icons" : "Icons",
+                "reminders" : "Erinnerungen",
+                "history" : "Historie des Shops"
             },
-            "guideDropdown" : "guide",
-            "news" : "neuigkeiten",
-            "modes" : "modi",
-            "randomiser" : "zufallsgenerator",
+            "guideDropdown" : "Guide",
+            "news" : "Neuigkeiten",
+            "modes" : "Modi",
+            "randomiser" : "Zufallsgenerator",
             "about" : {
-                "dropdown" : "über",
+                "dropdown" : "Über",
                 "translate" : "übersetzen",
-                "about" : "über fnbr.co",
-                "privacy" : "datenschutzerklärung",
+                "about" : "Über fnbr.co",
+                "privacy" : "Datenschutzerklärung",
                 "donate" : "Spenden",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "konto",
-                "account" : "konto",
-                "logout" : "abmelden"
+                "dropdown" : "Konto",
+                "account" : "Konto",
+                "logout" : "Abmelden"
             },
             "languagePicker" : {
                 "trigger" : "Sprache",
