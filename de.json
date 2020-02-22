@@ -207,7 +207,8 @@
                 "last-date" : "Zuletzt gesehen:",
                 "occurrences" : "Erscheinungen:"
             },
-            "reminder-count" : "Benutzer mit [Erinnerungen](/reminders):",
+            "reminder-count" : "Benutzer mit [Erinnerungen](/reminders) auf Discord:",
+            "app-reminder-count" : "Benutzer mit Erinnerungen in [unserer App](/app):",
             "add-reminder" : "Erinnerung hinzufügen",
             "remove-reminder" : "Erinnerung entfernen",
             "has-reminders" : "Du hast Erinnerungen für diesen Gegenstand eingerichtet.",
