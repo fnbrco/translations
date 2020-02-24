@@ -207,7 +207,8 @@
                 "last-date" : "마지막 기록:",
                 "occurrences" : "횟수:"
             },
-            "reminder-count" : "[리마인더](/reminders) 이용:",
+            "reminder-count" : "디스코드에서 [리마인더](/reminders) 이용:",
+            "app-reminder-count" : "[앱](/app)에서 리마인더 이용:",
             "add-reminder" : "리마인드에 추가",
             "remove-reminder" : "리마인드에서 제거",
             "has-reminders" : "이 아이템에 대한 리마인더가 설정되었습니다.",
