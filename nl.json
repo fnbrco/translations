@@ -203,7 +203,8 @@
                 "last-date" : "Laatst gezien:",
                 "occurrences" : "Aantal keer gezien:"
             },
-            "reminder-count" : "Gebruikers met [herinneringen](/reminders):",
+            "reminder-count" : "Aantal gebruikers met [herinneringen](/reminders) via Discord:",
+            "app-reminder-count" : "Aantal gebruikers met herinneringen via [onze app](/app):",
             "add-reminder" : "Voeg herinnering toe",
             "remove-reminder" : "Verwijder herinnering",
             "has-reminders" : "Je hebt een herinnering ingesteld voor dit item.",
