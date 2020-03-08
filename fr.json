@@ -35,11 +35,16 @@
                 "pet" : "Compagnon",
                 "music" : "Musique",
                 "wrap" : "Emballage",
+                "banner": "Bannière",
                 "bundle" : "Paquet",
                 "misc" : "Autres"
             },
             "rarity" : {
                 "legendary" : "Légendaire",
+                "dark" : "Série Sombre",
+                "marvel" : "Série Marvel",
+                "dc" : "Série DC",
+                "icon_series" : "Série Icônes",
                 "epic" : "Épique",
                 "rare" : "Rare",
                 "uncommon" : "Atypique",
@@ -61,6 +66,7 @@
                 "reminders" : "rappels",
                 "history" : "historique"
             },
+            "guideDropdown" : "guide",
             "news" : "actualités",
             "modes" : "modes",
             "randomiser" : "randomiseur",
@@ -82,7 +88,12 @@
             "languagePicker" : {
                 "trigger" : "language",
                 "title" : "Choisissez une langue",
-                "currentLanguage" : "Vous utilisez le [language]"
+                "currentLanguage" : "Vous utilisez la langue [language]",
+                "error" : "Une erreur est survenue pendant le téléchargement du fichier de langue",
+                "authors" : "Traduit par:",
+                "cta" : "Cliquez pour changer en [language]",
+                "switching" : "Téléchargement de la langue [language]...",
+                "finished" : "Votre langue a été changée!"
             }
         },
         "home" : {
@@ -104,6 +115,30 @@
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "heure",
                 "hours-plural" : "heures"
+            },
+            "yesterday" : {
+                "title" : "La rotation de la boutique d'hier"
+            },
+            "vote" : {
+                "title" : "Qu'en pensez vous de cette boutique?",
+                "line1" : "Les votes se réinitialisent à 00:00 UTC.",
+                "line2" : "Regardez notre [politique de confidentialité](/privacy) avant de voter",
+                "choice" : {
+                    "up" : "J'adore!",
+                    "neutral" : "Bof.",
+                    "down" : "Je la hais."
+                },
+                "response" : {
+                    "success" : "Vote enregistré",
+                    "timeout" : "La requête a pris trop de temps et a expirée.",
+                    "internal" : "Erreur interne",
+                    "failover" : "La requête vers [server] a echouée, essai par défaut...",
+                    "ratelimit" : "Trop de requêtes, veuillez réessayer plus tard",
+                    "unavailable" : "Voter n'est pas disponible jusqu'a ce que la boutique change d'ici la minute à venir.",
+                    "conflict" : "Voter n'est pas possible actuellement, veuillez réessayer plus tard.",
+                    "bad-choice" : "Vote non reconnu",
+                    "no-data" : "Aucune donnée disponible - veuillez réessayer plus tard"
+                }
             }
         },
         "upcoming" : {
@@ -136,8 +171,8 @@
         },
         "news" : {
             "title" : "Actu",
-            "line1" : "Toute l'actualité sur Fortnite venant d'Epic Game. Mise à jour toutes les 2 minutes. ",
-            "error" : "Nous ne pouvions pas récupérer l'information. Veuillez réessayer plus tard.",
+            "line1" : "Toute l'actualité sur Fortnite venant d'Epic Games. Mise à jour toutes les 2 minutes.",
+            "error" : "Nous n'avons pas pu récupérer l'information. Veuillez réessayer plus tard.",
             "more-ingame-button" : "Charger plus"
         },
         "randomiser" : {
@@ -172,7 +207,8 @@
                 "last-date" : "Apparu pour la dernière fois:",
                 "occurrences" : "Nombre d'apparitions:"
             },
-            "reminder-count" : "Utilisateurs avec [rappels](/reminders):",
+            "reminder-count" : "Utilisateurs ayant un [rappel](/reminders):",
+            "app-reminder-count" : "Utilisateurs ayant un rappel sur [notre application](/app):",
             "add-reminder" : "Ajouter un rappel",
             "remove-reminder" : "Retirer le rappel",
             "has-reminders" : "Vous avez un rappel pour cet objet.",
@@ -195,13 +231,13 @@
             "popular-title" : "Objets populaires aujourd'hui"
         },
         "account" : {
-              "home" : {
+            "home" : {
                 "title" : "Les données de votre compte",
-                "error" : "Quelque chose s'est mal passé en chargeant les données de votre compte, merci de réessayer plus tard.",
+                "error" : "Quelque chose s'est mal passé en chargeant les données de votre compte, veuillez réessayer plus tard.",
                 "info" : {
                     "title" : "Information",
-                    "line1" : "Vous êtes connecté avec [provider] comme [username]",
-                    "line2-api-yes" : "Vous avez [accès api](/api/docs)",
+                    "line1" : "Vous êtes connecté avec [provider] en tant que [username]",
+                    "line2-api-yes" : "Vous avez [accès à l'API](/api/docs).",
                     "line2-api-no" : "Vous n'avez pas d'accès API."
                 },
                 "migration" : {
@@ -229,9 +265,9 @@
             },
             "username" : {
                 "title" : "Bienvenue sur fnbr.co",
-                "line1" : "Vous êtes connectez avec Discord, pour intéragir avec d'autres Utilisateurs sur notre site, il faut que vous choisissiez un pseudo.",
+                "line1" : "Vous êtes connecté avec Discord, pour intéragir avec d'autres utilisateurs sur notre site, il faut que vous choisissez un pseudo.",
                 "nameTaken" : "Ce pseudo [attemptedName] est déjà pris, nous y avons ajouté votre tag Discord et vous suggérons de l'utiliser.",
-                "randomName" : "Ce pseudo [attemptedName] est déja pris par un autre usager, il nous est malheureusement impossible de vous créer un pseudo unique utilisant votre tag discord.",
+                "randomName" : "Ce pseudo [attemptedName] est déja pris par un autre utilisateur, il nous est malheureusement impossible de vous créer un pseudo unique utilisant votre tag discord.",
                 "form-username" : "Pseudo",
                 "form-criteria" : "Veuillez choisir un pseudo contenant entre 2 et 32 caractères, pouvant contenir lettres, chiffres ainsi que traits d'union et traits de liaison.",
                 "button-text" : "Choisir mon pseudo"
@@ -249,7 +285,7 @@
                 "title" : "Compte introuvable",
                 "line1" : "Vous vous êtes connecté avec Twitter en tant que",
                 "line2" : "Cependant, ce compte n'a jamais été connecté auparavant et nous supportons la connexion via Twitter dans le seul but de migrer.",
-                "line3" : "Alternativement, vous pouvez [vous connectez avec Discord](/oauth/discord)."
+                "line3" : "Alternativement, vous pouvez [vous connecter avec Discord](/oauth/discord)."
             }
         },
         "errors" : {
