@@ -109,7 +109,7 @@
             "error" : "المتجر غير متوافر، الرجاء المحاولة بعد قليل.",
             "line1" : "المناوبة الحالية لمتجر فورتنايت طور المعركة - يتحدث كل يوم عند [00:00 جرينتش](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
             "line2" : "يمكنك رؤية متجر البارحة [هنا](/shop/yesterday|tooltip=Yesterday's Item Shop).",
-            "line3" : "Click a cosmetic to see more information about it.  Share your opinion on this shop by voting on it at the bottom of this page.",
+            "line3" : "اضغط على تجميلة لمعرفة تفاصيل أكثر حولها. شارك برأيك حول هذا المتجر بالتوصيت في أسفل هذا الصفحة.",
             "countdown" : {
                 "title" : "الأشياء الجديدة:",
                 "wordyFormat" : "[number] [noun]",
