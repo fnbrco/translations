@@ -10,6 +10,8 @@ For example `en.json` for English, `es.json` for Spanish, `pt.json` for Portugue
 The `en.json` will always be updated with the latest text to translate, so use that as a base and just translate what you can of your language!  
 If a string does not exist in the file it will default to English.  
 
+**Please note**: The website does not yet support reading from right to left, so pull requests for affected languages will be put on hold. In such cases we recommend to wait until this support is implemented before translating a language that is read from right to left.  
+
 There are a few things to remember:
 - Don't use Google Translate or other online translation tools, as these lack context and can come up with some very strange results.
 - Text inside square brackets (that's `[` and `]`) such as `[language]` needs to remain in English (unless it is followed by `(` and `)` making it a link - see below), as it is normally replaced when the page is loaded with dyanmic data such as the date.
