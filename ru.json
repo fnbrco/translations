@@ -36,7 +36,7 @@
                 "music" : "Музыка",
                 "wrap" : "Обёртка",
                 "bundle" : "Набор",
-                "misc" : "Misc"
+                "misc" : "Другое"
             },
             "rarity" : {
                 "legendary" : "Легендарный",
@@ -63,7 +63,7 @@
             },
             "news" : "новости",
             "modes" : "режимы",
-            "randomiser" : "рандомайзер",
+            "randomiser" : "случайно",
             "about" : {
                 "dropdown" : "про нас",
                 "translate" : "перевод",
