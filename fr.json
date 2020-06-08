@@ -122,7 +122,7 @@
             "vote" : {
                 "title" : "Qu'en pensez vous de cette boutique?",
                 "line1" : "Les votes se réinitialisent à 00:00 UTC.",
-                "line2" : "Regardez notre [politique de confidentialité](/privacy) avant de voter",
+                "line2" : "Lisez notre [politique de confidentialité](/privacy) avant de voter",
                 "choice" : {
                     "up" : "J'adore!",
                     "neutral" : "Bof.",
