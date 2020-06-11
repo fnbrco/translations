@@ -54,7 +54,16 @@
                 "common" : "Common"
             },
             "translationNotAvailable" : "Unfortunately there is no translation available for this page.",
-            "translationIncomplete" : "Not all text on this page will be translated"
+            "translationIncomplete" : "Not all text on this page will be translated",
+            "item-noun" : {
+                "singular" : "item",
+                "plural" : "items"
+            },
+            "result-noun" : {
+                "format" : "[number] [noun]",
+                "singular" : "result",
+                "plural" : "results"
+            }
         },
         "nav" : {
             "home" : "home",
@@ -102,9 +111,23 @@
         },
         "home" : {
             "title-upcoming" : "Upcoming Items",
+            "subtitle-upcoming" : "[number] [noun]",
+            "button-upcoming" : "View more upcoming items",
             "title-all" : "All Items",
             "error" : "Unable to retrieve items, please try again in a few moments.",
             "error-too-long" : "This is taking longer than expected"
+        },
+        "search" : {
+            "button-text" : "Search Items",
+            "button-text-cancel" : "Cancel Search",
+            "placeholder" : "Search for an item...",
+            "response" : {
+                "error-format" : "Error: [message]",
+                "no-results" : "Nothing matched your search",
+                "conflict" : "No arguments given",
+                "bad-request" : "Invalid search query",
+                "ratelimit" : "Too many requests, please try again in a few moments"
+            }
         },
         "shop" : {
             "title" : "Current Rotation",
