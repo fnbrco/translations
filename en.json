@@ -39,11 +39,15 @@
                 "misc" : "Misc"
             },
             "rarity" : {
+                "frozen" : "Frozen",
+                "lava" : "Lava",
                 "legendary" : "Legendary",
                 "dark" : "Dark",
                 "marvel" : "Marvel",
                 "dc" : "DC",
                 "icon_series" : "Icon Series",
+                "slurp" : "Slurp",
+                "shadow" : "Shadow",
                 "epic" : "Epic",
                 "rare" : "Rare",
                 "uncommon" : "Uncommon",
@@ -58,6 +62,7 @@
             "cosmetics" : {
                 "dropdown" : "cosmetics",
                 "upcoming" : "upcoming",
+                "sets" : "item sets",
                 "list" : "list",
                 "png" : "png",
                 "gallery" : "gallery",
