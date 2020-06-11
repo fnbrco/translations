@@ -40,18 +40,31 @@
                 "misc" : "Sonstige"
             },
             "rarity" : {
+                "frozen" : "Gefroren",
+                "lava" : "Lava",
                 "legendary" : "Legendär",
                 "dark" : "Dunkel",
                 "marvel" : "Marvel",
                 "dc" : "DC",
                 "icon_series" : "Ikonen-Serie",
+                "slurp" : "Schlürf",
+                "shadow" : "Schatten",
                 "epic" : "Episch",
                 "rare" : "Selten",
                 "uncommon" : "Ungewöhnlich",
                 "common" : "Gewöhnlich"
             },
             "translationNotAvailable" : "Leider ist für diese Seite keine Übersetzung verfügbar.",
-            "translationIncomplete" : "Nicht alle Texte auf dieser Seite sind übersetzt"
+            "translationIncomplete" : "Nicht alle Texte auf dieser Seite sind übersetzt",
+            "item-noun" : {
+                "singular" : "Gegenstand",
+                "plural" : "Gegenstände"
+            },
+            "result-noun" : {
+                "format" : "[number] [noun]",
+                "singular" : "Ergebnis",
+                "plural" : "Ergebnisse"
+            }
         },
         "nav" : {
             "home" : "startseite",
@@ -59,6 +72,7 @@
             "cosmetics" : {
                 "dropdown" : "kosmetika",
                 "upcoming" : "bald verfügbar",
+                "sets" : "gegenstand-sets",
                 "list" : "liste",
                 "png" : "png",
                 "gallery" : "galerie",
@@ -98,9 +112,23 @@
         },
         "home" : {
             "title-upcoming" : "Bald verfügbare Gegenstände",
+            "subtitle-upcoming" : "[number] [noun]",
+            "button-upcoming" : "Weitere bald verfügbare Gegenstände anzeigen",
             "title-all" : "Alle Gegenstände",
             "error" : "Fehler beim Abrufen der Gegenstände, bitte versuche es in wenigen Augenblicken noch einmal.",
             "error-too-long" : "Das dauert länger als erwartet"
+        },
+        "search" : {
+            "button-text" : "Gegenstände suchen",
+            "button-text-cancel" : "Suche abbrechen",
+            "placeholder" : "Einen Gegenstand suchen...",
+            "response" : {
+                "error-format" : "Fehler: [message]",
+                "no-results" : "Nichts entsprach deiner Suche",
+                "conflict" : "Keine Argumente angegeben",
+                "bad-request" : "Ungültige Suchanfrage",
+                "ratelimit" : "Zu viele Anfragen, bitte versuche es in wenigen Augenblicken erneut"
+            }
         },
         "shop" : {
             "title" : "Aktuelle Rotation",
