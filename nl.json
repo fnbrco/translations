@@ -40,14 +40,31 @@
                 "misc" : "Overig"
             },
             "rarity" : {
+                "frozen" : "Bevroren",
+                "lava" : "Lava",
                 "legendary" : "Legendarisch",
+                "dark" : "Donker",
+                "marvel" : "Marvel",
+                "dc" : "DC",
+                "icon_series" : "Icoon Series",
+                "slurp" : "Slurp",
+                "shadow" : "Schaduw",
                 "epic" : "Episch",
                 "rare" : "Zeldzaam",
                 "uncommon" : "Ongewoon",
                 "common" : "Gewoon"
             },
             "translationNotAvailable" : "Er is geen vertaling beschikbaar voor deze pagina.",
-            "translationIncomplete" : "Niet alle tekst op deze pagina is vertaald."
+            "translationIncomplete" : "Niet alle tekst op deze pagina is vertaald.",
+            "item-noun" : {
+                "singular" : "item",
+                "plural" : "items"
+            },
+            "result-noun" : {
+                "format" : "[number] [noun]",
+                "singular" : "resultaat",
+                "plural" : "resultaten"
+            }
         },
         "nav" : {
             "home" : "home",
@@ -55,6 +72,7 @@
             "cosmetics" : {
                 "dropdown" : "cosmetica",
                 "upcoming" : "aankomend",
+                "sets" : "item sets",
                 "list" : "lijst",
                 "png" : "png",
                 "gallery" : "gallerij",
@@ -94,9 +112,23 @@
         },
         "home" : {
             "title-upcoming" : "Aankomende items",
+            "subtitle-upcoming" : "[number] [noun]",
+            "button-upcoming" : "Laat meer aankomende items zien",
             "title-all" : "Alle Items",
             "error" : "We kunnen de items niet ophalen, probeer het later opnieuw.",
             "error-too-long" : "Dit duurt langer dan gedacht..."
+        },
+     "search" : {
+            "button-text" : "Zoek Items",
+            "button-text-cancel" : "Zoeken Annuleren",
+            "placeholder" : "Zoek naar een item...",
+            "response" : {
+                "error-format" : "Er is een fout opgetreden: [message]",
+                "no-results" : "Niets kwam overeen met je zoekopdracht",
+                "conflict" : "Geen argumenten gegeven",
+                "bad-request" : "Ongeldige zoekopdracht",
+                "ratelimit" : "Te veel verzoeken, probeer het later opnieuw"
+            }
         },
         "shop" : {
             "title" : "Huidige Winkel",
