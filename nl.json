@@ -55,7 +55,7 @@
                 "common" : "Gewoon"
             },
             "translationNotAvailable" : "Er is geen vertaling beschikbaar voor deze pagina.",
-            "translationIncomplete" : "Niet alle tekst op deze pagina is vertaald."
+            "translationIncomplete" : "Niet alle tekst op deze pagina is vertaald.",
             "item-noun" : {
                 "singular" : "item",
                 "plural" : "items"
