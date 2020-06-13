@@ -40,18 +40,31 @@
                 "misc" : "음악"
             },
             "rarity" : {
+                "frozen" : "얼어붙은 시리즈",
+                "lava" : "용암 시리즈",                
                 "legendary" : "전설",
-                "dark" : "암흑",
-                "marvel" : "마블",
-                "dc" : "DC",
+                "dark" : "암흑 시리즈",
+                "marvel" : "마블 시리즈",
+                "dc" : "DC 시리즈",
                 "icon_series" : "아이콘 시리즈",
+                "slurp" : "홀짝주스 시리즈",
+                "shadow" : "그림자 시리즈",                
                 "epic" : "에픽",
                 "rare" : "희귀",
                 "uncommon" : "고급",
                 "common" : "일반"
             },
-            "translationNotAvailable" : "아쉽게도 이 페이지에 대한 번역이 없습니다.",
-            "translationIncomplete" : "이 페이지의 일부 내용이 번역되지 않았습니다."
+            "translationNotAvailable" : "이 페이지에 대한 번역이 없습니다.",
+            "translationIncomplete" : "이 페이지의 일부 내용이 번역되지 않았습니다.",
+            "item-noun" : {
+                "singular" : "아이템",
+                "plural" : "아이템"
+            },
+            "result-noun" : {
+                "format" : "[number]개의 [noun]",
+                "singular" : "결과",
+                "plural" : "결과"
+            }
         },
         "nav" : {
             "home" : "홈",
@@ -59,6 +72,7 @@
             "cosmetics" : {
                 "dropdown" : "아이템",
                 "upcoming" : "곧 출시",
+                "sets" : "아이템 세트",
                 "list" : "목록",
                 "png" : "png",
                 "gallery" : "갤러리",
@@ -98,9 +112,23 @@
         },
         "home" : {
             "title-upcoming" : "곧 출시",
+            "subtitle-upcoming" : "[number]개의 [noun]",
+            "button-upcoming" : "곧 출시하는 아이템 더 보기",            
             "title-all" : "모든 아이템",
             "error" : "아이템을 불러오는 중 오류가 발생하였습니다. 잠시 후에 다시 시도해주세요.",
             "error-too-long" : "예상보다 오래 걸리고 있습니다."
+        },
+        "search" : {
+            "button-text" : "아이템 검색",
+            "button-text-cancel" : "검색 취소",
+            "placeholder" : "검색할 항목을 입력하세요...",
+            "response" : {
+                "error-format" : "오류: [message]",
+                "no-results" : "검색어와 일치하는 항목이 없습니다.",
+                "conflict" : "주어진 인수가 없습니다.",
+                "bad-request" : "잘못된 검색어입니다.",
+                "ratelimit" : "요청이 너무 많습니다. 잠시 후에 다시 시도해 주세요."
+            }
         },
         "shop" : {
             "title" : "현재 상점",
