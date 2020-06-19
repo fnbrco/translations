@@ -4,7 +4,7 @@
     "live" : true,
     "translations" : {
         "meta" : {
-            "thForDate" : false,
+            "thForDate" : true,
             "dateFormat" : "[date] [month] [year]",
             "months" : [
                 "Ocak",
@@ -28,47 +28,67 @@
                 "loading" : "Yükleme Ekranı",
                 "outfit" : "Kıyafet",
                 "pickaxe" : "Toplama Aleti",
-                "skydive" : "Dalış İzi",
+                "skydive" : "Dalış izi",
                 "umbrella" : "Şemsiye",
                 "spray" : "Sprey",
                 "toy" : "Oyuncak",
-                "pet" : "Sadık Dost",
+                "pet" : "Sadık dost",
                 "music" : "Müzik",
                 "wrap" : "Kaplama",
+                "banner" : "Sancak",
                 "bundle" : "Paket",
                 "misc" : "Çeşitli"
             },
             "rarity" : {
+                "frozen" : "Donmuş Seri",
+                "lava" : "Lav Serisi",
                 "legendary" : "Efsanevi",
+                "dark" : "Karanlık serisi",
+                "marvel" : "Marvel serisi",
+                "dc" : "DC serisi",
+                "icon_series" : "Yıldızlar Serisi",
+                "slurp" : "Mavi Gazoz Serisi",
+                "shadow" : "Gölge Serisi",
                 "epic" : "Destansı",
                 "rare" : "Nadir",
                 "uncommon" : "Sıradışı",
                 "common" : "Yaygın"
             },
-            "translationNotAvailable" : "Ne yazık ki bu sayfa için çeviri bulunmamaktadır.",
-            "translationIncomplete" : "Bu sayfadaki tüm metinler çevrilmeyecek"
+            "translationNotAvailable" : "Üzgünüz Bu sayfa için çeviri yok.",
+            "translationIncomplete" : "bu sayfadaki yazıların hepsi çevirilmedi",
+            "item-noun" : {
+                "singular" : "eşya",
+                "plural" : "eşyalar"
+            },
+            "result-noun" : {
+                "format" : "[number] [noun]",
+                "singular" : "sonuç",
+                "plural" : "sonuçlar"
+            }
         },
         "nav" : {
-            "home" : "anasayfa",
-            "shop" : "mağaza",
+            "home" : "Ana Sayfa",
+            "shop" : "İçerik Mağzası",
             "cosmetics" : {
-                "dropdown" : "kozmetik",
-                "upcoming" : "yaklaşan",
+                "dropdown" : "kozmetikler",
+                "upcoming" : "yaklaşan eşyalar",
+                "sets" : "eşya setleri",
                 "list" : "liste",
                 "png" : "png",
                 "gallery" : "galeri",
-                "icons" : "ikonlar",
+                "icons" : "icons",
                 "reminders" : "hatırlatıcılar",
                 "history" : "mağaza geçmişi"
             },
+            "guideDropdown" : "rehberler",
             "news" : "haberler",
-            "modes" : "modlar",
-            "randomiser" : "randomizer",
+            "modes" : "Modlar",
+            "randomiser" : "rastgele",
             "about" : {
                 "dropdown" : "hakkında",
                 "translate" : "çeviri",
                 "about" : "fnbr.co hakkında",
-                "privacy" : "gizlilik politikası",
+                "privacy" : "Gizlilik Politikası",
                 "donate" : "Bağış",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
@@ -77,198 +97,234 @@
             "account" : {
                 "dropdown" : "hesap",
                 "account" : "hesap",
-                "logout" : "çıkış"
+                "logout" : "Çıkış Yap"
             },
             "languagePicker" : {
-                "trigger" : "language",
-                "title" : "Dil Seçiniz",
-                "currentLanguage" : "Şu anda [language] kullanıyorsunuz.",
-                "error" : "Dil dosyası indirilirken hata oluştu",
-                "authors" : "Tercüme eden:",
-                "cta" : "[language] geçmek için tıklayın",
+                "trigger" : "Dil",
+                "title" : "Dil Seç",
+                "currentLanguage" : "Şuanda [language] dilini Kullanıyorsunuz",
+                "error" : "Dil dosysını indirirken bir sorun oluştu",
+                "authors" : "Çevirmen:",
+                "cta" : "[language] Diline Geçmek için tıklayın",
                 "switching" : "İndiriliyor [language]...",
-                "finished" : "Diliniz değiştirildi!"
+                "finished" : "Dilin Başarıyla değiştirildi!"
             }
         },
         "home" : {
             "title-upcoming" : "Yaklaşan Eşyalar",
-            "title-all" : "Tüm eşyalar",
-            "error" : "Eşyalar alınamıyor, lütfen birkaç dakika sonra tekrar deneyin.",
-            "error-too-long" : "Bu beklenenden daha uzun sürüyor"
+            "subtitle-upcoming" : "[number] [noun]",
+            "button-upcoming" : "Daha fazla Yaklaşan eşya.",
+            "title-all" : "Tüm eşyalar.",
+            "error" : "Bu eşyayı bulamıyoruz, biraz bekledikten sonra tekrar dene.",
+            "error-too-long" : "Olamaz... bu beklediğimizden uzun sürdü."
+        },
+        "search" : {
+            "button-text" : "Eşya ara",
+            "button-text-cancel" : "Aramayı iptal et",
+            "placeholder" : "Arıyorum...",
+            "response" : {
+                "error-format" : "Hata: [message]",
+                "no-results" : "Böyle bir eşya yok galiba",
+                "conflict" : "Önce bir şey yazman gerek",
+                "bad-request" : "Üzgünüm, bunu yapamam.",
+                "ratelimit" : "Çok fazla istek alıyoruz, biraz sonra tekrar denermisin."
+            }
         },
         "shop" : {
-            "title" : "Güncel Rotasyon",
-            "title-featured" : "Öne çıkan",
+            "title" : "Güncel İçerik mağzası",
+            "title-featured" : "Öne Çıkan",
             "title-daily" : "Günlük",
-            "error" : "Mağaza mevcut değil, lütfen birkaç dakika sonra tekrar deneyin",
-            "line1" : "Fortnite Battle Royale için güncel eşya dükkanı rotasyonu -  her gün [00:00 UTC] güncellenir (https://time.is/UTC|tooltip=UTC geçerli saati|newtab=true).",
-            "line2" : "Dünün eşya mağazasını görebilirsiniz [burada](/shop/yesterday|tooltip=Dünün Eşya Mağazası).",
-            "line3" : "Bu konuda daha fazla bilgi görmek için bir kozmetike tıklayın.",
+            "error" : "İçerik Mağzası şuanda uygun değil, lütfen biraz sonra tekrar dene",
+            "line1" : "Fortnite Battle Royale için güncel içerik mağzası - Hergün [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true)de Güncellenir.",
+            "line2" : "Dünkü İçerik mağzasını görmek için [Bana](/shop/yesterday|tooltip=Dünün eşya mağzası) Tıkla.",
+            "line3" : "Kozmetik hakkında ayrıntılı bilig için üstüne tıklayın.",
             "countdown" : {
-                "title" : "Yeni eşyalar:",
+                "title" : "Yeni Eşyalar:",
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "saat",
                 "hours-plural" : "saatler"
             },
             "yesterday" : {
-                "title" : "Dünkü Mağaza Rotasyonu"
+                "title" : "Dünün içerik mağzası"
+            },
+            "vote" : {
+                "title" : "Bugünkü Mağaza sizce nasıl?",
+                "line1" : "This resets daily at 00:00 UTC.",
+                "line2" : "Oy Vermeden önce [Gizlilik Politikası](/privacy) nı okumanızı öneririz",
+                "choice" : {
+                    "up" : "Beğendim!",
+                    "neutral" : "Kararsızım.",
+                    "down" : "Nefret Ettim."
+                },
+                "response" : {
+                    "success" : "Oylaman Kaydedildi",
+                    "timeout" : "istek çok uzun sürdü",
+                    "internal" : "Hata",
+                    "failover" : "Request to [server] failed, retrying on default...",
+                    "ratelimit" : "Çok fazla istek aldık, daha sonra tekrar deneyin.",
+                    "unavailable" : "Oylama şuanda mümkün değil mağaza birkaç dakika içerisinde yenilenicektir",
+                    "conflict" : "Oylama şuan mümkün değil, Lütfen daha sonra tekrar deneyin.",
+                    "bad-choice" : "Kötü seçim",
+                    "no-data" : "Veri şuanda yok - lütfen biraz sonra tekrar deneyin"
+                }
             }
         },
         "upcoming" : {
-            "title" : "Yaklaşan Kozmetikler",
-            "line1" : "Fortnite Battle Royale'deki yayınlanmamış eşyalar."
-        },
-        "png" : {
-            "title" : "Kozmetik PNG",
-            "line1" : "Bu resimlerden birini kullanıyorsanız, lütfen fnbr.co'a kaynak gösterin. Önizlemeler küçültülür, indirmeler tam boy olur.",
-            "sort-by" : "Şuna göre sırala:",
-            "all" : "Tümü"
-        },
-        "gallery" : {
-            "title" : "Kozmetik Galerisi",
-            "line1" : "Fortnite Battle Royale'de mevcut her kozmetik.",
-            "line2" : "Lütfen bu görüntüleri fnbr.co'a doğrudan kaynak vermeden kişisel web sitenizde / sosyal medya hesabınızda kullanmayın."
-        },
-        "icons" : {
-            "title" : "Fortnite Battle Royale İkonlar",
-            "line1" : "Tüm resimler Epic Games'e aittir."
-        },
-        "item" : {
-            "unreleased" : "Yayınlanmadı",
-            "description" : "Açıklama",
-            "history" : {
-                "title" : "Mağaza Tarihi",
-                "release-never" : "Çıkış tarihi: Asla",
-                "release-date" : "Çıkış tarihi:",
-                "last-never" : "Son görülen: Asla",
-                "last-date" : "Son görülen:",
-                "occurrences" : "Çıkma:"
-            },
-            "reminder-count" : "[Hatırlatıcı](/reminders)'sı olan kullanıcılar:",
-            "add-reminder" : "Hatırlatıcı Ekle",
-            "remove-reminder" : "Hatırlatıcıyı Sil",
-            "has-reminders" : "Bu öğe için ayarlanmış hatırlatıcılarınız var.",
-            "no-reminders" : "Bu öğe için hatırlatıcı kullanılamaz.",
-            "images" : "Görüntüler",
-            "images-icon" : "İkon",
-            "images-png" : "PNG",
-            "images-gallery" : "Galeri",
-            "images-featured" : "Öne çıkan",
-            "interest-title" : "Zamanla İlgi",
-            "interest-line1" : "Bu, zaman içinde bu öğeye olan ilgiyi temsil eder, %100 en popüler zaman.",
-            "interest-line2" : "Bugün için veriler eksik olabilir",
-            "occurrences-table" : {
-                "title" : "Dükkan Oluşumları",
-                "th-date" : "Tarih",
-                "th-days" : "Gün Önce"
-            },
-            "set" : "Set",
-            "set-name" : "[name] Bir Parçası",
-            "popular-title" : "Bugün Popüler Eşyalar"
+            "title" : "Yaklaşan eşyalar",
+            "line1" : "Fortnite Battle Royale deki Tüm Yayınlanmamış Kozmetikler"
         },
         "list" : {
             "title" : "Kozmetik Listesi",
-            "line1" : "Fortnite Battle Royale'deki mevcut tüm kozmetikler.",
+            "line1" : "Fortnite Battle Royale deki tüm kozmetikler",
             "table" : {
-                "icon" : "İkon",
-                "name" : "İsim",
-                "type" : "Tip",
+                "icon" : "Icon",
+                "name" : "İsmi",
+                "type" : "Tipi",
                 "rarity" : "Enderlik",
                 "obtained" : "Edinme"
             }
         },
         "history" : {
             "list" : {
-                "title" : "Eşya Mağazası Geçmişi",
-                "line1" : "Fortnite Battle Royale için eşya dükkanının son 8 günü.",
+                "title" : "İçerik Mağzası Geçmişi",
+                "line1" : "Battle Royale için 8 Günlük mağaza geçmişi",
                 "line2" : "Dükkanın tamamını görmek için bir tanesine tıklayın veya gün boyunca tam ürün mağazası geçmişini görüntülemek için kaydırın."
             },
             "view" : {
-                "title" : "Mağaza Rotasyonu",
-                "line1" : "Bu, Fortnite Battle Royale için [date] item shop rotasyonu.",
-                "line2" : "Bu konuda daha fazla bilgi görmek için bir kozmetike tıklayın.",
-                "today-button" : "Günün Eşya Mağazası"
+                "title" : "İçerik Mağzası Rotasyonu",
+                "line1" : "This is the item shop rotation of [date] for Fortnite Battle Royale. ",
+                "line2" : "Click a cosmetic to see more information about it.",
+                "today-button" : "Today's Item Shop"
             }
         },
         "news" : {
             "title" : "Haberler",
             "line1" : "Mevcut oyun içi haberler, Epic Games'ten geliyor. Her dakika güncellenir.",
             "error" : "Fortnite'den haber alamadık, kısa bir süre sonra tekrar deneyeceğiz.",
-            "more-ingame-button" : "Daha Fazla Yükle"
+            "more-ingame-button" : "Daha fazla"
         },
         "randomiser" : {
-            "title" : "Randomizer",
-            "line1" : "Mevcut her öğeden rastgele bir eşya seçin.",
-            "chooseText" : "Seçmek için tıklayın",
-            "randomise-all" : "Tümü Rastgele"
+            "title" : "Rastgele",
+            "line1" : "Battle Royale deki eşyalardan rastgele seçin.",
+            "chooseText" : "Tıkla ve Seç",
+            "randomise-all" : "Hepsini Karıştır"
+        },
+        "png" : {
+            "title" : "PNG Kozmetikler",
+            "line1" : "Lütfen kullanırken fnbr.co dan bahsedin.",
+            "sort-by" : "Filtrele:",
+            "all" : "Hepsi"
+        },
+        "gallery" : {
+            "title" : "Kozmetik Galerisi",
+            "line1" : "Fortnite Battle Royale deki Tüm kozmetikler",
+            "line2" : "Lütfen kişisel Web sitenizde/Sosyal medya hesabınızda fnbr.co etiketi olmadan paylaşmayın"
+        },
+        "icons" : {
+            "title" : "Fortnite Battle Royale Ikonları",
+            "line1" : "Tüm Resimler Epic Games Tarafından sağlanmaktadır."
+        },
+        "item" : {
+            "unreleased" : "Yayımlanmadı",
+            "description" : "Açıkalama",
+            "history" : {
+                "title" : "Mağaza Geçmişi",
+                "release-never" : "Çıkış Tarihi: Asla",
+                "release-date" : "Çıkış Tarihi:",
+                "last-never" : "Son Görülme: Asla",
+                "last-date" : "Son Görülme:",
+                "occurrences" : "Toplam Gelme:"
+            },
+            "reminder-count" : "Discord da [Hatırlatıcısı](/reminders) olan kullanıcılar:",
+            "app-reminder-count" : "Telefon [Uygulamasında](/app) Hatırlatıcısı olanlar:",
+            "add-reminder" : "Hatırlatıcı Ekle",
+            "remove-reminder" : "Hatırlatıcı Sil",
+            "has-reminders" : "Bu eşya için hatırlatıcınız var.",
+            "no-reminders" : "Hatırlatıcılar bu eşya için için geçerli değil.",
+            "images" : "Resimler",
+            "images-icon" : "Ikon",
+            "images-png" : "PNG",
+            "images-gallery" : "Galeri",
+            "images-featured" : "Öne Çıkan",
+            "interest-title" : "İlgi Seviyesi",
+            "interest-line1" : "Bu Zaman içindeki öğenin Popülerliğini gösterir, %100 en popüler zamandır.",
+            "interest-line2" : "Bugünkü Veriler eksik olabilir",
+            "occurrences-table" : {
+                "title" : "İçerik Mağzası Geçmişi",
+                "th-date" : "Tarih",
+                "th-days" : "Gün önce"
+            },
+            "set" : "Seti",
+            "set-name" : "Setin Parçası: [name]",
+            "popular-title" : "Bugünün Popüler Eşyaları"
         },
         "account" : {
             "home" : {
-                "title" : "Sizin Hesap Verileriniz",
-                "error" : "Hesap verilerinizi yüklerken bir şeyler ters gitti, lütfen daha sonra tekrar deneyin.",
+                "title" : "Senin Hesap Bilgilerin",
+                "error" : "Hesap bilgilerini yüklerken bir sorun oluştu, lütfen daha sonra tekrar dene.",
                 "info" : {
-                    "title" : "Bilgi",
-                    "line1" : "[provider] ile [username] olarak giriş yaptınız",
-                    "line2-api-yes" : "Sizin [api erişiminiz](/api/docs) var",
-                    "line2-api-no" : "Sizin api erişiminiz yok."
+                    "title" : "Bilgilendirme",
+                    "line1" : "Şuanda [provider] ile [username] ismini kullanarak giriş yaptın",
+                    "line2-api-yes" : "[API Erişimin](/api/docs)var",
+                    "line2-api-no" : "API erişimin yok"
                 },
                 "migration" : {
                     "title" : "Eski Hesaplar",
                     "waiting-line1" : "Giriş için Discord kullanımına geçtik.",
-                    "waiting-line2" : "2018'ten bir hesabınız varsa, bununla birleştirmek için onunla giriş yapmanız gerekecektir",
+                    "waiting-line2" : "2018'den bir hesabınız varsa, bununla birleştirmek için onunla giriş yapmanız gerekecektir",
                     "twitter-line1" : "Giriş için Discord kullanmaya geçtik. Şu anda, gelecekte durdurulabilecek ve sınırlı bir işlevselliğe sahip eski bir hesap kullanıyorsunuz.",
                     "twitter-line2" : "Bir Discord hesabına geçmek için aşağıdaki düğmeye tıklayın"
                 },
                 "ratings" : {
                     "title" : "Puanlamalar",
-                    "none" : "Hiçbir puanlamanız yok."
+                    "none" : "Hiçbir şeye puan vermemişsiniz."
                 },
                 "destroy" : {
-                    "title" : "Hesabı Yok Et",
-                    "line1" : "Artık hesabınızı istemiyorsanız, [buradan](/account/destroy) tüm verileri silebilirsiniz"
+                    "title" : "Hesabımı Sil",
+                    "line1" : "Artık hesabınızı istemiyorsanız, Tüm bilgilerinizi [Buradan](/account/destroy) silebilirsiniz."
                 }
             },
             "oauth" : {
-                "title" : "fnbr.co'ya giriş yapın",
-                "discord-button" : "Discord ile giriş yap",
-                "legacy-text" : "Alternatif olarak, 2018’den kalma bir hesabınız varsa:",
-                "twitter-button" : "Twitter ile giriş yap",
+                "title" : "fnbr.co ya giriş yap",
+                "discord-button" : "Discord ile giriş Yap",
+                "legacy-text" : "Alternatif olarak, 2018 den kalma hesabınız varsa:",
+                "twitter-button" : "Twitter",
                 "privacy-text" : "Giriş yaparak, hesabımızda belirtilmiş olan ve hesabımızda belirtilen verileri kaydetmemizi kabul edersiniz [Gizlilik Politikası](/privacy)."
             },
             "username" : {
-                "title" : "fnbr.co'ya Hoşgeldiniz",
-                "line1" : "Discord'la giriş yaptınız, sitemizdeki diğer kullanıcılarla etkileşimde bulunmak için bir kullanıcı adı seçmeniz gerekiyor",
-                "nameTaken" : "Kullanıcı adınız [attemptedName] başka bir kullanıcı tarafından alındı, Discord ayırıcınızı buna ekledik ve kullanmanızı öneririz.",
-                "randomName" : "Kullanıcı adınız [attemptedName] başka bir kullanıcı tarafından alındı, Discord ayırıcınızı kullanarak benzersiz bir ad oluşturamadık.",
-                "form-username" : "Kullanıcı adı",
-                "form-criteria" : "Lütfen alfa nümerik karakterlerin yanı sıra alt çizgi ve kısa çizgiler de içerebilen 2 ila 32 karakter arasında bir kullanıcı adı seçin.",
+                "title" : "fnbr.co ya Hoşgeldiniz!",
+                "line1" : "Discord ile giriş yaptın, Sitemizde diğer kullanıcılar la etkileşime geçmek için kullanıcı adı belirlemen gerek",
+                "nameTaken" : "Senin Kullanıcı adın [attemptedName] Başka bir üye tarafından alınmış, Discord ayırıcınızı buna ekledik ve kullanmanızı öneririz.",
+                "randomName" : "Senin Kullanıcı adın [attemptedName] Başka bir üye tarafından alınmış, Discord ayırıcınızı kullanarak benzersiz bir ad oluşturamadık.",
+                "form-username" : "Username",
+                "form-criteria" : "Lütfen alfa nümerik karakterlerin yanı sıra alt çizgi ve kısa çizgiler de içerebilen 2 ila 32 karakter arasında bir kullanıcı adı seçin",
                 "button-text" : "Kullanıcı adımı ayarla"
             },
             "locked" : {
-                "title" : "Giriş yapılamıyor",
-                "line1" : "fnbr.co sitesine giriş yapamazsınız çünkü [hesabınız kilitlendi](class=text-danger)."
+                "title" : "Giriş yapamıyorsun",
+                "line1" : "fnbr.co ya giriş yapamıyorsun çünkü Hesabın [Kilitlenmiş](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Hesap taşındı",
                 "line1" : "Twitter ile giriş yaptınız",
-                "line2" : "Ancak, bu hesap Discord girişini kullanmak için taşınmış."
+                "line2" : "Ama, Giriş bilgileriniz discord a taşındı ."
             },
             "notFound" : {
-                "title" : "Hesap bulunamadı",
+                "title" : "Böyle bir hesap bulunamadı",
                 "line1" : "Twitter ile giriş yaptınız",
                 "line2" : "Ancak, bu hesap daha önce hiç giriş yapmadı ve şimdi yalnızca Discord girişini destekliyoruz.",
-                "line3" : "Alternatif olarak, [Discord ile giriş](/oauth/discord) yapabilirsiniz."
+                "line3" : "Alternatif olarak, [Discord ile](/oauth/discord)."
             }
         },
         "errors" : {
             "404" : {
-                "title" : "Hata",
-                "line1" : "İstediğiniz kaynak mevcut değil veya görüntüleme izniniz yok."
+                "title" : "Hata!",
+                "line1" : "İstediğiniz sayfa mevcut değil veya görüntüleme izniniz yok."
             },
             "500" : {
-                "title" : "Uh oh!",
-                "line1" : "İsteğiniz işlenirken bir şeyler ters gitti, lütfen daha sonra tekrar deneyin!",
-                "line2" : "[Burdan](/oauth) tekrar giriş yapmayı deneyebilirsiniz."
+                "title" : "ah olamaz!",
+                "line1" : "Olamaz! Bir sorun var galiba , Lütfen daha sonra tekrar dene!",
+                "line2" : "Tekrar giriş yapmayı deneyebilirsin [Buradan](/oauth)."
             }
         }
     }
