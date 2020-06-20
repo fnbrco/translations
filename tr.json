@@ -54,8 +54,8 @@
                 "uncommon" : "Sıradışı",
                 "common" : "Yaygın"
             },
-            "translationNotAvailable" : "Üzgünüz Bu sayfa için çeviri yok.",
-            "translationIncomplete" : "bu sayfadaki yazıların hepsi çevirilemedi",
+            "translationNotAvailable" : "Üzgünüz bu sayfa için türkçe dil desteği yok.",
+            "translationIncomplete" : "Üzgünüz bu sayfadaki yazıların hepsi türkçe değil.",
             "item-noun" : {
                 "singular" : "eşya",
                 "plural" : "eşyalar"
@@ -95,17 +95,17 @@
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "hesap",
-                "account" : "hesap",
+                "dropdown" : "Hesap",
+                "account" : "Hesap",
                 "logout" : "Çıkış Yap"
             },
             "languagePicker" : {
                 "trigger" : "Dil",
                 "title" : "Dil Seç",
-                "currentLanguage" : "Şuanda [language] dilini Kullanıyorsunuz",
-                "error" : "Dil dosysını indirirken bir sorun oluştu",
+                "currentLanguage" : "Şuanda [language] dilini Kullanıyorsunuz.",
+                "error" : "Dil dosysını indirirken bir sorun oluştu.",
                 "authors" : "Çevirmen:",
-                "cta" : "[language] Diline Geçmek için tıklayın",
+                "cta" : "[language] Diline Geçmek için tıklayın.",
                 "switching" : "İndiriliyor [language]...",
                 "finished" : "Dilin Başarıyla değiştirildi!"
             }
@@ -113,19 +113,19 @@
         "home" : {
             "title-upcoming" : "Yaklaşan Eşyalar",
             "subtitle-upcoming" : "[number] [noun]",
-            "button-upcoming" : "Daha fazla Yaklaşan eşya.",
-            "title-all" : "Tüm eşyalar.",
+            "button-upcoming" : "Daha fazla Yaklaşan eşya",
+            "title-all" : "Tüm eşyalar",
             "error" : "Bu eşyayı bulamıyoruz, biraz bekledikten sonra tekrar dene.",
             "error-too-long" : "Olamaz... bu beklediğimizden uzun sürdü."
         },
         "search" : {
-            "button-text" : "Eşya ara",
-            "button-text-cancel" : "Aramayı iptal et",
+            "button-text" : "Eşya ara.",
+            "button-text-cancel" : "Aramayı iptal et.",
             "placeholder" : "Arıyorum...",
             "response" : {
                 "error-format" : "Hata: [message]",
-                "no-results" : "Böyle bir eşya yok galiba",
-                "conflict" : "Önce bir şey yazman gerek",
+                "no-results" : "Böyle bir eşya yok galiba.",
+                "conflict" : "Önce bir şey yazman gerek.",
                 "bad-request" : "Üzgünüm, bunu yapamam.",
                 "ratelimit" : "Çok fazla istek alıyoruz, biraz sonra tekrar denermisin."
             }
@@ -135,7 +135,7 @@
             "title-featured" : "Öne Çıkan",
             "title-daily" : "Günlük",
             "error" : "İçerik Mağazası şuanda uygun değil, lütfen biraz sonra tekrar dene.",
-            "line1" : "Fortnite Battle Royale için güncel içerik mağaza - Hergün [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true)de Güncellenir.",
+            "line1" : "Fortnite Battle Royale için güncel içerik mağaza - Hergün [00:00 UTC](https://time.is/UTC|tooltip=Şuanki Zaman UTC|newtab=true)de Güncellenir.",
             "line2" : "Dünkü İçerik Mağazasını görmek için [Bana](/shop/yesterday|tooltip=Dünün eşya mağazası) Tıkla.",
             "line3" : "Kozmetik hakkında ayrıntılı bilgi için üstüne tıklayın.",
             "countdown" : {
@@ -188,11 +188,11 @@
             "list" : {
                 "title" : "İçerik Mağazası Geçmişi",
                 "line1" : "Battle Royale için 8 Günlük mağaza geçmişi",
-                "line2" : "Dükkanın tamamını görmek için bir tanesine tıklayın veya gün boyunca tam ürün mağazası geçmişini görüntülemek için kaydırın."
+                "line2" : "Dükkanın tamamını görmek için bir tanesine tıklayın veya istediğiniz güne bakmak için aşağıya kaydırın."
             },
             "view" : {
                 "title" : "İçerik Mağazası Rotasyonu",
-                "line1" : "[date] Tarihinin İçerik mağazası . ",
+                "line1" : "[date] Tarihinin İçerik mağazası.",
                 "line2" : "Kozmetiğin üstüne tıklayarak daha ayrıntılı bilgi al.",
                 "today-button" : "Bugünün içerik mağazası"
             }
@@ -218,7 +218,7 @@
         "gallery" : {
             "title" : "Kozmetik Galerisi",
             "line1" : "Fortnite Battle Royale deki Tüm kozmetikler",
-            "line2" : "Lütfen kişisel Web sitenizde/Sosyal medya hesabınızda fnbr.co etiketi olmadan paylaşmayın"
+            "line2" : "Lütfen kişisel Web sitenizde/Sosyal medya hesabınızda fnbr.co etiketi olmadan paylaşmayın."
         },
         "icons" : {
             "title" : "Fortnite Battle Royale Ikonları",
