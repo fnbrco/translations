@@ -4,7 +4,7 @@
     "live" : true,
     "translations" : {
         "meta" : {
-            "thForDate" : true,
+            "thForDate" : false,
             "dateFormat" : "[date] [month] [year]",
             "months" : [
                 "Ocak",
@@ -67,8 +67,8 @@
             }
         },
         "nav" : {
-            "home" : "Ana Sayfa",
-            "shop" : "İçerik Mağazası",
+            "home" : "ana sayfa",
+            "shop" : "içerik mağazası",
             "cosmetics" : {
                 "dropdown" : "kozmetikler",
                 "upcoming" : "yaklaşan eşyalar",
@@ -82,22 +82,22 @@
             },
             "guideDropdown" : "rehberler",
             "news" : "haberler",
-            "modes" : "Modlar",
+            "modes" : "modlar",
             "randomiser" : "rastgele",
             "about" : {
                 "dropdown" : "hakkında",
                 "translate" : "çeviri",
                 "about" : "fnbr.co hakkında",
-                "privacy" : "Gizlilik Politikası",
+                "privacy" : "gizlilik politikası",
                 "donate" : "Bağış",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "Hesap",
-                "account" : "Hesap",
-                "logout" : "Çıkış Yap"
+                "dropdown" : "hesap",
+                "account" : "hesap",
+                "logout" : "çıkış yap"
             },
             "languagePicker" : {
                 "trigger" : "Dil",
