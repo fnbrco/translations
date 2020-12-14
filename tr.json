@@ -47,6 +47,8 @@
                 "marvel" : "Marvel serisi",
                 "dc" : "DC serisi",
                 "icon_series" : "Yıldızlar Serisi",
+                "gaming_legends" : "Oyun Efsaneleri",
+                "star_wars" : "Yıldızlar Savaşı",
                 "slurp" : "Mavi Gazoz Serisi",
                 "shadow" : "Gölge Serisi",
                 "epic" : "Destansı",
@@ -135,7 +137,7 @@
             "title-featured" : "Öne Çıkan",
             "title-daily" : "Günlük",
             "error" : "İçerik Mağazası şuanda uygun değil, lütfen biraz sonra tekrar dene.",
-            "line1" : "Fortnite Battle Royale için güncel içerik mağaza - Hergün [00:00 UTC](https://time.is/UTC|tooltip=Şuanki Zaman UTC|newtab=true)de Güncellenir.",
+            "line1" : "Fortnite Battle Royale için güncel içerik mağaza - Hergün [00:00 UTC](https://time.is/UTC|tooltip=Şuanki Zaman UTC|newtab=true) de Güncellenir.",
             "line2" : "Dünkü İçerik Mağazasını görmek için [Bana](/shop/yesterday|tooltip=Dünün eşya mağazası) Tıkla.",
             "line3" : "Kozmetik hakkında ayrıntılı bilgi için üstüne tıklayın.",
             "countdown" : {
@@ -149,7 +151,7 @@
             },
             "vote" : {
                 "title" : "Bugün ki Mağaza sizce nasıl?",
-                "line1" : "This resets daily at 00:00 UTC.",
+                "line1" : "Oylar 00:00 UTC. de Sıfırlanır",
                 "line2" : "Oy Vermeden önce [Gizlilik Politikası](/privacy) nı okumanızı öneririz",
                 "choice" : {
                     "up" : "Beğendim!",
@@ -177,7 +179,7 @@
             "title" : "Kozmetik Listesi",
             "line1" : "Fortnite Battle Royale deki tüm kozmetikler",
             "table" : {
-                "icon" : "Icon",
+                "icon" : "Ikon",
                 "name" : "İsmi",
                 "type" : "Tipi",
                 "rarity" : "Enderlik",
@@ -265,13 +267,13 @@
                 "info" : {
                     "title" : "Bilgilendirme",
                     "line1" : "Şuanda [provider] ile [username] ismini kullanarak giriş yaptın",
-                    "line2-api-yes" : "[API Erişimin](/api/docs)var",
+                    "line2-api-yes" : "[API Erişimin](/api/docs) var",
                     "line2-api-no" : "API erişimin yok"
                 },
                 "migration" : {
                     "title" : "Eski Hesaplar",
                     "waiting-line1" : "Giriş için Discord kullanımına geçtik.",
-                    "waiting-line2" : "2018'den bir hesabınız varsa, bununla birleştirmek için onunla giriş yapmanız gerekecektir",
+                    "waiting-line2" : "2018'den kalma hesabınız varsa, bununla birleştirmek için onunla giriş yapmanız gerekecektir",
                     "twitter-line1" : "Giriş için Discord kullanmaya geçtik. Şu anda, gelecekte durdurulabilecek ve sınırlı bir işlevselliğe sahip eski bir hesap kullanıyorsunuz.",
                     "twitter-line2" : "Bir Discord hesabına geçmek için aşağıdaki düğmeye tıklayın"
                 },
