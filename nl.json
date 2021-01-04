@@ -46,6 +46,8 @@
                 "dark" : "Donker",
                 "marvel" : "Marvel",
                 "dc" : "DC",
+                "star_wars" : "Star Wars",
+                "gaming_legends" : "Gaming Legendes",
                 "icon_series" : "Icoon Series",
                 "slurp" : "Slurp",
                 "shadow" : "Schaduw",
@@ -103,7 +105,7 @@
                 "trigger" : "Taal",
                 "title" : "Kies taal",
                 "currentLanguage" : "Je gebruikt nu [language]",
-                "error" : "Er is een fout opgetreden tijdens het downloaden van het bestand met de vertalingen.",
+                "error" : "Er is een fout opgetreden tijdens het downloaden van de vertalingen.",
                 "authors" : "Vertaald door:",
                 "cta" : "Klik om te veranderen naar [language]",
                 "switching" : "[language] downloaden...",
@@ -135,7 +137,7 @@
             "title-featured" : "Uitgelicht",
             "title-daily" : "Dagelijks",
             "error" : "Winkel niet beschikbaar, probeer het later opnieuw.",
-            "line1" : "De huidige item shop in Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
+            "line1" : "De huidige item shop in Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 uur UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
             "line2" : "Je kan de item shop van gisteren [hier](/shop/yesterday|tooltip=Item Shop van gisteren) zien.",
             "line3" : "Klik op een item voor meer informatie.",
             "countdown" : {
@@ -181,7 +183,7 @@
                 "name" : "Naam",
                 "type" : "Type",
                 "rarity" : "Zeldzaamheid",
-                "obtained" : "verkregen"
+                "obtained" : "Verkregen"
             }
         },
         "history" : {
@@ -211,14 +213,14 @@
         },
         "png" : {
             "title" : "Cosmetica PNG",
-            "line1" : "Geef credit aan fnbr.co als je een afbeelding gebruikt. Voorbeelden hebben een lagere resolutie, downloads hebben maximale resolutie.",
+            "line1" : "Geef credit aan fnbr.co als je een afbeelding gebruikt. Voorbeelden hebben een lagere kwaliteit, downloads hebben maximale kwaliteit.",
             "sort-by" : "Sorteren op:",
             "all" : "Alles"
         },
         "gallery" : {
             "title" : "Cosmetica Galerij",
             "line1" : "Alle cosmetica die beschikbaar zijn in Fortnite Battle Royale.",
-            "line2" : "Gebruik deze afbeeldingen niet op je eigen website/social media zonder credit aan fnbr.co."
+            "line2" : "Gebruik deze afbeeldingen niet op je eigen website/social media zonder credit te geven aan fnbr.co."
         },
         "icons" : {
             "title" : "Fortnite Battle Royale Iconen",
@@ -247,8 +249,8 @@
             "images-gallery" : "Galerij",
             "images-featured" : "Aanbevolen",
             "interest-title" : "Populariteit over tijd",
-            "interest-line1" : "Dit laat de populariteit van het item zien van afglopen tijd, 100% betekent de meeste aandacht.",
-            "interest-line2" : "De gegevens van vandaag kunnen niet compleet zijn.",
+            "interest-line1" : "Dit laat de populariteit van het item zien van de afglopen tijd, 100% betekent dat een item het meest populairst is.",
+            "interest-line2" : "De gegevens van vandaag zijn waarschijnlijk nog niet compleet.",
             "occurrences-table" : {
                 "title" : "Geschiedenis",
                 "th-date" : "Datum",
@@ -271,7 +273,7 @@
                 "migration" : {
                     "title" : "Oudere Accounts",
                     "waiting-line1" : "We gebruiken nu Discord om te kunnen inloggen.",
-                    "waiting-line2" : "Als je nog een ouder account hebt uit 2018, moet je inloggen met dat account om het te kunnen samenvoegen met dit account.",
+                    "waiting-line2" : "Als je nog een ouder account hebt uit 2018 moet je inloggen met dat account om het te kunnen samenvoegen met dit account.",
                     "twitter-line1" : "We gebruiken nu Discord om te kunnen inloggen. Je gebruikt een verouderd account dat niet meer in de toekomst gebruikt kan worden en heeft minder functies.",
                     "twitter-line2" : "Als je een Discord-account wilt gebruiken, klik dan op de knop hieronder."
                 },
@@ -319,7 +321,7 @@
         "errors" : {
             "404" : {
                 "title" : "Fout",
-                "line1" : "Je bron die je hebt opgevraagd bestaat niet, of je hebt geen toestemming om het te kunnen bekijken."
+                "line1" : "Je bron die je hebt opgevraagd bestaat niet of je hebt geen toestemming om het te kunnen bekijken."
             },
             "500" : {
                 "title" : "Oh nee!",
