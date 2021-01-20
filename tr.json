@@ -73,14 +73,11 @@
             "shop" : "içerik mağazası",
             "cosmetics" : {
                 "dropdown" : "kozmetikler",
-                "upcoming" : "yaklaşan eşyalar",
-                "sets" : "eşya setleri",
-                "list" : "liste",
-                "png" : "png",
-                "gallery" : "galeri",
-                "icons" : "ikonlar",
+                "list" : "liste &amp; arama",
                 "reminders" : "hatırlatıcılar",
-                "history" : "mağaza geçmişi"
+                "history" : "mağaza geçmişi",
+                "upcoming" : "yaklaşan eşyalar",
+                "sets" : "eşya setleri"
             },
             "guideDropdown" : "rehberler",
             "news" : "haberler",
@@ -113,29 +110,74 @@
             }
         },
         "home" : {
-            "title-upcoming" : "Yaklaşan Eşyalar",
-            "subtitle-upcoming" : "[number] [noun]",
-            "button-upcoming" : "Daha fazla Yaklaşan eşya",
+            "title-welcome" : "Hoşgeldiniz",
+            "line1-welcome" : "fnbr.co, Fortnite: Battle Royale için Resmi olmayan kozmetik sitesi.",
+            "line2-welcome" : "Şuani [içerik mağazasını](/shop) görüntüle, Tüm mevcut [eşyalar](/cosmetics) için liste, ve daha fazlası.",
+            "title-countdown" : "Mağazanın yenilenmesine:",
+            "link-countdown" : "İçerik Mağazası &rarr;",
+            "title-upcoming" : "Yayınlanmamış Eşyalar",
+            "line1-upcoming" : "Bu eşyalar yakın zamanda oyun dosyalarına eklendi",
+            "line2-upcoming" : "Henüz yayınlanmamış olsada, gelecekteki güncellemelerde olabilir.",
+            "error-upcoming" : "Şuanda yayınlanmamış eşyaları yükleyemiyoruz <br />Birkaç dakika sonra tekrar deneyin",
+            "button-upcoming" : "Tüm Yayınlanmamış eşyalar &rarr;",
+            "title-trending" : "Trend Eşyalar",
+            "line1-trending" : "Uygulamamıza eklenen hatırlatıcılara göre beklenen eşyaların listesi",
+            "error-trending" : "Şuanda trend eşyaları göremiyoruz<br />Birkaç dakika sonra tekrar deneyin.",
+            "button-trending" : "Daha fazla trend eşya gör &rarr;",
             "title-all" : "Tüm eşyalar",
-            "error" : "Bu eşyayı bulamıyoruz, biraz bekledikten sonra tekrar dene.",
-            "error-too-long" : "Olamaz... bu beklediğimizden uzun sürdü."
+            "line1-all" : "Fortnite: Battle Royale'deki tüm öğelerin listesine sahibiz. Bunları özel bir sayfada arayabilir veya filtreleyebilirsiniz, [buradan](/list).",
+            "button-all" : "Tüm eşyaları görüntüle &rarr;",
+            "title-news" : "En son [fortnitenews.com](https://fortnitenews.com|newtab=true) yazıları",
+            "title-ingame" : "Oyun içi haberler"
         },
-        "search" : {
-            "button-text" : "Eşya ara.",
-            "button-text-cancel" : "Aramayı iptal et.",
-            "placeholder" : "Arıyorum...",
-            "response" : {
-                "error-format" : "Hata: [message]",
-                "no-results" : "Böyle bir eşya yok galiba.",
-                "conflict" : "Önce bir şey yazman gerek.",
-                "bad-request" : "Üzgünüm, bunu yapamam.",
-                "ratelimit" : "Çok fazla istek alıyoruz, biraz sonra tekrar denermisin."
-            }
-        },
+        "filter" : {
+            "title" : "Kozmetikler",
+            "line1" : "Fortnite: Battle Royale'de şu anda (veya yakında gelicek) tüm eşyaların listesi aşağıdadır. Aramanızı daraltmak için filtre ve sıralama özelliklerini kullanabilirsiniz.",
+            "loading" : "Eşya listesi yükleniyor",
+            "searching" : "Aranıyor",
+            "controls" : {
+                "heading" : "Filtre:",
+                "placeholder" : "Eşya ara...",
+                "type" : "Eşya tipi",
+                "rarity" : "Nadirlik",
+                "season" : "Sezon",
+                "apply" : "Uygula &rarr;",
+                "sort" : {
+                    "heading" : "Sırala",
+                    "release" : "Çıkış tarihi",
+                    "occurrences" : "Görülme sayısı",
+                    "seen" : "Sön Görülme",
+                    "trending" : "Trend",
+                    "asc-word" : "Alfabetik",
+                    "desc-word" : "Ters",
+                    "asc-number" : "Yüksek",
+                    "desc-number" : "Düşük",
+                    "asc-date" : "Yeni",
+                    "desc-date" : "Eski",
+                    "asc-seen" : "En son",
+                    "desc-seen" : "Uzun bekleme"
+                }
+            },
+        "results" : {
+            "type" : "tip",
+            "rarity" : "nadirlik",
+            "season" : "sezon",
+            "all" : "Hepsi gösteriliyor [numara] Fortnite [isim]",
+            "query" : "Gösteriliyor [sonuç] eşleşiyor [sorgu]",
+            "filter-start" : "Gösteriliyor [sonuç]",
+            "filter-end" : "filtreleniyor [filtre]",
+            "no-results" : "Bu filtrelerde eşya bulunamadı.",
+            "error-down-title" : "Şuanda eşya arama özeliği kullanılamıyor",
+            "error-down-text" : "Arama sunucularına bağlanılamıyor",
+            "error-misc-title" : "Arama tamamlanamadı",
+            "error-timeout" : "Zaman aşımına uğradı",
+            "error-ratelimit" : "Çok fazla istek, lütfen birkaç dakika sonra tekrar deneyin",
+        }
+    },
         "shop" : {
             "title" : "Güncel İçerik mağazası",
-            "title-featured" : "Öne Çıkan",
-            "title-daily" : "Günlük",
+            "title-featured" : "Öne Çıkan Eşyalar",
+            "title-daily" : "Günlük Eşyalar",
             "error" : "İçerik Mağazası şuanda uygun değil, lütfen biraz sonra tekrar dene.",
             "line1" : "Fortnite Battle Royale için güncel içerik mağaza - Hergün [00:00 UTC](https://time.is/UTC|tooltip=Şuanki Zaman UTC|newtab=true) de Güncellenir.",
             "line2" : "Dünkü İçerik Mağazasını görmek için [Bana](/shop/yesterday|tooltip=Dünün eşya mağazası) Tıkla.",
@@ -175,22 +217,11 @@
             "title" : "Yaklaşan eşyalar",
             "line1" : "Fortnite Battle Royale deki Tüm Yayınlanmamış Kozmetikler"
         },
-        "list" : {
-            "title" : "Kozmetik Listesi",
-            "line1" : "Fortnite Battle Royale deki tüm kozmetikler",
-            "table" : {
-                "icon" : "Ikon",
-                "name" : "İsmi",
-                "type" : "Tipi",
-                "rarity" : "Enderlik",
-                "obtained" : "Edinme"
-            }
-        },
         "history" : {
             "list" : {
                 "title" : "İçerik Mağazası Geçmişi",
-                "line1" : "Battle Royale için 8 Günlük mağaza geçmişi",
-                "line2" : "Dükkanın tamamını görmek için bir tanesine tıklayın veya istediğiniz güne bakmak için aşağıya kaydırın."
+                "line1" : "Battle Royale için içerik mağazası geçmişi",
+                "line2" : "İçerik mağazasının tamamını görüntülemek için birine tıklayın. Daha fazlası gün için aşağıya kaydırın."
             },
             "view" : {
                 "title" : "İçerik Mağazası Rotasyonu",
@@ -201,7 +232,7 @@
         },
         "news" : {
             "title" : "Haberler",
-            "line1" : "Mevcut oyun içi haberler, Epic Games'ten geliyor. Her dakika güncellenir.",
+            "line1" : "Mevcut fortnite içi haberler, Epic Games'ten geliyor.",
             "error" : "Fortnite'den haber alamadık, kısa bir süre sonra tekrar deneyeceğiz.",
             "more-ingame-button" : "Daha fazla"
         },
@@ -210,21 +241,6 @@
             "line1" : "Battle Royale deki eşyalardan rastgele seçin.",
             "chooseText" : "Tıkla ve Seç",
             "randomise-all" : "Hepsini Karıştır"
-        },
-        "png" : {
-            "title" : "PNG Kozmetikler",
-            "line1" : "Lütfen kullanırken fnbr.co dan bahsedin.",
-            "sort-by" : "Filtrele:",
-            "all" : "Hepsi"
-        },
-        "gallery" : {
-            "title" : "Kozmetik Galerisi",
-            "line1" : "Fortnite Battle Royale deki Tüm kozmetikler",
-            "line2" : "Lütfen kişisel Web sitenizde/Sosyal medya hesabınızda fnbr.co etiketi olmadan paylaşmayın."
-        },
-        "icons" : {
-            "title" : "Fortnite Battle Royale Ikonları",
-            "line1" : "Tüm Resimler Epic Games Tarafından sağlanmaktadır."
         },
         "item" : {
             "unreleased" : "Yayımlanmadı",
@@ -235,7 +251,7 @@
                 "release-date" : "Çıkış Tarihi:",
                 "last-never" : "Son Görülme: Asla",
                 "last-date" : "Son Görülme:",
-                "occurrences" : "Toplam Gelme:"
+                "occurrences" : "Toplam Gelme:",
             },
             "reminder-count" : "Discord da [Hatırlatıcısı](/reminders) olan kullanıcılar:",
             "app-reminder-count" : "Telefon [Uygulamasında](/app) Hatırlatıcısı olanlar:",
@@ -248,17 +264,14 @@
             "images-png" : "PNG",
             "images-gallery" : "Galeri",
             "images-featured" : "Öne Çıkan",
-            "interest-title" : "İlgi Seviyesi",
-            "interest-line1" : "Bu Zaman içindeki öğenin Popülerliğini gösterir, %100 en popüler zamandır.",
-            "interest-line2" : "Bugünkü Veriler eksik olabilir",
             "occurrences-table" : {
                 "title" : "İçerik Mağazası Geçmişi",
                 "th-date" : "Tarih",
-                "th-days" : "Gün önce"
+                "th-days" : "Gün önce",
             },
             "set" : "Set",
-            "set-name" : "[name] Bir Parçası",
-            "popular-title" : "Bugünün Popüler Eşyaları"
+            "set-name" : "[name] setinin bir parçası",
+            "promo" : "Tanıtım Resimleri"
         },
         "account" : {
             "home" : {
