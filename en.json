@@ -153,7 +153,7 @@
                     "asc-date" : "Newest",
                     "desc-date" : "Oldest",
                     "asc-seen" : "Most Recent",
-                    "desc-seen" : "Longest Wait",
+                    "desc-seen" : "Longest Wait"
                 }
             },
             "results" : {
@@ -169,7 +169,7 @@
                 "error-down-text" : "Unable to connect to search servers",
                 "error-misc-title" : "Could not complete search",
                 "error-timeout" : "The request timed out",
-                "error-ratelimit" : "Too many requests, please try again in a few moments",
+                "error-ratelimit" : "Too many requests, please try again in a few moments"
             }
         },
         "shop" : {
