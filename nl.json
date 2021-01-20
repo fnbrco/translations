@@ -73,18 +73,14 @@
             "shop" : "winkel",
             "cosmetics" : {
                 "dropdown" : "cosmetica",
-                "upcoming" : "aankomend",
-                "sets" : "item sets",
-                "list" : "lijst",
-                "png" : "png",
-                "gallery" : "gallerij",
-                "icons" : "iconen",
+                "list" : "list &amp; zoeken",
                 "reminders" : "herinneringen",
-                "history" : "winkel geschiedenis"
+                "history" : "shop history",
+                "upcoming" : "aankomend",
+                "sets" : "item sets"
             },
             "guideDropdown" : "gids",
-            "news" : "nieuws",
-            "modes" : "spelmodi",
+            "news" : "in-game nieuws",
             "randomiser" : "willekeurige items",
             "about" : {
                 "dropdown" : "over",
@@ -113,29 +109,74 @@
             }
         },
         "home" : {
-            "title-upcoming" : "Aankomende items",
-            "subtitle-upcoming" : "[number] [noun]",
-            "button-upcoming" : "Laat meer aankomende items zien",
+            "title-welcome" : "Welkom",
+            "line1-welcome" : "fnbr.co is een onofficiële cosmetica database voor Fortnite: Battle Royale.",
+            "line2-welcome" : "Bekijk dee [huidige item shop](/shop), een lijst met [alle beschikbare cosmetica](/cosmetics), en meer.",
+            "title-countdown" : "Item Shop Reset:",
+            "link-countdown" : "Bekijk item shop &rarr;",
+            "title-upcoming" : "niet-uitgebrachte Items",
+            "line1-upcoming" : "De volgende items zijn voor het laatst toegevoegd aan de gamebestanden.",
+            "line2-upcoming" : "Hoewel ze nog niet zijn uitgebracht, kan dat op ieder moment gebeuren.",
+            "error-upcoming" : "Kan momenteel niet de niet-uitgebrachte items laden<br />Probeer het over enkele ogenblikken opnieuw.",
+            "button-upcoming" : "Bekijk alle niet-uitgebrachte items &rarr;",
+            "title-trending" : "Trending Items",
+            "line1-trending" : "Een lijst met de meest recent verwachte items zoals gemeten door toegevoegde herinneringen in onze app.",
+            "error-trending" : "Kan momenteel geen items laden die trending zijn<br />Probeer het over enkele ogenblikken opnieuw.",
+            "button-trending" : "Bekijk meer items die trending zijn &rarr;",
             "title-all" : "Alle Items",
-            "error" : "We kunnen de items niet ophalen, probeer het later opnieuw.",
-            "error-too-long" : "Dit duurt langer dan gedacht..."
+            "line1-all" : "We hebben een lijst met alle items in Fortnite: Battle Royale. Je kan ze doorzoeken of filteren op een speciale pagina, [hier](/list).",
+            "button-all" : "Bekijk alle items &rarr;",
+            "title-news" : "Recente [fortnitenews.com](https://fortnitenews.com|newtab=true) articles",
+            "title-ingame" : "In-game Nieuwsfeed"
         },
-     "search" : {
-            "button-text" : "Zoek Items",
-            "button-text-cancel" : "Zoeken Annuleren",
-            "placeholder" : "Zoek naar een item...",
-            "response" : {
-                "error-format" : "Er is een fout opgetreden: [message]",
-                "no-results" : "Niets kwam overeen met je zoekopdracht",
-                "conflict" : "Geen argumenten gegeven",
-                "bad-request" : "Ongeldige zoekopdracht",
-                "ratelimit" : "Te veel verzoeken, probeer het later opnieuw"
+        "filter" : {
+            "title" : "Cosmetica",
+            "line1" : "Hieronder staat een lijst met alle items die momenteel (of binnenkort) beschikbaar zijn in Fortnite: Battle Royale. Gebruik de filter- en sorteerfuncties om uw zoekopdracht te verfijnen.",
+            "loading" : "Itemlijst laden",
+            "searching" : "Zoeken",
+            "controls" : {
+                "heading" : "Filter:",
+                "placeholder" : "Zoek naar een item ...",
+                "type" : "Item Type",
+                "rarity" : "Zeldzaamheid",
+                "season" : "Seizoen",
+                "apply" : "Toepassen &rarr;",
+                "sort" : {
+                    "heading" : "Sorteer op",
+                    "release" : "Releasedatum",
+                    "occurrences" : "Aantal keer in item shop",
+                    "seen" : "Laatst gezien",
+                    "trending" : "Trending",
+                    "asc-word" : "Alfabetisch",
+                    "desc-word" : "Omgekeerd",
+                    "asc-number" : "Hoogste",
+                    "desc-number" : "Laagste",
+                    "asc-date" : "Nieuwste",
+                    "desc-date" : "Oudste",
+                    "asc-seen" : "Meest Recent",
+                    "desc-seen" : "Langste wachttijd"
+                }
+            },
+            "results" : {
+                "type" : "type",
+                "rarity" : "zeldzaamheid",
+                "season" : "seizoen",
+                "all" : "Alle [number] Fortnite [noun] worden weergegeven",
+                "query" : "Er wordt [result] weergegeven dat overeenkomt met [query]",
+                "filter-start" : "[result] wordt weergegeven",
+                "filter-end" : "filteren op [filters]",
+                "no-results" : "Er kwamen geen resultaten overeen met deze filters.",
+                "error-down-title" : "Cosmetica-browser is momenteel niet beschikbaar",
+                "error-down-text" : "Kan geen verbinding maken met de zoekservers",
+                "error-misc-title" : "Kan zoekopdracht niet voltooien",
+                "error-timeout" : "Het verzoek resulteerde in een time out",
+                "error-ratelimit" : "Te veel verzoeken ontvangen, probeer het over enkele ogenblikken opnieuw"
             }
         },
         "shop" : {
             "title" : "Huidige Winkel",
-            "title-featured" : "Uitgelicht",
-            "title-daily" : "Dagelijks",
+            "title-featured" : "Uitgelichte Items",
+            "title-daily" : "Dagelijkse Items",
             "error" : "Winkel niet beschikbaar, probeer het later opnieuw.",
             "line1" : "De huidige item shop in Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 uur UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
             "line2" : "Je kan de item shop van gisteren [hier](/shop/yesterday|tooltip=Item Shop van gisteren) zien.",
@@ -175,22 +216,11 @@
             "title" : "Aankomende Items",
             "line1" : "Alle nog niet uitgebrachte items in Fortnite Battle Royale."
         },
-        "list" : {
-            "title" : "Cosmetica Lijst",
-            "line1" : "Alle cosmetica beschikbaar in Fortnite Battle Royale.",
-            "table" : {
-                "icon" : "Icoon",
-                "name" : "Naam",
-                "type" : "Type",
-                "rarity" : "Zeldzaamheid",
-                "obtained" : "Verkregen"
-            }
-        },
         "history" : {
             "list" : {
                 "title" : "Item Shop Geschiedenis",
-                "line1" : "Hier zijn de laatste 8 dagen van de item shop in Fortnite Battle Royale.",
-                "line2" : "Klik op een item om de hele winkel te zien of scroll om de volledige item shop geschiedenis te zien per dag."
+                "line1" : "Hier zijn de vorige item shops in Fortnite Battle Royale.",
+                "line2" : "Klik op een item om de gehele winkel te zien of scroll om de volledige item shop geschiedenis te zien per dag."
             },
             "view" : {
                 "title" : "Winkel",
@@ -201,7 +231,7 @@
         },
         "news" : {
             "title" : "Nieuws",
-            "line1" : "De huidige in-game nieuws feed van Epic Games, deze wordt elke minuut geüpdatet.",
+            "line1" : "De huidige in-game nieuwsfeed van Fortnite: Battle Royale van Epic Games.",
             "error" : "We zijn niet in staat om het nieuws van Fortnite te krijgen, probeer het later opnieuw.",
             "more-ingame-button" : "Meer Laden"
         },
@@ -210,21 +240,6 @@
             "line1" : "Kies een willekeurig item van alle items beschikbaar.",
             "chooseText" : "Klik om te kiezen",
             "randomise-all" : "Kies alles"
-        },
-        "png" : {
-            "title" : "Cosmetica PNG",
-            "line1" : "Geef credit aan fnbr.co als je een afbeelding gebruikt. Voorbeelden hebben een lagere kwaliteit, downloads hebben maximale kwaliteit.",
-            "sort-by" : "Sorteren op:",
-            "all" : "Alles"
-        },
-        "gallery" : {
-            "title" : "Cosmetica Galerij",
-            "line1" : "Alle cosmetica die beschikbaar zijn in Fortnite Battle Royale.",
-            "line2" : "Gebruik deze afbeeldingen niet op je eigen website/social media zonder credit te geven aan fnbr.co."
-        },
-        "icons" : {
-            "title" : "Fortnite Battle Royale Iconen",
-            "line1" : "Alle afbeeldingen zijn eigendom van Epic Games."
         },
         "item" : {
             "unreleased" : "Nog niet uitgebracht",
@@ -235,7 +250,8 @@
                 "release-date" : "Datum uitgebracht:",
                 "last-never" : "Laatst gezien: Nooit",
                 "last-date" : "Laatst gezien:",
-                "occurrences" : "Aantal keer gezien:"
+                "occurrences" : "Aantal keer gezien:",
+                "introduced" : "Geïntroduceerd in:"
             },
             "reminder-count" : "Aantal gebruikers met [herinneringen](/reminders) via Discord:",
             "app-reminder-count" : "Aantal gebruikers met herinneringen via [onze app](/app):",
@@ -248,17 +264,16 @@
             "images-png" : "PNG",
             "images-gallery" : "Galerij",
             "images-featured" : "Aanbevolen",
-            "interest-title" : "Populariteit over tijd",
-            "interest-line1" : "Dit laat de populariteit van het item zien van de afglopen tijd, 100% betekent dat een item het meest populairst is.",
-            "interest-line2" : "De gegevens van vandaag zijn waarschijnlijk nog niet compleet.",
+            "images-video" : "In-game Weergave",
             "occurrences-table" : {
                 "title" : "Geschiedenis",
                 "th-date" : "Datum",
-                "th-days" : "Dagen geleden"
+                "th-days" : "Dagen geleden",
+                "today" : "Vandaag"
             },
             "set" : "Set",
-            "set-name" : "Onderdeel van [name]",
-            "popular-title" : "Populaire Items van Vandaag"
+            "set-name" : "Onderdeel van [name] set",
+            "promo" : "Promotionele Afbeeldingen"
         },
         "account" : {
             "home" : {
