@@ -72,18 +72,14 @@
             "shop" : "shop",
             "cosmetics" : {
                 "dropdown" : "cosmetics",
-                "upcoming" : "upcoming",
-                "sets" : "item sets",
-                "list" : "list",
-                "png" : "png",
-                "gallery" : "gallery",
-                "icons" : "icons",
+                "list" : "list &amp; search",
                 "reminders" : "reminders",
-                "history" : "shop history"
+                "history" : "shop history",
+                "upcoming" : "upcoming",
+                "sets" : "item sets"
             },
             "guideDropdown" : "guide",
-            "news" : "news",
-            "modes" : "modes",
+            "news" : "ingame news",
             "randomiser" : "randomiser",
             "about" : {
                 "dropdown" : "about",
@@ -112,29 +108,74 @@
             }
         },
         "home" : {
-            "title-upcoming" : "Upcoming Items",
-            "subtitle-upcoming" : "[number] [noun]",
-            "button-upcoming" : "View more upcoming items",
+            "title-welcome" : "Welcome",
+            "line1-welcome" : "fnbr.co is an unofficial cosmetics directory for Fortnite: Battle Royale.",
+            "line2-welcome" : "View the [current item shop](/shop), a list of [all available cosmetics](/cosmetics), and more.",
+            "title-countdown" : "Item Shop Reset:",
+            "link-countdown" : "View item shop &rarr;",
+            "title-upcoming" : "Unreleased Items",
+            "line1-upcoming" : "The following items have been most recently added to the game files.",
+            "line2-upcoming" : "While they aren’t necessarily released yet, they should be in a future update.",
+            "error-upcoming" : "Unable to load unreleased items right now<br />Please try again in a few moments",
+            "button-upcoming" : "View all unreleased items &rarr;",
+            "title-trending" : "Trending Items",
+            "line1-trending" : "A list of the most recently anticipated items as measured by reminders added on our app.",
+            "error-trending" : "Unable to load trending items right now<br />Please try again in a few moments.",
+            "button-trending" : "View more trending items &rarr;",
             "title-all" : "All Items",
-            "error" : "Unable to retrieve items, please try again in a few moments.",
-            "error-too-long" : "This is taking longer than expected"
+            "line1-all" : "We have a list of all items in Fortnite: Battle Royale. You can search or filter through them on a dedicated page, [here](/list).",
+            "button-all" : "View all items &rarr;",
+            "title-news" : "Recent [fortnitenews.com](https://fortnitenews.com|newtab=true) articles",
+            "title-ingame" : "In-game News Feed"
         },
-        "search" : {
-            "button-text" : "Search Items",
-            "button-text-cancel" : "Cancel Search",
-            "placeholder" : "Search for an item...",
-            "response" : {
-                "error-format" : "Error: [message]",
-                "no-results" : "Nothing matched your search",
-                "conflict" : "No arguments given",
-                "bad-request" : "Invalid search query",
-                "ratelimit" : "Too many requests, please try again in a few moments"
+        "filter" : {
+            "title" : "Cosmetics",
+            "line1" : "Below is a list of all items currently (or soon to be) available in Fortnite: Battle Royale. Use the filter and sort features to refine your search.",
+            "loading" : "Loading item listing",
+            "searching" : "Searching",
+            "controls" : {
+                "heading" : "Filter:",
+                "placeholder" : "Search for an item...",
+                "type" : "Item Type",
+                "rarity" : "Rarity",
+                "season" : "Season",
+                "apply" : "Apply &rarr;",
+                "sort" : {
+                    "heading" : "Sort by",
+                    "release" : "Release Date",
+                    "occurrences" : "Occurrences",
+                    "seen" : "Last Seen",
+                    "trending" : "Trending",
+                    "asc-word" : "Alphabetical",
+                    "desc-word" : "Reversed",
+                    "asc-number" : "Highest",
+                    "desc-number" : "Lowest",
+                    "asc-date" : "Newest",
+                    "desc-date" : "Oldest",
+                    "asc-seen" : "Most Recent",
+                    "desc-seen" : "Longest Wait",
+                }
+            },
+            "results" : {
+                "type" : "type",
+                "rarity" : "rarity",
+                "season" : "season",
+                "all" : "Showing all [number] Fortnite [noun]",
+                "query" : "Showing [result] matching [query]",
+                "filter-start" : "Showing [result]",
+                "filter-end" : "filtering by [filters]",
+                "no-results" : "No results matched those filters.",
+                "error-down-title" : "Cosmetics browser not available right now",
+                "error-down-text" : "Unable to connect to search servers",
+                "error-misc-title" : "Could not complete search",
+                "error-timeout" : "The request timed out",
+                "error-ratelimit" : "Too many requests, please try again in a few moments",
             }
         },
         "shop" : {
             "title" : "Current Rotation",
-            "title-featured" : "Featured",
-            "title-daily" : "Daily",
+            "title-featured" : "Featured Items",
+            "title-daily" : "Daily Items",
             "error" : "Shop not available, please try again in a few moments",
             "line1" : "The current item shop rotation for Fortnite Battle Royale - updates daily at [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
             "line2" : "You can see yesterday's item shop [here](/shop/yesterday|tooltip=Yesterday's Item Shop).",
@@ -174,22 +215,11 @@
             "title" : "Upcoming Cosmetics",
             "line1" : "All unreleased items in Fortnite Battle Royale."
         },
-        "list" : {
-            "title" : "Cosmetics List",
-            "line1" : "Every cosmetic available in Fortnite Battle Royale.",
-            "table" : {
-                "icon" : "Icon",
-                "name" : "Name",
-                "type" : "Type",
-                "rarity" : "Rarity",
-                "obtained" : "Obtained"
-            }
-        },
         "history" : {
             "list" : {
                 "title" : "Item Shop History",
-                "line1" : "Here are the last 8 days of item shop rotations for Fortnite Battle Royale.",
-                "line2" : "Click one to view full shop or scroll to view full item shop history by day."
+                "line1" : "Here are previous shop rotations for Fortnite Battle Royale.",
+                "line2" : "Click one to view full shop or scroll to view further item shop history by day."
             },
             "view" : {
                 "title" : "Shop Rotation",
@@ -200,7 +230,7 @@
         },
         "news" : {
             "title" : "News",
-            "line1" : "The current in-game news feed from Epic Games. Updated every minute.",
+            "line1" : "The current in-game news feed for Fortnite: Battle Royale from Epic Games.",
             "error" : "We were unable to get the news from Fortnite, we'll try again shortly.",
             "more-ingame-button" : "Load More"
         },
@@ -209,21 +239,6 @@
             "line1" : "Pick a random outfit from every item available.",
             "chooseText" : "Click to choose",
             "randomise-all" : "Randomise All"
-        },
-        "png" : {
-            "title" : "Cosmetics PNG",
-            "line1" : "Please credit back to fnbr.co if you use any of these images. Previews are scaled down, downloads will be full size.",
-            "sort-by" : "Sort by:",
-            "all" : "All"
-        },
-        "gallery" : {
-            "title" : "Cosmetics Gallery",
-            "line1" : "Every cosmetic available in Fortnite Battle Royale.",
-            "line2" : "Please do not use these images on your personal website/social media account without direct credit to fnbr.co"
-        },
-        "icons" : {
-            "title" : "Fortnite Battle Royale Icons",
-            "line1" : "All images belong to Epic Games."
         },
         "item" : {
             "unreleased" : "Unreleased",
@@ -234,7 +249,8 @@
                 "release-date" : "Release date:",
                 "last-never" : "Last seen: Never",
                 "last-date" : "Last seen:",
-                "occurrences" : "Occurrences:"
+                "occurrences" : "Occurrences:",
+                "introduced" : "Introduced in:"
             },
             "reminder-count" : "Users with [reminders](/reminders) on Discord:",
             "app-reminder-count" : "Users with reminders on [our app](/app):",
@@ -247,17 +263,16 @@
             "images-png" : "PNG",
             "images-gallery" : "Gallery",
             "images-featured" : "Featured",
-            "interest-title" : "Interest over time",
-            "interest-line1" : "This represents interest in this item over time, 100% being the most popular time.",
-            "interest-line2" : "Data for today may be incomplete",
+            "images-video" : "In-game View",
             "occurrences-table" : {
                 "title" : "Shop Occurrences",
                 "th-date" : "Date",
-                "th-days" : "Days Ago"
+                "th-days" : "Days Ago",
+                "today" : "Today"
             },
             "set" : "Set",
-            "set-name" : "Part of [name]",
-            "popular-title" : "Popular Items Today"
+            "set-name" : "Part of [name] set",
+            "promo" : "Promotional Images"
         },
         "account" : {
             "home" : {
