@@ -117,7 +117,7 @@
             "link-countdown" : "İçerik Mağazası &rarr;",
             "title-upcoming" : "Yayınlanmamış Eşyalar",
             "line1-upcoming" : "Bu eşyalar yakın zamanda oyun dosyalarına eklendi",
-            "line2-upcoming" : "Henüz yayınlanmamış olsada, gelecekteki güncellemelerde olabilir.",
+            "line2-upcoming" : "Henüz yayınlanmamış olsa da, gelecekteki güncellemelerde olabilir.",
             "error-upcoming" : "Şuanda yayınlanmamış eşyaları yükleyemiyoruz <br />Birkaç dakika sonra tekrar deneyin",
             "button-upcoming" : "Tüm Yayınlanmamış eşyalar &rarr;",
             "title-trending" : "Trend Eşyalar",
@@ -186,7 +186,7 @@
                 "title" : "Yeni Eşyalar:",
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "saat",
-                "hours-plural" : "saatler"
+                "hours-plural" : "saat"
             },
             "yesterday" : {
                 "title" : "Dünün içerik mağaza"
