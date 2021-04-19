@@ -111,10 +111,10 @@
         "home" : {
             "title-welcome" : "Welkom",
             "line1-welcome" : "fnbr.co is een onofficiële cosmetica database voor Fortnite: Battle Royale.",
-            "line2-welcome" : "Bekijk dee [huidige item shop](/shop), een lijst met [alle beschikbare cosmetica](/cosmetics), en meer.",
+            "line2-welcome" : "Bekijk de [huidige item shop](/shop), een lijst met [alle beschikbare cosmetica](/cosmetics), en meer.",
             "title-countdown" : "Item Shop Reset:",
             "link-countdown" : "Bekijk item shop &rarr;",
-            "title-upcoming" : "niet-uitgebrachte Items",
+            "title-upcoming" : "Niet-uitgebrachte Items",
             "line1-upcoming" : "De volgende items zijn voor het laatst toegevoegd aan de gamebestanden.",
             "line2-upcoming" : "Hoewel ze nog niet zijn uitgebracht, kan dat op ieder moment gebeuren.",
             "error-upcoming" : "Kan momenteel niet de niet-uitgebrachte items laden<br />Probeer het over enkele ogenblikken opnieuw.",
@@ -126,7 +126,7 @@
             "title-all" : "Alle Items",
             "line1-all" : "We hebben een lijst met alle items in Fortnite: Battle Royale. Je kan ze doorzoeken of filteren op een speciale pagina, [hier](/list).",
             "button-all" : "Bekijk alle items &rarr;",
-            "title-news" : "Recente [fortnitenews.com](https://fortnitenews.com|newtab=true) articles",
+            "title-news" : "Recente [fortnitenews.com](https://fortnitenews.com|newtab=true) artikelen",
             "title-ingame" : "In-game Nieuwsfeed"
         },
         "filter" : {
