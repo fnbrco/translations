@@ -40,16 +40,16 @@
                 "misc" : "Autres"
             },
             "rarity" : {
-				"frozen" : "Frozen",
+		"frozen" : "Frozen",
                 "lava" : "Lava",
                 "legendary" : "Légendaire",
                 "dark" : "Série Sombre",
                 "marvel" : "Série Marvel",
                 "dc" : "Série DC",
-				"star_wars" : "Star Wars",
+		"star_wars" : "Star Wars",
                 "gaming_legends" : "Gaming Legends",
                 "icon_series" : "Série Icônes",
-				"slurp" : "Slurp",
+		"slurp" : "Slurp",
                 "shadow" : "Shadow",
                 "epic" : "Épique",
                 "rare" : "Rare",
@@ -58,16 +58,16 @@
             },
             "translationNotAvailable" : "Malheureusement, il n'y a pas de traduction disponible pour cette page.",
             "translationIncomplete" : "La Traduction de cette page est incomplète.",
-			"item-noun" : {
+	    "item-noun" : {
                 "singular" : "item",
                 "plural" : "items"
-			},
-			"result-noun" : {
+	    },
+	    "result-noun" : {
                 "format" : "[number] [noun]",
                 "singular" : "result",
                 "plural" : "results"
             }
-		},
+	},
         "nav" : {
             "home" : "accueil",
             "shop" : "boutique",
@@ -76,8 +76,8 @@
                 "list" : "list &amp; search",
                 "reminders" : "rappels",
                 "history" : "historique",
-				"upcoming" : "à venir",
-				"sets" : "item sets"
+		"upcoming" : "à venir",
+		"sets" : "item sets"
             },
             "guideDropdown" : "guide",
             "news" : "actualités",
@@ -251,7 +251,7 @@
                 "last-never" : "Dernièrement apparu: Jamais",
                 "last-date" : "Apparu pour la dernière fois:",
                 "occurrences" : "Nombre d'apparitions:",
-				"introduced" : "Introduced in:"
+		"introduced" : "Introduced in:"
             },
             "reminder-count" : "Utilisateurs ayant un [rappel](/reminders):",
             "app-reminder-count" : "Utilisateurs ayant un rappel sur [notre application](/app):",
@@ -264,12 +264,12 @@
             "images-png" : "PNG",
             "images-gallery" : "Galerie",
             "images-featured" : "À la une",
-			"images-video" : "In-game View",
+	    "images-video" : "In-game View",
             "occurrences-table" : {
                 "title" : "Apparitions dans la boutique",
                 "th-date" : "Date",
                 "th-days" : "jours avant aujourd'hui",
-				"today" : "Today"
+		"today" : "Today"
             },
             "set" : "Définir",
             "set-name" : "Fait partie de l'ensemble [name]",
