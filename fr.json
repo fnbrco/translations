@@ -58,7 +58,7 @@
             "shop" : "boutique",
             "cosmetics" : {
                 "dropdown" : "cosmétiques",
-                "upcoming" : "prochainement",
+                "upcoming" : "à venir",
                 "list" : "liste",
                 "png" : "png",
                 "gallery" : "galerie",
@@ -120,7 +120,7 @@
                 "title" : "La rotation de la boutique d'hier"
             },
             "vote" : {
-                "title" : "Qu'en pensez vous de cette boutique?",
+                "title" : "Que pensez vous de cette boutique?",
                 "line1" : "Les votes se réinitialisent à 00:00 UTC.",
                 "line2" : "Lisez notre [politique de confidentialité](/privacy) avant de voter",
                 "choice" : {
@@ -151,7 +151,7 @@
             "table" : {
                 "icon" : "Icône",
                 "name" : "Nom",
-                "type" : "Type",
+                "type" : "Type d'objet",
                 "rarity" : "Rareté",
                 "obtained" : "Obtenu"
             }
