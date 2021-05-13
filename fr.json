@@ -22,7 +22,7 @@
             ],
             "types" : {
                 "backpack" : "Accessoire de Dos",
-                "emote" : "Emote",
+                "emote" : "Danse",
                 "glider" : "Planeur",
                 "emoji" : "Émoticône",
                 "loading" : "Écran de Chargement",
@@ -34,14 +34,14 @@
                 "toy" : "Jouet",
                 "pet" : "Compagnon",
                 "music" : "Musique",
-                "wrap" : "Emballage",
+                "wrap" : "Revêtement",
                 "banner": "Bannière",
-                "bundle" : "Paquet",
+                "bundle" : "Ensemble",
                 "misc" : "Autres"
             },
             "rarity" : {
-		"frozen" : "Frozen",
-                "lava" : "Lava",
+		"frozen" : "Série Glacée",
+                "lava" : "Série Lave",
                 "legendary" : "Légendaire",
                 "dark" : "Série Sombre",
                 "marvel" : "Série Marvel",
@@ -98,7 +98,7 @@
                 "logout" : "se déconnecter"
             },
             "languagePicker" : {
-                "trigger" : "language",
+                "trigger" : "langue",
                 "title" : "Choisissez une langue",
                 "currentLanguage" : "Vous utilisez la langue [language]",
                 "error" : "Une erreur est survenue pendant le téléchargement du fichier de langue",
@@ -109,21 +109,21 @@
             }
         },
         "home" : {
-            "title-welcome" : "Welcome",
+            "title-welcome" : "Bienvenue",
             "line1-welcome" : "fnbr.co is an unofficial cosmetics directory for Fortnite: Battle Royale.",
             "line2-welcome" : "View the [current item shop](/shop), a list of [all available cosmetics](/cosmetics), and more.",
             "title-countdown" : "Item Shop Reset:",
             "link-countdown" : "View item shop &rarr;",
-            "title-upcoming" : "Unreleased Items",
+            "title-upcoming" : "Items À Venir",
             "line1-upcoming" : "The following items have been most recently added to the game files.",
             "line2-upcoming" : "While they aren’t necessarily released yet, they should be in a future update.",
             "error-upcoming" : "Unable to load unreleased items right now<br />Please try again in a few moments",
             "button-upcoming" : "View all unreleased items &rarr;",
-            "title-trending" : "Trending Items",
+            "title-trending" : "Item Tendance",
             "line1-trending" : "A list of the most recently anticipated items as measured by reminders added on our app.",
             "error-trending" : "Unable to load trending items right now<br />Please try again in a few moments.",
             "button-trending" : "View more trending items &rarr;",
-            "title-all" : "All Items",
+            "title-all" : "Tout les Items",
             "line1-all" : "We have a list of all items in Fortnite: Battle Royale. You can search or filter through them on a dedicated page, [here](/list).",
             "button-all" : "View all items &rarr;",
             "title-news" : "Recent [fortnitenews.com](https://fortnitenews.com|newtab=true) articles",
@@ -137,8 +137,8 @@
             "controls" : {
                 "heading" : "Filter:",
                 "placeholder" : "Search for an item...",
-                "type" : "Item Type",
-                "rarity" : "Rarity",
+                "type" : "Type d'Item",
+                "rarity" : "Rareté",
                 "season" : "Season",
                 "apply" : "Apply &rarr;",
                 "sort" : {
@@ -146,21 +146,21 @@
                     "release" : "Release Date",
                     "occurrences" : "Occurrences",
                     "seen" : "Last Seen",
-                    "trending" : "Trending",
+                    "trending" : "Tendance",
                     "asc-word" : "Alphabetical",
                     "desc-word" : "Reversed",
                     "asc-number" : "Highest",
                     "desc-number" : "Lowest",
-                    "asc-date" : "Newest",
-                    "desc-date" : "Oldest",
+                    "asc-date" : "Récent",
+                    "desc-date" : "Ancien",
                     "asc-seen" : "Most Recent",
                     "desc-seen" : "Longest Wait"
                 }
             },
             "results" : {
                 "type" : "type",
-                "rarity" : "rarity",
-                "season" : "season",
+                "rarity" : "rareté",
+                "season" : "saison",
                 "all" : "Showing all [number] Fortnite [noun]",
                 "query" : "Showing [result] matching [query]",
                 "filter-start" : "Showing [result]",
@@ -251,7 +251,7 @@
                 "last-never" : "Dernièrement apparu: Jamais",
                 "last-date" : "Apparu pour la dernière fois:",
                 "occurrences" : "Nombre d'apparitions:",
-		"introduced" : "Introduced in:"
+		"introduced" : "Apparu en:"
             },
             "reminder-count" : "Utilisateurs ayant un [rappel](/reminders):",
             "app-reminder-count" : "Utilisateurs ayant un rappel sur [notre application](/app):",
@@ -269,7 +269,7 @@
                 "title" : "Apparitions dans la boutique",
                 "th-date" : "Date",
                 "th-days" : "jours avant aujourd'hui",
-		"today" : "Today"
+		"today" : "Aujourd'hui"
             },
             "set" : "Définir",
             "set-name" : "Fait partie de l'ensemble [name]",
