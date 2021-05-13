@@ -7,34 +7,34 @@
             "thForDate" : false,
             "dateFormat" : "[date] [month] [year]",
             "months" : [
-                "Januari",
-                "Februari",
-                "Maart",
-                "April",
-                "Mei",
-                "Juni",
-                "Juli",
-                "Augustus",
-                "September",
-                "Oktober",
-                "November",
-                "December"
+                "januari",
+                "februari",
+                "maart",
+                "april",
+                "mei",
+                "juni",
+                "juli",
+                "augustus",
+                "september",
+                "oktober",
+                "november",
+                "december"
             ],
             "types" : {
                 "backpack" : "Rugzak",
                 "emote" : "Emote",
-                "glider" : "Glijder",
+                "glider" : "Zwever",
                 "emoji" : "Emoji",
                 "loading" : "Laadscherm",
-                "outfit" : "Outfit",
-                "pickaxe" : "Houweel",
-                "skydive" : "Skydiving Spoor",
+                "outfit" : "Kleding",
+                "pickaxe" : "Pikhouweel",
+                "skydive" : "Skydiving sliert",
                 "umbrella" : "Paraplu",
                 "spray" : "Graffiti",
                 "toy" : "Speelgoed",
                 "pet" : "Huisdier",
                 "music" : "Muziek",
-                "wrap" : "Wikkel",
+                "wrap" : "Wrap",
                 "banner" : "Banner",
                 "bundle" : "Bundel",
                 "misc" : "Overig"
@@ -47,8 +47,8 @@
                 "marvel" : "Marvel",
                 "dc" : "DC",
                 "star_wars" : "Star Wars",
-                "gaming_legends" : "Gaming Legendes",
-                "icon_series" : "Icoon Series",
+                "gaming_legends" : "Gaming Legends",
+                "icon_series" : "Icon Series",
                 "slurp" : "Slurp",
                 "shadow" : "Schaduw",
                 "epic" : "Episch",
@@ -72,19 +72,19 @@
             "home" : "home",
             "shop" : "winkel",
             "cosmetics" : {
-                "dropdown" : "cosmetica",
-                "list" : "list &amp; zoeken",
+                "dropdown" : "cosmetisch",
+                "list" : "lijst &amp; zoeken",
                 "reminders" : "herinneringen",
-                "history" : "shop history",
-                "upcoming" : "aankomend",
+                "history" : "winkel geschiedenis",
+                "upcoming" : "wat komt er aan",
                 "sets" : "item sets"
             },
-            "guideDropdown" : "gids",
+            "guideDropdown" : "guide",
             "news" : "in-game nieuws",
             "randomiser" : "willekeurige items",
             "about" : {
                 "dropdown" : "over",
-                "translate" : "vertalen",
+                "translate" : "vertalingen",
                 "about" : "over fnbr.co",
                 "privacy" : "privacybeleid",
                 "donate" : "Doneer",
@@ -110,45 +110,45 @@
         },
         "home" : {
             "title-welcome" : "Welkom",
-            "line1-welcome" : "fnbr.co is een onofficiële cosmetica database voor Fortnite: Battle Royale.",
-            "line2-welcome" : "Bekijk de [huidige item shop](/shop), een lijst met [alle beschikbare cosmetica](/cosmetics), en meer.",
-            "title-countdown" : "Item Shop Reset:",
-            "link-countdown" : "Bekijk item shop &rarr;",
-            "title-upcoming" : "Niet-uitgebrachte Items",
+            "line1-welcome" : "fnbr.co is een onofficiële cosmetische database voor Fortnite: Battle Royale.",
+            "line2-welcome" : "Bekijk de [huidige item winkel](/shop), een lijst met [alle beschikbare cosmetische items](/cosmetics), en meer.",
+            "title-countdown" : "Item winkel reset:",
+            "link-countdown" : "Bekijk item winkel &rarr;",
+            "title-upcoming" : "Items die nog niet eerder verschenen zijn",
             "line1-upcoming" : "De volgende items zijn voor het laatst toegevoegd aan de gamebestanden.",
             "line2-upcoming" : "Hoewel ze nog niet zijn uitgebracht, kan dat op ieder moment gebeuren.",
-            "error-upcoming" : "Kan momenteel niet de niet-uitgebrachte items laden<br />Probeer het over enkele ogenblikken opnieuw.",
-            "button-upcoming" : "Bekijk alle niet-uitgebrachte items &rarr;",
-            "title-trending" : "Trending Items",
+            "error-upcoming" : "Kan momenteel niet de niet eerder verschenen items laden.<br />Probeer het over enkele ogenblikken opnieuw.",
+            "button-upcoming" : "Bekijk alle niet eerder verschenen items &rarr;",
+            "title-trending" : "Trending items",
             "line1-trending" : "Een lijst met de meest recent verwachte items zoals gemeten door toegevoegde herinneringen in onze app.",
-            "error-trending" : "Kan momenteel geen items laden die trending zijn<br />Probeer het over enkele ogenblikken opnieuw.",
+            "error-trending" : "Kan momenteel geen items laden die trending zijn.<br />Probeer het over enkele ogenblikken opnieuw.",
             "button-trending" : "Bekijk meer items die trending zijn &rarr;",
-            "title-all" : "Alle Items",
+            "title-all" : "Alle items",
             "line1-all" : "We hebben een lijst met alle items in Fortnite: Battle Royale. Je kan ze doorzoeken of filteren op een speciale pagina, [hier](/list).",
             "button-all" : "Bekijk alle items &rarr;",
             "title-news" : "Recente [fortnitenews.com](https://fortnitenews.com|newtab=true) artikelen",
             "title-ingame" : "In-game Nieuwsfeed"
         },
         "filter" : {
-            "title" : "Cosmetica",
+            "title" : "Cosmetisch",
             "line1" : "Hieronder staat een lijst met alle items die momenteel (of binnenkort) beschikbaar zijn in Fortnite: Battle Royale. Gebruik de filter- en sorteerfuncties om uw zoekopdracht te verfijnen.",
             "loading" : "Itemlijst laden",
             "searching" : "Zoeken",
             "controls" : {
                 "heading" : "Filter:",
                 "placeholder" : "Zoek naar een item ...",
-                "type" : "Item Type",
+                "type" : "Item type",
                 "rarity" : "Zeldzaamheid",
                 "season" : "Seizoen",
                 "apply" : "Toepassen &rarr;",
                 "sort" : {
                     "heading" : "Sorteer op",
                     "release" : "Releasedatum",
-                    "occurrences" : "Aantal keer in item shop",
+                    "occurrences" : "Aantal keer in item winkel",
                     "seen" : "Laatst gezien",
                     "trending" : "Trending",
-                    "asc-word" : "Alfabetisch",
-                    "desc-word" : "Omgekeerd",
+                    "asc-word" : "Oplopend",
+                    "desc-word" : "Aflopend",
                     "asc-number" : "Hoogste",
                     "desc-number" : "Laagste",
                     "asc-date" : "Nieuwste",
@@ -162,11 +162,11 @@
                 "rarity" : "zeldzaamheid",
                 "season" : "seizoen",
                 "all" : "Alle [number] Fortnite [noun] worden weergegeven",
-                "query" : "Er wordt [result] weergegeven dat overeenkomt met [query]",
+                "query" : "Er wordt [result] resultaat weergegeven welke overeenkomt met [query]",
                 "filter-start" : "[result] wordt weergegeven",
                 "filter-end" : "filteren op [filters]",
-                "no-results" : "Er kwamen geen resultaten overeen met deze filters.",
-                "error-down-title" : "Cosmetica-browser is momenteel niet beschikbaar",
+                "no-results" : "Er zijn geen resultaten gevonden die overeenkomen met deze filters.",
+                "error-down-title" : "De cosmetische browser is momenteel niet beschikbaar",
                 "error-down-text" : "Kan geen verbinding maken met de zoekservers",
                 "error-misc-title" : "Kan zoekopdracht niet voltooien",
                 "error-timeout" : "Het verzoek resulteerde in een time out",
@@ -174,12 +174,12 @@
             }
         },
         "shop" : {
-            "title" : "Huidige Winkel",
-            "title-featured" : "Uitgelichte Items",
-            "title-daily" : "Dagelijkse Items",
+            "title" : "Huidige winkel",
+            "title-featured" : "Aanbevolen items",
+            "title-daily" : "Dagelijkse items",
             "error" : "Winkel niet beschikbaar, probeer het later opnieuw.",
-            "line1" : "De huidige item shop in Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 uur UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
-            "line2" : "Je kan de item shop van gisteren [hier](/shop/yesterday|tooltip=Item Shop van gisteren) zien.",
+            "line1" : "De huidige item winkel in Fortnite Battle Royale - wordt dagelijks bijgewerkt om [00:00 uur UTC](https://time.is/UTC|tooltip=Huidige tijd in UTC|newtab=true).",
+            "line2" : "Je kan de item winkel van gisteren [hier](/shop/yesterday|tooltip=Item winkel van gisteren) zien.",
             "line3" : "Klik op een item voor meer informatie.",
             "countdown" : {
                 "title" : "Nieuwe items:",
@@ -191,11 +191,11 @@
                 "title" : "Winkel van gisteren"
             },
             "vote" : {
-                "title" : "Wat vind jij van deze winkel?",
+                "title" : "Wat vindt jij van deze winkel?",
                 "line1" : "Dit word dagelijks gereset om 00:00 uur (UTC tijdzone).",
                 "line2" : "Bekijk ons [privacybeleid](/privacy) voordat je gaat stemmen",
                 "choice" : {
-                    "up" : "Ik houd ervan!",
+                    "up" : "Ik houdt ervan!",
                     "neutral" : "meh!",
                     "down" : "Ik haat het!"
                 },
@@ -213,39 +213,39 @@
             }
         },
         "upcoming" : {
-            "title" : "Aankomende Items",
-            "line1" : "Alle nog niet uitgebrachte items in Fortnite Battle Royale."
+            "title" : "Wat komt er aan",
+            "line1" : "Items die nog niet verschenen zijn in Fortnite Battle Royale."
         },
         "history" : {
             "list" : {
-                "title" : "Item Shop Geschiedenis",
-                "line1" : "Hier zijn de vorige item shops in Fortnite Battle Royale.",
-                "line2" : "Klik op een item om de gehele winkel te zien of scroll om de volledige item shop geschiedenis te zien per dag."
+                "title" : "Item winkel geschiedenis",
+                "line1" : "Hier zijn de vorige winkel items in Fortnite Battle Royale.",
+                "line2" : "Klik op een item om de gehele winkel te zien of scroll om de volledige item winkel geschiedenis per dag te zien."
             },
             "view" : {
                 "title" : "Winkel",
-                "line1" : "Dit is de item shop van [date] in Fortnite Battle Royale. ",
+                "line1" : "Dit is de item winkel van [date] in Fortnite Battle Royale. ",
                 "line2" : "Klik op een item om meer informatie te zien.",
-                "today-button" : "Item Shop van vandaag"
+                "today-button" : "Item winkel van vandaag"
             }
         },
         "news" : {
             "title" : "Nieuws",
             "line1" : "De huidige in-game nieuwsfeed van Fortnite: Battle Royale van Epic Games.",
-            "error" : "We zijn niet in staat om het nieuws van Fortnite te krijgen, probeer het later opnieuw.",
+            "error" : "We zijn niet in staat om het nieuws van Fortnite te laden, probeer het later opnieuw.",
             "more-ingame-button" : "Meer Laden"
         },
         "randomiser" : {
             "title" : "Willekeurige items",
-            "line1" : "Kies een willekeurig item van alle items beschikbaar.",
+            "line1" : "Kies een willekeurig item uit alle beschikbare items.",
             "chooseText" : "Klik om te kiezen",
             "randomise-all" : "Kies alles"
         },
         "item" : {
-            "unreleased" : "Nog niet uitgebracht",
+            "unreleased" : "Nog niet eerder verschenen",
             "description" : "Beschrijving",
             "history" : {
-                "title" : "Winkel Geschiedenis",
+                "title" : "Winkel geschiedenis",
                 "release-never" : "Datum uitgebracht: Nooit",
                 "release-date" : "Datum uitgebracht:",
                 "last-never" : "Laatst gezien: Nooit",
@@ -264,7 +264,7 @@
             "images-png" : "PNG",
             "images-gallery" : "Galerij",
             "images-featured" : "Aanbevolen",
-            "images-video" : "In-game Weergave",
+            "images-video" : "In-game weergave",
             "occurrences-table" : {
                 "title" : "Geschiedenis",
                 "th-date" : "Datum",
@@ -272,8 +272,8 @@
                 "today" : "Vandaag"
             },
             "set" : "Set",
-            "set-name" : "Onderdeel van [name] set",
-            "promo" : "Promotionele Afbeeldingen"
+            "set-name" : "Onderdeel van de [name] set",
+            "promo" : "Promotiebeelden"
         },
         "account" : {
             "home" : {
@@ -310,8 +310,8 @@
             },
             "username" : {
                 "title" : "Welkom op fnbr.co",
-                "line1" : "Je bent ingelogd met Discord, maar je moet nog een gebruikersnaam kiezen om je de beste ervaring te bieden.",
-                "nameTaken" : "Je gebruikersnaam [attemptedName] is al in gebruik door iemand anders, dus we hebben je Discord discriminator toegevoegd en raden het aan om dat te gebruiken.",
+                "line1" : "Je bent ingelogd met Discord, maar je moet nog een gebruikersnaam kiezen zodat wij je een betere ervaring kunnen bieden.",
+                "nameTaken" : "Je gebruikersnaam [attemptedName] is al in gebruik door iemand anders, dus we hebben je Discord discriminator toegevoegd en raden aan om dat te gebruiken.",
                 "randomName" : "Je gebruikersnaam [attemptedName] is al in gebruik door iemand anders en het is ook niet gelukt om je gebruikersnaam uniek te maken door je Discord discriminator toe te voegen.",
                 "form-username" : "Gebruikersnaam",
                 "form-criteria" : "Kies een gebruikersnaam met 2 tot 32 tekens, het mag letters, cijfers en de tekens - en _ bevatten",
@@ -336,7 +336,7 @@
         "errors" : {
             "404" : {
                 "title" : "Fout",
-                "line1" : "Je bron die je hebt opgevraagd bestaat niet of je hebt geen toestemming om het te kunnen bekijken."
+                "line1" : "De bron die je hebt opgevraagd bestaat niet of je hebt geen toestemming om het te kunnen bekijken."
             },
             "500" : {
                 "title" : "Oh nee!",
