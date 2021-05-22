@@ -164,6 +164,13 @@
             "flag": "jp",
             "live": true,
             "authors" : ["FNJPNews#1234"]
+        },
+        {
+            "name": "العربية",
+            "code": "ar",
+            "flag": "ar",
+            "live": true,
+            "authors" : ["thethiny#9580"]
         }
     ]
 }
