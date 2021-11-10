@@ -56,7 +56,7 @@
                 "uncommon" : "غير شائع",
                 "common" : "شائع"
             },
-            "translationNotAvailable" : "للأسف لا توجد ترجمة متاحة لهذه الصفحة.",
+            "translationNotAvailable" : "للأسف، لا توجد ترجمة متاحة لهذه الصفحة.",
             "translationIncomplete" : "لن تتم ترجمة كل النص في هذه الصفحة",
             "item-noun" : {
                 "singular" : "عنصر",
