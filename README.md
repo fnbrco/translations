@@ -4,13 +4,13 @@ UI Translations for [fnbr.co](https://fnbr.co). As of now it is *not* planned to
 
 ## How can I contribute?
 
+**Please note before starting to translate**: The website does not yet support languages that are written from right to left (e.g. Arabic, Hebrew and Persian/Farsi), so pull requests for such languages are put on hold and neither reviewed nor merged. In such cases, we recommend waiting until the technical requirement is met before translating a language that is written from right to left.
+
 Create a pull request with your changes, language files are named `[two-letter code].json`, you can find a list of two letter language codes [here](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).  
 For example `en.json` for English, `es.json` for Spanish, `pt.json` for Portuguese and so on.
 
 The `en.json` will always be updated with the latest text to translate, so use that as a base and just translate what you can of your language!  
 If a string does not exist in the file it will default to English.  
-
-**Please note**: The website does not yet support reading from right to left, so pull requests for affected languages will be put on hold. In such cases we recommend to wait until this support is implemented before translating a language that is read from right to left.  
 
 There are a few things to remember:
 - Don't use Google Translate or other online translation tools, as these lack context and can come up with some very strange results.
