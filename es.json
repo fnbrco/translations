@@ -35,37 +35,56 @@
                 "pet" : "Mascota",
                 "music" : "Música",
                 "wrap" : "Envoltorio",
+                "banner" : "Estandarte",
                 "bundle" : "Lote",
                 "misc" : "Misceláneo"
             },
             "rarity" : {
+                "frozen" : "Serie Congelada",
+                "lava" : "Series de Lava",
                 "legendary" : "Legendario",
+                "dark" : "Serie Oscura",
+                "marvel" : "Serie de Marvel",
+                "dc" : "Serie de DC",
+                "star_wars" : "Saga Star Wars",
+                "gaming_legends" : "Serie Leyendas de Videojuegos",
+                "icon_series" : "Serie de Ídolos",
+                "slurp" : "Series Sorbete",
+                "shadow" : "Serie de Las Sombras",
                 "epic" : "Épico",
                 "rare" : "Raro",
                 "uncommon" : "Poco común",
                 "common" : "Común"
             },
             "translationNotAvailable" : "Desafortunadamente no hay traducción disponible para esta página.",
-            "translationIncomplete" : "No todo el texto de esta página será traducido"
+            "translationIncomplete" : "No todo el texto de esta página será traducido",
+            "item-noun" : {
+                "singular" : "objeto",
+                "plural" : "objetos"
+            },
+            "result-noun" : {
+                "format" : "[number] [noun]",
+                "singular" : "resultado",
+                "plural" : "resultados"
+            }
         },
         "nav" : {
             "home" : "inicio",
             "shop" : "tienda",
             "cosmetics" : {
                 "dropdown" : "cosméticos",
-                "upcoming" : "próximamente",
-                "list" : "lista",
-                "png" : "png",
-                "gallery" : "galería",
-                "icons" : "iconos",
+                "list" : "lista &amp; buscar",
                 "reminders" : "recordatorios",
-                "history" : "historial de tienda"
+                "history" : "historial de tienda",
+                "upcoming" : "próximamente",
+                "sets" : "sets de objetos"
             },
+            "guideDropdown" : "guía",
             "news" : "noticias",
-            "modes" : "modos",
             "randomiser" : "randomizador",
             "about" : {
                 "dropdown" : "sobre",
+                "translate" : "traducir",
                 "about" : "sobre fnbr.co",
                 "privacy" : "política de privacidad",
                 "donate" : "Donar",
@@ -86,23 +105,82 @@
                 "authors" : "Traducido por:",
                 "cta" : "Haga clic para cambiar a [language]",
                 "switching" : "Descargando [language]...",
-                "finished" : "¡Su idioma ha sido cambiado!"
+                "finished" : "¡Tu idioma ha sido cambiado!"
             }
         },
         "home" : {
-            "title-upcoming" : "Próximos Objetos",
+            "title-welcome" : "Bienvenido/a",
+            "line1-welcome" : "fnbr.co es un directorio de cosméticos no oficial para Fortnite: Battle Royale.",
+            "line2-welcome" : "Ver la [tienda actual](/shop), una lista de [todos los cosméticos disponibles](/cosmetics), y más.",
+            "title-countdown" : "Actualización de la Tienda:",
+            "link-countdown" : "Ver la tienda &rarr;",
+            "title-upcoming" : "Objetos aún por ser Lanzados",
+            "line1-upcoming" : "Los siguientes objetos han sido recientemente añadidos a los archivos del juego.",
+            "line2-upcoming" : "Aunque no están disponibles todavía, deberían de estarlo en una actualización futura.",
+            "error-upcoming" : "No se han podido cargar los objetos en este momento<br />Por favor inténtalo de nuevo más tarde",
+            "button-upcoming" : "Ver todos los objetos aún no disponibles &rarr;",
+            "title-trending" : "Objetos Populares",
+            "line1-trending" : "Una lista de los objetos más anticipados según los recordatorios añadidos por la comunidad en nuestra aplicación.",
+            "error-trending" : "No se han podido cargar los objetos populares en este momento<br />Por favor inténtalo de nuevo más tarde.",
+            "button-trending" : "Ver más objetos populares &rarr;",
             "title-all" : "Todos los Objetos",
-            "error" : "Si no puede recuperar los artículos, por favor inténtelo de nuevo en unos momentos.",
-            "error-too-long" : "Esto está llevando más tiempo del esperado"
+            "line1-all" : "Tenemos un buscador de todos los ítems en Fortnite: Battle Royale. Puedes acceder a él y usar los filtros [aquí](/list).",
+            "button-all" : "Ver todos los ítems &rarr;",
+            "title-news" : "Las noticias más recientes de [fortnitenews.com](https://fortnitenews.com|newtab=true)",
+            "title-ingame" : "Sección de Noticias del Juego"
+        },
+        "filter" : {
+            "title" : "Cosméticos",
+            "line1" : "A continuación verás una lista con todos los ítems actualmente (o próximamente) disponibles en Fortnite: Battle Royale. Usa el filtro para facilitar tu búsqueda.",
+            "loading" : "Cargando lista de ítems",
+            "searching" : "Buscando",
+            "controls" : {
+                "heading" : "Filtro:",
+                "placeholder" : "Busca un ítem...",
+                "type" : "Tipo de Objeto",
+                "rarity" : "Raresa",
+                "season" : "Temporada",
+                "apply" : "Aplicar &rarr;",
+                "sort" : {
+                    "heading" : "Ordenar por",
+                    "release" : "Fecha de Lanzamiento",
+                    "occurrences" : "Apariciones",
+                    "seen" : "Última Aparición",
+                    "trending" : "Popularidad",
+                    "asc-word" : "Orden Alfabético",
+                    "desc-word" : "Invertido",
+                    "asc-number" : "Más Alto",
+                    "desc-number" : "Más Bajo",
+                    "asc-date" : "Más Nuevo",
+                    "desc-date" : "Más Antiguo",
+                    "asc-seen" : "Más Reciente",
+                    "desc-seen" : "Espera Más Larga"
+                }
+            },
+            "results" : {
+                "type" : "type",
+                "rarity" : "raresa",
+                "season" : "temporada",
+                "all" : "Mostrando todos los [number] [noun] de Fortnite",
+                "query" : "Mostrando [result] que coinciden con [query]",
+                "filter-start" : "Mostrando [result]",
+                "filter-end" : "filtrando por [filters]",
+                "no-results" : "No hay resultados que coincidan con los filtros.",
+                "error-down-title" : "Explorador de cosméticos no disponible ahora mismo",
+                "error-down-text" : "No se ha podido conectar al servidor de búsquedas",
+                "error-misc-title" : "No se ha podido completar la búsqueda",
+                "error-timeout" : "La solucitud tardó demasiado",
+                "error-ratelimit" : "Demasiadas solicitudes, por favor inténtalo de nuevo más tarde"
+            }
         },
         "shop" : {
             "title" : "Rotación Actual",
-            "title-featured" : "Destacado",
+            "title-featured" : "Destacados",
             "title-daily" : "Diario",
-            "error" : "La tienda no está disponible, por favor inténtelo de nuevo en unos momentos.",
+            "error" : "La tienda no está disponible, por favor inténtalo de nuevo más tarde.",
             "line1" : "La rotación actual de la tienda de objetos para Fortnite Battle Royale - se actualiza diariamente a las [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
             "line2" : "Puedes ver la tienda de objetos de ayer [aquí](/shop/yesterday|tooltip=Yesterday's Item Shop).",
-            "line3" : "Haga clic en un cosmético para ver más información al respecto.",
+            "line3" : "Haga clic en un cosmético para ver más información al respecto. Comparte tu opinión de esta Tienda votando al fondo de la página.",
             "countdown" : {
                 "title" : "Nuevos objetos:",
                 "wordyFormat" : "[number] [noun]",
@@ -113,7 +191,7 @@
                 "title" : "Rotación de la Tienda de Ayer"
             },
             "vote" : {
-                "title" : "¿Qué os parece esta Tienda?",
+                "title" : "¿Qué te parece esta Tienda?",
                 "line1" : "Se reinicia diariamente a las 00:00 UTC.",
                 "line2" : "Revisa nuestra [política de privacidad](/privacy) antes de votar",
                 "choice" : {
@@ -123,14 +201,14 @@
                 },
                 "response" : {
                     "success" : "Voto registrado",
-                    "timeout" : "La petición tardó demasiado y se desconectó",
+                    "timeout" : "La solicitud tardó demasiado y se canceló",
                     "internal" : "Error Interno",
-                    "failover" : "La petición al [server] ha fallado, intentándolo de nuevo...",
-                    "ratelimit" : "Demasiadas peiticiones, intentálo más tarde.",
+                    "failover" : "La solicitud al [server] ha fallado, intentándolo de nuevo...",
+                    "ratelimit" : "Demasiadas solicitudes, intentálo más tarde.",
                     "unavailable" : "Las votaciones no están disponibles hasta que la tienda cambie el próximo minuto",
-                    "conflict" : "No es posible votar, inténtalo más tarde.",
+                    "conflict" : "No es posible votar, inténtalo de nuevo más tarde.",
                     "bad-choice" : "Voto no reconocido",
-                    "no-data" : "No hay datos disponibles, intentálo más tarde"
+                    "no-data" : "No hay datos disponibles, inténtalo de nuevo más tarde"
                 }
             } 
         },
@@ -138,33 +216,22 @@
             "title" : "Próximos Cosméticos",
             "line1" : "Todos los objetos aún no disponibles en Fortnite Battle Royale."
         },
-        "list" : {
-            "title" : "Lista de Cosméticos",
-            "line1" : "Todos los cosméticos disponibles en Fortnite Battle Royale.",
-            "table" : {
-                "icon" : "Icono",
-                "name" : "Nombre",
-                "type" : "Tipo",
-                "rarity" : "Rareza",
-                "obtained" : "Obtenido"
-            }
-        },
         "history" : {
             "list" : {
-                "title" : "Historial de la tienda",
-                "line1" : "Aquí están los últimos 8 días de las rotaciones de la tienda de artículos de Fortnite Battle Royale.",
+                "title" : "Historial de la Tienda",
+                "line1" : "Aquí están las rotaciones pasadas de la tienda de artículos de Fortnite Battle Royale.",
                 "line2" : "Haga clic en uno para ver la tienda completa o desplácese para ver el historial completo de la tienda de objetos por día."
             },
             "view" : {
                 "title" : "Rotación de la Tienda",
-                "line1" : "Esta es la rotación de la tienda de objetos de [date] de Fortnite Battle Royale. ",
-                "line2" : "Haga clic en un cosmético para ver más información al respecto.",
+                "line1" : "Esta es la rotación de la tienda de objetos de [date] de Fortnite: Battle Royale. ",
+                "line2" : "Haga clic en un cosmético para ver más información.",
                 "today-button" : "Tienda de Objetos de hoy"
             }
         },
         "news" : {
             "title" : "Noticias",
-            "line1" : "La sección de noticias actual de Epic Games. Actualizado cada minuto.",
+            "line1" : "La sección de noticias actual de Fortnite: Battle Royale desde Epic Games.",
             "error" : "No hemos podido recibir nuevas noticias desde Fortnite, lo intentaremos más tarde.",
             "more-ingame-button" : "Cargar más"
         },
@@ -174,23 +241,8 @@
             "chooseText" : "Haga clic para elegir",
             "randomise-all" : "Aleatorizar Todos"
         },
-        "png" : {
-            "title" : "Cosméticos PNG",
-            "line1" : "Por favor, de créditos a fnbr.co si utiliza alguna de estas imágenes. Las vistas previas se reducen, las descargas serán a tamaño completo.",
-            "sort-by" : "Ordenar por:",
-            "all" : "Todo"
-        },
-        "gallery" : {
-            "title" : "Galería de cosméticos",
-            "line1" : "Todos los cosméticos de Fortnite Battle Royale",
-            "line2" : "Por favor, no utilice estas imágenes en su sitio web personal / redes sociales sin el crédito directo a fnbr.co"
-        },
-        "icons" : {
-            "title" : "Iconos de Fortnite Battle Royale",
-            "line1" : "Todas las imagenes pertenecen a Epic Games."
-        },
         "item" : {
-            "unreleased" : "No lanzado",
+            "unreleased" : "Por ser lanzado",
             "description" : "Descripción",
             "history" : {
                 "title" : "Historial de la tienda",
@@ -198,34 +250,35 @@
                 "release-date" : "Fecha de lanzamiento:",
                 "last-never" : "Última aparición: Nunca",
                 "last-date" : "Última aparición:",
-                "occurrences" : "Apariciones:"
+                "occurrences" : "Apariciones:",
+                "introduced" : "Introducido el:"
             },
-            "reminder-count" : "Usuarios con [recordatorios](/reminders):",
-            "add-reminder" : "Añadir recordatorio",
-            "remove-reminder" : "Eliminar recordatorio",
+            "reminder-count" : "Usuarios con [recordatorios](/reminders) por Discord:",
+            "app-reminder-count" : "Usuarios con recordatorios por [nuestra app](/app):",
+            "add-reminder" : "Añadir Recordatorio",
+            "remove-reminder" : "Eliminar Recordatorio",
             "has-reminders" : "Tienes recordatorios para este objeto.",
             "no-reminders" : "Los recordatorios no están disponible para este objeto.",
             "images" : "Imágenes",
-            "images-icon" : "Icono",
+            "images-icon" : "Ícono",
             "images-png" : "PNG",
             "images-gallery" : "Galería",
             "images-featured" : "Destacado",
-            "interest-title" : "Interés a lo largo tiempo",
-            "interest-line1" : "Esto representa el interés en este artículo a lo largo del tiempo, siendo el 100% el más popular.",
-            "interest-line2" : "Los datos de hoy pueden estar incompletos.",
+            "images-video" : "Vista Dentro del Juego",
             "occurrences-table" : {
                 "title" : "Apariciones en la tienda",
                 "th-date" : "Fecha",
-                "th-days" : "Días atrás"
+                "th-days" : "Días",
+                "today" : "Hoy"
             },
             "set" : "Conjunto",
             "set-name" : "Parte del [name]",
-            "popular-title" : "Objetos populares de hoy"
+            "promo" : "Imágenes Promocionales"
         },
         "account" : {
             "home" : {
-                "title" : "Datos de su cuenta",
-                "error" : "Algo falló al cargar los datos de su cuenta, por favor inténtelo de nuevo más tarde.",
+                "title" : "Datos de tu cuenta",
+                "error" : "Algo falló al cargar los datos de tu cuenta, por favor inténtalo de nuevo más tarde.",
                 "info" : {
                     "title" : "Información",
                     "line1" : "Ha iniciado sesión con [provider] como [username]",
@@ -234,9 +287,9 @@
                 },
                 "migration" : {
                     "title" : "Cuentas heredadas",
-                    "waiting-line1" : "Hemos pasado a utilizar Discord para iniciar sesión",
+                    "waiting-line1" : "Hemos empezado a utilizar Discord para iniciar sesión",
                     "waiting-line2" : "Si usted tiene una cuenta desde 2018, tendrá que iniciar sesión con ella para fusionarla con esta",
-                    "twitter-line1" : "Hemos pasado a utilizar Discord para iniciar sesión. Actualmente está utilizando una cuenta heredada que puede ser descontinuada en el futuro y que tiene funcionalidades limitadas.",
+                    "twitter-line1" : "Hemos empezado a utilizar Discord para iniciar sesión. Actualmente estás utilizando una cuenta heredada que puede ser descontinuada en el futuro y que tiene funcionalidades limitadas.",
                     "twitter-line2" : "Para migrar a una cuenta de Discord, haga clic en el botón de abajo"
                 },
                 "ratings" : {
@@ -245,28 +298,28 @@
                 },
                 "destroy" : {
                     "title" : "Destruir cuenta",
-                    "line1" : "Si ya no desea su cuenta, puede borrarla con todos sus datos [aquí](/account/destroy)"
+                    "line1" : "Si ya no deseas tu cuenta, puedes borrarla con todos tus datos [aquí](/account/destroy)"
                 }
             },
             "oauth" : {
                 "title" : "Iniciar sesión en fnbr.co",
                 "discord-button" : "Iniciar sesión con Discord",
-                "legacy-text" : "También, si tiene una cuenta heredada de 2018 que necesita migrar:",
+                "legacy-text" : "También, si tienes una cuenta heredada de 2018 que necesita migrar:",
                 "twitter-button" : "Iniciar sesión con Twitter",
-                "privacy-text" : "Al iniciar sesión, usted acepta que almacenemos los datos asociados con su cuenta tal y como se establece en nuestra [política de privacidad](/privacy)."
+                "privacy-text" : "Al iniciar sesión, aceptas que almacenemos los datos asociados con tu cuenta tal y como se establece en nuestra [política de privacidad](/privacy)."
             },
             "username" : {
-                "title" : "Bienvenido a fnbr.co",
+                "title" : "Bienvenido/a a fnbr.co",
                 "line1" : "Estás conectado con Discord, para interactuar con otros en nuestro sitio necesitamos que elijas un nombre de usuario",
-                "nameTaken" : "Su nombre de usuario [attemptedName] está siendo usado por otro usuario, hemos añadido su discriminador de Discord y le sugerimos que lo use.",
-                "randomName" : "Su nombre de usuario [attemptedName] está siendo usado por otro usuario, no pudimos crear un nombre único usando su discriminador de Discord.",
+                "nameTaken" : "Tu nombre de usuario [attemptedName] ya está siendo usado por otro usuario, hemos añadido tu discriminador de Discord y sugerimos que lo uses.",
+                "randomName" : "Tu nombre de usuario [attemptedName] ya está siendo usado por otro usuario, no pudimos crear un nombre único usando tu discriminador de Discord.",
                 "form-username" : "Nombre de usuario",
-                "form-criteria" : "Por favor, elija un nombre de usuario entre 2 y 32 caracteres, que puede contener caracteres alfanuméricos, así como subrayas y guiones.",
+                "form-criteria" : "Por favor elija un nombre de usuario entre 2 y 32 caracteres. Puede contener caracteres alfanuméricos, así como guiones.",
                 "button-text" : "Configurar nombre de usuario"
             },
             "locked" : {
                 "title" : "No se puede iniciar sesión",
-                "line1" : "No puede iniciar sesión en fnbr.co porque [su cuenta ha sido bloqueada](class=text-danger)."
+                "line1" : "No puedes iniciar sesión en fnbr.co porque [tu cuenta ha sido bloqueada](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Cuenta migrada",
@@ -277,18 +330,18 @@
                 "title" : "No se encontró una cuenta",
                 "line1" : "Te conectaste con Twitter como",
                 "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter con fines de migración.",
-                "line3" : "También puede [iniciar sesión con Discord](/oauth/discord)."
+                "line3" : "También puedes [iniciar sesión con Discord](/oauth/discord)."
             }
         },
         "errors" : {
             "404" : {
                 "title" : "Error",
-                "line1" : "O bien el recurso solicitado no existe o no tiene permisos para verlo."
+                "line1" : "O bien el recurso solicitado no existe o no tienes permiso para verlo."
             },
             "500" : {
                 "title" : "¡Ups!",
-                "line1" : "¡Algo salió mal mientras se procesaba su solicitud, por favor inténtelo de nuevo más tarde!",
-                "line2" : "Puede intentar iniciar sesión de nuevo [aquí](/oauth)."
+                "line1" : "¡Algo salió mal mientras se procesaba tu solicitud, por favor inténtalo de nuevo más tarde!",
+                "line2" : "Puedes intentar iniciar sesión de nuevo [aquí](/oauth)."
             }
         }
     }
