@@ -307,7 +307,7 @@
                 "discord-button" : "Discord ile Giriş Yap",
                 "legacy-text" : "Alternatif olarak, 2018'den kalma hesabınız varsa:",
                 "twitter-button" : "Twitter",
-                "privacy-text" : "Giriş yaparak hesabınızla ilgili verileri [gizlilik politikamızda] belirtildiği şekilde saklamamızı kabul etmiş olursunuz."
+                "privacy-text" : "Giriş yaparak hesabınızla ilgili verileri [gizlilik politikamızda](/privacy) belirtildiği şekilde saklamamızı kabul etmiş olursunuz."
             },
             "username" : {
                 "title" : "fnbr.co'ya Hoşgeldiniz!",
