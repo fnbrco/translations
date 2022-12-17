@@ -4,7 +4,7 @@
     "translations" : {
         "meta" : {
             "thForDate" : true,
-            "dateFormat" : "[month] [date] [year]",
+            "dateFormat" : "[date] [month] [year]",
             "months" : [
                 "Leden",
                 "Únor",
@@ -97,63 +97,63 @@
                 "logout" : " odhlásit se"
             },
             "languagePicker" : {
-                "trigger" : " jazyk",
-                "title" : " Výběr jazyka",
-                "currentLanguage" : " Aktuálně používáte: [language]",
-                "error" : " Chyba při stahování souboru s jazykem",
-                "authors" : " Přeložil:",
-                "cta" : " Kliknutím přepnete na: [language]",
-                "switching" : " Stahování [language]...",
-                "finished" : " Váš jazyk byl změněn!"
+                "trigger" : "jazyk",
+                "title" : "Výběr jazyka",
+                "currentLanguage" : "Aktuálně používáte: [language]",
+                "error" : "Chyba při stahování souboru s jazykem",
+                "authors" : "Přeložil:",
+                "cta" : "Kliknutím přepnete na: [language]",
+                "switching" : "Stahování [language]...",
+                "finished" : "Váš jazyk byl změněn!"
             }
         },
         "home" : {
-            "title-welcome" : " Vítejte na stránkách",
-            "line1-welcome" : " fnbr.co je neoficiální seznam s kosmetiky pro Fortnite: Battle Royale.",
-            "line2-welcome" : " Prohlédnout [aktuální item shop](/shop), a seznam [veškerá dostupné kosmetiky](/cosmetics), a mnoho dalšího.",
+            "title-welcome" : "Vítejte na stránkách",
+            "line1-welcome" : "fnbr.co je neoficiální seznam s kosmetiky pro Fortnite: Battle Royale.",
+            "line2-welcome" : "Prohlédnout [aktuální item shop](/shop), a seznam [veškerá dostupné kosmetiky](/cosmetics), a mnoho dalšího.",
             "title-countdown" : "Resetovat Item Shop:",
-            "link-countdown" : " Prohlédnout Item Shop&rarr;",
-            "title-upcoming" : " Nevydané itemy",
-            "line1-upcoming" : " Do souborů hry byly nedávno přidány tyto itemy.",
-            "line2-upcoming" : " Ačkoli ještě nejsou nutně zveřejněny, měly by se objevit v některé z budoucích aktualizací.",
-            "error-upcoming" : " V tuto chvíli nelze načíst nevydané itemy<br />Zkuste to prosím za chvíli znovu. Děkujeme!",
-            "button-upcoming" : " Zobrazit všechny nevydané Itemy &rarr;",
-            "title-trending" : " Trendy Itemy ",
-            "line1-trending" : " Seznam nejnovějších očekávaných položek podle připomínek přidaných v naší aplikaci.",
-            "error-trending" : " Momentálně nelze načíst trendy itemy<br />Zkuste to prosím za chvíli znovu. Děkujeme!",",
-            "button-trending" : " Zobrazit další trendy itemy &rarr;",
-            "title-all" : " Všechny Itemy",
-            "line1-all" : " Máme seznam všech itemů ze hry Fortnite: Battle Royale. Můžete je najít na stránce: [zde](/list).",
-            "button-all" : " Zobrazit všechny itemy &rarr;",
-            "title-news" : " Nedávné [fortnitenews.com](https://fortnitenews.com|newtab=true) articles",
-            "title-ingame" : " Novinky ze hry"
+            "link-countdown" : "Prohlédnout Item Shop&rarr;",
+            "title-upcoming" : "Nevydané itemy",
+            "line1-upcoming" : "Do souborů hry byly nedávno přidány tyto itemy.",
+            "line2-upcoming" : "Ačkoli ještě nejsou nutně zveřejněny, měly by se objevit v některé z budoucích aktualizací.",
+            "error-upcoming" : "V tuto chvíli nelze načíst nevydané itemy<br />Zkuste to prosím za chvíli znovu. Děkujeme!",
+            "button-upcoming" : "Zobrazit všechny nevydané Itemy &rarr;",
+            "title-trending" : "Trendy Itemy ",
+            "line1-trending" : "Seznam nejnovějších očekávaných položek podle připomínek přidaných v naší aplikaci.",
+            "error-trending" : "Momentálně nelze načíst trendy itemy<br />Zkuste to prosím za chvíli znovu. Děkujeme!",
+            "button-trending" : "Zobrazit další trendy itemy &rarr;",
+            "title-all" : "Všechny Itemy",
+            "line1-all" : "Máme seznam všech itemů ze hry Fortnite: Battle Royale. Můžete je najít na stránce: [zde](/list).",
+            "button-all" : "Zobrazit všechny itemy &rarr;",
+            "title-news" : "Nedávné [fortnitenews.com](https://fortnitenews.com|newtab=true) články",
+            "title-ingame" : "Novinky ze hry"
         },
         "filter" : {
-            "title" : " Kosmetiky",
-            "line1" : " Níže najdete seznam všech itemů, které jsou (nebo brzy budou) ve Fortnite: Battle Royale k dispozici. K upřesnění hledání použijte funkci filtru.",
+            "title" : "Kosmetiky",
+            "line1" : "Níže najdete seznam všech itemů, které jsou (nebo brzy budou) ve Fortnite: Battle Royale k dispozici. K upřesnění hledání použijte funkci filtru.",
             "loading" : "Načítám seznam itemů",
-            "searching" : " Vyhledávání",
+            "searching" : "Vyhledávání",
             "controls" : {
-                "heading" : " Filtr:",
-                "placeholder" : " Vyhledat item...",
+                "heading" : "Filtr:",
+                "placeholder" : "Vyhledat item...",
                 "type" : "Typ Itemu",
-                "rarity" : " Rarita",
-                "season" : " Sezóna",
-                "apply" : " Použít &rarr;",
+                "rarity" : "Rarita",
+                "season" : "Sezóna",
+                "apply" : "Použít &rarr;",
                 "sort" : {
-                    "heading" : " Seřadit podle",
-                    "release" : " Datum vydání",
-                    "occurrences" : " Výskyt",
-                    "seen" : " Naposledy viděno",
-                    "trending" : " Trendy",
+                    "heading" : "Seřadit podle",
+                    "release" : "Datum vydání",
+                    "occurrences" : "Výskyt",
+                    "seen" : "Naposledy viděno",
+                    "trending" : "Trendy",
                     "asc-word" : "Podle Abecedy",
-                    "desc-word" : " Obrácený",
-                    "asc-number" : " Nejvyšší",
-                    "desc-number" : " Nejnižší",
-                    "asc-date" : " Nejnovější",
-                    "desc-date" : " Nejstarší",
-                    "asc-seen" : " Nejnovější",
-                    "desc-seen" : " Nejdelší čekání"
+                    "desc-word" : "Obrácený",
+                    "asc-number" : "Nejvyšší",
+                    "desc-number" : "Nejnižší",
+                    "asc-date" : "Nejnovější",
+                    "desc-date" : "Nejstarší",
+                    "asc-seen" : "Nejnovější",
+                    "desc-seen" : "Nejdelší čekání"
                 }
             },
             "results" : {
@@ -178,12 +178,12 @@
             "title-daily" : " Denní Itemy",
             "error" : " Obchod není k dispozici, zkuste to prosím za chvíli znovu.",
             "line1" : " Aktuální rotace item shopu s itemy pro hru Fortnite: Battle Royale - aktualizace bývá denně zde: [00:00 UTC](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
-            "line2" : " Můžete si prohlédnout včerejší Item Shop [zde](/shop/yesterday|tooltip=Yesterday's Item Shop).",
+            "line2" : " Můžete si prohlédnout včerejší Item Shop [zde](/shop/yesterday|tooltip=Včerejší Item Shop).",
             "line3" : " Kliknutím na kosmetiku zobrazíte další informace o ní. Podělte se o svůj názor na tento item shop hlasováním v dolní části této stránky.",
             "countdown" : {
                 "title" : "Nové Itemy:",
                 "wordyFormat" : "[number] [noun]",
-                "hour-singular" : " hodina",
+                "hour-singular" : "hodina",
                 "hours-plural" : "hodiny"
             },
             "yesterday" : {
@@ -280,50 +280,50 @@
                 "error" : " Něco se pokazilo při načítání dat vašeho účtu, zkuste to prosím později..",
                 "info" : {
                     "title" : "Informace",
-                    "line1" : " Jste přihlášeni pomocí [provider] jako [username]",
-                    "line2-api-yes" : " Máte [api access](/api/docs)",
-                    "line2-api-no" : " Nemáte přístup k rozhraní api."
+                    "line1" : "Jste přihlášeni pomocí [provider] jako [username]",
+                    "line2-api-yes" : "Máte [api access](/api/docs)",
+                    "line2-api-no" : "Nemáte přístup k rozhraní api."
                 },
                 "migration" : {
-                    "title" : " Starší účty",
-                    "waiting-line1" : " Přešli jsme na přihlašování pomocí služby Discord.",
-                    "waiting-line2" : " Pokud máte účet z roku 2018, musíte se k němu přihlásit, abyste ho mohli sloučit s tímto účtem. ",
-                    "twitter-line1" : " Pro přihlašování jsme přešli na Discord. V současné době používáte starší účet, který může být v budoucnu zrušen a má omezené funkce.",
-                    "twitter-line2" : " Chcete-li přejít na účet Discord, klikněte na tlačítko níže. "
+                    "title" : "Starší účty",
+                    "waiting-line1" : "Přešli jsme na přihlašování pomocí služby Discord.",
+                    "waiting-line2" : "Pokud máte účet z roku 2018, musíte se k němu přihlásit, abyste ho mohli sloučit s tímto účtem. ",
+                    "twitter-line1" : "Pro přihlašování jsme přešli na Discord. V současné době používáte starší účet, který může být v budoucnu zrušen a má omezené funkce.",
+                    "twitter-line2" : "Chcete-li přejít na účet Discord, klikněte na tlačítko níže. "
                 },
                 "ratings" : {
-                    "title" : " Hodnocení ",
-                    "none" : " Nemáte žádné hodnocení."
+                    "title" : "Hodnocení ",
+                    "none" : "Nemáte žádné hodnocení."
                 },
                 "destroy" : {
-                    "title" : " Odstranit účet",
-                    "line1" : " Pokud svůj účet již nechcete, můžete jej i všechna jeho data smazat [zde]. (/account/destroy)"
+                    "title" : "Odstranit účet",
+                    "line1" : "Pokud svůj účet již nechcete, můžete jej i všechna jeho data smazat [zde]. (/account/destroy)"
                 }
             },
             "oauth" : {
-                "title" : " Přihlášení k fnbr.co ",
-                "discord-button" : " Přihlášení pomocí služby Discord ",
-                "legacy-text" : " Pokud máte starší účet z roku 2018, který potřebuje migraci.",
-                "twitter-button" : " Přihlášení pomocí Twitter ",
-                "privacy-text" : " Přihlášením souhlasíte s ukládáním údajů spojených s vaším účtem, jak je uvedeno v našich [Zásadách ochrany osobních Udajů](/privacy)."
+                "title" : "Přihlášení k fnbr.co ",
+                "discord-button" : "Přihlášení pomocí služby Discord ",
+                "legacy-text" : "Pokud máte starší účet z roku 2018, který potřebuje migraci.",
+                "twitter-button" : "Přihlášení pomocí Twitter ",
+                "privacy-text" : "Přihlášením souhlasíte s ukládáním údajů spojených s vaším účtem, jak je uvedeno v našich [Zásadách ochrany osobních Udajů](/privacy)."
             },
             "username" : {
-                "title" : " Vítejte na stránkách fnbr.co",
-                "line1" : " Jste přihlášeni pomocí služby Discord, abyste mohli komunikovat s ostatními na našich stránkách, potřebujeme, abyste si zvolili uživatelské jméno.",
-                "nameTaken" : " Vaše uživatelské jméno [attemptedName] je obsazeno jiným uživatelem, přidali jsme k němu váš diskriminátor Discord a doporučujeme vám ho používat.",
-                "randomName" : " Vaše uživatelské jméno [attemptedName] je obsazeno jiným uživatelem, nepodařilo se nám vytvořit jedinečné jméno pomocí vašeho diskriminátoru Discord.",
-                "form-username" : " Uživatelské jméno",
-                "form-criteria" : " Zvolte prosím uživatelské jméno o délce 2 až 32 znaků, které může obsahovat alfanumerické znaky, podtržítka a pomlčky.",
-                "button-text" : " Nastavení mého uživatelského jména"
+                "title" : "Vítejte na stránkách fnbr.co",
+                "line1" : "Jste přihlášeni pomocí služby Discord, abyste mohli komunikovat s ostatními na našich stránkách, potřebujeme, abyste si zvolili uživatelské jméno.",
+                "nameTaken" : "Vaše uživatelské jméno [attemptedName] je obsazeno jiným uživatelem, přidali jsme k němu váš diskriminátor Discord a doporučujeme vám ho používat.",
+                "randomName" : "Vaše uživatelské jméno [attemptedName] je obsazeno jiným uživatelem, nepodařilo se nám vytvořit jedinečné jméno pomocí vašeho diskriminátoru Discord.",
+                "form-username" : "Uživatelské jméno",
+                "form-criteria" : "Zvolte prosím uživatelské jméno o délce 2 až 32 znaků, které může obsahovat alfanumerické znaky, podtržítka a pomlčky.",
+                "button-text" : "Nastavení mého uživatelského jména"
             },
             "locked" : {
-                "title" : " Nelze se přihlásit ",
-                "line1" : " Nemůžete se přihlásit na fnbr.co, protože [Váš účet byl Zablokován](class=text-danger)."
+                "title" : "Nelze se přihlásit ",
+                "line1" : "Nemůžete se přihlásit na fnbr.co, protože [Váš účet byl Zablokován](class=text-danger)."
             },
             "migrated" : {
-                "title" : " Migrace účtu",
-                "line1" : " Jste přihlášeni na Twitteru jako",
-                "line2" : " Tento účet však byl převeden na přihlašování přes Discord."
+                "title" : "Migrace účtu",
+                "line1" : "Jste přihlášeni na Twitteru jako",
+                "line2" : "Tento účet však byl převeden na přihlašování přes Discord."
             },
             "notFound" : {
                 "title" : " Nebyl nalezen žádný účet ",
