@@ -298,7 +298,7 @@
                 },
                 "destroy" : {
                     "title" : "Odstranit účet",
-                    "line1" : "Pokud svůj účet již nechcete, můžete jej i všechna jeho data smazat [zde]. (/account/destroy)"
+                    "line1" : "Pokud svůj účet již nechcete, můžete jej i všechna jeho data smazat [zde](/account/destroy)"
                 }
             },
             "oauth" : {
