@@ -1,5 +1,6 @@
 {
     "name" : "Čeština",
+    "name-en": "Czech",
     "live" : true,
     "translations" : {
         "meta" : {
