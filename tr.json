@@ -112,7 +112,7 @@
         "home" : {
             "title-welcome" : "Hoşgeldiniz",
             "line1-welcome" : "fnbr.co, Fortnite: Battle Royale için resmi olmayan kozmetik sitesi.",
-            "line2-welcome" : "Şuani [içerik mağazasını](/shop) görüntüle, Tüm mevcut [eşyalar](/cosmetics) için liste, ve daha fazlası.",
+            "line2-welcome" : "Şimdiki [içerik mağazasını](/shop) görüntüle, Tüm mevcut [eşyalar](/cosmetics) için liste, ve daha fazlası.",
             "title-countdown" : "Mağazanın yenilenmesine:",
             "link-countdown" : "İçerik Mağazası &rarr;",
             "title-upcoming" : "Yayınlanmamış Eşyalar",
@@ -162,12 +162,12 @@
             "type" : "tip",
             "rarity" : "nadirlik",
             "season" : "sezon",
-            "all" : "Hepsi gösteriliyor [numara] Fortnite [isim]",
-            "query" : "Gösteriliyor [sonuç] eşleşiyor [sorgu]",
-            "filter-start" : "Gösteriliyor [sonuç]",
-            "filter-end" : "filtreleniyor [filtre]",
+            "all" : "Hepsi gösteriliyor [number] Fortnite [noun]",
+            "query" : "Gösteriliyor [result] eşleşiyor [query]",
+            "filter-start" : "Gösteriliyor [result]",
+            "filter-end" : "filtreleniyor [filters]",
             "no-results" : "Bu filtrelerde eşya bulunamadı.",
-            "error-down-title" : "Şuanda eşya arama özeliği kullanılamıyor",
+            "error-down-title" : "Şu anda eşya arama özeliği kullanılamıyor",
             "error-down-text" : "Arama sunucularına bağlanılamıyor",
             "error-misc-title" : "Arama tamamlanamadı",
             "error-timeout" : "Zaman aşımına uğradı",
@@ -178,9 +178,9 @@
             "title" : "Güncel İçerik mağazası",
             "title-featured" : "Öne Çıkan Eşyalar",
             "title-daily" : "Günlük Eşyalar",
-            "error" : "İçerik Mağazası şuanda uygun değil, lütfen biraz sonra tekrar dene.",
-            "line1" : "Fortnite Battle Royale için güncel içerik mağaza - Hergün [00:00 UTC](https://time.is/UTC|tooltip=Şuanki Zaman UTC|newtab=true) de Güncellenir.",
-            "line2" : "Dünkü İçerik Mağazasını görmek için [Bana](/shop/yesterday|tooltip=Dünün eşya mağazası) Tıkla.",
+            "error" : "İçerik Mağazası şu anda uygun değil, lütfen biraz sonra tekrar dene.",
+            "line1" : "Fortnite Battle Royale için güncel içerik mağazası - Hergün [00:00 UTC](https://time.is/UTC|tooltip=Şimdiki Zaman UTC|newtab=true) de güncellenir.",
+            "line2" : "Dünkü İçerik Mağazasını görmek için [bana](/shop/yesterday|tooltip=Dünün İçerik Mağazası) tıkla.",
             "line3" : "Kozmetik hakkında ayrıntılı bilgi için üstüne tıklayın.",
             "countdown" : {
                 "title" : "Yeni Eşyalar:",
@@ -189,7 +189,7 @@
                 "hours-plural" : "saat"
             },
             "yesterday" : {
-                "title" : "Dünün içerik mağaza"
+                "title" : "Dünün içerik mağazası"
             },
             "vote" : {
                 "title" : "Bugünkü mağaza sizce nasıl?",
