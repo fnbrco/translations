@@ -157,7 +157,7 @@
             "title-featured" : "Destacado",
             "title-daily" : "Diario",
             "error" : "La tienda de objetos no está disponible en este momento. Inténta recargar la página.",
-            "line1" : "La tienda de objetos actual para Fortnite Battle Royale, es actualizada a diario a las [00:00 (UTC)](https://time.is/UTC|tooltip=Current time in UTC|newtab=true).",
+            "line1" : "La tienda de objetos actual para Fortnite Battle Royale, es actualizada a diario a las [00:00 (UTC)](https://time.is/UTC|tooltip=Hora actual de UTC|newtab=true).",
             "line2" : "Mira la tienda de objetos de ayer [aquí](/shop/yesterday|tooltip=Yesterday's Item Shop).",
             "line3" : "Haz clic en un objeto para ver más información.",
             "countdown" : {
