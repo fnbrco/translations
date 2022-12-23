@@ -74,14 +74,10 @@
                 "dropdown" : "cosméticos",
                 "upcoming" : "próximamente",
                 "list" : "lista",
-                "png" : "png",
-                "gallery" : "galería",
-                "icons" : "iconos",
                 "reminders" : "recordatorios",
                 "history" : "historial de la tienda"
             },
             "news" : "noticias",
-            "modes" : "modos",
             "randomiser" : "randomizador",
             "about" : {
                 "dropdown" : "sobre",
@@ -110,9 +106,7 @@
         },
         "home" : {
             "title-upcoming" : "Objetos próximos",
-            "title-all" : "Todos los objetos",
-            "error" : "Si no pudiste recuperar tus artículos, inténtalo de nuevo más tarde.",
-            "error-too-long" : "Se está tardando demasiado tiempo. Ten algo de paciencia..."
+            "title-all" : "Todos los objetos"
         },
         "filter" : {
             "title" : "Objetos",
@@ -237,21 +231,6 @@
             "chooseText" : "Haz clic para elegir uno",
             "randomise-all" : "Elegir aleatoriamente todos los cosméticos"
         },
-        "png" : {
-            "title" : "Objetos en .PNG",
-            "line1" : "Por favor, da créditos a fnbr.co si usted utiliza una de las imágenes. Las vistas previas serán reducidas, al descargar serán a tamaño completo.",
-            "sort-by" : "Ordenar por:",
-            "all" : "Todo"
-        },
-        "gallery" : {
-            "title" : "Galería de cosméticos",
-            "line1" : "Todos los objetos en Fortnite Battle Royale",
-            "line2" : "Por favor, no utilices las imágenes en tu sitio web personal o redes sociales sin dar créditos a fnbr.co"
-        },
-        "icons" : {
-            "title" : "Íconos de Fortnite Battle Royale",
-            "line1" : "Todas las imágenes pertenecen a Epic Games."
-        },
         "item" : {
             "unreleased" : "No lanzado",
             "description" : "Descripción",
@@ -273,17 +252,13 @@
             "images-png" : ".PNG",
             "images-gallery" : "Galería",
             "images-featured" : "Destacado",
-            "interest-title" : "Objetos con interés a lo largo del tiempo",
-            "interest-line1" : "Esto representa el interés en un objeto a lo largo del tiempo, siendo tal cuál con 100% el más popular.",
-            "interest-line2" : "Los datos de hoy podrían estar incompletos.",
             "occurrences-table" : {
                 "title" : "Apariciones en la tienda de objetos",
                 "th-date" : "Fecha",
                 "th-days" : "Días"
             },
             "set" : "Lote",
-            "set-name" : "Parte de [name]",
-            "popular-title" : "Objetos populares de hoy"
+            "set-name" : "Parte de [name]"
         },
         "account" : {
             "home" : {
