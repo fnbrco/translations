@@ -15,6 +15,13 @@
             "authors" : ["Closeings#9548", "daanz#3412", "Doolrex#2499", "srdrabx#6513", "Juanito#7930"]
         },
         {
+            "name": "Español (Latinoamérica)",
+            "code": "es-mx",
+            "flag": "mx",
+            "live": true,
+            "authors" : ["tposejank#0593"]
+        },
+        {
             "name": "Français",
             "code": "fr",
             "flag": "fr",
