@@ -5,7 +5,7 @@
     "translations" : {
         "meta" : {
             "thForDate" : false,
-            "dateFormat" : "[date] de [month] de [year]",
+            "dateFormat" : "[date] de [month] del [year]",
             "months" : [
                 "Enero",
                 "Febrero",
@@ -81,7 +81,7 @@
             },
             "guideDropdown" : "guía",
             "news" : "noticias",
-            "randomiser" : "randomizador",
+            "randomiser" : "aleatorizador",
             "about" : {
                 "dropdown" : "sobre",
                 "translate" : "traducir",
@@ -138,7 +138,7 @@
                 "heading" : "Filtro:",
                 "placeholder" : "Busca un ítem...",
                 "type" : "Tipo de Objeto",
-                "rarity" : "Raresa",
+                "rarity" : "Rareza",
                 "season" : "Temporada",
                 "apply" : "Aplicar &rarr;",
                 "sort" : {
@@ -159,7 +159,7 @@
             },
             "results" : {
                 "type" : "type",
-                "rarity" : "raresa",
+                "rarity" : "rareza",
                 "season" : "temporada",
                 "all" : "Mostrando todos los [number] [noun] de Fortnite",
                 "query" : "Mostrando [result] que coinciden con [query]",
@@ -312,7 +312,7 @@
                 "title" : "Bienvenido/a a fnbr.co",
                 "line1" : "Estás conectado con Discord, para interactuar con otros en nuestro sitio necesitamos que elijas un nombre de usuario",
                 "nameTaken" : "Tu nombre de usuario [attemptedName] ya está siendo usado por otro usuario, hemos añadido tu discriminador de Discord y sugerimos que lo uses.",
-                "randomName" : "Tu nombre de usuario [attemptedName] ya está siendo usado por otro usuario, no pudimos crear un nombre único usando tu discriminador de Discord.",
+                "randomName" : "Tu nombre de usuario [attemptedName] ya está siendo usado por otro usuario, no hemos podido crear un nombre único usando tu discriminador de Discord.",
                 "form-username" : "Nombre de usuario",
                 "form-criteria" : "Por favor elija un nombre de usuario entre 2 y 32 caracteres. Puede contener caracteres alfanuméricos, así como guiones.",
                 "button-text" : "Configurar nombre de usuario"
