@@ -77,10 +77,12 @@
                 "reminders" : "recordatorios",
                 "history" : "historial de la tienda",
                 "upcoming" : "próximamente",
-                "sets": "lotes de objetos"
+                "sets": "lotes de objetos",
+                "predictions": "predicciones"
             },
             "guideDropdown": "guía",
             "news" : "noticias",
+            "predictions" : "predicciones",
             "randomiser" : "aleatorizador",
             "about" : {
                 "dropdown" : "sobre fnbr.co",
@@ -89,7 +91,8 @@
                 "privacy" : "política de privacidad",
                 "donate" : "Donar",
                 "discord" : "Discord",
-                "twitter" : "Twitter"
+                "twitter" : "Twitter",
+                "app": "Aplicaciones"
             },
             "api" : "api",
             "account" : {
@@ -106,7 +109,8 @@
                 "cta" : "Haz clic para cambiar al idioma [language]",
                 "switching" : "Se está descargando [language]...",
                 "finished" : "¡El idioma ha sido cambiado exitosamente!"
-            }
+            },
+            "error-too-long": "Está tardando demasiado..."
         },
         "home" : {
             "title-welcome" : "Bienvenido",
@@ -239,6 +243,10 @@
                 "line2" : "Haz clic en un objeto para ver más información.",
                 "today-button" : "Tienda de objetos de hoy"
             }
+        },
+        "sets" : {
+            "title": "Lotes de objetos",
+            "line1": "Esta página proporciona una lista de todos los lotes de objetos en Fortnite Battle Royale. — Haz clic en uno para ver sus objetos."
         },
         "news" : {
             "title" : "Noticias",
