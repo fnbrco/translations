@@ -129,18 +129,6 @@
             "title-news" : "Neueste Artikel von [fortnitenews.com](https://fortnitenews.com|newtab=true)",
             "title-ingame" : "Neuigkeiten-Feed im Spiel"
         },
-        "search" : {
-            "button-text" : "Gegenstände suchen",
-            "button-text-cancel" : "Suche abbrechen",
-            "placeholder" : "Einen Gegenstand suchen...",
-            "response" : {
-                "error-format" : "Fehler: [message]",
-                "no-results" : "Nichts entsprach deiner Suche",
-                "conflict" : "Keine Argumente angegeben",
-                "bad-request" : "Ungültige Suchanfrage",
-                "ratelimit" : "Zu viele Anfragen, bitte versuche es in wenigen Augenblicken erneut"
-            }
-        },
         "filter" : {
             "title" : "Kosmetika",
             "line1" : "Nachfolgend findest du eine Liste aller Gegenstände, die derzeit (oder in Kürze) in Fortnite: Battle Royale verfügbar sind. Verwende die Filter- und Sortierfunktionen, um deine Suche zu präzisieren.",
@@ -189,8 +177,6 @@
             "title" : "Aktuelle Rotation",
             "title-featured" : "Vorgestellte Gegenstände",
             "title-daily" : "Tägliche Gegenstände",
-            "title-featured" : "Vorgestellt",
-            "title-daily" : "Täglich",
             "error" : "Shop nicht verfügbar, bitte versuche es in wenigen Augenblicken noch einmal",
             "line1" : "Die aktuelle Item-Shop-Rotation für Fortnite Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Aktuelle Zeit in UTC|newtab=true).",
             "line2" : "Du kannst den gestrigen Item-Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
@@ -230,17 +216,6 @@
             "title" : "Bald verfügbare Kosmetika",
             "line1" : "Alle noch nicht erschienenen Gegenstände in Fortnite Battle Royale."
         },
-        "list" : {
-            "title" : "Kosmetikliste",
-            "line1" : "Jede verfügbare Kosmetik in Fortnite Battle Royale.",
-            "table" : {
-                "icon" : "Icon",
-                "name" : "Name",
-                "type" : "Typ",
-                "rarity" : "Seltenheit",
-                "obtained" : "Wie zu erhalten"
-            }
-        }, 
         "history" : {
             "list" : {
                 "title" : "Item-Shop-Historie",
@@ -266,21 +241,6 @@
             "chooseText" : "Klicke, um auszuwählen",
             "randomise-all" : "Alle randomisieren"
         },
-        "png" : {
-            "title" : "Kosmetik-PNG",
-            "line1" : "Bitte verweise auf fnbr.co, wenn du eines dieser Bilder verwendest. Vorschaubilder sind verkleinert dargestellt, Downloads werden in voller Größe angeboten.",
-            "sort-by" : "Sortieren nach:",
-            "all" : "Alle"
-        },
-        "gallery" : {
-            "title" : "Kosmetikgalerie",
-            "line1" : "Jede Kosmetik, die in Fortnite Battle Royale erhältlich ist.",
-            "line2" : "Bitte verwende diese Bilder nicht auf deiner persönlichen Website/deinem Social Media-Konto ohne Verweis auf fnbr.co"
-        },
-        "icons" : {
-            "title" : "Fortnite Battle Royale Icons",
-            "line1" : "Alle Bilder sind Eigentum von Epic Games."
-        },
         "item" : {
             "unreleased" : "Nicht veröffentlicht",
             "description" : "Beschreibung",
@@ -302,11 +262,9 @@
             "images" : "Bilder",
             "images-icon" : "Icon",
             "images-png" : "PNG",
+            "images-video": "Ansicht im Spiel",
             "images-gallery" : "Galerie",
             "images-featured" : "Vorgestellt",
-            "interest-title" : "Interesse im Zeitverlauf",
-            "interest-line1" : "Dies stellt das Interesse an diesem Gegenstand im Laufe der Zeit dar, wobei 100 % die beliebteste Zeit ist.",
-            "interest-line2" : "Die Daten für heute können unvollständig sein",
             "occurrences-table" : {
                 "title" : "Shop-Erscheinungen",
                 "th-date" : "Datum",
