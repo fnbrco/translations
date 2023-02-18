@@ -35,7 +35,7 @@
                 "pet" : "Mascota",
                 "music" : "Música",
                 "wrap" : "Papel",
-                "banner": "Estandarte",
+                "banner" : "Estandarte",
                 "bundle" : "Lote de objeto(s)",
                 "misc" : "Misceláneo"
             },
@@ -77,14 +77,14 @@
                 "reminders" : "recordatorios",
                 "history" : "historial de la tienda",
                 "upcoming" : "próximamente",
-                "sets": "lotes de objetos"
+                "sets" : "lotes de objetos"
             },
-            "guideDropdown": "guía",
+            "guideDropdown" : "guía",
             "news" : "noticias",
             "randomiser" : "aleatorizador",
             "about" : {
                 "dropdown" : "sobre fnbr.co",
-                "translate": "traducción",
+                "translate" : "traducción",
                 "about" : "sobre fnbr.co",
                 "privacy" : "política de privacidad",
                 "donate" : "Donar",
@@ -117,14 +117,14 @@
             "title-upcoming" : "Objetos inéditos",
             "line1-upcoming" : "Estos objetos son los que han sido añadidos a los archivos del juego recientemente.",
             "line2-upcoming" : "Aunque aun no han sido lanzados, podrían estar en próximas actualizaciones.",
-            "error-upcoming" : "No es posible cargar los objetos inéditos ahorita,<br />por favor inténtalo más luego.",
+            "error-upcoming" : "No es posible cargar los objetos inéditos ahorita,<br />por favor inténtalo más tarde.",
             "button-upcoming" : "Ver todos los objetos inéditos &rarr;",
             "title-trending" : "Objetos en tendencia",
             "line1-trending" : "Una lista de los objetos más anticipados calculado por recordatorios añadidos en nuestra [app](/app).",
-            "error-trending" : "No es posible cargar los objetos en tendencia ahorita, <br />por favor inténtalo mas luego.",
+            "error-trending" : "No es posible cargar los objetos en tendencia ahorita, <br />por favor inténtalo más tarde.",
             "button-trending" : "Ver más objetos en tendencia &rarr;",
             "title-all" : "Todos los objetos",
-            "line1-all" : "Tenemos una lista de todos los objetos en Fortnite: Battle Royale. Puedes buscar o filtrar y clasificar [aquí(/list).",
+            "line1-all" : "Tenemos una lista de todos los objetos en Fortnite: Battle Royale. Puedes buscar o filtrar y clasificar [aquí](/list).",
             "button-all" : "Ver todos los objetos &rarr;",
             "title-news" : "Artículos de [fortnitenews.com](https://fortnitenews.com|newtab=true) recientes",
             "title-ingame" : "Noticias del juego"
@@ -170,7 +170,7 @@
                 "error-down-text" : "No se pudo conectar a los servidores de búsqueda",
                 "error-misc-title" : "No se pudo completar la búsqueda",
                 "error-timeout" : "Se agotó el tiempo de espera de tu solicitud",
-                "error-ratelimit" : "Hay demasiadas solicitudes en este momento, inténtalo de nuevo más luego."
+                "error-ratelimit" : "Hay demasiadas solicitudes en este momento, inténtalo de nuevo más tarde"
             }
         },
         "shop" : {
@@ -179,7 +179,7 @@
             "title-daily" : "Diario",
             "error" : "La tienda de objetos no está disponible en este momento.",
             "line1" : "La tienda de objetos actual para Fortnite Battle Royale, es actualizada a diario a las [00:00 (UTC)](https://time.is/UTC|tooltip=Hora actual en UTC|newtab=true).",
-            "line2" : "Mira la tienda de objetos de ayer [aquí](/shop/yesterday|tooltip=Tienda de ayer.).",
+            "line2" : "Mira la tienda de objetos de ayer [aquí](/shop/yesterday|tooltip=Tienda de ayer).",
             "line3" : "Haz clic en un objeto para ver más información.  Expresa tu opinión sobre esta tienda votando al final de la página.",
             "countdown" : {
                 "title" : "Nuevos objetos en",
@@ -204,28 +204,17 @@
                     "timeout" : "La solicitud tardó demasiado y se agotó el tiempo de espera",
                     "internal" : "Error interno",
                     "failover" : "La solicitud al servidor [server] falló, intentándolo de nuevo por defecto...",
-                    "ratelimit" : "Hay demasiadas solicitudes ahorita, intentálo de nuevo más luego",
-                    "unavailable" : "No puedes votar hasta que la tienda de objetos haya cambiado en el próximo minuto.",
-                    "conflict" : "No se puede votar ahora, inténtalo de nuevo más luego.",
+                    "ratelimit" : "Hay demasiadas solicitudes en estos momentos, intentálo de nuevo más tarde",
+                    "unavailable" : "No puedes votar hasta que la tienda de objetos haya cambiado en el próximo minuto",
+                    "conflict" : "No se puede votar en estos momentos, inténtalo de nuevo más tarde.",
                     "bad-choice" : "Tu voto no fue registrado",
-                    "no-data" : "Los votos no están disponibles ahora, inténtalo de nuevo más luego."
+                    "no-data" : "Los votos no están disponibles en estos momentos, inténtalo de nuevo más tarde."
                 }
             } 
         },
         "upcoming" : {
             "title" : "Próximos Cosméticos",
-            "line1" : "Todos los objetos que no están disponibles en Fortnite Battle Royale."
-        },
-        "list" : {
-            "title" : "Lista de Cosméticos",
-            "line1" : "Todos los objetos que están disponibles en Fortnite Battle Royale.",
-            "table" : {
-                "icon" : "Ícono",
-                "name" : "Nombre",
-                "type" : "Tipo",
-                "rarity" : "Rareza",
-                "obtained" : "Lo tienes"
-            }
+            "line1" : "Todos los objetos que aún no están disponibles en Fortnite Battle Royale."
         },
         "history" : {
             "list" : {
@@ -234,7 +223,7 @@
                 "line2" : "Haz clic en una fecha para ver su tienda de objetos, o baja para ver un historial de la tienda de objetos diaria."
             },
             "view" : {
-                "title" : "Tienda de objetos antigua",
+                "title" : "Tienda de objetos el",
                 "line1" : "Esta es la tienda de objetos del [date] en Fortnite Battle Royale. ",
                 "line2" : "Haz clic en un objeto para ver más información.",
                 "today-button" : "Tienda de objetos de hoy"
@@ -262,7 +251,7 @@
                 "last-never" : "Última aparición: Nunca",
                 "last-date" : "Última aparición:",
                 "occurrences" : "Apariciones:",
-                "introduced": "Introducido en:"
+                "introduced" : "Introducido en:"
             },
             "reminder-count" : "Número de usuarios con [recordatorios](/reminders) en Discord:",
             "app-reminder-count" : "Número de usuarios con [recordatorios](/reminders) en nuestra [app](/app):",
@@ -275,20 +264,21 @@
             "images-png" : ".png",
             "images-gallery" : "Galería",
             "images-featured" : "Destacado",
+            "images-video" : "Vista dentro del juego",
             "occurrences-table" : {
                 "title" : "Apariciones en la tienda de objetos",
                 "th-date" : "Fecha",
                 "th-days" : "Hace días",
-                "today": "Hoy"
+                "today" : "Hoy"
             },
             "set" : "Conjunto",
             "set-name" : "Pieza del conjunto de [name]",
-            "promo": "Imágenes publicitarias"
+            "promo" : "Imágenes publicitarias"
         },
         "account" : {
             "home" : {
                 "title" : "Los datos de tu cuenta",
-                "error" : "Algo falló al cargar tu cuenta, inténtalo más luego.",
+                "error" : "Algo falló al cargar tu cuenta, inténtalo de nuevo más tarde.",
                 "info" : {
                     "title" : "Información",
                     "line1" : "Has iniciado sesión con [provider] como [username]",
@@ -350,7 +340,7 @@
             },
             "500" : {
                 "title" : "¡Oh no!",
-                "line1" : "¡Algo salió mal mientras se procesaba tu solicitud! Por favor inténtalo de nuevo más luego.",
+                "line1" : "¡Algo salió mal mientras se procesaba tu solicitud! Por favor inténtalo de nuevo más tarde.",
                 "line2" : "Puedes intentar iniciar sesión de nuevo [aquí](/oauth)."
             }
         }
