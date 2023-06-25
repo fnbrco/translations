@@ -207,9 +207,9 @@
                     "failover" : "İstek [server] başarısız oldu, varsayılan ayarlarda tekrar deneniyor...",
                     "ratelimit" : "Çok fazla istek aldık, daha sonra tekrar deneyin.",
                     "unavailable" : "Oylama şu anda mümkün değil mağaza birkaç dakika içerisinde yenilenecektir",
-                    "conflict" : "Oylama şuan mümkün değil, Lütfen daha sonra tekrar deneyin.",
+                    "conflict" : "Oylama şu an mümkün değil, Lütfen daha sonra tekrar deneyin.",
                     "bad-choice" : "Kötü seçim",
-                    "no-data" : "Veri şuanda yok! - lütfen biraz sonra tekrar deneyin"
+                    "no-data" : "Veri şu anda yok! - lütfen biraz sonra tekrar deneyin"
                 }
             }
         },
@@ -282,7 +282,7 @@
                 "error" : "Hesap bilgilerini yüklerken bir sorun oluştu, lütfen daha sonra tekrar dene.",
                 "info" : {
                     "title" : "Bilgilendirme",
-                    "line1" : "Şuanda [provider] ile [username] ismini kullanarak giriş yaptın",
+                    "line1" : "Şu anda [provider] ile [username] ismini kullanarak giriş yaptın",
                     "line2-api-yes" : "[API Erişimin](/api/docs) var",
                     "line2-api-no" : "API erişimin yok"
                 },
