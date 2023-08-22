@@ -1,0 +1,348 @@
+{
+    "name" : "Čeština",
+    "name-en": "Czech",
+    "live" : true,
+    "translations" : {
+        "meta" : {
+            "thForDate" : false,
+            "dateFormat" : "[date]. [month] [year]",
+            "months" : [
+                "Leden",
+                "Únor",
+                "Březen",
+                "Duben",
+                "Květen",
+                "Červen",
+                "Červenec",
+                "Srpen",
+                "Září",
+                "Říjen",
+                "Listopad",
+                "Prosinec"
+            ],
+            "types" : {
+                "backpack" : "Batoh",
+                "emote" : "Akce",
+                "glider" : "Padák",
+                "emoji" : "Emotikon",
+                "loading" : "Načítací obrazovka",
+                "outfit" : "Oděv",
+                "pickaxe" : "Krumpáč",
+                "skydive" : "Stopa pádu",
+                "umbrella" : "Deštník",
+                "spray" : "Sprej",
+                "toy" : "Hračka",
+                "pet" : "Mazlíček",
+                "music" : "Hudba",
+                "wrap" : "Plášť",
+                "banner" : "Banner", //Could be banner or plakát, depending on where it is used
+                "bundle" : "Balíček",
+                "misc" : "Ostatní"
+            },
+            "rarity" : {
+                "frozen" : "Zamrzlý",
+                "lava" : "Lávový",
+                "legendary" : "Legendární",
+                "dark" : "Temný",
+                "marvel" : "Marvel",
+                "dc" : "DC",
+                "star_wars" : "Star Wars",
+                "gaming_legends" : "Herní Legendy",
+                "icon_series" : "Série Ikon",
+                "slurp" : "Slurp", //This is an interjection and it's hard to translate. Could be either Slint (Slintat in infinitive) as in drooling while drinking/eating or Srk (Srkat in infinitive) as in drinking a liquid loudly
+                "shadow" : "Stínový",
+                "epic" : "Epický",
+                "rare" : "Vzácný",
+                "uncommon" : "Neobvyklý",
+                "common" : "Obyčejný"
+            },
+            "translationNotAvailable" : "Překlad pro tuto stránku bohužel není dostupný.",
+            "translationIncomplete" : "Některé texty na této stránce nebudou přeloženy.",
+            "item-noun" : {
+                "singular" : "položka",
+                "plural" : "položky"
+            },
+            "result-noun" : {
+                "format" : "[number] [noun]",
+                "singular" : "výsledek",
+                "plural" : "výsledky"
+            }
+        },
+        "nav" : {
+            "home" : "domů",
+            "shop" : "obchod",
+            "cosmetics" : {
+                "dropdown" : "kosmetika",
+                "list" : "seznam &amp; hledat",
+                "reminders" : "upozornění",
+                "history" : "obchodní historie",
+                "upcoming" : "nadcházející",
+                "sets" : "sady položek"
+            },
+            "guideDropdown" : "nápověda",
+            "news" : "herní novinky",
+            "randomiser" : "randomizér",
+            "about" : {
+                "dropdown" : "o nás",
+                "translate" : "překlad",
+                "about" : "o fnbr.co",
+                "privacy" : "zásady ochrany osobních údajů",
+                "donate" : "Darovat",
+                "discord" : "Discord",
+                "twitter" : "Twitter"
+            },
+            "api" : "api",
+            "account" : {
+                "dropdown" : "účet",
+                "account" : "účet",
+                "logout" : "odhlásit se"
+            },
+            "languagePicker" : {
+                "trigger" : "jazyk",
+                "title" : "Zvolte jazyk",
+                "currentLanguage" : "Momentálně používáte jazyk [language]",
+                "error" : "Chyba při stahování souboru s jazykem",
+                "authors" : "Přeložil:",
+                "cta" : "Kliknutím přepnete na jazyk [language]",
+                "switching" : "Stahování jazyku [language]...",
+                "finished" : "Váš jazyk byl úspěšně změněn!"
+            }
+        },
+        "home" : {
+            "title-welcome" : "Vítejte",
+            "line1-welcome" : "fnbr.co je neoficiální adresář kosmetických položek pro Fortnite: Battle Royale.",
+            "line2-welcome" : "Prohlédnout [aktuální rotaci položek](/shop), seznam [všech dostupných položek](/cosmetics), a další.",
+            "title-countdown" : "Čas do rotace obchodu:",
+            "link-countdown" : "Prohlédnout seznam položek &rarr;",
+            "title-upcoming" : "Dosud nevydané položky",
+            "line1-upcoming" : "Do herních souborů byly nedávno přidány následující položky.",
+            "line2-upcoming" : "Ačkoli ještě nebyly vydány, měly by se objevit v budoucí aktualizaci.",
+            "error-upcoming" : "Momentálně není možné načíst nevydané položky<br />Zkuste to prosím později",
+            "button-upcoming" : "Zobrazit všechny nevydané položky &rarr;",
+            "title-trending" : "Položky s vysokým zájmem",
+            "line1-trending" : "Seznam nejočekávanějších položek podle počtu přidaných upozornění v naší aplikaci.",
+            "error-trending" : "Momentálně není možné načíst položky s vysokým zájmem<br />Zkuste to prosím později.",
+            "button-trending" : "Zobrazit více položek s vysokým zájmem &rarr;",
+            "title-all" : "Všechny položky",
+            "line1-all" : "Máme seznam všech položek ve Fortnite: Battle Royale. Můžete je vyhledávat nebo filtrovat na vyhrazené stránce [zde](/list).",
+            "button-all" : "Zobrazit všechny položky &rarr;",
+            "title-news" : "Nejnovější články [fortnitenews.com](https://fortnitenews.com|newtab=true)",
+            "title-ingame" : "Informační kanál o hře"
+        },
+        "filter" : {
+            "title" : "Kosmetika",
+            "line1" : "Níže je uveden seznam všech aktuálních nebo brzy dostupných položek ve Fortnite: Battle Royale. K upřesnění vyhledávání použijte funkci filtrování a řazení.",
+            "loading" : "Načítání seznam položek",
+            "searching" : "Hledání",
+            "controls" : {
+                "heading" : "Filtr:",
+                "placeholder" : "Hledat položku...",
+                "type" : "Typ položky",
+                "rarity" : "Vzácnost",
+                "season" : "Sezóna",
+                "apply" : "Použít &rarr;",
+                "sort" : {
+                    "heading" : "Seřadit podle",
+                    "release" : "Datum vydání",
+                    "occurrences" : "Počtu výskytů",
+                    "seen" : "Naposledy viděno",
+                    "trending" : "Zájmu",
+                    "asc-word" : "Abecedně vzestupně (od A do Z)",
+                    "desc-word" : "Abecedně sestupně (Od Z do A)",
+                    "asc-number" : "Nejvyšší",
+                    "desc-number" : "Nejnižší",
+                    "asc-date" : "Nejnovější",
+                    "desc-date" : "Nejstarší",
+                    "asc-seen" : "Naposledy viděno",
+                    "desc-seen" : "Nejdelší čekání"
+                }
+            },
+            "results" : {
+                "type" : "Typ",
+                "rarity" : "Vzácnost",
+                "season" : "Sezóna",
+                "all" : "Zobrazuji všech [number] Fortnite [noun]",
+                "query" : "Zobrazuji [result] odpovídající [query]",
+                "filter-start" : "Zobrazuji [result]",
+                "filter-end" : "Filtruji podle [filters]",
+                "no-results" : "Těmto filtrům neodpovídají žádné výsledky.",
+                "error-down-title" : "Vyhledávač kosmetiky není momentálně dostupný.",
+                "error-down-text" : "Nepodařilo se připojit k vyhledávacím serverům",
+                "error-misc-title" : "Vyhledávání nebylo možné dokončit",
+                "error-timeout" : "Požadavek vypršel",
+                "error-ratelimit" : "Příliš mnoho požadavků, zkuste to prosím později"
+            }
+        },
+        "shop" : {
+            "title" : "Aktuální rotace",
+            "title-featured" : "Doporučené položky",
+            "title-daily" : "Denní položky",
+            "error" : "Obchod není dostupná, zkuste to prosím později",
+            "line1" : "Aktuální rotace položek pro Fortnite: Battle Royale - se aktualizuje denně v [00:00 UTC](https://time.is/UTC|tooltip=Aktuální čas v UTC|newtab=true).",
+            "line2" : "Včerejší rotaci položek si můžete prohlédnout [zde](/shop/yesterday|tooltip=Včerejší rotace položek).",
+            "line3" : "Klikněte na kosmetickou položku pro zobrazení více informací o položce. Podělte se o svůj názor na aktuální rotaci hlasováním v dolní části této stránky.",
+            "countdown" : {
+                "title" : "Nové položky:",
+                "wordyFormat" : "[number] [noun]",
+                "hour-singular" : "hodina",
+                "hours-plural" : "hodin" //can be hodin or hodiny (1 hodina, 2-4 hodiny, 5-99 hodin)
+            },
+            "yesterday" : {
+                "title" : "Včerejší rotace"
+            },
+            "vote" : {
+                "title" : "Co si myslíte o této rotaci obchodu?",
+                "line1" : "Toto se obnovuje denně v 00:00 UTC.",
+                "line2" : "Projdetě si [Zásady ochrany osobních údajů](/privacy) před hlasováním",
+                "choice" : {
+                    "up" : "To se mi líbí!",
+                    "neutral" : "Dá se.",
+                    "down" : "Nenávidím to."
+                },
+                "response" : {
+                    "success" : "Hlas zaznamenán",
+                    "timeout" : "Požadavek trval příliš dlouho a vypršel",
+                    "internal" : "Vnitřní chyba",
+                    "failover" : "Požadavek na [server] selhal, pokus opakujeme ve výchozím nastavení...",
+                    "ratelimit" : "Příliš mnoho požadavků, zkuste to prosím ještě jednou nebo akci opakujte později",
+                    "unavailable" : "Hlasování je dostupné až po změně rotace během následující minuty",
+                    "conflict" : "Hlasování nebylo možné, zkuste to prosím později.",
+                    "bad-choice" : "Hlas nebyl uznán",
+                    "no-data" : "Žádné údaje nejsou k dispozici - zkuste to prosím ještě jednou"
+                }
+            }
+        },
+        "upcoming" : {
+            "title" : "Nadcházející kosmetika",
+            "line1" : "Všechny nevydané položky ve Fortnite: Battle Royale."
+        },
+        "history" : {
+            "list" : {
+                "title" : "Historie obchodu",
+                "line1" : "Zde najdete předchozí rotace obchodu pro Fortnite: Battle Royale.",
+                "line2" : "Klikněte na jednu pro zobrazení celé rotace nebo rolujte myší pro zobrazení dalších položek dle počtu dnů."
+            },
+            "view" : {
+                "title" : "Rotace obchodu",
+                "line1" : "Toto je rotace obchodu ze dne [date] pro Fortnite: Battle Royale. ",
+                "line2" : "Kliknutím na kosmetiku zobrazíte další informace o vybrané položce.",
+                "today-button" : "Dnešní rotace"
+            }
+        },
+        "news" : {
+            "title" : "Novinky",
+            "line1" : "Aktuální informační kanál o hře pro Fortnite: Battle Royale from Epic Games.",
+            "error" : "Nepodařilo se nám získat novinky od Fortnite, zkusíme to znovu za chvíli.",
+            "more-ingame-button" : "Načti více"
+        },
+        "randomiser" : {
+            "title" : "Randomizér",
+            "line1" : "Zvolí náhodný oděv ze všech dostupných položek.",
+            "chooseText" : "Klikněte pro výběr",
+            "randomise-all" : "Randomizovat vše"
+        },
+        "item" : {
+            "unreleased" : "Nevydané",
+            "description" : "Popis",
+            "history" : {
+                "title" : "Historie obchodu",
+                "release-never" : "Datum vydání: Nikdy",
+                "release-date" : "Datum vydání:",
+                "last-never" : "Naposledy viděno: Nikdy",
+                "last-date" : "Naposledy viděno:",
+                "occurrences" : "Počet výskytů:",
+                "introduced" : "Představeno v:"
+            },
+            "reminder-count" : "Uživatelé s [upozorněními](/reminders) na Discordu:",
+            "app-reminder-count" : "Uživatelé s upozorněními v [naší aplikaci](/app):",
+            "add-reminder" : "Přidat upozornění",
+            "remove-reminder" : "Smazat upozornění",
+            "has-reminders" : "Máte nastavené upozornění pro tuto položku.",
+            "no-reminders" : "Upozornění nejsou dostupné pro tuto položku.",
+            "images" : "Obrázky",
+            "images-icon" : "Ikony",
+            "images-png" : "PNG",
+            "images-gallery" : "Galerie",
+            "images-featured" : "Doporučené",
+            "images-video" : "Pohled ve hře",
+            "occurrences-table" : {
+                "title" : "Počet výskytů",
+                "th-date" : "Datum",
+                "th-days" : "Před [date] dny", //This one is tricky, because it should be (Před 1 dnem, Před 2 dny, Před 3 dny, ...) as in (1 day ago, 2 days ago, 3 days ago, ...), but it could also be (x Dnů zpět) which is not incorrect either
+                "today" : "Dnes"
+            },
+            "set" : "Sada",
+            "set-name" : "Součástí sady [name]",
+            "promo" : "Propagační obrázky"
+        },
+        "account" : {
+            "home" : {
+                "title" : "Údaje o Vašem účtu",
+                "error" : "Něco se pokazilo při načítání údajů o Vašem účtu, zkuste to prosím později.",
+                "info" : {
+                    "title" : "Informace",
+                    "line1" : "Jste přihlášen pod [provider] jako [username]",
+                    "line2-api-yes" : "Máte [přístup k API](/api/docs)",
+                    "line2-api-no" : "Nemáte přístup k API."
+                },
+                "migration" : {
+                    "title" : "Zastaralé účty",
+                    "waiting-line1" : "Přešli jsme na přihlášení k účtu přes Discord.",
+                    "waiting-line2" : "Pokud máte účet z roku 2018, budete se muset k němu přihlásit, aby došlo ke sloučení s tímto účtem.",
+                    "twitter-line1" : "Přešli jsme na přihlášení k účtu přes Discord. V současné době používáte zastaralý účet s omezenou funkčností, který může být kdykoli v budoucnu ukončen.",
+                    "twitter-line2" : "Pro přesun na Discord účet klikněte na tlačítko dole"
+                },
+                "ratings" : {
+                    "title" : "Hodnocení",
+                    "none" : "Nemáte žádné hodnocení."
+                },
+                "destroy" : {
+                    "title" : "Smazat účet",
+                    "line1" : "Pokud si přejete účet smazat, můžete tak provést smazáním všech údajů o učtu [zde](/account/destroy)"
+                }
+            },
+            "oauth" : {
+                "title" : "Přihlásit se k fnbr.co",
+                "discord-button" : "Přihlásit se přes Discord",
+                "legacy-text" : "Případně, pokud máte zastaralý účet z roku 2018 a potřebujete provést přesun:",
+                "twitter-button" : "Přihlásit přes Twitter",
+                "privacy-text" : "Přihlášením souhlasíte s tím, abychom ukládali údaje spojené s Vaším účtem, jak je uvedeno v [Zásadách o ochraně osobních údajů](/privacy)."
+            },
+            "username" : {
+                "title" : "Vítejte ve fnbr.co",
+                "line1" : "Jste přihlášen přes Discord, k interakci s ostatními na našich stránkách je potřeba, abyste si vybrali uživatelské jméno",
+                "nameTaken" : "Vaše uživatelské jméno [attemptedName] je již obsazeno jiným uživatelem, přidali jsme k němu Váš Discord Tag, který můžete využít.",
+                "randomName" : "Vaše uživatelské jméno [attemptedName] je již obsazeno jiným uživatelem, nemohli jsme vytvořit jedinečné uživatelské jméno za pomocí Vašeho Discord Tagu.",
+                "form-username" : "Uživatelské jméno",
+                "form-criteria" : "Vyberte si prosím uživatelské jméno v rozmezí 2 až 32 znaků. Uživatelské jméno může obsahovat alfanumerické znaky, podtržítka a pomlčky.",
+                "button-text" : "Nastavit uživatelské jméno"
+            },
+            "locked" : {
+                "title" : "Nelze se přihlásit",
+                "line1" : "Nebylo možné Vás přihlásit na fnbr.co z důvodu [uzamčení Vašeho účtu](class=text-danger)."
+            },
+            "migrated" : {
+                "title" : "Účet přesunut",
+                "line1" : "Jste přihlášen přes Twitter jako",
+                "line2" : "Tento účet byl však přesunut na přihlášení přes Discord."
+            },
+            "notFound" : {
+                "title" : "Nebyl nalezen žádný účet",
+                "line1" : "Jste přihlášen přes Twitter jako",
+                "line2" : "Tento účet však nebyl nikdy doposud přihlášen a nyní pro účely přesunu podporujeme pouze přihlášení přes Twitter.",
+                "line3" : "Případně se můžete [přihlásit přes Discord](/oauth/discord)."
+            }
+        },
+        "errors" : {
+            "404" : {
+                "title" : "Chyba",
+                "line1" : "Buď požadovaný zdroj neexistuje nebo nemáte oprávnění k jejímu nahlédnutí."
+            },
+            "500" : {
+                "title" : "Ale ne!",
+                "line1" : "Něco se pokazilo se zpracováním Vašeho požadavku, zkuste to prosím později!",
+                "line2" : "Můžete se pokusit přihlásit znovu [zde](/oauth)."
+            }
+        }
+    }
+}
