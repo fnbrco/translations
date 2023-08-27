@@ -35,7 +35,7 @@
                 "pet" : "Mazlíček",
                 "music" : "Hudba",
                 "wrap" : "Plášť",
-                "banner" : "Banner", //Could be banner or plakát, depending on where it is used
+                "banner" : "Banner",
                 "bundle" : "Balíček",
                 "misc" : "Ostatní"
             },
@@ -49,7 +49,7 @@
                 "star_wars" : "Star Wars",
                 "gaming_legends" : "Herní Legendy",
                 "icon_series" : "Série Ikon",
-                "slurp" : "Slurp", //This is an interjection and it's hard to translate. Could be either Slint (Slintat in infinitive) as in drooling while drinking/eating or Srk (Srkat in infinitive) as in drinking a liquid loudly
+                "slurp" : "Slurp",
                 "shadow" : "Stínový",
                 "epic" : "Epický",
                 "rare" : "Vzácný",
@@ -177,7 +177,7 @@
             "title" : "Aktuální rotace",
             "title-featured" : "Doporučené položky",
             "title-daily" : "Denní položky",
-            "error" : "Obchod není dostupná, zkuste to prosím později",
+            "error" : "Obchod není dostupný, zkuste to prosím později",
             "line1" : "Aktuální rotace položek pro Fortnite: Battle Royale - se aktualizuje denně v [00:00 UTC](https://time.is/UTC|tooltip=Aktuální čas v UTC|newtab=true).",
             "line2" : "Včerejší rotaci položek si můžete prohlédnout [zde](/shop/yesterday|tooltip=Včerejší rotace položek).",
             "line3" : "Klikněte na kosmetickou položku pro zobrazení více informací o položce. Podělte se o svůj názor na aktuální rotaci hlasováním v dolní části této stránky.",
@@ -185,7 +185,7 @@
                 "title" : "Nové položky:",
                 "wordyFormat" : "[number] [noun]",
                 "hour-singular" : "hodina",
-                "hours-plural" : "hodin" //can be hodin or hodiny (1 hodina, 2-4 hodiny, 5-99 hodin)
+                "hours-plural" : "hodin"
             },
             "yesterday" : {
                 "title" : "Včerejší rotace"
@@ -268,7 +268,7 @@
             "occurrences-table" : {
                 "title" : "Počet výskytů",
                 "th-date" : "Datum",
-                "th-days" : "Před [date] dny", //This one is tricky, because it should be (Před 1 dnem, Před 2 dny, Před 3 dny, ...) as in (1 day ago, 2 days ago, 3 days ago, ...), but it could also be (x Dnů zpět) which is not incorrect either
+                "th-days" : "Dnů zpět",
                 "today" : "Dnes"
             },
             "set" : "Sada",
