@@ -171,6 +171,13 @@
             "flag": "jp",
             "live": true,
             "authors" : ["FNJPNews#1234"]
+        },
+        {
+            "name": "Čeština",
+            "code": "cs",
+            "flag": "cz",
+            "live": true,
+            "authors" : ["notaltar"]
         }
     ]
 }
