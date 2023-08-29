@@ -12,14 +12,14 @@
             "code": "es",
             "flag": "es",
             "live": true,
-            "authors" : ["Closeings#9548", "daanz#3412", "Doolrex#2499", "srdrabx#6513", "Juanito#7930", "Wither#9781"]
+            "authors" : ["Closeings#9548", "daanz#3412", "Doolrex#2499", "srdrabx#6513", "juanmc45", "wither9781"]
         },
         {
             "name": "Español (Latinoamérica)",
             "code": "es-mx",
             "flag": "mx",
             "live": true,
-            "authors" : ["tposejank#2717", "Juanito#7930"]
+            "authors" : ["tposejank", "juanmc45"]
         },
         {
             "name": "Français",
@@ -33,7 +33,7 @@
             "code": "nl",
             "flag": "nl",
             "live": true,
-            "authors" : ["Byte#5253", "ImranDoet#2682", "Joachiem#0001", "REVOTIX#4925"]
+            "authors" : ["Byte#5253", "ImranDoet#2682", "joachiem", "REVOTIX#4925"]
         },
         {
             "name": "Italiano",
@@ -47,7 +47,7 @@
             "code": "de",
             "flag": "de",
             "live": true,
-            "authors" : ["Krymonota#3025", "Laurin#0001", "Terax#9758"]
+            "authors" : ["krymonota", "Laurin#0001", "Terax#9758"]
         },
         {
             "name": "Português",
@@ -98,7 +98,7 @@
             "code": "tr",
             "flag": "tr",
             "live": true,
-            "authors" : ["Melocet#5486", "Burak#2466"]
+            "authors" : ["Melocet#5486", "burakyhs"]
         },
         {
             "name": "Finnish",
@@ -120,7 +120,7 @@
             "code": "no",
             "flag": "no",
             "live": true,
-            "authors" : ["Jonathanツ#6969", "Krymonota#3025"],
+            "authors" : ["Jonathanツ#6969", "krymonota"],
             "outdated" : true
         },
         {
