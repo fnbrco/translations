@@ -49,7 +49,7 @@
                 "star_wars" : "Saga Star Wars",
                 "gaming_legends" : "Serie de leyendas del juego",
                 "icon_series" : "Serie de Ídolos",
-                "slurp" : "Sorbete",
+                "slurp" : "Pegajoso",
                 "shadow" : "Sombra",
                 "epic" : "Épico",
                 "rare" : "Raro",
@@ -131,7 +131,7 @@
         },
         "filter" : {
             "title" : "Cosméticos",
-            "line1" : "Aquí abajo tienes una lista de todos los objetos actualmente (o por estar) disponibles en Fortnite: Battle Royale. Usa los filtros y clasificaciones para encontrar los objetos que necesites.",
+            "line1" : "Abajo hay una lista de todos los objetos actualmente (o por estar) disponibles en Fortnite: Battle Royale. Usa los filtros y clasificadores para encontrar los objetos que necesites.",
             "loading" : "Cargando la lista",
             "searching" : "Buscando",
             "controls" : {
@@ -146,7 +146,7 @@
                     "release" : "Fecha de lanzamiento",
                     "occurrences" : "Apariciones",
                     "seen" : "Visto por última vez",
-                    "trending" : "Popular",
+                    "trending" : "En tendencia",
                     "asc-word" : "Alfabético",
                     "desc-word" : "Reversa",
                     "asc-number" : "Más alto",
@@ -162,15 +162,15 @@
                 "rarity" : "rareza",
                 "season" : "temporada",
                 "all" : "Mostrando [number] [noun] de Fortnite",
-                "query" : "Mostrando [result] que concuerdan con [query]",
+                "query" : "Mostrando [result] que coincidan con [query]",
                 "filter-start" : "Mostrando [result]",
                 "filter-end" : "Filtrando por [filters]",
-                "no-results" : "Ningun resultado concordó con los filtros.",
+                "no-results" : "Ningun resultado coincidió con los filtros.",
                 "error-down-title" : "El buscador de objetos no está disponible en este momento.",
                 "error-down-text" : "No se pudo conectar a los servidores de búsqueda",
                 "error-misc-title" : "No se pudo completar la búsqueda",
                 "error-timeout" : "Se agotó el tiempo de espera de tu solicitud",
-                "error-ratelimit" : "Hay demasiadas solicitudes en este momento, inténtalo de nuevo más tarde"
+                "error-ratelimit" : "Hay demasiadas solicitudes en este momento, inténtalo de nuevo más tarde."
             }
         },
         "shop" : {
@@ -180,7 +180,7 @@
             "error" : "La tienda de objetos no está disponible en este momento.",
             "line1" : "La tienda de objetos actual para Fortnite Battle Royale, es actualizada a diario a las [00:00 (UTC)](https://time.is/UTC|tooltip=Hora actual en UTC|newtab=true).",
             "line2" : "Mira la tienda de objetos de ayer [aquí](/shop/yesterday|tooltip=Tienda de ayer).",
-            "line3" : "Haz clic en un objeto para ver más información.  Expresa tu opinión sobre esta tienda votando al final de la página.",
+            "line3" : "Haz clic en un objeto para ver más información.  Comparte tu opinión sobre esta tienda votando al final de esta página.",
             "countdown" : {
                 "title" : "Nuevos objetos en",
                 "wordyFormat" : "[number] [noun]",
@@ -223,8 +223,8 @@
                 "line2" : "Haz clic en una fecha para ver su tienda de objetos, o baja para ver un historial de la tienda de objetos diaria."
             },
             "view" : {
-                "title" : "Tienda de objetos el",
-                "line1" : "Esta es la tienda de objetos del [date] en Fortnite Battle Royale. ",
+                "title" : "Tienda de objetos anterior",
+                "line1" : "Esta es la tienda de objetos del [date] en Fortnite Battle Royale.",
                 "line2" : "Haz clic en un objeto para ver más información.",
                 "today-button" : "Tienda de objetos de hoy"
             }
@@ -232,7 +232,7 @@
         "news" : {
             "title" : "Noticias",
             "line1" : "Las noticias del juego de Fortnite Battle Royale.",
-            "error" : "No se pudo podido recibir las noticias de Fortnite, reintentando en un momento.",
+            "error" : "No se pudo recibir las noticias de Fortnite, reintentando en un momento.",
             "more-ingame-button" : "Mostrar más"
         },
         "randomiser" : {
@@ -255,16 +255,16 @@
             },
             "reminder-count" : "Número de usuarios con [recordatorios](/reminders) en Discord:",
             "app-reminder-count" : "Número de usuarios con [recordatorios](/reminders) en nuestra [app](/app):",
-            "add-reminder" : "Añadir recordatorio",
+            "add-reminder" : "Crear recordatorio",
             "remove-reminder" : "Eliminar recordatorio",
             "has-reminders" : "Ya tienes un recordatorio para este objeto",
-            "no-reminders" : "No puedes añadir un recordatorio para este objeto",
+            "no-reminders" : "No puedes crear un recordatorio para este objeto",
             "images" : "Imágenes",
             "images-icon" : "Ícono",
             "images-png" : ".png",
             "images-gallery" : "Galería",
             "images-featured" : "Destacado",
-            "images-video" : "Vista dentro del juego",
+            "images-video" : "Vista en del juego",
             "occurrences-table" : {
                 "title" : "Apariciones en la tienda de objetos",
                 "th-date" : "Fecha",
@@ -273,11 +273,11 @@
             },
             "set" : "Conjunto",
             "set-name" : "Pieza del conjunto de [name]",
-            "promo" : "Imágenes publicitarias"
+            "promo" : "Imágenes promocionales"
         },
         "account" : {
             "home" : {
-                "title" : "Los datos de tu cuenta",
+                "title" : "Datos de tu cuenta",
                 "error" : "Algo falló al cargar tu cuenta, inténtalo de nuevo más tarde.",
                 "info" : {
                     "title" : "Información",
