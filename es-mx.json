@@ -264,7 +264,7 @@
             "images-png" : ".png",
             "images-gallery" : "Galería",
             "images-featured" : "Destacado",
-            "images-video" : "Vista en del juego",
+            "images-video" : "Vista en el juego",
             "occurrences-table" : {
                 "title" : "Apariciones en la tienda de objetos",
                 "th-date" : "Fecha",
