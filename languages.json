@@ -178,6 +178,13 @@
             "flag": "cz",
             "live": true,
             "authors" : ["notaltar"]
+        },
+		{
+            "name": "Ελληνικά",
+            "code": "el",
+            "flag": "gr",
+            "live": true,
+            "authors" : ["mrstarko"]
         }
     ]
 }
