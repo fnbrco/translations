@@ -48,13 +48,13 @@
             "translationNotAvailable": "Sajnos nincsen elérhető fordítás erre az oldalra.",
             "translationIncomplete": "Ezen az oldalon nem az összes szöveg lesz lefordítva.",
             "item-noun" : {
-                "singular" : "item",
-                "plural" : "items"
+                "singular" : "tárgy",
+                "plural" : "tárgy"
             },
             "result-noun" : {
                 "format" : "[number] [noun]",
-                "singular" : "result",
-                "plural" : "results"
+                "singular" : "eredmény",
+                "plural" : "eredmény"
             }
         },
         "nav": {
@@ -89,14 +89,14 @@
                 "title": "Válassz ki egy nyelvet",
                 "currentLanguage": "Te most a [language] nyelvet használod.",
                 "error": "Hiba történt a nyelvi fájl letöltése közben",
-                "authors": "Lefordította: zsoto98♡#5959",
+                "authors": "Lefordította: zsoto98♡#5959 és Beze",
                 "cta": "Kattints ide, hogy átválts [language] nyelvre",
                 "switching": "[language] nyelv letöltése...",
                 "finished": "A nyelved megváltozott!"
             }
         },
         "home": {
-            "title-welcome": "Üdvözlünk",
+            "title-welcome": "Üdvözlünk!",
             "line1-welcome": "Az fnbr.co egy nem hivatalos kozmetika katalógus a Fortnite: Battle Royale-hoz.",
             "line2-welcome": "Tekintsd meg a [jelenlegi boltot](/shop), egy listát [az összes elérhető tárgyról](/cosmetics), és még sok mást!",
             "title-countdown": "Bolt újratöltés:",
@@ -107,14 +107,14 @@
             "error-upcoming": "A kiadatlan tárgyakat most nem tudjuk betölteni.<br />Kérlek próbáld újra néhány másodperc múlva",
             "button-upcoming": "Az összes kiadatlan tárgy megtekintése &rarr;",
             "title-trending": "Felkapott tárgyak",
-            "line1-trending": "Egy lista az összes várva várt tárgyról az alkalmazásunkkal hozzáadott emlékeztetők alapján.",
+            "line1-trending": "Egy lista az összes felkapott tárgyról az alkalmazásunkkal hozzáadott emlékeztetők alapján.",
             "error-trending": "A felkapott tárgyakat most nem tudjuk betölteni.<br />Kérlek próbáld újra néhány másodperc múlva",
             "button-trending": "Több felkapott tárgy megtekintése &rarr;",
             "title-all": "Összes tárgy",
             "line1-all": "Van egy listánk az összes tárgyról a Fortnite: Battle Royale-ban. Keresni és szűrni tudsz köztük egy erre készített oldalon, [itt](/list).",
             "button-all": "Az összes tárgy megtekintése &rarr;",
             "title-news": "A legutóbbi [fortnitenews.com](https://fortnitenews.com|newtab=true) cikkek",
-            "title-ingame": "Hírfolyam"
+            "title-ingame": "Játékbeli hírfolyam"
         },
         "filter" : {
             "title" : "Tárgyak",
@@ -149,7 +149,7 @@
                 "rarity" : "Ritkaság",
                 "season" : "Szezon",
                 "all" : "Az összes ([number]) Fortnite [noun] mutatása",
-                "query" : "[result] mutatása, ami megegyezik ennek: [query]",
+                "query" : "[result] mutatása, amely megegyezik ennek: [query]",
                 "filter-start" : "[result] mutatása",
                 "filter-end" : "szűrők: [filters]",
                 "no-results" : "Egy eredmény sem felel meg a megadott szűrőknek.",
@@ -243,8 +243,8 @@
             "app-reminder-count": "Felhasználók emlékeztetőkkel az [alkalmazásban](/app):",
             "add-reminder": "Emlékeztető hozzáadása",
             "remove-reminder": "Emlékeztető eltávolítása",
-            "has-reminders": "Vannak emlékeztetőid erre a tételre.",
-            "no-reminders": "Emlékeztetők nem elérhetőek erre a tételre.",
+            "has-reminders": "Vannak emlékeztetőid erre a tárgyra.",
+            "no-reminders": "Az emlékeztetők nem elérhetőek erre a tárgyra.",
             "images": "Képek",
             "images-icon": "Ikon",
             "images-png": "PNG",
@@ -258,7 +258,7 @@
                 "today": "Ma"
             },
             "set": "Szett",
-            "set-name": "A [name] szett része",
+            "set-name": "A(z) [name] szett része",
             "promo": "Promóciós képek"
         },
         "account": {
@@ -301,7 +301,7 @@
                 "randomName": "A felhasználónév [attemptedName] már foglalt, és nem tudtunk egyedi nevet készíteni a Discord fiók számjegyeivel.",
                 "form-username": "Felhasználónév",
                 "form-criteria": "Kérjük válassz egy felhasználónevet 2 és 32 karakter között, amelyek alfanumerikus karaktereket, aláhúzásjeleket és kötőjeleket is tartalmazhatnak.",
-                "button-text": "A felhasználónevem beállítása"
+                "button-text": "Felhasználónév beállítása"
             },
             "locked": {
                 "title": "Nem tudsz bejelentkezni",
@@ -326,7 +326,7 @@
             },
             "500": {
                 "title": "Hoppá!",
-                "line1": "Valami hiba történt a kérés feldolgozása közben, kérjük probáld újra később!",
+                "line1": "Valami hiba történt a kérés feldolgozása közben, kérjük probáld újra később.",
                 "line2": "Megpróbálhatsz újra bejelentkezni [itt](/oauth)."
             }
         }
