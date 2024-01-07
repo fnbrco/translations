@@ -5,7 +5,7 @@
     "translations" : {
         "meta" : {
             "thForDate" : false,
-            "dateFormat" : "[date]. [month] [year]",
+            "dateFormat" : "[date] [month] [year]",
             "months" : [
                 "jaanuar",
                 "veebruar",
@@ -21,89 +21,166 @@
                 "detsember"
             ],
             "types" : {
-                "backpack" : "seljakott",
-                "emote" : "liigutus",
-                "glider" : "deltaplaan",
-                "emoji" : "emotikon",
-                "loading" : "laadimisekraanid",
-                "outfit" : "kostüüm",
-                "pickaxe" : "kirka",
-                "skydive" : "vabalangemise jutt",
-                "umbrella" : "vihmavari",
-                "spray" : "grafitti",
-                "toy" : "mänguasi",
-                "pet" : "lemmikloom",
-                "music" : "muusika",
-                "wrap" : "ümbris",
-                "bundle" : "kimp",
-                "misc" : "muu"
+                "backpack" : "Seljakott",
+                "emote" : "Liigutus",
+                "glider" : "Langevari",
+                "emoji" : "Emotikon",
+                "loading" : "Laadimisstseen",
+                "outfit" : "Kostüüm",
+                "pickaxe" : "Kirka",
+                "skydive" : "Vabalangemise efekt",
+                "umbrella" : "Vihmavari",
+                "spray" : "Grafiti",
+                "toy" : "Mänguasi",
+                "pet" : "Lemmikloom",
+                "music" : "Muusika",
+                "wrap" : "Ümbris",
+                "banner" : "Bänner",
+                "bundle" : "Pakk",
+                "misc" : "Muu"
             },
             "rarity" : {
+                "frozen" : "Külmunud",
+                "lava" : "Laava",
                 "legendary" : "Legendaarne",
+                "dark" : "Tume",
+                "marvel" : "Marvel",
+                "dc" : "DC",
+                "star_wars" : "Star Wars",
+                "gaming_legends" : "Gaming Legends",
+                "icon_series" : "Icon Series",
+                "slurp" : "Slurp",
+                "shadow" : "Vari",
                 "epic" : "Eepiline",
                 "rare" : "Haruldane",
                 "uncommon" : "Ebaharilik",
                 "common" : "Harilik"
             },
-            "translationNotAvailable" : "Kahjuks pole siin lehel tõlkeid.",
-            "translationIncomplete" : "Kõike ei ole siin lehel tõlgitud."
+            "translationNotAvailable" : "Kahjuks ei ole siin lehel tõlkeid saadaval.",
+            "translationIncomplete" : "Kogu teksti ei ole siin lehel tõlgitud.",
+            "item-noun" : {
+                "singular" : "ese",
+                "plural" : "esemed"
+            },
+            "result-noun" : {
+                "format" : "[number] [noun]",
+                "singular" : "tulemus",
+                "plural" : "tulemused"
+            }
         },
         "nav" : {
             "home" : "kodu",
             "shop" : "pood",
             "cosmetics" : {
-                "dropdown" : "kosmeetika esemed",
-                "upcoming" : "tulemas",
-                "list" : "nimekiri",
-                "png" : "png pildid",
-                "gallery" : "galerii",
-                "icons" : "ikoonid",
+                "dropdown" : "kosmeetilised esemed",
+                "list" : "list &amp; otsi",
                 "reminders" : "meeldetuletused",
-                "history" : "poe ajalugu"
+                "history" : "poe ajalugu",
+                "upcoming" : "tulemas",
+                "sets" : "esemete komplekt"
             },
-            "news" : "uudised",
-            "modes" : "mängumoodid",
+            "guideDropdown" : "juhend",
+            "news" : "mängusisesed uudised",
             "randomiser" : "randomiseerija",
             "about" : {
                 "dropdown" : "info",
                 "translate" : "tõlkimine",
                 "about" : "info fnbr.co kohta",
-                "privacy" : "puutumatusnormide kirjeldus",
-                "donate" : "Anneta",
+                "privacy" : "Privaatsuspoliitika",
+                "donate" : "Annetama",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
             "api" : "api",
             "account" : {
-                "dropdown" : "kasutaja",
-                "account" : "kasutaja",
+                "dropdown" : "konto",
+                "account" : "konto",
                 "logout" : "logi välja"
             },
             "languagePicker" : {
                 "trigger" : "keel",
-                "title" : "Vali keel",
-                "currentLanguage" : "Praegu kasutate [language] keelt",
+                "title" : "Valige keel",
+                "currentLanguage" : "Kasutate hetkel [language] keelt",
                 "error" : "Tekkis viga keele faili tõmbamisel",
                 "authors" : "Tõlkis:",
-                "cta" : "Vajuta, et muuta keelele [language]",
-                "switching" : "Laen alla [language] keelt...",
-                "finished" : "Teie keel on muudetud!"
+                "cta" : "Vajutage, et vahetuda keelele [language]",
+                "switching" : "[Language] keele allalaadimine...",
+                "finished" : "Teie keelt on muudetud!"
             }
         },
         "home" : {
-            "title-upcoming" : "Tulevased esemed",
+            "title-welcome" : "Tere tulemast",
+            "line1-welcome" : "fnbr.co on ebaametlik kosmeetika kataloog mängu Fortnite: Battle Royale jaoks.",
+            "line2-welcome" : "Kuvage [praegust eseme poodi](/shop), nimekirja [kõikide saadaval olevate kosmeetikate kohta](/cosmetics), ja muud.",
+            "title-countdown" : "Eseme poe värskendus:",
+            "link-countdown" : "Kuvage eseme poodi &rarr;",
+            "title-upcoming" : "Avaldamata esemed",
+            "line1-upcoming" : "Järgmised esemed on kõige hiljutisemalt lisatud mängu failidesse.",
+            "line2-upcoming" : "Kuigi neid ei ole tingimata avaldatud, avaldatakse neid tulevases värskenduses.",
+            "error-upcoming" : "Hetkel ei olnud võimalik kuvada avaldamata esemeid<br />Palun proovige mõne hetke pärast uuesti.",
+            "button-upcoming" : "Kuvage kõiki avaldamata esemeid &rarr;",
+            "title-trending" : "Trendikad esemed",
+            "line1-trending" : "Nimekiri kõikidest enim oodatud esemetest, mõõdetud meie rakendusse lisatud meeldetuletuste põhjal",
+            "error-trending" : "Hetkel ei olnud võimalik kuvada avaldamata esemeid<br />Palun proovige mõne hetke pärast uuesti.",
+            "button-trending" : "Kuvage veel trendikaid esmeid &rarr;",
             "title-all" : "Kõik esemed",
-            "error" : "Ei suutnud esemeid saada, palun proovi uuesti mõne hetke pärast",
-            "error-too-long" : "See võtab kauem aega, kui eeldatud"
+            "line1-all" : "Meil on nimekiri kõikidest esemetest mängust Fortnite: Battle Royale. Saate otsida või filtreerida neid antud [lehel](/list).",
+            "button-all" : "Kuvage kõik esemeid &rarr;",
+            "title-news" : "Hiljutised [fortnitenews.com](https://fortnitenews.com|newtab=true) artiklid",
+            "title-ingame" : "Mängusisene uudistevoog"
+        },
+        "filter" : {
+            "title" : "Kosmeetilised esemed",
+            "line1" : "Allpool on nimekiri kõikidest esemetest hetkel (või lähitulevikus) saadaval mängus Fortnite: Battle Royale. Kasutage filtreerimise ja sorteerimise funktsioone, et täpsustada teie otsingut.",
+            "loading" : "Kuvame esemete nimekirja",
+            "searching" : "Otsimine",
+            "controls" : {
+                "heading" : "Filter:",
+                "placeholder" : "Otsige kindlat esemet...",
+                "type" : "Eseme tüüp",
+                "rarity" : "Rariteet",
+                "season" : "Hooaeg",
+                "apply" : "Kohalda &rarr;",
+                "sort" : {
+                    "heading" : "Sorteeri",
+                    "release" : "Avaldamiskuupäev",
+                    "occurrences" : "Esinemisi",
+                    "seen" : "Hiljuti nähtud",
+                    "trending" : "Trendikas",
+                    "asc-word" : "Tähestikulises järjekorras",
+                    "desc-word" : "Tagurpidi",
+                    "asc-number" : "Kõrgeim",
+                    "desc-number" : "Madalaim",
+                    "asc-date" : "Uusim",
+                    "desc-date" : "Vanim",
+                    "asc-seen" : "Hiljutseim",
+                    "desc-seen" : "Pigem ooteaeg"
+                }
+            },
+            "results" : {
+                "type" : "tüüp",
+                "rarity" : "rariteet",
+                "season" : "hooaeg",
+                "all" : "Kuvatakse [number] Fortnite [noun]",
+                "query" : "Kuvatakse [result]t päringule [query]",
+                "filter-start" : "Kuvatakse [result]t",
+                "filter-end" : "Filtreerimine päringule [filters]",
+                "no-results" : "Ükski tulemus ei sobinud kokku antud filtritega.",
+                "error-down-title" : "Kosmeetiliste esemete brauser ei ole hetkel saadaval",
+                "error-down-text" : "Hetkel ei olnud võimalik ühendada otsinguserveriga",
+                "error-misc-title" : "Hetkel ei olnud võimalik lõpetada otsingut",
+                "error-timeout" : "Päring aegus",
+                "error-ratelimit" : "Liiga palju päringuid, palun proovige mõne hetke pärast uuesti."
+            }
         },
         "shop" : {
             "title" : "Praegune vahetus",
             "title-featured" : "Esile toodud",
-            "title-daily" : "Igapäevane",
-            "error" : "Pood pole saadaval, palun proovi uuesti mõne hetke pärast",
+            "title-daily" : "Tänased esemed",
+            "error" : "Pood pole hetkel saadaval, palun proovige mõne hetke pärast uuesti",
             "line1" : "Praegune eseme poe vahetus Fortnite Battle Royale's - uueneb iga päev kella [00:00 UTC](https://time.is/UTC|tooltip=Praegune kellaaeg UTC's|newtab=true) ajal.",
-            "line2" : "Võid näha eilset eseme poodi [siin](/shop/yesterday|tooltip=Eilne Eseme Pood).",
-            "line3" : "Vajuta kosmeetilise eseme peale, et näha rohkem infot selle kohta.",
+            "line2" : "Saate kuvada eilset esemete poodi [siin](/shop/yesterday|tooltip=Eilne Eseme Pood).",
+            "line3" : "Vajutage kosmeetilise eseme peale, et näha rohkem infot selle kohta. Andke tagasisidet praegusele poele hääletades allpool.",
             "countdown" : {
                 "title" : "Uued esemed:",
                 "wordyFormat" : "[number] [noun]",
@@ -112,43 +189,32 @@
             },
             "yesterday" : {
                 "title" : "Eilne eseme poe vahetus"
-            }, 
-            "vote" : { 
-                "title" : "Mida sa arvad sellest poest?", 
-                "line1" : "See lähtestub iga päev kella 00:00 UTC ajal.", 
-                "line2" : "Vaadake uuesti üle meie [puutumatusnormide kirjeldust](/privacy) enne hääletamist", 
-                "choice" : { 
+            },
+            "vote" : {
+                "title" : "Mida sa arvad sellest poest?",
+                "line1" : "See lähtestub iga päev kella 00:00 UTC ajal.",
+                "line2" : "Lugege üle meie [privaatsuspoliitikat](/privacy) enne hääletamist",
+                "choice" : {
                     "up" : "Mulle meeldib!", 
                     "neutral" : "See on nii ja naa.", 
-                    "down" : "Mulle ei meeldi." 
-                }, 
+                    "down" : "Mulle ei meeldi."
+                },
                 "response" : { 
                     "success" : "Hääl salvestatud", 
-                    "timeout" : "Taotlus võttis liiga kaua aega ning aegus", 
-                    "internal" : "Sisemine Viga", 
+                    "timeout" : "Päring võttis liiga kaua aega ning aegus", 
+                    "internal" : "Sisemine viga", 
                     "failover" : "Taotlus [server]'ile ebaõnnestus, proovib uuesti vaikimisi...", 
-                    "ratelimit" : "Liiga palju taotlusi, palun proovi uuesti mõne hetke pärast", 
+                    "ratelimit" : "Liiga palju päringuid, palun proovige mõne hetke pärast uuesti.", 
                     "unavailable" : "Hääletamine pole saadaval kuni eseme pood muutub järgmise minuti jooksul", 
-                    "conflict" : "Hääletamine pole võimalik, palun proovi hiljem uuesti.", 
+                    "conflict" : "Hääletamine pole võimalik, palun proovige mõne hetke pärast uuesti.", 
                     "bad-choice" : "Häält ei tunnustatud", 
-                    "no-data" : "Andmeid pole saadaval - palun proovi uuesti mõne hetke pärast" 
-                } 
+                    "no-data" : "Andmeid pole saadaval - palun proovige mõne hetke pärast uuesti." 
+                }
             }
         },
         "upcoming" : {
             "title" : "Tulevased kosmeetilised esemed",
-            "line1" : "Kõik avaldamata esemed Fortnite Battle Royale's."
-        },
-        "list" : {
-            "title" : "Kosmeetilise esemete nimekiri",
-            "line1" : "Kõik kosmeetilised esemed Fortnite Battle Royale's.",
-            "table" : {
-                "icon" : "Ikoon",
-                "name" : "Nimi",
-                "type" : "Tüüp",
-                "rarity" : "Rariteet",
-                "obtained" : "Saadud"
-            }
+            "line1" : "Kõik avaldamata esemed mängus Fortnite Battle Royale."
         },
         "history" : {
             "list" : {
@@ -157,9 +223,9 @@
                 "line2" : "Vajutage päevale, et näha tervet eseme poodi või kerige, et näha tervet eseme poe ajalugu päeva kaupa."
             },
             "view" : {
-                "title" : "Poe Vahetus",
+                "title" : "Poe vahetus",
                 "line1" : "See on [date] eseme poe vahetus Fortnite Battle Royale's. ",
-                "line2" : "Vajuta kosmeetilise esemele, et näha rohkem infot selle kohta.",
+                "line2" : "Vajutage kosmeetilise esemele, et näha rohkem infot selle kohta.",
                 "today-button" : "Tänane eseme pood"
             }
         },
@@ -171,24 +237,9 @@
         },
         "randomiser" : {
             "title" : "Randomiseerija",
-            "line1" : "Vali suvaline kostüüm võimalikest esemetest.",
-            "chooseText" : "Vajuta, et valida",
+            "line1" : "Valige suvaline kostüüm võimalikest esemetest.",
+            "chooseText" : "Vajutage, et valida",
             "randomise-all" : "Randomiseeri kõik"
-        },
-        "png" : {
-            "title" : "Kosmeetilise esemete PNG pildid",
-            "line1" : "Palun krediteerige fnbr.co'd, kui kasutate neid pilte. Eelvaated on vähendatud, allalaadimised on täismõõdus.",
-            "sort-by" : "Sorteeri:",
-            "all" : "Kõik"
-        },
-        "gallery" : {
-            "title" : "Kosmeetilise esemete galerii",
-            "line1" : "Kõik kosmeetilised esemed Fortnite Battle Royale's.",
-            "line2" : "Palun ärge kasutage neid pilte enda veebilehel/sotsiaal meedia leheküljel ilma fnbr.co krediteerimiseta."
-        },
-        "icons" : {
-            "title" : "Fortnite Battle Royale'i ikoonid",
-            "line1" : "Kõik pildid kuuluvad Epic Games'ile."
         },
         "item" : {
             "unreleased" : "Avaldamata",
@@ -199,12 +250,13 @@
                 "release-date" : "Avaldamise kuupäev:",
                 "last-never" : "Viimati nähtud: Mitte kunagi",
                 "last-date" : "Viimati nähtud:",
-                "occurrences" : "Esinemisi:"
+                "occurrences" : "Esinemisi:",
+                "introduced" : "Avaldatud:"
             },
-            "reminder-count" : "Kasutajaid [meeldetuletustega](/reminders):",
-            "add-reminder" : "Lisa Meeldetuletus",
-            "remove-reminder" : "Eemalda Meeldetuletus",
-            "has-reminders" : "Sul on meeldetuletus selle asja kohta.",
+            "reminder-count" : "Kasutajaid [meeldetuletustega](/reminders) Discordil:",
+            "add-reminder" : "Lisage Meeldetuletus",
+            "remove-reminder" : "Eemaldage Meeldetuletus",
+            "has-reminders" : "Teil on meeldetuletus selle asja kohta.",
             "no-reminders" : "Meeldetuletused pole saadaval selle eseme kohta.",
             "images" : "Pildid",
             "images-icon" : "Ikoon",
@@ -221,62 +273,62 @@
             },
             "set" : "Komplekt",
             "set-name" : "Osa [name] komplektist",
-            "popular-title" : "Tänased populaarsed esemed"
+            "promo" : "Reklaampildid"
         },
         "account" : {
             "home" : {
-                "title" : "Andmed sinu kasutaja kohta",
-                "error" : "Midagi läks valesti sinu kasutaja andmete laadimisel, palun proovi hiljem uuesti.",
+                "title" : "Andmed teie kasutaja kohta",
+                "error" : "Midagi läks valesti teie kasutaja andmete laadimisel, palun proovige mõne hetke pärast uuesti.",
                 "info" : {
                     "title" : "Informatsioon",
-                    "line1" : "Sa oled sisse logitud [provider]'i kaudu [username]'na",
-                    "line2-api-yes" : "Sul on [juurdepääsu api'le](/api/docs)",
-                    "line2-api-no" : "Sul ei ole juurdepääsu api'le."
+                    "line1" : "Te olete sisse logitud [provider]'i kaudu [username]'na",
+                    "line2-api-yes" : "Teil on [juurdepääs api'le](/api/docs)",
+                    "line2-api-no" : "Teil ei ole juurdepääsu api'le."
                 },
                 "migration" : {
                     "title" : "Legaat kasutajad",
                     "waiting-line1" : "Me kolisime Discord'i, et sisse logida.",
-                    "waiting-line2" : "Kui sul on kasutaja aastast 2018, pead sa tooga sisse logima, et migreerida sellega",
-                    "twitter-line1" : "Me kasutame nüüd Discord'i, et sisse logida. Sa kasutad praegu legaat kontot, mis võib tulevikus lõpetatud olla ning millel on limiteeritud funktsionaalsus.",
+                    "waiting-line2" : "Kui teil on kasutaja aastast 2018, peate te sellega sisse logima, et migreerida sellega",
+                    "twitter-line1" : "Me kasutame nüüd Discord'i, et sisse logida. Te kasutate hetkel legaat kontot, mis võib tulevikus lõpetatud olla ning millel on limiteeritud funktsionaalsus.",
                     "twitter-line2" : "Et migreerida Discord'i kontoga, vajutage all olevale nupule"
                 },
                 "ratings" : {
                     "title" : "Hinnangud",
-                    "none" : "Sul pole hinnanguid."
+                    "none" : "Teil pole hinnanguid."
                 },
                 "destroy" : {
                     "title" : "Hävita konto",
-                    "line1" : "Kui sa enam ei soovi enda kontot, võid konto ja selle andmed eemaldada [siin](/account/destroy)"
+                    "line1" : "Kui te enam ei soovi enda kontot, võite konto ja selle andmed eemaldada [siin](/account/destroy)"
                 }
             },
             "oauth" : {
                 "title" : "Logi sisse fnbr.co'sse",
                 "discord-button" : "Logi sisse Discord'iga",
-                "legacy-text" : "Teisel juhul, kui sul on legaat konto aastast 2018, mis vajab migreerimist:",
+                "legacy-text" : "Teisel juhul, kui teil on legaat konto aastast 2018, mis vajab migreerimist:",
                 "twitter-button" : "logi sisse Twitter'iga",
-                "privacy-text" : "Logides sisse, lubad meil kasutada teie kasutajaga seotud andmeid, nagu on mainitud meie [puutumatusnormide kirjelduses](/privacy)."
+                "privacy-text" : "Logides sisse, lubate meil kasutada teie kasutajaga seotud andmeid, nagu on mainitud meie [privaatsuspoliitikas](/privacy)."
             },
             "username" : {
                 "title" : "Tere tulemast fnbr.co'sse",
-                "line1" : "Oled sisse logitud Discord'iga, et teistega suhelda meie veebilehelt, pead valima kasutajanime",
-                "nameTaken" : "Su kasutajanimi, [attemptedName], on juba kellegi teise poolt võetud, me lisasime sinu Discord'i diskrimineerija sellele ning soovitame teil seda kasutada.",
-                "randomName" : "Su kasutajanimi, [attemptedName], on juba kellegi teise poolt võetud, me ei suutnud teha teile unikaalse konto kasutades teie Discord'i diskrimineerijat.",
+                "line1" : "Olete sisse logitud Discord'iga, et teistega suhelda meie veebilehelt, peate valima kasutajanime",
+                "nameTaken" : "Teie kasutajanimi, [attemptedName], on juba kellegi teise poolt võetud, me lisasime teie Discord'i diskrimineerija sellele ning soovitame teil seda kasutada.",
+                "randomName" : "Teie kasutajanimi, [attemptedName], on juba kellegi teise poolt võetud, me ei suutnud teha teile unikaalse konto kasutades teie Discord'i diskrimineerijat.",
                 "form-username" : "Kasutajanimi",
                 "form-criteria" : "Palun valige kasutajanimi, mis koosneb 2 kuni 32 märgist. See võib koosneda tähtnumbrilistest märkidest kui ka allajoontest ning sidekriipsudest.",
                 "button-text" : "Valin enda kasutajanime"
             },
             "locked" : {
                 "title" : "Ei saa sisse logida",
-                "line1" : "Sa ei saa enda fnbr.co kontosse sisse logida, sest [sinu konto on lukustatud](class=text-danger)."
+                "line1" : "Te ei saa enda fnbr.co kontosse sisse logida, sest [teie konto on lukustatud](class=text-danger)."
             },
             "migrated" : {
                 "title" : "Konto migreeritud",
-                "line1" : "Logisid sisse Twitter'iga",
+                "line1" : "Logisite sisse Twitter'iga",
                 "line2" : "Kuid see konto on migreeritud Discord'iga."
             },
             "notFound" : {
                 "title" : "Kontot ei leitud",
-                "line1" : "Logisid sisse Twitter'iga",
+                "line1" : "Logisite sisse Twitter'iga",
                 "line2" : "Kuid see konto pole sisse loginud varem ja me lubame ainult Twitter'iga sisse logimist, et migreerida.",
                 "line3" : "Teisel juhul, võite [sisse logida Discord'iga](/oauth/discord)."
             }
@@ -288,8 +340,8 @@
             },
             "500" : {
                 "title" : "Oi ei!",
-                "line1" : "Teie taotluse töötlemisel läks midagi valesti, proovige hiljem uuesti!",
-                "line2" : "Saad proovida sisse logida uuesti [siin](/oauth)."
+                "line1" : "Teie taotluse töötlemisel läks midagi valesti, palun proovige mõne hetke pärast uuesti!",
+                "line2" : "Saate proovida sisse logida uuesti [siin](/oauth)."
             }
         }
     }
