@@ -116,7 +116,7 @@
             "link-countdown" : "Ver la tienda &rarr;",
             "title-upcoming" : "Objetos aún por ser Lanzados",
             "line1-upcoming" : "Los siguientes objetos han sido recientemente añadidos a los archivos del juego.",
-            "line2-upcoming" : "Aunque no están disponibles todavía, deberían de estarlo en una actualización futura.",
+            "line2-upcoming" : "Aunque no están disponibles todavía, deberían estarlo en una actualización futura.",
             "error-upcoming" : "No se han podido cargar los objetos en este momento<br />Por favor inténtalo de nuevo más tarde",
             "button-upcoming" : "Ver todos los objetos aún no disponibles &rarr;",
             "title-trending" : "Objetos Populares",
@@ -166,10 +166,10 @@
                 "filter-start" : "Mostrando [result]",
                 "filter-end" : "filtrando por [filters]",
                 "no-results" : "No hay resultados que coincidan con los filtros.",
-                "error-down-title" : "Explorador de cosméticos no disponible ahora mismo",
+                "error-down-title" : "El explorador de cosméticos no está disponible ahora mismo",
                 "error-down-text" : "No se ha podido conectar al servidor de búsquedas",
                 "error-misc-title" : "No se ha podido completar la búsqueda",
-                "error-timeout" : "La solucitud tardó demasiado",
+                "error-timeout" : "La solucitud ha tardado demasiado",
                 "error-ratelimit" : "Demasiadas solicitudes, por favor inténtalo de nuevo más tarde"
             }
         },
@@ -204,7 +204,7 @@
                     "timeout" : "La solicitud tardó demasiado y se canceló",
                     "internal" : "Error Interno",
                     "failover" : "La solicitud al [server] ha fallado, intentándolo de nuevo...",
-                    "ratelimit" : "Demasiadas solicitudes, intentálo más tarde.",
+                    "ratelimit" : "Demasiadas solicitudes, inténtalo más tarde.",
                     "unavailable" : "Las votaciones no están disponibles hasta que la tienda cambie el próximo minuto",
                     "conflict" : "No es posible votar, inténtalo de nuevo más tarde.",
                     "bad-choice" : "Voto no reconocido",
@@ -260,7 +260,7 @@
             "has-reminders" : "Tienes recordatorios para este objeto.",
             "no-reminders" : "Los recordatorios no están disponible para este objeto.",
             "images" : "Imágenes",
-            "images-icon" : "Ícono",
+            "images-icon" : "Icono",
             "images-png" : "PNG",
             "images-gallery" : "Galería",
             "images-featured" : "Destacado",
@@ -278,7 +278,7 @@
         "account" : {
             "home" : {
                 "title" : "Datos de tu cuenta",
-                "error" : "Algo falló al cargar los datos de tu cuenta, por favor inténtalo de nuevo más tarde.",
+                "error" : "Algo ha fallado al cargar los datos de tu cuenta, por favor inténtalo de nuevo más tarde.",
                 "info" : {
                     "title" : "Información",
                     "line1" : "Ha iniciado sesión con [provider] como [username]",
@@ -323,12 +323,12 @@
             },
             "migrated" : {
                 "title" : "Cuenta migrada",
-                "line1" : "Te conectaste con Twitter como",
+                "line1" : "Te has conectado con Twitter como",
                 "line2" : "Sin embargo, esa cuenta ha sido migrada para el inicio de sesión de Discord."
             },
             "notFound" : {
-                "title" : "No se encontró una cuenta",
-                "line1" : "Te conectaste con Twitter como",
+                "title" : "No se ha encontrado una cuenta",
+                "line1" : "Te has conectado con Twitter como",
                 "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter con fines de migración.",
                 "line3" : "También puedes [iniciar sesión con Discord](/oauth/discord)."
             }
@@ -340,7 +340,7 @@
             },
             "500" : {
                 "title" : "¡Ups!",
-                "line1" : "¡Algo salió mal mientras se procesaba tu solicitud, por favor inténtalo de nuevo más tarde!",
+                "line1" : "¡Algo ha salido mal mientras se procesaba tu solicitud, por favor inténtalo de nuevo más tarde!",
                 "line2" : "Puedes intentar iniciar sesión de nuevo [aquí](/oauth)."
             }
         }
