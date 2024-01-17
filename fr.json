@@ -50,7 +50,7 @@
                 "gaming_legends" : "Série Légendes du Gaming",
                 "icon_series" : "Série Icônes",
 		"slurp" : "Slurp",
-                "shadow" : "Shadow",
+                "shadow" : "Série Ombre",
                 "epic" : "Épique",
                 "rare" : "Rare",
                 "uncommon" : "Atypique",
@@ -59,13 +59,13 @@
             "translationNotAvailable" : "Malheureusement, il n'y a pas de traduction disponible pour cette page.",
             "translationIncomplete" : "La traduction de cette page est incomplète.",
 	    "item-noun" : {
-                "singular" : "item",
-                "plural" : "items"
+                "singular" : "objet",
+                "plural" : "objets"
 	    },
 	    "result-noun" : {
                 "format" : "[number] [noun]",
-                "singular" : "result",
-                "plural" : "results"
+                "singular" : "résultat",
+                "plural" : "résultats"
             }
 	},
         "nav" : {
@@ -110,20 +110,20 @@
         },
         "home" : {
             "title-welcome" : "Bienvenue",
-            "line1-welcome" : "fnbr.co is an unofficial cosmetics directory for Fortnite: Battle Royale.",
+            "line1-welcome" : "fnbr.co est un répertoire non-officiel des cosmétiques pour Fortnite: Battle Royale.",
             "line2-welcome" : "View the [current item shop](/shop), a list of [all available cosmetics](/cosmetics), and more.",
             "title-countdown" : "Réinitialisation Boutique d'objets:",
             "link-countdown" : "Voir la Boutique d'objets &rarr;",
-            "title-upcoming" : "Items À Venir",
-            "line1-upcoming" : "L'item suivant a été récemment ajouté aux fichiers du jeu.",
+            "title-upcoming" : "Objets À Venir",
+            "line1-upcoming" : "L'objet suivant a été récemment ajouté aux fichiers du jeu.",
             "line2-upcoming" : "While they aren’t necessarily released yet, they should be in a future update.",
             "error-upcoming" : "Unable to load unreleased items right now<br />Please try again in a few moments",
-            "button-upcoming" : "Voir les items non sortis &rarr;",
+            "button-upcoming" : "Voir les objets non sortis &rarr;",
             "title-trending" : "Objet Tendance",
             "line1-trending" : "A list of the most recently anticipated items as measured by reminders added on our app.",
             "error-trending" : "Unable to load trending items right now<br />Please try again in a few moments.",
             "button-trending" : "View more trending items &rarr;",
-            "title-all" : "Tout les Items",
+            "title-all" : "Tout les Objets",
             "line1-all" : "We have a list of all items in Fortnite: Battle Royale. You can search or filter through them on a dedicated page, [here](/list).",
             "button-all" : "View all items &rarr;",
             "title-news" : "Recent [fortnitenews.com](https://fortnitenews.com|newtab=true) articles",
@@ -140,7 +140,7 @@
                 "type" : "Type d'Item",
                 "rarity" : "Rareté",
                 "season" : "Saison",
-                "apply" : "Apply &rarr;",
+                "apply" : "Appliquer &rarr;",
                 "sort" : {
                     "heading" : "Filtrer par",
                     "release" : "Date de sortie",
@@ -166,7 +166,7 @@
                 "filter-start" : "Montrer [result]",
                 "filter-end" : "filtrer par [filters]",
                 "no-results" : "Aucun résultats ne correspond à ces filtres.",
-                "error-down-title" : "Cosmetics browser not available right now",
+                "error-down-title" : "Le navigateur de cosmétique n'est pas disponible.",
                 "error-down-text" : "Impossible de se connecter aux serveurs de recherche",
                 "error-misc-title" : "Ne peux compléter la recherche",
                 "error-timeout" : "La requête a échoué",
