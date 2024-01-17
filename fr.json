@@ -124,10 +124,10 @@
             "error-trending" : "Unable to load trending items right now<br />Please try again in a few moments.",
             "button-trending" : "View more trending items &rarr;",
             "title-all" : "Tout les Items",
-            "line1-all" : "We have a list of all items in Fortnite: Battle Royale. You can search or filter through them on a dedicated page, [here](/list).",
+            "line1-all" : "Sur fnbr.co tout les items de Fortnite: Battle Royale sont disponibles. Vous pouvez recherchez ou les filtrez sur leurs pages dédiés, [here](/list).",
             "button-all" : "View all items &rarr;",
             "title-news" : "Recent [fortnitenews.com](https://fortnitenews.com|newtab=true) articles",
-            "title-ingame" : "In-game News Feed"
+            "title-ingame" : "Nouveautés et annonces du jeu"
         },
         "filter" : {
             "title" : "Cosmetics",
