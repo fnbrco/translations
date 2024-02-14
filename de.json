@@ -56,7 +56,7 @@
                 "uncommon" : "Ungewöhnlich",
                 "common" : "Gewöhnlich"
             },
-            "translationNotAvailable" : "Leider ist für diese Seite keine Übersetzung verfügbar.",
+            "translationNotAvailable" : "Für diese Seite ist keine Übersetzung Verfügbar",
             "translationIncomplete" : "Nicht alle Texte auf dieser Seite sind übersetzt",
             "item-noun" : {
                 "singular" : "Gegenstand",
@@ -100,10 +100,10 @@
             "languagePicker" : {
                 "trigger" : "Sprache",
                 "title" : "Sprache auswählen",
-                "currentLanguage" : "Du verwendest derzeit [language]",
+                "currentLanguage" : "Du verwendest derzeit die Sprache [language]",
                 "error" : "Fehler beim Herunterladen der Sprachdatei",
-                "authors" : "Übersetzt von:",
-                "cta" : "Klicke hier, um zu [language] zu wechseln",
+                "authors" : "Übersetzt von: derju0 [info@eternal5.de]",
+                "cta" : "Klicke hier, um zur Sprache [language] zu wechseln",
                 "switching" : "Lade [language] herunter...",
                 "finished" : "Deine Sprache wurde geändert!"
             }
@@ -112,10 +112,10 @@
             "title-welcome" : "Willkommen",
             "line1-welcome" : "fnbr.co ist ein inoffizielles Kosmetikverzeichnis für Fortnite: Battle Royale.",
             "line2-welcome" : "Sieh dir den [aktuellen Item-Shop](/shop), eine Liste [aller verfügbaren Kosmetika](/cosmetics) und mehr an.",
-            "title-countdown" : "Zurücksetzung des Item-Shops:",
+            "title-countdown" : "Zurücksetzung des Item-Shops in:",
             "link-countdown" : "Item-Shop ansehen &rarr;",
             "title-upcoming" : "Unveröffentlichte Gegenstände",
-            "line1-upcoming" : "Die folgenden Gegenstände wurden kürzlich zu den Spieldateien hinzugefügt.",
+            "line1-upcoming" : "Die folgenden Gegenstände wurden kürzlich zum Spiel hinzugefügt.",
             "line2-upcoming" : "Sie sind zwar noch nicht zwangsläufig veröffentlicht, sollten aber in einem zukünftigen Update erscheinen.",
             "error-upcoming" : "Unveröffentlichte Gegenstände können im Moment nicht geladen werden<br />Bitte versuche es in einigen Augenblicken erneut",
             "button-upcoming" : "Alle unveröffentlichten Gegenstände ansehen &rarr;",
@@ -127,7 +127,7 @@
             "line1-all" : "Wir haben eine Liste mit allen Gegenständen in Fortnite: Battle Royale. Du kannst sie auf einer speziellen Seite [hier](/liste) suchen oder filtern.",
             "button-all" : "Alle Gegenstände ansehen &rarr;",
             "title-news" : "Neueste Artikel von [fortnitenews.com](https://fortnitenews.com|newtab=true)",
-            "title-ingame" : "Neuigkeiten-Feed im Spiel"
+            "title-ingame" : "Neuigkeiten im Spiel"
         },
         "filter" : {
             "title" : "Kosmetika",
@@ -142,7 +142,7 @@
                 "season" : "Saison",
                 "apply" : "Anwenden &rarr;",
                 "sort" : {
-                    "heading" : "Sortiere nach",
+                    "heading" : "Sortieren nach",
                     "release" : "Veröffentlichungsdatum",
                     "occurrences" : "Vorkommnisse",
                     "seen" : "Zuletzt gesehen",
@@ -174,10 +174,10 @@
             }
         },
         "shop" : {
-            "title" : "Aktuelle Rotation",
+            "title" : "Aktueller Shop",
             "title-featured" : "Vorgestellte Gegenstände",
             "title-daily" : "Tägliche Gegenstände",
-            "error" : "Shop nicht verfügbar, bitte versuche es in wenigen Augenblicken noch einmal",
+            "error" : "Shop ist nicht verfügbar, bitte versuche es in wenigen Augenblicken noch einmal",
             "line1" : "Die aktuelle Item-Shop-Rotation für Fortnite Battle Royale - aktualisiert täglich um [00:00 UTC](https://time.is/UTC|tooltip=Aktuelle Zeit in UTC|newtab=true).",
             "line2" : "Du kannst den gestrigen Item-Shop [hier](/shop/yesterday|tooltip=Gestriger Item-Shop) sehen.",
             "line3" : "Klicke auf eine Kosmetik, um mehr über diese zu erfahren. Teile deine Meinung zu diesem Shop, indem du unten auf dieser Seite darüber abstimmst.",
@@ -188,7 +188,7 @@
                 "hours-plural" : "Stunden"
             },
             "yesterday" : {
-                "title" : "Gestrige Shop-Rotation"
+                "title" : "Gestriger Item Shop"
             },
             "vote" : {
                 "title" : "Was hältst du von diesem Shop?",
@@ -218,12 +218,12 @@
         },
         "history" : {
             "list" : {
-                "title" : "Item-Shop-Historie",
-                "line1" : "Hier sind frühere Item-Shop-Rotationen für Fortnite: Battle Royale zu sehen.",
+                "title" : "Item-Shop Historie",
+                "line1" : "Hier sind frühere Item-Shop Accessoires für Fortnite: Battle Royale zu sehen.",
                 "line2" : "Klicke auf einen Item-Shop, um ihn komplett anzusehen, oder scrolle, um weitere Item-Shop-Historien nach Tag sortiert anzusehen."
             },
             "view" : {
-                "title" : "Shop-Rotation",
+                "title" : "Item Shop",
                 "line1" : "Dies ist die Item-Shop-Rotation vom [date] für Fortnite Battle Royale.",
                 "line2" : "Klicke auf eine Kosmetik, um mehr über diese zu erfahren.",
                 "today-button" : "Heutiger Item-Shop"
@@ -245,7 +245,7 @@
             "unreleased" : "Nicht veröffentlicht",
             "description" : "Beschreibung",
             "history" : {
-                "title" : "Shop-Historie",
+                "title" : "Shop- Historie",
                 "release-never" : "Erscheinungsdatum: Nie",
                 "release-date" : "Erscheinungsdatum:",
                 "last-never" : "Zuletzt gesehen: Nie",
@@ -298,7 +298,7 @@
                 },
                 "destroy" : {
                     "title" : "Konto löschen",
-                    "line1" : "Wenn du dein Konto nicht mehr willst, kannst du es und all seine Daten [hier](/account/destroy) löschen"
+                    "line1" : "Wenn du dein Konto nicht mehr willst, kannst du es und all deine Daten [hier](/account/destroy) löschen"
                 }
             },
             "oauth" : {
