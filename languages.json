@@ -94,6 +94,13 @@
             "outdated" : true
         },
         {
+            "name": "עברית",
+            "code": "he",
+            "flag": "il",
+            "live": true,
+            "authors" : ["RealA10N#1909"]
+        },
+        {
             "name": "Turkish",
             "code": "tr",
             "flag": "tr",
