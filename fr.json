@@ -115,7 +115,7 @@
             "title-countdown" : "Réinitialisation Boutique d'objets:",
             "link-countdown" : "Voir la Boutique d'objets &rarr;",
             "title-upcoming" : "Objets À Venir",
-            "line1-upcoming" : "L'objet suivant a été récemment ajouté aux fichiers du jeu.",
+            "line1-upcoming" : "Les objets suivant ont été récemment ajoutés aux fichiers du jeu.",
             "line2-upcoming" : "Bien qu'ils ne soient pas encore publiés, ils devraient l'être à l'avenir.",
             "error-upcoming" : "Impossible de charger les objets à venir pour l'instant<br />Merci de retenter prochainement",
             "button-upcoming" : "Voir les objets non sortis &rarr;",
@@ -126,7 +126,7 @@
             "title-all" : "Tout les objets",
             "line1-all" : "Nous avons une liste de tout les objets dans Fortnite: Battle Royale. Vous pouvez faire une recherche ou filtrer sur une page dédié, [ici](/list).",
             "button-all" : "Voir tout les objets &rarr;",
-            "title-news" : "Récent [fortnitenews.com](https://fortnitenews.com|newtab=true) articles",
+            "title-news" : "Récents [fortnitenews.com](https://fortnitenews.com|newtab=true) articles",
             "title-ingame" : "Actus du jeu"
         },
         "filter" : {
